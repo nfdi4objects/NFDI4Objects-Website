@@ -37,7 +37,7 @@ right offer for your needs.
 
             {% if service.logo %}
             <div class="card-image">
-              <img src="{{ service.logo }}" alt="{{ service.title }}" />
+              <img src="{{ service.logo | relative_url }}" alt="{{ service.title }}" />
             </div>
             {% endif %}
 

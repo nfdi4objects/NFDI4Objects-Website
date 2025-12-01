@@ -39,7 +39,7 @@ passende Angebot für Ihre Bedürfnisse zu finden.
 
             {% if service.logo %}
             <div class="card-image">
-              <img src="{{ service.logo }}" alt="{{ service.title }}" />
+              <img src="{{ service.logo | relative_url }}" alt="{{ service.title }}" />
             </div>
             {% endif %}
 
