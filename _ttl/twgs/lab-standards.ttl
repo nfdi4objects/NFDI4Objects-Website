@@ -1,0 +1,11 @@
+---
+# ============================================
+# POINTER-TTL für TWG Lab Standards
+# ============================================
+# Alle Daten werden automatisch aus der Markdown-Datei gelesen.
+# Siehe: _twgs/de/lab-standards.md
+
+layout: twg-ttl
+permalink: /twgs/lab-standards/index.ttl
+source: twg-lab-standards  # Muss mit translation_key der MD-Datei übereinstimmen!
+---

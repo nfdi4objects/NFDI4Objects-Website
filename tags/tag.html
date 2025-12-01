@@ -1,0 +1,42 @@
+---
+layout: n4o-base
+---
+
+{% assign current_tag = page.url | split: '/' | last | replace: '-', ' ' %}
+<h1>Beiträge mit dem Tag "{{ current_tag }}"</h1>
+
+{% assign tagged_pages = site.pages | where_exp: "p", "p.tags_de contains current_tag" %}
+{% assign persons = tagged_pages | where: "collection", "persons" %}
+{% assign areas = tagged_pages | where_exp: "p", "p.url contains '/areas/'" %}
+{% assign other = tagged_pages | where_exp: "p", "p.collection == nil and p.layout != 'tag'" %}
+
+{% if persons.size > 0 %}
+  <h2>Personen</h2>
+  <ul>
+  {% for p in persons %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% endfor %}
+  </ul>
+{% endif %}
+
+{% if areas.size > 0 %}
+  <h2>Bereiche / Arbeitsgruppen</h2>
+  <ul>
+  {% for p in areas %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% endfor %}
+  </ul>
+{% endif %}
+
+{% if other.size > 0 %}
+  <h2>Weitere Inhalte</h2>
+  <ul>
+  {% for p in other %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% endfor %}
+  </ul>
+{% endif %}
+
+{% if tagged_pages.size == 0 %}
+  <p>Keine Inhalte mit diesem Tag gefunden.</p>
+{% endif %}

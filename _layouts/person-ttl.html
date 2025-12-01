@@ -1,0 +1,80 @@
+---
+layout: null
+---
+{%- comment -%}
+POINTER-SYSTEM: Dieses Layout liest Daten aus der Markdown-Datei
+Unterstützt zwei Modi:
+1. Legacy-Modus: Daten direkt im TTL-Frontmatter (page.*)
+2. Pointer-Modus: Verweis auf MD-Datei (page.source)
+{%- endcomment -%}
+
+{%- if page.source -%}
+  {%- comment -%}Pointer-Modus: Lade Daten aus der referenzierten MD-Datei{%- endcomment -%}
+  {%- assign person = site.persons | where: "translation_key", page.source | first -%}
+{%- else -%}
+  {%- comment -%}Legacy-Modus: Nutze Daten aus TTL-Frontmatter direkt{%- endcomment -%}
+  {%- assign person = page -%}
+{%- endif -%}
+
+{%- assign person_id = person.translation_key | remove: "person-" | replace: "-", "_" -%}
+
+{%- comment -%}Extrahiere Vor- und Nachname aus title, falls nicht explizit angegeben{%- endcomment -%}
+{%- assign name_parts = person.title | split: " " -%}
+{%- if person.firstname -%}
+  {%- assign firstname = person.firstname -%}
+{%- else -%}
+  {%- assign firstname = name_parts | first -%}
+{%- endif -%}
+{%- if person.lastname -%}
+  {%- assign lastname = person.lastname -%}
+{%- else -%}
+  {%- assign lastname = name_parts | last -%}
+{%- endif -%}
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix locn: <http://www.w3.org/ns/locn#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix schema: <http://schema.org/> .
+@prefix sdo: <https://schema.org/> .
+@prefix nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#> .
+@prefix n4o: <https://nfdi4objects.net/ontology#> .
+
+<https://nfdi4objects.net/persons/{{ person_id }}/{{ person_id }}>
+    rdf:type nfdicore:Person ;
+    foaf:name "{{ person.title }}" ;
+    {%- if person.title %}
+    skos:prefLabel "{{ person.title }}"@en ;
+    skos:prefLabel "{{ person.title }}"@de ;
+    {%- endif %}
+    foaf:givenName "{{ firstname }}" ;
+    foaf:familyName "{{ lastname }}" ;
+    {%- if person.orcid %}
+    n4o:orcidId "{{ person.orcid }}" ;
+    {%- endif %}
+    {%- if person.position %}
+    n4o:position "{{ person.position }}" ;
+    {%- endif %}
+    {%- if person.institution %}
+    n4o:affiliation "{{ person.institution }}" ;
+    {%- endif %}
+    {%- if person.image %}
+    foaf:img "{{ person.image }}" ;
+    {%- endif %}
+    {%- if person.groups %}
+    {%- for group in person.groups %}
+    n4o:memberOf "{{ group }}" ;
+    {%- endfor %}
+    {%- endif %}
+    {%- if person.areas %}
+    {%- for area in person.areas %}
+    n4o:worksIn <https://nfdi4objects.net/areas/{{ area }}/{{ area }}> ;
+    {%- endfor %}
+    {%- endif %}
+    dcterms:isPartOf <https://nfdi4objects.net> .

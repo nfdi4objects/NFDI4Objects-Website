@@ -1,0 +1,361 @@
+{% comment %}
+Breadcrumb-Navigation für Jekyll-Seiten.
+Unterstützt:
+- Mehrsprachigkeit (de / en)
+- Navigation aus _data/navigation-[lang].yml
+- Collections (areas, news, persons)
+- Dropdown-Elemente (#)
+{% endcomment %}
+
+{% assign lang = page.lang | default: "de" %}
+{% assign current_url = page.url %}
+{% assign found = false %}
+{% assign parent_title = "" %}
+{% assign parent_url = "" %}
+{% assign grandparent_title = "" %}
+{% assign grandparent_url = "" %}
+{% assign collection_parent_title = "" %}
+{% assign collection_parent_url = "" %}
+{% assign breadcrumbs = "" | split: "" %}
+
+{%- comment -%} Sprachabhängige Labels {%- endcomment -%}
+{% if lang == "en" %}
+  {% assign navitems = site.data.en.navigation.main %}
+  {% assign home_label = "Home" %}
+  {% assign home_url = "/en/" %}
+{% else %}
+  {% assign navitems = site.data.de.navigation.main %}
+  {% assign home_label = "Startseite" %}
+  {% assign home_url = "/" %}
+{% endif %}
+
+{%- comment -%} Startseite {%- endcomment -%}
+{% assign home_item = "" | split: "" | push: home_label | push: home_url %}
+{% assign breadcrumbs = breadcrumbs | push: home_item %}
+
+{%- comment -%} Collection-Infos vorbereiten {%- endcomment -%}
+{% if page.collection %}
+  {% if page.collection == "areas" %}
+    {% if lang == "en" %}
+      {% assign collection_label = "Task Areas" %}
+      {% assign collection_index = "/en/areas/" %}
+    {% else %}
+      {% assign collection_label = "Struktur & Arbeitsbereiche" %}
+      {% assign collection_index = "/areas/" %}
+    {% endif %}
+  {% elsif page.collection == "news" %}
+    {% if lang == "en" %}
+      {% assign collection_label = "News" %}
+      {% assign collection_index = "/en/news/" %}
+    {% else %}
+      {% assign collection_label = "Aktuelles" %}
+      {% assign collection_index = "/news/" %}
+    {% endif %}
+  {% elsif page.collection == "persons" %}
+    {% if lang == "en" %}
+      {% assign collection_label = "People" %}
+      {% assign collection_index = "/en/persons/" %}
+    {% else %}
+      {% assign collection_label = "Personen" %}
+      {% assign collection_index = "/persons/" %}
+    {% endif %}
+  {% elsif page.collection == "trails" %}
+    {% if lang == "en" %}
+      {% assign collection_label = "TRAILS" %}
+      {% assign collection_index = "/en/community/groups-networks/trails/" %}
+      {% assign collection_category = "Community" %}
+      {% assign collection_category_url = "#" %}
+      {% assign collection_subcategory = "Groups & Networks" %}
+      {% assign collection_subcategory_url = "/en/community/groups-networks/" %}
+    {% else %}
+      {% assign collection_label = "TRAILS" %}
+      {% assign collection_index = "/community/groups-networks/trails/" %}
+      {% assign collection_category = "Community" %}
+      {% assign collection_category_url = "#" %}
+      {% assign collection_subcategory = "Fachgruppen & Netzwerke" %}
+      {% assign collection_subcategory_url = "/community/groups-networks/" %}
+    {% endif %}
+  {% elsif page.collection == "ccs" %}
+    {% if lang == "en" %}
+      {% assign collection_label = "Community Clusters" %}
+      {% assign collection_index = "/en/ccs/" %}
+      {% assign collection_category = "Community" %}
+      {% assign collection_category_url = "#" %}
+      {% assign collection_subcategory = "Groups & Networks" %}
+      {% assign collection_subcategory_url = "/en/community/groups-networks/" %}
+    {% else %}
+      {% assign collection_label = "Community Cluster" %}
+      {% assign collection_index = "/ccs/" %}
+      {% assign collection_category = "Community" %}
+      {% assign collection_category_url = "#" %}
+      {% assign collection_subcategory = "Fachgruppen & Netzwerke" %}
+      {% assign collection_subcategory_url = "/community/groups-networks/" %}
+    {% endif %}
+  {% elsif page.collection == "twgs" %}
+    {% if lang == "en" %}
+      {% assign collection_label = "Temporary Working Groups" %}
+      {% assign collection_index = "/en/twgs/" %}
+      {% assign collection_category = "Community" %}
+      {% assign collection_category_url = "#" %}
+      {% assign collection_subcategory = "Temporary Working Groups" %}
+      {% assign collection_subcategory_url = "/en/community/twgs/" %}
+    {% else %}
+      {% assign collection_label = "TWGs" %}
+      {% assign collection_index = "/twgs/" %}
+      {% assign collection_category = "Community" %}
+      {% assign collection_category_url = "#" %}
+      {% assign collection_subcategory = "Temporäre Arbeitsgruppen" %}
+      {% assign collection_subcategory_url = "/community/twgs/" %}
+    {% endif %}
+  {% elsif page.collection == "events" %}
+    {% if lang == "en" %}
+      {% assign collection_label = "Events" %}
+      {% assign collection_index = "/en/community/events/" %}
+      {% assign collection_category = "Community" %}
+      {% assign collection_category_url = "#" %}
+    {% else %}
+      {% assign collection_label = "Veranstaltungen" %}
+      {% assign collection_index = "/community/events/" %}
+      {% assign collection_category = "Community" %}
+      {% assign collection_category_url = "#" %}
+    {% endif %}
+  {% elsif page.collection == "services" %}
+    {% if lang == "en" %}
+      {% assign collection_category = "Services" %}
+      {% assign collection_category_url = "#" %}
+    {% else %}
+      {% assign collection_category = "Angebote" %}
+      {% assign collection_category_url = "#" %}
+    {% endif %}
+    {%- comment -%} Lifecycle-Phase aus Front Matter für Breadcrumb {%- endcomment -%}
+    {% if page.lifecycle_phases and page.lifecycle_phases.size > 0 %}
+      {% assign first_phase = page.lifecycle_phases | first %}
+      {% for phase in site.data.service_categories.lifecycle_phases %}
+        {% if phase.id == first_phase %}
+          {% if lang == "en" %}
+            {% assign collection_subcategory = phase.name_en %}
+            {% assign collection_subcategory_url = phase.url_en %}
+          {% else %}
+            {% assign collection_subcategory = phase.name_de %}
+            {% assign collection_subcategory_url = phase.url_de %}
+          {% endif %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endif %}
+{% endif %}
+
+{%- comment -%} Navigation durchsuchen {%- endcomment -%}
+{% for item in navitems %}
+  {% if found %}{% break %}{% endif %}
+
+  {%- comment -%} Prüfe ob aktuelle Seite direkt im Menü {%- endcomment -%}
+  {% if item.url == current_url %}
+    {% assign found = true %}
+    {% break %}
+  {% endif %}
+
+  {%- comment -%} Prüfe Children {%- endcomment -%}
+  {% if item.children %}
+    {% for child in item.children %}
+      {%- comment -%} Ist die aktuelle Seite ein Child? {%- endcomment -%}
+      {% if child.url == current_url %}
+        {% assign parent_title = item.title %}
+        {% assign parent_url = item.url %}
+        {% assign found = true %}
+        {% break %}
+      {% endif %}
+
+      {%- comment -%} Ist die Collection-Index-Seite ein Child? {%- endcomment -%}
+      {% if page.collection and child.url == collection_index %}
+        {% assign collection_parent_title = item.title %}
+        {% assign collection_parent_url = item.url %}
+      {% endif %}
+
+      {%- comment -%} Prüfe Grandchildren (verschachtelte Dropdowns) {%- endcomment -%}
+      {% if child.children %}
+        {% for grandchild in child.children %}
+          {%- comment -%} Ist die aktuelle Seite ein Grandchild? {%- endcomment -%}
+          {% if grandchild.url == current_url %}
+            {% assign grandparent_title = item.title %}
+            {% assign grandparent_url = item.url %}
+            {% assign parent_title = child.title %}
+            {% assign parent_url = child.url %}
+            {% assign found = true %}
+            {% break %}
+          {% endif %}
+
+          {%- comment -%} Ist die Collection-Index-Seite ein Grandchild? {%- endcomment -%}
+          {% if page.collection and grandchild.url == collection_index %}
+            {% assign collection_parent_title = child.title %}
+            {% assign collection_parent_url = child.url %}
+            {% assign grandparent_title = item.title %}
+            {% assign grandparent_url = item.url %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{%- comment -%} Breadcrumb aufbauen {%- endcomment -%}
+
+{%- comment -%} 1. Grandparent (oberste Ebene, z.B. "NFDI4Objects") {%- endcomment -%}
+{% if grandparent_title != "" %}
+  {% assign grandparent_item = "" | split: "" | push: grandparent_title | push: grandparent_url %}
+  {% assign breadcrumbs = breadcrumbs | push: grandparent_item %}
+{% endif %}
+
+{%- comment -%} 1b. Collection Grandcategory (für trails: "Angebote") {%- endcomment -%}
+{% if collection_grandcategory and collection_grandcategory != "" %}
+  {% assign grandcategory_item = "" | split: "" | push: collection_grandcategory | push: collection_grandcategory_url %}
+  {% assign breadcrumbs = breadcrumbs | push: grandcategory_item %}
+{% endif %}
+
+{%- comment -%} 2. Collection Category (für trails, ccs und twgs) ODER Collection Parent ODER regulärer Parent {%- endcomment -%}
+{% if collection_category and collection_category != "" %}
+  {% assign category_item = "" | split: "" | push: collection_category | push: collection_category_url %}
+  {% assign breadcrumbs = breadcrumbs | push: category_item %}
+{% elsif collection_parent_title != "" %}
+  {% assign collection_parent_item = "" | split: "" | push: collection_parent_title | push: collection_parent_url %}
+  {% assign breadcrumbs = breadcrumbs | push: collection_parent_item %}
+{% elsif parent_title != "" %}
+  {% assign parent_item = "" | split: "" | push: parent_title | push: parent_url %}
+  {% assign breadcrumbs = breadcrumbs | push: parent_item %}
+{% endif %}
+
+{%- comment -%} 2b. Collection Subcategory (für trails, ccs und twgs) {%- endcomment -%}
+{% if collection_subcategory and collection_subcategory != "" %}
+  {% assign subcategory_item = "" | split: "" | push: collection_subcategory | push: collection_subcategory_url %}
+  {% assign breadcrumbs = breadcrumbs | push: subcategory_item %}
+{% endif %}
+
+{%- comment -%} 3. Collection-Index (Task Areas, Personen, TRAILS, Community Clusters, etc.) - nur wenn nicht die Index-Seite selbst {%- endcomment -%}
+{% if page.collection and collection_label and current_url != collection_index %}
+  {% assign collection_item = "" | split: "" | push: collection_label | push: collection_index %}
+  {% assign breadcrumbs = breadcrumbs | push: collection_item %}
+{% endif %}
+
+{%- comment -%} 4. URL-basierte Zwischenebenen (für tiefe Hierarchien wie /services/development/infrastruktur/) {%- endcomment -%}
+{%- comment -%} Nur für normale Seiten, nicht für spezielle Collections wie areas, news, persons, trails, twgs, ccs, events {%- endcomment -%}
+{% assign special_collections = "areas,news,persons,trails,twgs,ccs,events" | split: "," %}
+{% assign is_special_collection = false %}
+{% for col in special_collections %}
+  {% if page.collection == col %}
+    {% assign is_special_collection = true %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% unless is_special_collection %}
+  {% assign url_parts = current_url | split: "/" %}
+  {% if lang == "en" %}
+    {% assign path_so_far = "/en" %}
+  {% else %}
+    {% assign path_so_far = "" %}
+  {% endif %}
+  {% assign intermediate_pages = "" | split: "" %}
+
+  {% for part in url_parts %}
+    {% if part != "" and part != lang %}
+      {% assign path_so_far = path_so_far | append: "/" | append: part %}
+      {% assign check_url = path_so_far | append: "/" %}
+
+      {%- comment -%} Nur Zwischenseiten hinzufügen, nicht die aktuelle Seite und nicht die bereits in Breadcrumb vorhandenen {%- endcomment -%}
+      {% if check_url != current_url %}
+        {%- comment -%} Prüfe ob diese URL bereits im Breadcrumb ist {%- endcomment -%}
+        {% assign already_in_breadcrumb = false %}
+        {% for existing_crumb in breadcrumbs %}
+          {% if existing_crumb[1] == check_url %}
+            {% assign already_in_breadcrumb = true %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+
+        {%- comment -%} Nur hinzufügen wenn noch nicht vorhanden {%- endcomment -%}
+        {% unless already_in_breadcrumb %}
+          {%- comment -%} Suche nach der Seite mit diesem Permalink {%- endcomment -%}
+          {% for site_page in site.pages %}
+            {% if site_page.permalink == check_url and site_page.lang == lang %}
+              {% assign intermediate_item = "" | split: "" | push: site_page.title | push: check_url %}
+              {% assign intermediate_pages = intermediate_pages | push: intermediate_item %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endunless %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {%- comment -%} Prüfe ob eine der Zwischenseiten in der Navigation ist und finde deren Parent {%- endcomment -%}
+  {% if intermediate_pages.size > 0 and parent_title == "" %}
+    {% assign first_intermediate_url = intermediate_pages[0][1] %}
+    {% for item in navitems %}
+      {% if item.children %}
+        {% for child in item.children %}
+          {% if child.url == first_intermediate_url %}
+            {% assign parent_title = item.title %}
+            {% assign parent_url = item.url %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      {% if parent_title != "" %}{% break %}{% endif %}
+    {% endfor %}
+
+    {%- comment -%} Füge Parent hinzu wenn gefunden {%- endcomment -%}
+    {% if parent_title != "" %}
+      {% assign parent_item = "" | split: "" | push: parent_title | push: parent_url %}
+      {% assign breadcrumbs = breadcrumbs | push: parent_item %}
+    {% endif %}
+  {% endif %}
+
+  {%- comment -%} Füge Zwischenseiten in Breadcrumb ein {%- endcomment -%}
+  {% for intermediate in intermediate_pages %}
+    {% assign breadcrumbs = breadcrumbs | push: intermediate %}
+  {% endfor %}
+{% endunless %}
+
+{%- comment -%} 5. Aktuelle Seite {%- endcomment -%}
+{% assign current_item = "" | split: "" | push: page.title | push: current_url %}
+{% assign breadcrumbs = breadcrumbs | push: current_item %}
+
+{%- comment -%} Ausgabe {%- endcomment -%}
+{% if breadcrumbs.size > 1 %}
+<nav class="breadcrumb-nav" aria-label="{% if lang == 'en' %}Breadcrumb{% else %}Brotkrümelnavigation{% endif %}">
+  <ol class="breadcrumb">
+    {% for crumb in breadcrumbs %}
+      {% assign title = crumb[0] %}
+      {% assign url = crumb[1] %}
+      {% assign is_last = forloop.last %}
+
+      <li class="breadcrumb-item{% if is_last %} active{% endif %}">
+        {% if is_last %}
+          <span aria-current="page">{{ title }}</span>
+        {% elsif url == "#" or url == "" %}
+          <span>{{ title }}</span>
+        {% else %}
+          <a href="{{ url | relative_url }}">{{ title }}</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ol>
+</nav>
+{% endif %}
+
+<!-- {%- comment -%} Debug (nur bei jekyll serve) {%- endcomment -%}
+{% if jekyll.environment == "development" %}
+  <pre class="debug" style="font-size:0.8em;opacity:0.6;">
+DEBUG breadcrumbs:
+{{ breadcrumbs | jsonify }}
+Current URL: {{ current_url }}
+Collection Index: {{ collection_index }}
+Grandparent: {{ grandparent_title }} ({{ grandparent_url }})
+Parent: {{ parent_title }} ({{ parent_url }})
+Collection Parent: {{ collection_parent_title }} ({{ collection_parent_url }})
+Found: {{ found }}
+Collection: {{ page.collection }}
+Lang: {{ lang }}
+  </pre>
+{% endif %} -->

@@ -1,0 +1,10 @@
+---
+layout: organisation-group-ttl
+permalink: /about/organisation/advisory/index.ttl
+group: advisory_board
+lang: de
+title_de: "Wissenschaftlicher Beirat"
+title_en: "Advisory Board"
+description_de: "Der wissenschaftliche Beirat berät NFDI4Objects in fachlichen Fragen"
+description_en: "The Advisory Board advises NFDI4Objects on professional matters"
+---

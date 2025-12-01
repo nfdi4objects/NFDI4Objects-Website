@@ -1,0 +1,10 @@
+---
+layout: organisation-group-ttl
+permalink: /about/people/members/index.ttl
+group: co_applicants
+lang: de
+title_de: "Konsortialmitglieder"
+title_en: "Consortium Members"
+description_de: "Alle Institutionen und Personen des NFDI4Objects-Konsortiums"
+description_en: "All institutions and persons of the NFDI4Objects consortium"
+---

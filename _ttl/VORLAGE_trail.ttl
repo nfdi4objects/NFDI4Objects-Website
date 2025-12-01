@@ -1,0 +1,23 @@
+---
+# ============================================
+# VORLAGE: POINTER-TTL für neuen Trail
+# ============================================
+#
+# ANLEITUNG:
+# 1. Kopieren Sie diese Datei nach _ttl/trails/trail-name.ttl
+# 2. Kopieren Sie 'permalink' an (muss mit Dateinamen übereinstimmen)
+# 3. Passen Sie 'source' an (muss mit translation_key der MD-Datei übereinstimmen)
+# 4. Alle Daten werden automatisch aus der MD-Datei gelesen
+#
+# WICHTIG:
+# - Sie müssen nur die Markdown-Datei in _trails/de/ pflegen
+# - Diese TTL-Datei ist ein "Pointer" und bleibt minimalistisch
+# - Keine Duplikation von Daten.
+#
+# Siehe REDAKTION_TTL_ANLEITUNG.md für Details!
+# ============================================
+
+layout: trail-ttl
+permalink: /trails/TRAIL-NAME/index.ttl
+source: trail-trail-name  # WICHTIG: Muss mit translation_key der MD-Datei übereinstimmen!
+---

@@ -1,0 +1,58 @@
+---
+layout: n4o-base
+---
+
+<main id="main-content" class="area">
+  <div class="container">
+    {% include breadcrumb.html %}
+
+    <article class="area-content">
+      <header class="area-header">
+        <h1 class="focus-ring focus-white"><span>{{ page.title }}</span></h1>
+
+        {% if page.short_title %}
+        <p class="area-subtitle section-intro">{{ page.short_title }}</p>
+        {% endif %}
+
+        <div class="area-meta">
+<!--           {% if page.order %}
+          <span class="area-number">Task Area {{ page.order }}</span>
+          {% endif %} -->
+
+          {% if page.status %}
+          <span class="area-status area-status--{{ page.status }}">
+            {% if page.lang == "en" %}
+              {% case page.status %}
+                {% when "active" %}Active
+                {% when "completed" %}Completed
+                {% when "planned" %}Planned
+              {% endcase %}
+            {% else %}
+              {% case page.status %}
+                {% when "active" %}Aktiv
+                {% when "completed" %}Abgeschlossen
+                {% when "planned" %}Geplant
+              {% endcase %}
+            {% endif %}
+          </span>
+          {% endif %}
+
+          {% if page.start_date %}
+          <span class="area-date">
+            <i class="fas fa-calendar-days"></i> {{ page.start_date | date: "%d.%m.%Y" }}
+            {% if page.end_date %} - {{ page.end_date | date: "%d.%m.%Y" }}{% endif %}
+          </span>
+          {% endif %}
+        </div>
+      </header>
+
+      {% comment %} Hauptinhalt {% endcomment %}
+      <div class="area-body">
+        {{ content }}
+      </div>
+
+      {% comment %} Dynamische Inhalte {% endcomment %}
+      {% include dynamic-content.html %}
+    </article>
+  </div>
+</main>

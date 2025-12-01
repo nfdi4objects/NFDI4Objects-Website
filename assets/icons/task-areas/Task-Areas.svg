@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Task-Areas" viewBox="0 0 2476.977 2463.804">
+  <defs>
+    <style>
+      .cls-1{font-family:PTSans-Regular,&quot;PT Sans&quot;;font-size:291.389px;fill:#182949}.cls-4{fill:none;stroke:#13294b;stroke-linecap:round;stroke-miterlimit:10;stroke-width:19px}.cls-5{letter-spacing:0}.cls-8{letter-spacing:.026em}
+    </style>
+  </defs>
+  <circle cx="1237.28" cy="1231.179" r="1156.551" style="fill:#fff"/>
+  <text class="cls-1" transform="translate(991.112 268.781)"><tspan x="0" y="0">T</tspan><tspan x="161.719" y="0" class="cls-8">A</tspan><tspan x="339.755" y="0">1</tspan></text>
+  <text class="cls-1" transform="translate(1688.991 2030.024)"><tspan x="0" y="0" class="cls-5">T</tspan><tspan x="161.428" y="0" class="cls-8">A</tspan><tspan x="339.464" y="0">4</tspan></text>
+  <text class="cls-1" transform="translate(1932.58 1324.75)"><tspan x="0" y="0" class="cls-5">T</tspan><tspan x="161.428" y="0" class="cls-8">A</tspan><tspan x="339.464" y="0">3</tspan></text>
+  <text class="cls-1" transform="translate(1783.102 710.029)"><tspan x="0" y="0" class="cls-5">T</tspan><tspan x="161.428" y="0" class="cls-8">A</tspan><tspan x="339.464" y="0">2</tspan></text>
+  <text class="cls-1" transform="translate(33.895 1323.579)"><tspan x="0" y="0">T</tspan><tspan x="161.719" y="0" class="cls-8">A</tspan><tspan x="339.755" y="0">6</tspan></text>
+  <text class="cls-1" transform="translate(294.98 2032.064)"><tspan x="0" y="0">T</tspan><tspan x="161.719" y="0" style="letter-spacing:.026em">A</tspan><tspan x="339.756" y="0">5</tspan></text>
+  <text class="cls-1" transform="translate(213.975 710.029)"><tspan x="0" y="0" style="letter-spacing:.019em">T</tspan><tspan x="167.255" y="0" style="letter-spacing:.046em">A</tspan><tspan x="351.119" y="0">7</tspan></text>
+  <path d="M1234.416 1730.246c277.836 0 503.07-225.234 503.07-503.07s-225.234-503.083-503.07-503.083-503.07 225.234-503.07 503.083 225.234 503.07 503.07 503.07ZM559.295 1229.022l664.921-.536M1234.525 1216.965V340.334M1244.623 1228.492l635.986.536" class="cls-4"/>
+  <path d="M1291.807 1228.492c0 31.768-25.414 57.514-56.787 57.514s-56.761-25.746-56.761-57.514 25.414-57.514 56.761-57.514 56.787 25.746 56.787 57.514" style="fill:#182949"/>
+  <path d="m693.037 687.252 533.345 532.593M1241.583 1235.049l526.086 526.839M702.062 1762.205l525.614-526.366M1243.54 1219.979l524.887-524.134M1234.525 2449.688V1235.84" class="cls-4"/>
+</svg>

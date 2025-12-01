@@ -1,0 +1,18 @@
+---
+layout: n4o-base
+---
+
+<main id="main-content" class="page">
+  <div class="container">
+   {% include breadcrumb.html %}
+   </div>
+  {% if page.sections %}
+    {% for section in page.sections %}
+      {% include blocks/{{ section.type }}.html section=section %}
+    {% endfor %}
+  {% else %}
+  <div class="container">
+    {{ content }}
+    </div>
+  {% endif %}
+</main>

@@ -1,0 +1,47 @@
+{%- comment -%}
+Coordinators/Co-Chairs List Component
+
+Zeigt Koordinatoren oder Co-Chairs mit optionalem Link zur Personen-Seite.
+
+Usage:
+{% include coordinators-list.html
+   coordinators=page.coordinators
+   title="Koordinatoren"
+   title_en="Coordinators"
+%}
+
+Parameters:
+- coordinators: Array von Koordinator-Objekten mit name, role, person_ref
+- title: Deutsche Überschrift (optional, default: "Koordinatoren")
+- title_en: Englische Überschrift (optional, default: "Coordinators")
+{%- endcomment -%}
+
+{%- assign current_lang = page.lang | default: "de" -%}
+{%- assign coords = include.coordinators -%}
+{%- assign title_de = include.title | default: "Koordinatoren" -%}
+{%- assign title_en = include.title_en | default: "Coordinators" -%}
+
+{%- if coords and coords.size > 0 -%}
+<section class="coordinators-list space-md">
+  <h3 class="arrow arrow-left">{% if current_lang == "en" %}{{ title_en }}{% else %}{{ title_de }}{% endif %}</h3>
+  <div class="coordinator-list">
+    {%- for coordinator in coords -%}
+    <div class="coordinator-card">
+      {%- if coordinator.person_ref -%}
+        {%- assign person = site.persons | where: "translation_key", coordinator.person_ref | where: "lang", current_lang | first -%}
+        {%- if person -%}
+          <strong><a href="{{ person.url | relative_url }}">{{ coordinator.name }}</a></strong>
+        {%- else -%}
+          <strong>{{ coordinator.name }}</strong>
+        {%- endif -%}
+      {%- else -%}
+        <strong>{{ coordinator.name }}</strong>
+      {%- endif -%}
+      {%- if coordinator.role -%}
+      <span class="coordinator-role"> ({{ coordinator.role }})</span>
+      {%- endif -%}
+    </div>
+    {%- endfor -%}
+  </div>
+</section>
+{%- endif -%}

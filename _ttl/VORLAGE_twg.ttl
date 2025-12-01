@@ -1,0 +1,23 @@
+---
+# ============================================
+# VORLAGE: POINTER-TTL für neue TWG
+# ============================================
+#
+# ANLEITUNG:
+# 1. Kopieren SieSie diese Datei nach _ttl/twgs/twg-name.ttl
+# 2. Passen Sien Sie 'permalink' an (muss mit Dateinamen übereinstimmen)
+# 3. Passen Sien Sie 'source' an (muss mit translation_key der MD-Datei übereinstimmen)
+# 4. Alle Daten werden automatisch aus der MD-Datei gelesen
+#
+# WICHTIG:
+# - Sie müssen NUR die Markdown-Datei in _twgs/de/ pflegen
+# - Diese TTL-Datei ist  ein "Pointer" und bleibt minimalistisch
+# - Keine Duplikation von Daten
+#
+# Siehe REDAKTION_TTL_ANLEITUNG.md für Details!
+# ============================================
+
+layout: twg-ttl
+permalink: /twgs/TWG-NAME/index.ttl
+source: twg-twg-name  # WICHTIG: Muss mit translation_key der MD-Datei übereinstimmen!
+---

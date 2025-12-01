@@ -1,0 +1,108 @@
+@use './variables' as *;
+
+.filter-buttons {
+  display: grid;  
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.filter-btn {
+  padding: 1rem;
+  background: white;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.3s;
+  &:hover {    
+    background: #fff9f0;
+    transform: translateY(-2px);
+  }
+   i {
+  display: block;
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  
+}
+}
+
+.category-tags {
+  display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  gap: 0.5rem;
+  i:before {
+    content: none;;
+  }
+}
+
+.category-tag {
+  cursor: pointer;
+  transition: all 0.2s;
+  
+}
+
+.category-tag:hover,
+.category-tag.active {
+  background: var(--color-blue);
+  color: var(--color-white);
+}
+
+.services-grid {
+  margin-top: 2rem;
+}
+
+.service-card {
+  transition: transform 0.2s;
+}
+
+.service-card:hover {
+  transform: translateY(-4px);
+}
+
+.card-image {
+  height: 150px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: white;
+  padding: 1rem;
+}
+
+.card-image img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.thematic-badges-small {
+  display: flex;
+  gap: 0.25rem;
+  margin: 0.5rem 0;
+}
+
+.badge-small {
+  padding: 0.25rem 0.5rem;
+  border-radius: 12px;
+  font-size: 0.875rem;
+  background: #e0e0e0;
+  color: #333;
+}
+
+.service-type-label {
+  font-size: 0.875rem;
+  color: #666;
+  margin: 0.5rem 0;
+}
+
+.service-provider {
+  color: #999;
+  margin-top: 0.5rem;
+}
+
+.no-results {
+  text-align: center;
+  padding: 3rem;
+  color: #999;
+}

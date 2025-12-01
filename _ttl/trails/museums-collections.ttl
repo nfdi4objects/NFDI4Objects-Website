@@ -1,0 +1,11 @@
+---
+# ============================================
+# POINTER-TTL für Trail Museums & Collections
+# ============================================
+# Alle Daten werden automatisch aus der Markdown-Datei gelesen.
+# Siehe: _trails/de/museums-collections.md
+
+layout: trail-ttl
+permalink: /trails/museums-collections/index.ttl
+source: trail-museums-collections  # Muss mit translation_key der MD-Datei übereinstimmen!
+---

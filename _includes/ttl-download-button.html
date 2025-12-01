@@ -1,0 +1,37 @@
+{%- comment -%}
+TTL Download Button Component (POINTER-SYSTEM kompatibel)
+
+Universeller Download-Button für TTL-Metadaten.
+Zeigt den Button nur an, wenn eine TTL-Datei existiert.
+
+Usage:
+{% include ttl-download-button.html %}
+
+Der Button verwendet automatisch page.translation_key um die TTL-Datei zu finden.
+{%- endcomment -%}
+
+{%- assign current_lang = page.lang | default: "de" -%}
+
+{%- comment -%} Suche nach TTL-Datei die entweder source= oder translation_key= dieser Seite hat {%- endcomment -%}
+{%- assign ttl_file = site.ttl | where: "source", page.translation_key | first -%}
+{%- unless ttl_file -%}
+  {%- comment -%} Fallback: Legacy-Modus (alte TTL-Dateien mit translation_key) {%- endcomment -%}
+  {%- assign ttl_file = site.ttl | where: "translation_key", page.translation_key | first -%}
+{%- endunless -%}
+
+{%- if ttl_file -%}
+<p class="space-t">
+  <a class="metadata-link btn btn-primary"
+     href="{{ ttl_file.url | relative_url }}"
+     download="{{ page.translation_key }}.ttl"
+     type="text/ttl"
+     target="_blank">
+    <i class="fa fa-download" aria-hidden="true"></i>
+    {%- if current_lang == "de" -%}
+      Metadaten als .ttl herunterladen
+    {%- else -%}
+      Download Metadata as .ttl
+    {%- endif -%}
+  </a>
+</p>
+{%- endif -%}

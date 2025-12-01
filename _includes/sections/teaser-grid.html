@@ -1,0 +1,66 @@
+<section class="{{ include.bg | default: 'bg-sand-light-img' }}">
+  <div class="container">
+    {% if include.title %}
+    <header class="{% if include.centered %}text-center{% endif %}">
+      {% if include.icon %}
+        <figure class="section-icon {% if include.icon_size %}{{ include.icon_size }}{% endif %}">
+          <img src="{{ include.icon | relative_url }}" alt="{{ include.icon_alt | default: include.title }}">
+        </figure>
+      {% endif %}
+      <h2 class="{% if include.focus %}focus-ring {{ include.focus }}{% endif %}">
+        <span>{{ include.title }}</span>
+      </h2>
+      {% if include.subtitle %}
+        <h3 class="section-intro">{{ include.subtitle }}</h3>
+      {% endif %}
+    </header>
+    {% endif %}
+
+    {% assign teaser_items = include.items %}
+    {% if teaser_items %}
+      <div class="col{{ include.columns | default: 3 }}-grid {% if include.centered %}text-center{% endif %}">
+        {% for item in teaser_items %}
+          <div class="card {{ item.bg | default: 'bg-sand' }}">
+            {% if item.image %}
+              <figure class="card-img">
+                <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title }}" width="190">
+              </figure>
+            {% elsif item.icon %}
+              <div class="card-icon">
+                <i class="{{ item.icon }}" aria-label="{{ item.icon_alt | default: item.title }}"></i>
+              </div>
+            {% endif %}
+
+            <h3>{{ item.title }}</h3>
+
+            {% if item.text %}
+              <p>
+                {% if item.text_url %}
+                  <a href="{{ item.text_url }}">{{ item.text }}</a>
+                {% else %}
+                  {{ item.text }}
+                {% endif %}
+              </p>
+            {% endif %}
+
+            {% if item.button %}
+              <div>
+                <a href="{{ item.url | default: '#' }}" class="btn {{ item.button_style | default: 'btn-outline' }}">
+                  {{ item.button }}
+                </a>
+              </div>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if include.section_button %}
+      <div class="text-center space-t">
+        <a href="{{ include.section_button.url | default: '#' }}" class="btn {{ include.section_button.style | default: 'btn-primary' }}">
+          {{ include.section_button.label }}
+        </a>
+      </div>
+    {% endif %}
+  </div>
+</section>

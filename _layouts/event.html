@@ -1,0 +1,173 @@
+---
+layout: n4o-base
+---
+<main id="main-content" class="bg-sand">
+<div class="container">
+  {% include breadcrumb.html %}
+</div>
+<section class="space-top-0">
+<article class="event-article container">
+  <header class="event-header">
+    {% if page.event_date %}
+    <p class="event-date">
+      <i class="fa fa-calendar-days" aria-hidden="true"></i>
+      {{ page.event_date | date: "%-d. %B %Y" }}
+      {% if page.event_end_date %} - {{ page.event_end_date | date: "%-d. %B %Y" }}{% endif %}
+    </p>
+    {% endif %}
+
+    <div class="event-meta">
+      {% if page.location %}
+      <p class="event-location">
+        <i class="fa fa-location-pin" aria-hidden="true"></i>
+        {{ page.location }}
+      </p>
+      {% endif %}     
+    </div>    
+        <h1 class="event-title">
+           {% if page.event_type %}
+          <span class="event-type-badge">{{ page.event_type }}:</span>
+          {% endif %}  {{ page.title }}</h1>
+      {% if page.excerpt %}
+        <p class="event-excerpt">{{ page.excerpt }}</p>
+      {% endif %}
+  </header>
+
+  {% comment %} Teaser Image - automatisch anzeigen wenn vorhanden {% endcomment %}
+  {% if page.teaser_image %}
+    {% include blocks/image-centered.html
+       image=page.teaser_image
+       srcset=page.teaser_image_srcset
+       sizes=page.teaser_image_sizes
+       alt=page.teaser_image_alt
+       caption=page.teaser_image_caption
+       width="600"
+       class="img-center"
+    %}
+  {% endif %}
+
+  <div class="event-content">
+    {{ content }}
+  </div>
+
+  {% comment %} Registration/More Info Button {% endcomment %}
+  {% if page.registration_url %}
+  <div class="event-cta">
+    <a href="{{ page.registration_url }}" class="btn btn-primary" target="_blank" rel="noopener">
+      {% if page.lang == "en" %}Register / More Information{% else %}Anmeldung / Weitere Informationen{% endif %}
+    </a>
+  </div>
+  {% endif %}
+
+  {% comment %} Taxonomie-Zuordnungen {% endcomment %}
+  {% if page.areas or page.ccs or page.twgs %}
+  <section class="event-taxonomies">
+
+    {% comment %} Task Areas {% endcomment %}
+    {% if page.areas and page.areas.size > 0 %}
+    <div class="taxonomy-section">
+      <h3 class="arrow arrow-left">
+        {% if page.lang == "en" %}Associated Task Areas{% else %}Zugeordnete Task Areas{% endif %}
+      </h3>
+      <div class="area-badges">
+        {% assign filtered_areas = site.areas | where: "type", "ta" | where: "lang", page.lang %}
+        {% for area_id in page.areas %}
+          {% for a in filtered_areas %}
+            {% if a.url contains area_id %}
+            <a href="{{ a.url | relative_url }}" class="badge badge--area">{{ a.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% comment %} Community Clusters {% endcomment %}
+    {% if page.ccs and page.ccs.size > 0 %}
+    <div class="taxonomy-section">
+      <h3 class="arrow arrow-left">
+        {% if page.lang == "en" %}Related Community Clusters{% else %}Zugeordnete Community Cluster{% endif %}
+      </h3>
+      <div class="cc-badges">
+        {% assign filtered_ccs = site.ccs | where: "lang", page.lang %}
+        {% for cc_id in page.ccs %}
+          {% for cc in filtered_ccs %}
+            {% if cc.translation_key == cc_id or cc.url contains cc_id %}
+            <a href="{{ cc.url | relative_url }}" class="badge badge--cc">{{ cc.identifier }} - {{ cc.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% comment %} TWGs {% endcomment %}
+    {% if page.twgs and page.twgs.size > 0 %}
+    <div class="taxonomy-section">
+      <h3 class="arrow arrow-left">
+        {% if page.lang == "en" %}Related Working Groups{% else %}Zugeordnete Arbeitsgruppen{% endif %}
+      </h3>
+      <div class="twg-badges">
+        {% assign filtered_twgs = site.twgs | where: "lang", page.lang %}
+        {% for twg_id in page.twgs %}
+          {% for twg in filtered_twgs %}
+            {% if twg.translation_key == twg_id or twg.url contains twg_id %}
+            <a href="{{ twg.url | relative_url }}" class="badge badge--twg">{{ twg.identifier }} - {{ twg.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+  </section>
+  {% endif %}
+
+ {% comment %} Navigation nur anzeigen wenn vorherige oder nächste Veranstaltung existiert {% endcomment %}
+  {% assign sorted = site.events | where: "lang", page.lang | sort: "event_date" | reverse %}
+  {% assign current_index = -1 %}
+
+  {% for item in sorted %}
+    {% if item.url == page.url %}
+      {% assign current_index = forloop.index0 %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {% if current_index >= 0 %}
+    {% assign prev_index = current_index | minus: 1 %}
+    {% assign next_index = current_index | plus: 1 %}
+
+    {% if prev_index >= 0 %}
+      {% assign prev = sorted[prev_index] %}
+    {% else %}
+      {% assign prev = nil %}
+    {% endif %}
+
+    {% if next_index < sorted.size %}
+      {% assign next = sorted[next_index] %}
+    {% else %}
+      {% assign next = nil %}
+    {% endif %}
+
+    {% if prev or next %}
+    <nav class="event-nav">
+      <div class="event-nav-buttons">
+        {% if prev %}
+          <a href="{{ prev.url | relative_url }}" class="btn btn-outline prev">
+            {% if page.lang == "en" %}← Previous Event{% else %}← Vorherige Veranstaltung{% endif %}
+          </a>
+        {% endif %}
+        {% if next %}
+          <a href="{{ next.url | relative_url }}" class="btn btn-outline next">
+            {% if page.lang == "en" %}Next Event →{% else %}Nächste Veranstaltung →{% endif %}
+          </a>
+        {% endif %}
+      </div>
+    </nav>
+    {% endif %}
+  {% endif %}
+
+</article>
+</section>
+</main>

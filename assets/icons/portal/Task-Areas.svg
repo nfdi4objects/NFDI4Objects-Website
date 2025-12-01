@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Task-Areas" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2476.977 2463.804">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: PTSans-Regular, 'PT Sans';
+        font-size: 291.389px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #182949;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #13294b;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 19px;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: .019em;
+      }
+
+      .cls-7 {
+        letter-spacing: .046em;
+      }
+
+      .cls-8 {
+        letter-spacing: .026em;
+      }
+
+      .cls-9 {
+        letter-spacing: .026em;
+      }
+    </style>
+  </defs>
+  <circle class="cls-3" cx="1237.28" cy="1231.179" r="1156.551"/>
+  <text class="cls-1" transform="translate(991.112 268.781)"><tspan x="0" y="0">T</tspan><tspan class="cls-8" x="161.719" y="0">A</tspan><tspan x="339.755" y="0">1</tspan></text>
+  <text class="cls-1" transform="translate(1688.991 2030.024)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan class="cls-8" x="161.428" y="0">A</tspan><tspan x="339.464" y="0">4</tspan></text>
+  <text class="cls-1" transform="translate(1932.58 1324.75)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan class="cls-8" x="161.428" y="0">A</tspan><tspan x="339.464" y="0">3</tspan></text>
+  <text class="cls-1" transform="translate(1783.102 710.029)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan class="cls-8" x="161.428" y="0">A</tspan><tspan x="339.464" y="0">2</tspan></text>
+  <text class="cls-1" transform="translate(33.895 1323.579)"><tspan x="0" y="0">T</tspan><tspan class="cls-8" x="161.719" y="0">A</tspan><tspan x="339.755" y="0">6</tspan></text>
+  <text class="cls-1" transform="translate(294.98 2032.064)"><tspan x="0" y="0">T</tspan><tspan class="cls-9" x="161.719" y="0">A</tspan><tspan x="339.756" y="0">5</tspan></text>
+  <text class="cls-1" transform="translate(213.975 710.029)"><tspan class="cls-6" x="0" y="0">T</tspan><tspan class="cls-7" x="167.255" y="0">A</tspan><tspan x="351.119" y="0">7</tspan></text>
+  <path class="cls-4" d="M1234.416,1730.246c277.836,0,503.07-225.234,503.07-503.07s-225.234-503.083-503.07-503.083-503.07,225.234-503.07,503.083,225.234,503.07,503.07,503.07Z"/>
+  <line class="cls-4" x1="559.295" y1="1229.022" x2="1224.216" y2="1228.486"/>
+  <line class="cls-4" x1="1234.525" y1="1216.965" x2="1234.525" y2="340.334"/>
+  <line class="cls-4" x1="1244.623" y1="1228.492" x2="1880.609" y2="1229.028"/>
+  <path class="cls-2" d="M1291.807,1228.492c0,31.768-25.414,57.514-56.787,57.514s-56.761-25.746-56.761-57.514,25.414-57.514,56.761-57.514,56.787,25.746,56.787,57.514"/>
+  <line class="cls-4" x1="693.037" y1="687.252" x2="1226.382" y2="1219.845"/>
+  <line class="cls-4" x1="1241.583" y1="1235.049" x2="1767.669" y2="1761.888"/>
+  <line class="cls-4" x1="702.062" y1="1762.205" x2="1227.676" y2="1235.839"/>
+  <line class="cls-4" x1="1243.54" y1="1219.979" x2="1768.427" y2="695.845"/>
+  <line class="cls-4" x1="1234.525" y1="2449.688" x2="1234.525" y2="1235.84"/>
+</svg>

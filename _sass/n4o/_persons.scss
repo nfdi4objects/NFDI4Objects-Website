@@ -1,0 +1,393 @@
+@use './variables' as *;
+
+// ============================================
+// Group Overview Cards (for "Wer wir sind")
+// ============================================
+
+.group-overview-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: var(--spacing-xl);
+    margin: var(--spacing-2xl) 0;
+
+    &--two-cols {
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        max-width: 800px;
+    }
+
+    @media (max-width: $device-sm) {
+        grid-template-columns: 1fr;
+    }
+}
+
+.group-card {
+    background: var(--color-sand);
+    border-radius: var(--border-radius-md);
+    padding: var(--spacing-xl);
+    box-shadow: var(--shadow-sm);
+    transition: transform var(--transition-normal), box-shadow var(--transition-normal);
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    &:hover {
+        transform: translateY(-5px);
+        box-shadow: var(--shadow-md);
+
+      /*   .group-card__icon {
+          width: 180px;
+            height: 180px; 
+        } */
+
+        .group-card__link {
+            color: var(--color-blue);
+        }
+    }
+
+    &__icon {
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        padding: 15px;
+       // background-color: var(--color-white);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: var(--spacing-lg);
+        //transition: width var(--transition-normal), height  var(--transition-normal);
+    }
+
+    h3 {
+        font-size: var(--font-size-xl);
+        font-weight: 700;
+        margin-bottom: var(--spacing-md);
+        color: var(--color-blue-dark);
+    }
+
+    p {
+        font-size: var(--font-size-base);
+        color: var(--color-blue-dark);
+        margin-bottom: var(--spacing-lg);
+        flex: 1;
+    }
+
+    &__link {
+        font-size: var(--font-size-sm);
+        font-weight: 700;
+        color: var(--color-blue-sand);
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        transition: color var(--transition-fast);
+
+        i {
+            margin-left: var(--spacing-xs);
+            font-size: var(--font-size-xs);
+        }
+    }
+}
+
+// ============================================
+// Person Cards & Lists
+// ============================================
+
+.person-list-section {
+    padding: var(--spacing-2xl) 0;
+
+    h2 {
+        margin-bottom: var(--spacing-xl);
+        text-align: center;
+    }
+}
+
+// Grid Layout für Personen
+.person-list {
+    display: grid;
+    gap: var(--spacing-xl);
+    margin-bottom: var(--spacing-2xl);
+
+    &--grid {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+
+        @media (max-width: $device-sm) {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    &--list {
+        grid-template-columns: 1fr;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+
+        .person-card {
+            display: flex;
+            flex-direction: row;
+            align-items: flex-start;
+            gap: var(--spacing-lg);
+
+            .person-card__image {
+                flex-shrink: 0;
+                width: 120px;
+                height: 120px;
+            }
+
+            @media (max-width: $device-sm) {
+                flex-direction: column;
+
+                .person-card__image {
+                    width: 100%;
+                    height: auto;
+                }
+            }
+        }
+    }
+}
+
+// Einzelne Person Card
+.person-card {
+    background: var(--color-white);
+    border-radius: var(--border-radius-md);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    transition: transform var(--transition-normal), box-shadow var(--transition-normal);
+    display: flex;
+    flex-direction: column;
+
+    &:hover {
+        transform: translateY(-5px);
+        box-shadow: var(--shadow-md);
+    }
+
+    &__image {
+        width: 100%;
+        height: 280px;
+        overflow: hidden;
+        background: var(--color-sand-light);
+
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+
+    &__content {
+        padding: var(--spacing-lg);
+        flex: 1;
+    }
+
+    &__name {
+        font-size: var(--font-size-lg);
+        font-weight: 700;
+        margin-bottom: var(--spacing-sm);
+        color: var(--color-blue-dark);
+
+        a {
+            color: inherit;
+            text-decoration: none;
+            transition: color var(--transition-fast);
+
+            &:hover {
+                color: var(--color-blue);
+            }
+        }
+    }
+
+    &__position {
+        font-size: var(--font-size-base);
+        color: var(--color-blue-sand);
+        font-weight: 600;
+        margin-bottom: var(--spacing-sm);
+    }
+
+    &__institution {
+        font-size: var(--font-size-sm);
+        color: var(--color-sand-dark);
+        margin-bottom: var(--spacing-sm);
+    }
+
+    &__email {
+        font-size: var(--font-size-sm);
+        margin-bottom: var(--spacing-md);
+
+        a {
+            color: var(--color-blue);
+            text-decoration: none;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+
+    &__areas {
+        display: flex;
+        flex-wrap: wrap;
+        gap: var(--spacing-sm);
+        margin-top: var(--spacing-md);
+
+        .badge {
+            display: inline-block;
+            padding: var(--spacing-xs) var(--spacing-sm);
+            background: var(--color-sand-light);
+            color: var(--color-blue-dark);
+            border-radius: var(--border-radius-sm);
+            font-size: var(--font-size-xs);
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+    }
+}
+
+// ============================================
+// Institution Cards & Grid
+// ============================================
+
+.institutions-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: var(--spacing-xl);
+    margin: var(--spacing-2xl) 0;
+
+    @media (max-width: $device-sm) {
+        grid-template-columns: 1fr;
+    }
+}
+
+.institution-card {
+    background: var(--color-white);
+    border-radius: var(--border-radius-md);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    transition: transform var(--transition-normal), box-shadow var(--transition-normal);
+    display: flex;
+    flex-direction: column;
+
+
+    &:hover {
+        transform: translateY(-5px);
+        box-shadow: var(--shadow-md);
+    }
+
+    &__logo {
+        width: 100%;
+        height: 180px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: var(--color-white);
+        padding: var(--spacing-lg);
+
+        img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+        }
+    }
+
+    &__content {
+        padding: var(--spacing-lg);
+        flex: 1;
+    }
+
+    &__name {
+        font-size: var(--font-size-lg);
+        font-weight: 700;
+        margin-bottom: var(--spacing-sm);
+        color: var(--color-blue-dark);
+
+        a {
+            color: inherit;
+            text-decoration: none;
+            transition: color var(--transition-fast);
+
+            &:hover {
+                color: var(--color-blue);
+            }
+        }
+    }
+
+    &__short {
+        font-size: var(--font-size-sm);
+        color: var(--color-blue-sand);
+        font-weight: 600;
+        margin-bottom: var(--spacing-sm);
+    }
+
+    &__location {
+        font-size: var(--font-size-sm);
+        color: var(--color-sand-dark);
+        margin-bottom: var(--spacing-md);
+
+        i {
+            margin-right: var(--spacing-xs);
+            color: var(--color-blue-sand);
+        }
+    }
+
+    &__persons {
+        padding: var(--spacing-lg);
+        background: var(--color-sand-light);
+        border-top: 1px solid var(--color-sand);
+
+        h4 {
+            font-size: var(--font-size-base);
+            font-weight: 700;
+            margin-bottom: var(--spacing-sm);
+            color: var(--color-blue-dark);
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+
+            li {
+                padding: var(--spacing-xs) 0;
+                font-size: var(--font-size-sm);
+
+                a {
+                    color: var(--color-blue);
+                    text-decoration: none;
+
+                    &:hover {
+                        text-decoration: underline;
+                    }
+                }
+
+                em {
+                    color: var(--color-sand-dark);
+                }
+            }
+        }
+    }
+}
+
+// ============================================
+// Responsive Adjustments
+// ============================================
+
+@media (max-width: $device-md) {
+    .person-list {
+        &--grid {
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        }
+    }
+
+    .institutions-grid {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    }
+}
+
+@media (max-width: $device-sm) {
+    .person-card__image {
+        height: 220px;
+    }
+
+    .institution-card__logo {
+        height: 140px;
+    }
+}

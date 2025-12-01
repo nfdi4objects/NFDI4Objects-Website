@@ -1,0 +1,57 @@
+{%- comment -%}
+Smart Proposal Button Component
+
+Erkennt automatisch das Linkziel (Zenodo, OSF, DOI, etc.) und zeigt es im Button-Text an.
+
+Usage:
+{% include proposal-button.html url=page.proposal_url %}
+
+Parameters:
+- url: Proposal URL (required)
+- lang: Sprache (optional, default: page.lang)
+{%- endcomment -%}
+
+{%- assign current_lang = include.lang | default: page.lang | default: "de" -%}
+{%- assign url = include.url -%}
+
+{%- comment -%} Erkenne das Linkziel basierend auf der URL {%- endcomment -%}
+{%- assign link_type = "Proposal" -%}
+
+{%- if url contains "zenodo.org" -%}
+  {%- if current_lang == "en" -%}
+    {%- assign link_type = "Zenodo Proposal" -%}
+  {%- else -%}
+    {%- assign link_type = "Zenodo-Antrag" -%}
+  {%- endif -%}
+{%- elsif url contains "osf.io" -%}
+  {%- if current_lang == "en" -%}
+    {%- assign link_type = "OSF Proposal" -%}
+  {%- else -%}
+    {%- assign link_type = "OSF-Antrag" -%}
+  {%- endif -%}
+{%- elsif url contains "doi.org" -%}
+  {%- comment -%} DOI-Links können auf verschiedene Plattformen verweisen {%- endcomment -%}
+  {%- if url contains "zenodo" -%}
+    {%- if current_lang == "en" -%}
+      {%- assign link_type = "Zenodo Proposal (DOI)" -%}
+    {%- else -%}
+      {%- assign link_type = "Zenodo-Antrag (DOI)" -%}
+    {%- endif -%}
+  {%- else -%}
+    {%- if current_lang == "en" -%}
+      {%- assign link_type = "Proposal (DOI)" -%}
+    {%- else -%}
+      {%- assign link_type = "Antrag (DOI)" -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- else -%}
+  {%- comment -%} Fallback für unbekannte Linkziele {%- endcomment -%}
+  {%- if current_lang == "en" -%}
+    {%- assign link_type = "View Proposal" -%}
+  {%- else -%}
+    {%- assign link_type = "Antrag ansehen" -%}
+  {%- endif -%}
+{%- endif -%}
+
+{%- comment -%} Button mit erkanntem Linkziel ausgeben {%- endcomment -%}
+{%- include cta-button.html text=link_type url=url style="primary" new_window=true -%}

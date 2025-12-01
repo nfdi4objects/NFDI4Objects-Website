@@ -1,0 +1,39 @@
+@use './variables' as *;
+.service-infobox {
+    text-align: center;
+  .infobox-list{
+   margin: 0 auto;
+   text-align: left;
+   padding: var(--spacing-md) var(--spacing-lg);
+   border-radius: var(--border-radius-md);
+   width: 100%;
+   @media (min-width: $device-md){
+   width: 33rem;
+   }
+  }
+  dt {
+   font-weight: 700;  
+  }
+  dd {
+      margin-bottom: var(--spacing-lg);
+      span {
+      display: block;
+      }
+  }
+}
+
+.chevron{
+   position: relative; 
+ 
+}
+
+.chevron:after {
+  content: '';
+   display: inline-block;  
+   margin: 0 0 3px 3px;
+   border-right: 3px solid white;
+   border-bottom: 3px solid white;
+   width: 8px; 
+   height: 8px;
+   transform: rotate(-315deg);
+}

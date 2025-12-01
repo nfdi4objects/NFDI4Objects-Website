@@ -1,0 +1,4 @@
+---
+layout: search_json
+permalink: /search.json
+---

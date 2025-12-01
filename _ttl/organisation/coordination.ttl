@@ -1,0 +1,10 @@
+---
+layout: organisation-group-ttl
+permalink: /about/people/coordination/index.ttl
+group: coordination
+lang: de
+title_de: "Koordinationsbüro"
+title_en: "Coordination Office"
+description_de: "Das Koordinationsbüro ist für die operative Leitung von NFDI4Objects verantwortlich"
+description_en: "The Coordination Office is responsible for the operational management of NFDI4Objects"
+---

@@ -1,0 +1,45 @@
+@use './variables' as *;
+
+.section-icon {
+  width: 8rem;
+   max-width: 100%;
+   margin-bottom: var(--spacing-sm);
+   @media (min-width: $device-sm){
+         width: 7rem;
+         &.text-icon {
+            width: 11rem;
+         }
+      }
+      &.icon-lg{
+         @media (min-width: $device-sm){
+            width: 25rem;
+         }
+      }
+       &.icon-sm{
+         @media (min-width: $device-sm){
+            width: 5rem;
+         }
+      }
+}
+
+.text-center .section-icon {
+   margin-right: auto;
+   margin-left: auto;
+}
+img.spot, firuge img{
+  aspect-ratio: 1;
+  background: white;
+  padding: 8%;
+  border-radius: 50%;
+}
+
+.teaser-img.card {
+   img {
+      border-radius: var(--border-radius-md) var(--border-radius-md) 0 0;
+   }
+   padding: 0;
+   .card-content {
+      padding-top: var(--spacing-md);
+      margin: 0 var(--spacing-lg);
+   }
+}

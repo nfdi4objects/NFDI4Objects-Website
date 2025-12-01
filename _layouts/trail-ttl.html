@@ -1,0 +1,77 @@
+---
+layout: null
+---
+{%- comment -%}
+POINTER-SYSTEM: Dieses Layout liest Daten aus der Markdown-Datei
+Unterstützt zwei Modi:
+1. Legacy-Modus: Daten direkt im TTL-Frontmatter (page.*)
+2. Pointer-Modus: Verweis auf MD-Datei (page.source)
+{%- endcomment -%}
+
+{%- if page.source -%}
+  {%- comment -%}Pointer-Modus: Lade Daten aus der referenzierten MD-Datei{%- endcomment -%}
+  {%- assign trail = site.trails | where: "translation_key", page.source | first -%}
+{%- else -%}
+  {%- comment -%}Legacy-Modus: Nutze Daten aus TTL-Frontmatter direkt{%- endcomment -%}
+  {%- assign trail = page -%}
+{%- endif -%}
+
+{%- comment -%}Generiere trail_id aus translation_key falls nicht vorhanden{%- endcomment -%}
+{%- if trail.trail_id -%}
+  {%- assign trail_id = trail.trail_id -%}
+{%- else -%}
+  {%- assign trail_id = trail.translation_key | remove: "trail-" | replace: "-", "_" -%}
+{%- endif -%}
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix locn: <http://www.w3.org/ns/locn#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix schema: <http://schema.org/> .
+@prefix sdo: <https://schema.org/> .
+@prefix nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#> .
+@prefix n4o: <https://nfdi4objects.net/ontology#> .
+
+<https://nfdi4objects.net/trails/{{ trail_id }}/{{ trail_id }}>
+    rdf:type nfdicore:Project ;
+    skos:prefLabel "{{ trail.title }}"@{{ trail.lang }} ;
+    {%- if trail.description %}
+    skos:definition "{{ trail.description }}"@{{ trail.lang }} ;
+    {%- endif %}
+    {%- if trail.identifier %}
+    dcterms:identifier "{{ trail.identifier }}" ;
+    {%- endif %}
+    {%- if trail.start_date %}
+    dcterms:date "{{ trail.start_date }}"^^xsd:date ;
+    {%- endif %}
+    {%- if trail.url %}
+    foaf:homepage <{{ trail.url }}> ;
+    {%- endif %}
+    {%- if trail.logo %}
+    foaf:logo "{{ trail.logo }}" ;
+    {%- endif %}
+    {%- if trail.status %}
+    n4o:status "{{ trail.status }}" ;
+    {%- endif %}
+    {%- if trail.coordinators %}
+    {%- for coordinator in trail.coordinators %}
+    n4o:coChair <https://nfdi4objects.net/persons/{{ coordinator.person_ref | remove: "person-" | replace: "-", "_" }}/{{ coordinator.person_ref | remove: "person-" | replace: "-", "_" }}> ;
+    {%- endfor %}
+    {%- endif %}
+    {%- if trail.areas %}
+    {%- for area in trail.areas %}
+    n4o:relatedTaskArea <https://nfdi4objects.net/areas/{{ area }}/{{ area }}> ;
+    {%- endfor %}
+    {%- endif %}
+    {%- if trail.institutions %}
+    {%- for institution in trail.institutions %}
+    n4o:involvedInstitution "{{ institution }}" ;
+    {%- endfor %}
+    {%- endif %}
+    dcterms:isPartOf <https://nfdi4objects.net> .

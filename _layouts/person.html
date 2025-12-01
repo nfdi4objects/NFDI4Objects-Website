@@ -1,0 +1,42 @@
+---
+layout: n4o-base
+---
+
+<article class="person-profile">
+  <div class="container">
+    <div class="grid-12 cols-5">
+     
+      <div class="profile">
+        <h1>{{ page.title }}</h1>
+        {% comment %} Dynamische Inhalte {% endcomment %}
+        {% include dynamic-content.html %}
+      </div>
+       <div>
+        <img src="{{ page.image }}" alt="{{ page.title }}" width="350" />
+         {% if content and content != '' %}
+          <div class="person-bio">
+            {{ content }}
+          </div>
+        {% endif %}
+      </div>
+    </div> 
+  </div>
+</article>
+
+<!-- JSON-LD für semantische Beziehungen -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "{{ page.title | escape }}",
+  "email": "{{ page.email }}",
+  "affiliation": [
+    {% for id in page.areas %}
+      {
+        "@type": "Organization",
+        "name": "{{ site.data.areas | where: 'id', id | first | dig: 'name_en' }}"
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>

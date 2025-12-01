@@ -1,0 +1,10 @@
+---
+layout: organisation-group-ttl
+permalink: /about/organisation/steering/index.ttl
+group: steering
+lang: de
+title_de: "Lenkungsausschuss"
+title_en: "Steering Committee"
+description_de: "Der Lenkungsausschuss koordiniert die strategische Ausrichtung von NFDI4Objects"
+description_en: "The Steering Committee coordinates the strategic direction of NFDI4Objects"
+---

@@ -1,0 +1,11 @@
+---
+# ============================================
+# POINTER-TTL für CC2 Data Capture and Creation
+# ============================================
+# Alle Daten werden automatisch aus der Markdown-Datei gelesen.
+# Siehe: _ccs/de/cc2-data-capture-creation.md
+
+layout: cc-ttl
+permalink: /ccs/cc2-data-capture-creation/index.ttl
+source: cc2-data-capture-creation  # Muss mit translation_key der MD-Datei übereinstimmen!
+---

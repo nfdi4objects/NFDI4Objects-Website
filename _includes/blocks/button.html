@@ -1,0 +1,9 @@
+{%- assign btn_style = include.style | default: "primary" -%}
+{%- assign target_attr = "" -%}
+{%- if include.new_window == true -%}
+  {%- assign target_attr = ' target="_blank" rel="noopener noreferrer"' -%}
+{%- endif -%}
+
+<p class="text-center space">
+  <a href="{{ include.url }}" class="btn btn-{{ btn_style }}"{{ target_attr }}>{{ include.text }}</a>
+</p>

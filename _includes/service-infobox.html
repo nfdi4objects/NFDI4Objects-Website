@@ -1,0 +1,107 @@
+{%- comment -%}
+Service Infobox Component (Akkordeon)
+
+Zeigt Service-Metadaten in einem aufklappbaren Kasten an:
+- NFDI Service-Kategorie
+- Service-Typ (einfach oder NFDI-Service-Typen, kann Array sein)
+- Institution (ohne Label, nur Name/Link)
+
+Hinweis: Lebenszyklus-Phasen werden NICHT angezeigt (sind im Breadcrumb)
+
+Usage:
+{% include service-infobox.html %}
+
+Die Component nutzt automatisch page.* Front Matter Daten.
+Standardmäßig eingeklappt, kann per Klick ausgeklappt werden.
+
+Front Matter Beispiele:
+  service_type: webapp                    # Einfacher Typ
+  nfdi_service_types: [sas, dis, cres]   # Mehrere NFDI-Typen
+{%- endcomment -%}
+
+{%- assign current_lang = page.lang | default: "de" -%}
+
+{%- comment -%} Prüfen ob überhaupt Metadaten vorhanden sind {%- endcomment -%}
+{%- assign has_metadata = false -%}
+{%- if page.nfdi_category or page.service_type or page.nfdi_service_types or page.institution or page.organization -%}
+  {%- assign has_metadata = true -%}
+{%- endif -%}
+
+{%- if has_metadata -%}
+<aside class="service-infobox">
+  <p class="infobox-toggle btn btn-primary chevron" onclick="this.classList.toggle('active'); this.nextElementSibling.classList.toggle('active');">
+    {% if current_lang == "en" %}Service Information{% else %}Service-Informationen{% endif %}
+  </p>
+ 
+  <dl class="infobox-list bg-sand">
+
+    {%- comment -%} NFDI Service-Kategorie {%- endcomment -%}
+    {%- if page.nfdi_category -%}
+      {%- assign nfdi_cat = site.data.service_categories.nfdi_categories | where: "id", page.nfdi_category | first -%}
+      {%- if nfdi_cat -%}
+      <dt>{% if current_lang == "en" %}NFDI Service Category{% else %}NFDI Service-Kategorie{% endif %}</dt>
+      <dd>
+        <span class="info-badge info-badge--category">
+          <i class="fas {{ nfdi_cat.icon }}"></i>
+          {% if current_lang == "en" %}{{ nfdi_cat.name_en }}{% else %}{{ nfdi_cat.name_de }}{% endif %}
+        </span>
+      </dd>
+      {%- endif -%}
+    {%- endif -%}
+
+    {%- comment -%} NFDI Service-Typen (hierarchisch, wenn vorhanden) {%- endcomment -%}
+    {%- if page.nfdi_service_types and page.nfdi_service_types.size > 0 -%}
+      <dt>
+        {% if current_lang == "en" %}
+          {% if page.nfdi_service_types.size > 1 %}NFDI4Objects Service Types{% else %}NFDI4Objects Service Type{% endif %}
+        {% else %}
+          {% if page.nfdi_service_types.size > 1 %}NFDI4Objects Service-Typen{% else %}NFDI4Objects Service-Typ{% endif %}
+        {% endif %}
+      </dt>
+      <dd>
+        {%- for type_id in page.nfdi_service_types -%}
+          {%- assign nfdi_type = site.data.service_categories.nfdi_service_types | where: "id", type_id | first -%}
+          {%- if nfdi_type -%}
+            <span class="info-badge info-badge--nfdi-type">
+              {% if current_lang == "en" %}{{ nfdi_type.name_en }}{% else %}{{ nfdi_type.name_de }}{% endif %}
+            </span>
+          {%- else -%}
+            <span class="info-badge info-badge--nfdi-type">{{ type_id }}</span>
+          {%- endif -%}
+        {%- endfor -%}
+      </dd>
+    {%- endif -%}
+
+    {%- comment -%} Service-Typ (einfach, fallback wenn keine NFDI-Typen) {%- endcomment -%}
+    {%- if page.service_type and page.nfdi_service_types == nil -%}
+      {%- assign service_type_data = site.data.service_categories.service_types | where: "id", page.service_type | first -%}
+      <dt>{% if current_lang == "en" %}Service Type{% else %}Service-Typ{% endif %}</dt>
+      <dd>
+        {%- if service_type_data -%}
+          <span class="info-badge info-badge--type">
+            {% if current_lang == "en" %}{{ service_type_data.name_en }}{% else %}{{ service_type_data.name_de }}{% endif %}
+          </span>
+        {%- else -%}
+          <span class="info-badge info-badge--type">{{ page.service_type }}</span>
+        {%- endif -%}
+      </dd>
+    {%- endif -%}
+
+    {%- comment -%} Organization/Institution (ohne Label, nur Link/Name) {%- endcomment -%}
+    {%- assign org_id = page.organization | default: page.institution -%}
+    {%- if org_id -%}
+      {%- assign org_data = site.data[current_lang].institutions | where: "id", org_id | first -%}
+      <dd class="institution-only">
+        {%- if org_data -%}
+          <a href="{{ org_data.url }}" target="_blank" rel="noopener noreferrer" class="institution-link">
+            {{ org_data.name }}
+          </a>
+        {%- else -%}
+          <span class="institution-name">{{ org_id }}</span>
+        {%- endif -%}
+      </dd>
+    {%- endif -%}
+
+  </dl>
+</aside>
+{%- endif -%}

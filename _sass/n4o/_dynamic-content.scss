@@ -1,0 +1,59 @@
+@use './variables' as *;
+
+.trail-date {
+   display: block;
+}
+.trail-content, .person-profile, .cc-content, .twg-content{
+   margin-top: var(--spacing-3xl);
+}
+.trail-status-badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 0.25rem;
+  margin-top: 0.5rem;
+}
+.status-active, .trail-status--active, .twg-status--active  {
+  background-color: #28a745;
+  color: white;
+}
+.status-completed, .trail-status--completed, .twg-status--completed {
+  background-color: #6c757d;
+  color: white;
+}
+.status-planned, .trail-status--planned, .twg-status--planned  {
+  background-color: #ffc107;
+  color: black;
+}
+.person-profile {
+    img {
+         border-radius: 50%;
+      }
+  
+   .profile {
+      h1 {
+         text-align: left;
+      }     
+   }
+   .person-bio {
+      margin-top:  var(--spacing-xl);
+   }
+}
+// Persons
+.role-list, .involvement-list {
+   list-style: none;
+}
+// Servces
+.service-header {
+   text-align: center;
+   .service-logo {
+      img{
+         max-width: 120px;
+         margin: 0 auto 1.5rem auto;
+      }
+   }
+}
+.service-body {
+   padding-top: var(--spacing-lg);
+}

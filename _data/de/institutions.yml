@@ -1,0 +1,106 @@
+# Konsortialmitglieder und assoziierte Partner
+# type: consortium_member | associated_partner | consortium
+
+- id: n4o
+  name: "NFDI4Objects - Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheitsgeschichte"
+  short: "NFDI4Objects"
+  logo: "/assets/images/institutions/n4o-logo.png"
+  url: "https://www.nfdi4objects.net"
+  type: consortium
+  city: "Mainz"
+
+- id: dai
+  name: "Deutsches Archäologisches Institut"
+  short: "DAI"
+  logo: "/assets/images/institutions/dai-logo.png"
+  url: "https://www.dainst.org"
+  type: consortium_member
+  city: "Berlin"
+
+- id: leiza
+  name: "Leibniz-Zentrum für Archäologie (LEIZA)"
+  short: "LEIZA"
+  logo: "/assets/images/institutions/leiza-logo.png"
+  url: "https://www.leiza.de"
+  type: consortium_member
+  city: "Mainz"
+
+- id: gnm
+  name: "Germanisches Nationalmuseum"
+  short: "GNM"
+  logo: "/assets/images/institutions/gnm-logo.png"
+  url: "https://www.gnm.de"
+  type: consortium_member
+  city: "Nürnberg"
+
+- id: adwmainz
+  name: "Akademie der Wissenschaften und der Literatur Mainz"
+  short: "AdW Mainz"
+  logo: "/assets/images/institutions/adw-logo.png"
+  url: "https://www.adwmainz.de"
+  type: consortium_member
+  city: "Mainz"
+
+- id: cau
+  name: "Christian-Albrechts-Universität zu Kiel"
+  short: "CAU Kiel"
+  logo: "/assets/images/institutions/cau-logo.png"
+  url: "https://www.uni-kiel.de"
+  type: consortium_member
+  city: "Kiel"
+
+- id: hab
+  name: "Herzog August Bibliothek Wolfenbüttel"
+  short: "HAB"
+  logo: "/assets/images/institutions/hab-logo.png"
+  url: "https://www.hab.de"
+  type: consortium_member
+  city: "Wolfenbüttel"
+
+- id: ianus
+  name: "IANUS Forschungsdatenzentrum"
+  short: "IANUS"
+  logo: "/assets/images/institutions/ianus-logo.png"
+  url: "https://www.ianus-fdz.de"
+  type: consortium_member
+  city: "Berlin"
+
+- id: rgk
+  name: "Römisch-Germanische Kommission"
+  short: "RGK"
+  logo: "/assets/images/institutions/rgk-logo.png"
+  url: "https://www.dainst.org/standort/-/organization-display/ZI9STUj61zKB/18513"
+  type: consortium_member
+  city: "Frankfurt am Main"
+
+- id: tlda
+  name: "Thüringisches Landesamt für Denkmalpflege und Archäologie"
+  short: "TLDA"
+  logo: "/assets/images/institutions/tlda-logo.png"
+  url: "https://denkmalpflege.thueringen.de"
+  type: consortium_member
+  city: "Weimar"
+
+- id: uni-koeln
+  name: "Universität zu Köln"
+  short: "Uni Köln"
+  logo: "/assets/images/institutions/uni-koeln-logo.png"
+  url: "https://www.uni-koeln.de"
+  type: consortium_member
+  city: "Köln"
+
+- id: uni-bamberg
+  name: "Otto-Friedrich-Universität Bamberg"
+  short: "Uni Bamberg"
+  logo: "/assets/images/institutions/uni-bamberg-logo.png"
+  url: "https://www.uni-bamberg.de"
+  type: consortium_member
+  city: "Bamberg"
+
+- id: zbsa
+  name: "Zentrum für Baltische und Skandinavische Archäologie"
+  short: "ZBSA"
+  logo: "/assets/images/institutions/zbsa-logo.png"
+  url: "https://www.zbsa.eu"
+  type: consortium_member
+  city: "Schleswig"

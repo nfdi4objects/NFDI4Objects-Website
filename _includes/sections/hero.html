@@ -1,0 +1,48 @@
+{% comment %}
+Hero-Section Template
+Zeigt Hero-Bereich mit zufälligem Hintergrundbild an
+Daten kommen aus _data/{lang}/hero.yml
+
+Parameter:
+- lang: Sprache (de/en) - erforderlich
+
+Barrierefreiheit:
+- Das data-hero-images Attribut enthält nur die technischen Bild-Informationen
+- Das aria-label wird per JavaScript gesetzt, nachdem ein Bild ausgewählt wurde
+- Bis dahin hat die Section ein generisches aria-label basierend auf dem Titel
+{% endcomment %}
+
+{% if include.lang == 'en' %}
+  {% assign hero_data = site.data.en.hero %}
+  {% assign default_aria = "Hero section with background image" %}
+{% else %}
+  {% assign hero_data = site.data.de.hero %}
+  {% assign default_aria = "Hero-Bereich mit Hintergrundbild" %}
+{% endif %}
+
+<section class="hero-section" id="hero-section"
+         data-hero-images='{{ hero_data.background_images | jsonify | escape }}'
+         role="banner"
+         aria-label="{{ default_aria }}">
+    <div class="container">
+        <div class="hero-content">
+            <div class="hero-hl">
+                <h1>
+                    <span>{{ hero_data.title }}{% if hero_data.subtitle %} <br>{{ hero_data.subtitle }}{% endif %}</span>
+                </h1>
+                {% if hero_data.description %}
+                <p class="hero-subtitle">{{ hero_data.description }}</p>
+                {% endif %}
+            </div>
+            {% if hero_data.skip_to_content %}
+            <div class="hero-button">
+                <a href="{{ hero_data.skip_to_content.target }}">
+                    <img src="{{ hero_data.skip_to_content.icon }}"
+                         alt="{{ hero_data.skip_to_content.text }}"
+                         class="arrow-btn-b">
+                </a>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</section>

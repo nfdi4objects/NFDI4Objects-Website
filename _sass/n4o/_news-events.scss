@@ -1,0 +1,43 @@
+@use './variables' as *;
+.news-article, .event-article {  
+  padding-bottom: 3rem;
+   @media (min-width: $device-md){
+    padding-top: 3rem;
+  }
+  figure {
+    margin-bottom: var(--spacing-2xl);
+  }
+}
+.news-date {
+  margin-bottom: 0.5rem;
+}
+
+.news-title, .event-title {
+  padding-top:  var(--spacing-md);
+}
+
+.news-excerpt, .event-excerpt {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.news-content {
+  line-height: 1.7;
+  margin-bottom: 2rem;
+}
+
+.news-tags {
+  margin-top: 2rem;
+  a {
+    display: inline-block;
+    margin-right: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--color-primary);
+  }
+}
+
+.news-nav .news-nav-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+}

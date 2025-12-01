@@ -1,0 +1,60 @@
+@use './variables' as *;
+
+.bg-white {
+    background-color: var(--color-white);
+}
+
+.bg-sand-light-img {
+    background-color: #f4ede1;
+  background-image: url('/assets/images/basic/Bg-Sandton-Hell-Backgroundimage.png');
+}
+.bg-sand-light {
+    background-color: var(--color-sand-light);
+}
+.bg-sand {
+    background-color: var(--color-sand);
+}
+.bg-sand-dark {
+    background-color: var(--color-sand-dark);
+}
+
+.bg-beige-light {
+    background-color: var(--color-beige-light);
+}
+.bg-beige {
+    background-color: var(--color-beige);
+}
+.bg-beige-dark {
+    background-color: var(--color-beige-dark);
+}
+
+
+ .btn.btn-primary {
+            color: var(--color-white) !important;
+        }
+ .bg-sand-light-img, .bg-sand-light {
+    
+        a{
+        color: var(--color-blue-sand-light); 
+        }
+    }
+    .bg-sand, .bg-sand-light .bg-sand, .bg-sand-light-img .card{
+        a {
+            color: var(--color-blue-sand); 
+            &.btn-outline{            
+                    border-color:  var(--color-blue-sand); 
+                    &:hover {
+                        color: var(--color-white);
+                        border-color:  var(--color-blue); 
+                    }
+                }
+         }
+    }
+
+.bg-sand-light-img .bg-sand .card {
+    background-color: var(--color-sand-light);
+    background-image: url('/assets/images/basic/Bg-Sandton-Hell-Backgroundimage.png');
+}
+.bg-sand-light-img .card {
+    background-color: var(--color-sand);
+}

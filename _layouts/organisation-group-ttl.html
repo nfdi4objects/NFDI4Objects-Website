@@ -1,0 +1,67 @@
+---
+layout: null
+---
+{%- comment -%}
+ORGANISATION-GROUP TTL-LAYOUT
+==============================
+Dieses Layout generiert TTL für Übersichtsseiten (Gruppen/Gremien):
+- Steering Committee
+- Advisory Board
+- Coordination Office
+- Members Overview
+- All Persons
+
+Es aggregiert automatisch alle Personen, die zur Gruppe gehören.
+{%- endcomment -%}
+
+{%- assign group_id = page.group -%}
+{%- assign current_lang = page.lang | default: "de" -%}
+
+{%- comment -%}Sammle alle Personen der Gruppe{%- endcomment -%}
+{%- assign persons_collection = site.persons | where: "lang", current_lang -%}
+{%- assign group_members = "" | split: "" -%}
+
+{%- if group_id == "all" -%}
+  {%- comment -%}Spezialfall: Alle Personen{%- endcomment -%}
+  {%- assign group_members = persons_collection -%}
+{%- else -%}
+  {%- comment -%}Filtere Personen nach Gruppenzugehörigkeit{%- endcomment -%}
+  {%- for person in persons_collection -%}
+    {%- if person.groups contains group_id -%}
+      {%- assign group_members = group_members | push: person -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#> .
+@prefix n4o: <https://nfdi4objects.net/ontology#> .
+
+<https://nfdi4objects.net/organisation/{{ group_id }}>
+    rdf:type n4o:OrganizationalUnit ;
+    {%- if page.title_de %}
+    rdfs:label "{{ page.title_de }}"@de ;
+    {%- endif %}
+    {%- if page.title_en %}
+    rdfs:label "{{ page.title_en }}"@en ;
+    {%- endif %}
+    {%- if page.description_de %}
+    skos:definition "{{ page.description_de }}"@de ;
+    {%- endif %}
+    {%- if page.description_en %}
+    skos:definition "{{ page.description_en }}"@en ;
+    {%- endif %}
+    {%- if group_members.size > 0 %}
+    foaf:member
+        {%- for person in group_members -%}
+        <https://nfdi4objects.net/persons/{{ person.translation_key | remove: "person-" | replace: "-", "_" }}/{{ person.translation_key | remove: "person-" | replace: "-", "_" }}>{%- unless forloop.last -%},{%- else -%} ;{%- endunless -%}
+        {%- endfor %}
+    {%- endif %}
+    n4o:memberCount {{ group_members.size }} ;
+    dcterms:isPartOf <https://nfdi4objects.net> .

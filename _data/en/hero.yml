@@ -1,0 +1,32 @@
+# Hero section for the homepage
+
+title: "NFDI4Objects"
+subtitle: "Research Data Infrastructure for Material Objects"
+description: "We support researchers in managing, analyzing and publishing research data on material objects."
+
+# Skip to main content button
+skip_to_content:
+  text: "skip to main content"
+  icon: "/assets/icons/focus-N4O.svg"
+  target: "#main-content"
+
+# List of hero background images
+# A random image will be selected when the page loads
+# Images should be at least 1920px wide for best display
+background_images:
+  - path: "/assets/images/hero/egypt-3326900_1920.jpg"
+    alt: "Egyptian temple complex"
+  - path: "/assets/images/hero/hero-NFDI4Objects_2025.jpg"
+    alt: "NFDI4Objects 2025"
+  - path: "/assets/images/hero/pexels-berfintage-2153843733-34087936.jpg"
+    alt: "Archaeological finds"
+  - path: "/assets/images/hero/pexels-janeth-charris-468202554-17428774.jpg"
+    alt: "Historical objects"
+  - path: "/assets/images/hero/pexels-murat-halici-294274529-34149577.jpg"
+    alt: "Ancient site"
+  - path: "/assets/images/hero/syria-2932498_1920.jpg"
+    alt: "Syrian architecture"
+  - path: "/assets/images/hero/egypt-1197834_1920.jpg"
+    alt: "Egyptian pyramids"
+  - path: "/assets/images/hero/stilt-houses-228373_1920.jpg"
+    alt: "Stilt houses"

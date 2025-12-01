@@ -1,0 +1,26 @@
+title: "Unser Dienste"
+subtitle: "Entdecken Sie unsere Angebote für die Forschung mit materiellen Objekten"
+bg: "bg-white"
+focus: "focus-sand"
+centered: true
+columns: 3
+items:
+  - image: "assets/images/logos/arbodat_500px.png"
+    title: "ArboDat+ — Wenn Pflanzenreste die Geschichte erzählen."
+    text: "ArboDat ist ein Softwarepaket zur Erfassung und zum Import von Daten aus archäobotanischen Untersuchungen uralter Pflanzenreste. "
+    url: "/angebote/forschung/"
+    bg: "bg-sand-light-img"
+  - image: "assets/images/logos/fundlogbuch_logo_500px.png"
+    title: "Fund-Logbuch — Archäologie wird digital und bürgernah!"
+    text: "Das Fund-Logbuch ist eine neue digitale Lösung, die die Zusammenarbeit zwischen Denkmalbehörden und engagierten Bürgerinnen und Bürgern revolutioniert. "
+    url: "/angebote/lernen/"
+    bg: "bg-sand-light-img"
+  - image: "assets/images/logos/idaifield_logo.png"
+    title: "iDAIfield — Grabungsarbeit einfacher und schneller vergleichen! "
+    text: "Das Projekt iDAIfield entwickelt eine fortschrittliche Software zur digitalen Erfassung und Veröffentlichung von Grabungsergebnissen. "
+    url: "/community/institutionen/"
+    bg: "bg-sand-light-img"
+section_button:
+  label: "Alle Dienste entdecken"
+  url: "/services/all/"
+  style: "btn-primary"

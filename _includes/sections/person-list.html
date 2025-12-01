@@ -1,0 +1,111 @@
+{% comment %}
+Wiederverwendbare Komponente für gefilterte Personenlisten
+
+Parameter:
+  - group: Filter nach Gruppe (z.B. "coordination_office", "steering_committee", "advisory_board")
+  - institution: Filter nach Institution (z.B. "dai")
+  - area: Filter nach Task Area (z.B. "ta1")
+  - lang: Sprache (default: page.lang)
+  - title: Optional - Überschrift für die Sektion
+  - show_institution: true/false - Zeige Institution bei jeder Person
+  - show_areas: true/false - Zeige Task Areas bei jeder Person
+  - layout: "grid" oder "list" (default: grid)
+
+Beispiel:
+{% include sections/person-list.html
+    group="coordination_office"
+    title="Koordinationsbüro"
+    show_institution=true
+    layout="grid"
+%}
+{% endcomment %}
+
+{% assign lang = include.lang | default: page.lang | default: site.default_lang %}
+{% assign persons_filtered = "" | split: "" %}
+
+{% comment %} Personen filtern (OPTIMIZED - filter by language first) {% endcomment %}
+{% assign persons_by_lang = site.persons | where: "lang", lang %}
+
+{% for person in persons_by_lang %}
+  {% assign match = true %}
+
+  {% comment %} Filter nach Gruppe {% endcomment %}
+  {% if include.group %}
+    {% unless person.groups contains include.group %}
+      {% assign match = false %}
+    {% endunless %}
+  {% endif %}
+
+  {% comment %} Filter nach Institution {% endcomment %}
+  {% if include.institution and match %}
+    {% unless person.institution == include.institution %}
+      {% assign match = false %}
+    {% endunless %}
+  {% endif %}
+
+  {% comment %} Filter nach Area {% endcomment %}
+  {% if include.area and match %}
+    {% unless person.areas contains include.area %}
+      {% assign match = false %}
+    {% endunless %}
+  {% endif %}
+
+  {% if match %}
+    {% assign persons_filtered = persons_filtered | push: person %}
+  {% endif %}
+{% endfor %}
+
+{% comment %} Ausgabe {% endcomment %}
+{% if persons_filtered.size > 0 %}
+<section class="person-list-section">
+  {% if include.title %}
+  <h2>{{ include.title }}</h2>
+  {% endif %}
+
+  <div class="person-list person-list--{{ include.layout | default: 'grid' }}">
+    {% for person in persons_filtered %}
+    <div class="person-card">
+      {% if person.image %}
+      <div class="person-card__image">
+        <img src="{{ person.image | relative_url }}" alt="{{ person.title }}" loading="lazy">
+      </div>
+      {% endif %}
+
+      <div class="person-card__content">
+        <h3 class="person-card__name">
+          <a href="{{ person.url | relative_url }}">{{ person.title }}</a>
+        </h3>
+
+        {% if person.position %}
+        <p class="person-card__position">{{ person.position }}</p>
+        {% endif %}
+
+        {% if include.show_institution and person.institution %}
+          {% assign institution_data = site.data[lang].institutions | where: "id", person.institution | first %}
+          {% if institution_data %}
+          <p class="person-card__institution">{{ institution_data.name }}</p>
+          {% endif %}
+        {% endif %}
+
+        {% if person.email %}
+        <p class="person-card__email">
+          <a href="mailto:{{ person.email }}">{{ person.email }}</a>
+        </p>
+        {% endif %}
+
+        {% if include.show_areas and person.areas %}
+        <div class="person-card__areas">
+          {% for area_id in person.areas %}
+            {% assign area = site.areas | where: "id", area_id | where: "lang", lang | first %}
+            {% if area %}
+            <span class="badge">{{ area.title }}</span>
+            {% endif %}
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

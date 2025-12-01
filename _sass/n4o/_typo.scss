@@ -1,0 +1,134 @@
+@use './variables' as *;
+
+body {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    line-height: 1.4;
+    color: var(--color-blue-dark);
+    font-size: var(--font-size-base);
+
+    @media (min-width: $device-sm) {
+        font-size: var(--font-size-md);
+        line-height: 1.6;
+    }
+}
+h1 {
+    font-size: var(--font-size-3xl);  
+   font-size: clamp(1.4rem, 1.2667rem + 0.7111vw, 2rem);
+    margin-bottom: var(--spacing-xl);
+    color: var(--color-blue-dark);
+    text-align: center;
+    position: relative;
+}
+h1, .card figcaption a {
+     hyphens: auto;
+     hyphenate-limit-chars: 6 3 3;
+     hyphenate-limit-lines: 2;
+     hyphenate-limit-last: always;
+     hyphenate-limit-zone: 8%;
+
+}
+h1:has(+ .lead) {
+    margin-bottom: var(--spacing-sm);  
+}
+.lead, p:has(+ .grid-12) {
+     margin-bottom: var(--spacing-xl);
+}
+.lead {
+@media (min-width: $device-sm) {
+    font-size: var(--font-size-lg);  
+ }
+}
+h2 {
+    font-size: var(--font-size-xl);  
+    margin-top: var(--spacing-md);   
+    margin-bottom: var(--spacing-md);    
+    color: var(--color-blue-dark);
+}
+p + h2 {
+    padding-top: var(--spacing-md);   ;
+}
+h2 + h3 {
+   padding-top: 0;
+}
+header {
+    h2 {
+        text-align: center;
+    }
+    h3 {
+        padding-top: 20px;
+    }
+}
+h3, .h3, .size-md{
+    font-size: var(--font-size-xl);
+    color: var(--color-blue-dark);
+    padding: 20px 0;
+}
+h4,
+.h4, .size-sm {
+    font-size: var(--font-size-md);
+}
+
+.card h2 {
+    font-size: var(--font-size-lg);
+    line-height: 1.5;
+}
+.profile {
+h2 {
+     font-size: var(--font-size-xl);
+    margin-bottom: 0;
+    }
+}
+p {
+    margin-bottom: var(--spacing-md);
+    color: var(--color-blue-dark);
+    font-size: var(--font-size-md);
+}
+
+/* p:last-of-type {
+    margin-bottom: var(--spacing-xl);
+} */
+
+a {
+    color: var(--color-blue);
+    text-decoration: none;
+    transition: color var(--transition-fast);
+
+    &:hover,
+    &:focus {
+        color: var(--color-blue-dark);
+        text-decoration: underline;
+        text-decoration-thickness: auto;
+        text-underline-offset: 4px;
+        text-decoration-thickness: 1px;
+    }
+}
+
+ul,
+ol {
+    list-style-position: inside;
+}
+
+footer,
+footer p {
+    font-size: var(--font-size-base);
+}
+
+footer {
+    h3 {
+        padding: 0;
+    }
+}
+strong, b, .strong {
+    font-weight: 700;
+}
+.section-intro {
+    font-size: var(--font-size-lg);
+    font-weight: 700;
+    @media (min-width: $device-sm) {
+          max-width: 80%;
+    }
+}
+i:not(.fa-brands, .fa-solid) {
+    padding-right: 8px;
+}

@@ -1,0 +1,10 @@
+---
+layout: organisation-group-ttl
+permalink: /about/people/persons/index.ttl
+group: all
+lang: de
+title_de: "Alle Personen"
+title_en: "All Persons"
+description_de: "Vollständige Übersicht aller in NFDI4Objects beteiligten Personen"
+description_en: "Complete overview of all persons involved in NFDI4Objects"
+---

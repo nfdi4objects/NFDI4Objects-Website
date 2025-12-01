@@ -1,0 +1,113 @@
+{% comment %}
+  ========================================
+  KACHEL-VORLAGE
+  ========================================
+
+  Diese Vorlage erstellt Kachel-Layouts mit folgenden Optionen.
+
+  VERWENDUNG:
+  {% include teaser-cards.html
+     cards=page.cards
+     columns=3
+     bg_color="bg-sand"
+     text_align="text-center"
+  %}
+
+  PARAMETER:
+
+  cards: Array von Kachel-Objekten mit folgenden Eigenschaften:
+    - title: Überschrift (Pflicht)
+    - url: Link-Ziel (optional, macht Überschrift klickbar)
+    - icon: Pfad zu Icon/Bild (optional)
+    - image: Alternativer Pfad für größeres Bild (optional)
+    - description: Beschreibungstext (optional, kann HTML enthalten)
+    - bg_color: Hintergrundfarbe für diese Kachel (optional, überschreibt globale bg_color)
+    - button_text: Text für Button (optional)
+    - button_url: Link für Button (optional)
+    - button_style: Button-Stil: "primary", "secondary", "outline" (default: "primary")
+
+  columns: Anzahl der Spalten (1-12, default: 3)
+  bg_color: Hintergrundfarbe für alle Kacheln (default: "bg-sand")
+           Mögliche Werte: bg-white, bg-sand-light, bg-sand, bg-sand-dark,
+                          bg-beige-light, bg-beige, bg-beige-dark
+  text_align: Textausrichtung (default: "text-center")
+             Mögliche Werte: text-center, text-left, text-right
+
+  BEISPIELE:
+
+  1. Einfache Service-Kacheln:
+  ---
+  cards:
+    - title: "Service 1"
+      icon: "/assets/icons/service1.svg"
+      url: "/services/service1/"
+      description: "Beschreibung des Services"
+  ---
+  {% include teaser-cards.html cards=page.cards columns=3 %}
+
+  2. Kacheln mit unterschiedlichen Farben:
+  ---
+  cards:
+    - title: "Service 1"
+      icon: "/assets/icons/service1.svg"
+      bg_color: "bg-sand-light"
+      description: "Helle Kachel"
+    - title: "Service 2"
+      icon: "/assets/icons/service2.svg"
+      bg_color: "bg-beige"
+      description: "Beige Kachel"
+  ---
+  {% include teaser-cards.html cards=page.cards columns=2 bg_color="bg-white" %}
+
+  3. Kacheln mit Buttons:
+  ---
+  cards:
+    - title: "Service 1"
+      description: "Beschreibung"
+      button_text: "Mehr erfahren"
+      button_url: "/services/service1/"
+      button_style: "primary"
+  ---
+  {% include teaser-cards.html cards=page.cards columns=3 text_align="text-left" %}
+{% endcomment %}
+
+{% assign bg_color = include.bg_color | default: "bg-sand" %}
+{% assign text_align = include.text_align | default: "text-center" %}
+
+<div class="card-flex {{ text_align }}">
+  {% for card in include.cards %}
+  {% assign card_bg = card.bg_color | default: bg_color %}
+  <div class="card {{ card_bg }}">
+    <figure>
+      {% comment %} Icon oder Bild {% endcomment %}
+      {% if card.image %}
+      <img src="{{ card.image }}" alt="{{ card.title }}" class="card-img">
+      {% elsif card.icon %}
+      <img src="{{ card.icon }}" alt="{{ card.title }}">
+      {% endif %}
+
+      {% comment %} Überschrift - mit oder ohne Link {% endcomment %}
+      <figcaption>
+        {% if card.url %}
+        <a href="{{ card.url | relative_url }}">{{ card.title }}</a>
+        {% else %}
+        {{ card.title }}
+        {% endif %}
+      </figcaption>
+
+      {% comment %} Beschreibung {% endcomment %}
+      {% if card.description %}
+      <p>{{ card.description }}</p>
+      {% endif %}
+
+      {% comment %} Optionaler Button {% endcomment %}
+      {% if card.button_text and card.button_url %}
+      {% assign btn_style = card.button_style | default: "primary" %}
+      <a href="{{ card.button_url | relative_url }}" class="btn btn-{{ btn_style }}">
+        {{ card.button_text }}
+      </a>
+      {% endif %}
+    </figure>
+  </div>
+  {% endfor %}
+</div>

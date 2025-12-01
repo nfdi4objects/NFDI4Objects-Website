@@ -1,0 +1,66 @@
+@use './variables' as *;
+.site-header {
+    background-color: var(--color-white);
+    box-shadow: var(--shadow-sm);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+
+    @media (min-width: $device-m){
+    padding-top: 1.25rem;
+    padding-bottom:1.25rem;
+    }
+}
+
+.logo-container {
+    flex-shrink: 0;
+    transform: translateY(-25px);
+    z-index: 5;
+}
+.logo-container  a{
+   position: absolute;
+   display: flex;
+   justify-content: center;
+   align-content: center;
+    border-radius: 50%;
+    background: white;
+    width: 80px;
+   height: 80px;
+ @media (min-width: $device-m){
+   width: 100px;
+   height: 100px;
+   }
+
+}
+.logo {
+    position: relative;
+    height: 60px;
+    width: 60px;
+    transition: width 0.3s, height 0.3s;
+  @media (min-width: $device-m) {
+            height: 80px;
+            width: 80px;
+        }   
+}
+
+.logo-container  a {
+    transition: width 0.3s, height 0.3s;
+}
+
+// Verkleinerte Variante bei Scroll
+.site-header.scrolled .logo-container a {
+    width: 60px;
+    height: 60px;
+}
+.site-header.scrolled .logo {
+    width: 50px;
+    height: 50px;
+}

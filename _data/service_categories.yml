@@ -1,0 +1,224 @@
+# NFDI Service Categories (technisch, aus alter Website)
+nfdi_categories:
+  - id: data-curation
+    name_de: "Datenkuration"
+    name_en: "Data Curation"
+    icon: "fa-database"
+
+  - id: databases
+    name_de: "Datenbanken"
+    name_en: "Databases"
+    icon: "fa-table"
+
+  - id: libraries
+    name_de: "Bibliotheken"
+    name_en: "Libraries"
+    icon: "fa-book"
+
+  - id: storage
+    name_de: "Speicherung"
+    name_en: "Storage"
+    icon: "fa-archive"
+
+  - id: support
+    name_de: "Beratung & Support"
+    name_en: "Support/Consulting"
+    icon: "fa-question-circle"
+
+  - id: tools
+    name_de: "Tools & Anwendungen"
+    name_en: "Tools/Applications"
+    icon: "fa-wrench"
+
+  - id: training
+    name_de: "Schulung & Training"
+    name_en: "Training"
+    icon: "fa-graduation-cap"
+
+  - id: web-apps
+    name_de: "Web-Anwendungen"
+    name_en: "Web Applications"
+    icon: "fa-globe"
+
+  - id: workflows
+    name_de: "Workflows & Pipelines"
+    name_en: "Workflows/Pipelines"
+    icon: "fa-project-diagram"
+
+# Lebenszyklus-Phasen (Navigation)
+lifecycle_phases:
+  - id: planung
+    name_de: "Planung des Forschungsvorhabens"
+    name_en: "Planning Research Projects"
+    description_de: "Unterstützung bei der Konzeption und Vorbereitung von Projekten"
+    description_en: "Support for project conception and preparation"
+    url_de: "/services/planning/"
+    url_en: "/en/services/planning/"
+
+  - id: erhebung
+    name_de: "Erhebung der Daten"
+    name_en: "Data Collection"
+    description_de: "Werkzeuge für die primäre Datenerfassung im Feld und Labor"
+    description_en: "Tools for primary data capture in the field and laboratory"
+    url_de: "/services/collection/"
+    url_en: "/en/services/collection/"
+
+  - id: verarbeitung
+    name_de: "Verarbeitung und Analyse der Daten"
+    name_en: "Data Processing and Analysis"
+    description_de: "Dienste zur Aufbereitung, Auswertung und Interpretation"
+    description_en: "Services for data preparation, evaluation, and interpretation"
+    url_de: "/services/processing/"
+    url_en: "/en/services/processing/"
+
+  - id: archivierung
+    name_de: "Archivierung von Daten"
+    name_en: "Data Archiving"
+    description_de: "Langfristige und sichere Speicherung von Forschungsdaten"
+    description_en: "Long-term and secure storage of research data"
+    url_de: "/services/archiving/"
+    url_en: "/en/services/archiving/"
+
+  - id: datenzugang
+    name_de: "Datenzugang ermöglichen"
+    name_en: "Enabling Data Access"
+    description_de: "Veröffentlichung und Bereitstellung von Daten nach FAIR-Prinzipien"
+    description_en: "Publishing and providing data according to FAIR principles"
+    url_de: "/services/access/"
+    url_en: "/en/services/access/"
+
+  - id: nachnutzung
+    name_de: "Nachnutzung von Daten"
+    name_en: "Data Reuse"
+    description_de: "Wiederverwendung existierender Daten für neue Fragestellungen"
+    description_en: "Reusing existing data for new research questions"
+    url_de: "/services/reuse/"
+    url_en: "/en/services/reuse/"
+
+  - id: lernen-beraten
+    name_de: "Lernen & Beraten"
+    name_en: "Learning & Consulting"
+    description_de: "Schulungs- und Beratungsangebote sowie Wissensvermittlung"
+    description_en: "Training, consulting, and knowledge transfer"
+    url_de: "/services/learning-consulting/"
+    url_en: "/en/services/learning-consulting/"
+
+# Service-Typen (detaillierter, hierarchisch)
+# Basierend auf der NFDI-Klassifikation von der alten Website
+service_types:
+  # Einfache Service-Typen (für Abwärtskompatibilität)
+  - id: repository
+    name_de: "Repositorium"
+    name_en: "Repository"
+
+  - id: database
+    name_de: "Datenbank"
+    name_en: "Database"
+
+  - id: api
+    name_de: "API / Schnittstelle"
+    name_en: "API / Interface"
+
+  - id: tool
+    name_de: "Software-Tool"
+    name_en: "Software Tool"
+
+  - id: webapp
+    name_de: "Web-Anwendung"
+    name_en: "Web Application"
+
+  - id: consulting
+    name_de: "Beratungsangebot"
+    name_en: "Consulting Service"
+
+  - id: training
+    name_de: "Schulungsangebot"
+    name_en: "Training Service"
+
+  - id: infrastructure
+    name_de: "Infrastruktur"
+    name_en: "Infrastructure"
+
+  - id: standard
+    name_de: "Standard / Vokabular"
+    name_en: "Standard / Vocabulary"
+
+# NFDI Service-Typen (hierarchisch strukturiert)
+nfdi_service_types:
+  # Community, Support and Qualification service
+  - id: cres
+    name_de: "Catalogue and Registry Services (CReS)"
+    name_en: "Catalogue and Registry Services (CReS)"
+    category: "community-support"
+
+  - id: quas
+    name_de: "Qualification Services (QuaS)"
+    name_en: "Qualification Services (QuaS)"
+    category: "community-support"
+
+  - id: sus
+    name_de: "Support Services (SuS)"
+    name_en: "Support Services (SuS)"
+    category: "community-support"
+
+  # FAIRification service - Data Management
+  - id: dms
+    name_de: "Data Management Services"
+    name_en: "Data Management Services"
+    category: "fairification"
+
+  - id: dcs
+    name_de: "Data Capturing Services"
+    name_en: "Data Capturing Services"
+    category: "fairification"
+
+  - id: des
+    name_de: "Data Enrichment Services"
+    name_en: "Data Enrichment Services"
+    category: "fairification"
+
+  - id: dds
+    name_de: "Data Discovery Services"
+    name_en: "Data Discovery Services"
+    category: "fairification"
+
+  - id: dcons
+    name_de: "Data Connecting Services"
+    name_en: "Data Connecting Services"
+    category: "fairification"
+
+  - id: dps
+    name_de: "Data Preservation Services"
+    name_en: "Data Preservation Services"
+    category: "fairification"
+
+  # FAIRification service - Specific Services
+  - id: avs
+    name_de: "Authority File and Vocabulary Services (AVS)"
+    name_en: "Authority File and Vocabulary Services (AVS)"
+    category: "fairification"
+
+  - id: ints
+    name_de: "Interoperability Services (IntS)"
+    name_en: "Interoperability Services (IntS)"
+    category: "fairification"
+
+  - id: das
+    name_de: "Data Services (DaS)"
+    name_en: "Data Services (DaS)"
+    category: "fairification"
+
+  - id: sas
+    name_de: "Software Application Services (SAS)"
+    name_en: "Software Application Services (SAS)"
+    category: "fairification"
+
+  - id: dis
+    name_de: "Discovery Services (DiS)"
+    name_en: "Discovery Services (DiS)"
+    category: "fairification"
+
+  - id: stos
+    name_de: "Storage Services (StoS)"
+    name_en: "Storage Services (StoS)"
+    category: "fairification"

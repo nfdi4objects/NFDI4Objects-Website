@@ -1,0 +1,46 @@
+/* 
+ * NFDI4Objects Website Styles
+ * Basierend auf dem Corporate Design mit den Farben:
+ * #FFFFFF, #EEEAE0, #CFC5BA, #13294B, #0084FF
+ * Erweiterte Palette: #EEEAE0, #E7C6AC, #D89E76, #CD8255, #CFC5BA, #BCA089
+ * Schriftart: PT Sans (Regular & Bold)
+ */
+
+
+@use './reset';
+@use './variables' as *;
+@use './fonts';
+@use './basic';
+@use './typo';
+@use './section';
+@use './colors';
+@use './buttons';
+@use './icons-imgs';
+@use './card';
+@use './grid';
+@use './header';
+@use './navigation';
+@use './breadcrumb';
+@use './hero';
+@use './footer';
+@use './search';
+@use './news-events';
+@use './persons'; 
+@use './services-filter'; 
+@use './dynamic-content'; 
+@use './form';
+@use './infobox'
+
+
+   
+
+/* body {
+  font-size: calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width])));
+}
+
+Im folgenden Beispiel ist unsere Schriftgröße 2.8vw und skaliert somit bei Veränderung der Viewport-Breite mit. Durch die Angaben min = 1em (16px) und max = 1.75em (28px) definierten wir die Range, in der unsere Schriftgröße sich verändern darf und wo ihr die Grenzen gesetzt werden.
+
+body {
+   font-size: clamp(1em, 2.8vw, 1.75em);
+}*/
+

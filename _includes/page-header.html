@@ -1,0 +1,89 @@
+{% comment %}
+  ========================================
+  UNIVERSELLE SEITEN-ÜBERSCHRIFT
+  ========================================
+
+  Diese Vorlage erstellt flexible Überschriften mit Icon/Bild und Text.
+  Kann frei innerhalb von Sections positioniert werden.
+
+  VERWENDUNG:
+  {% include page-header.html
+     icon="/assets/icons/icon.svg"
+     title="Überschrift"
+     text="Beschreibungstext"
+     align="center"
+  %}
+
+  PARAMETER:
+
+  icon: Pfad zum Icon/Bild (optional)
+  image: Pfad zu größerem Bild (optional, alternative zu icon)
+  icon_class: CSS-Klasse für Icon/Bild (optional, z.B. "icon-lg" für größere Icons)
+  title: Hauptüberschrift (optional)
+  title_tag: HTML-Tag für Titel (h1, h2, h3, etc., default: "h1")
+  subtitle: Untertitel (optional)
+  text: Beschreibungstext (optional, unterstützt Markdown)
+  align: Ausrichtung - "left", "center", "right" (default: "center")
+
+  BEISPIELE:
+
+  1. Einfache Überschrift mit Icon:
+  {% include page-header.html
+     icon="/assets/icons/dienste.svg"
+     title="Unsere Services"
+     text="Hier finden Sie alle Angebote"
+  %}
+
+  2. Überschrift mit Untertitel:
+  {% include page-header.html
+     icon="/assets/icons/trails.svg"
+     title="TRAILS"
+     subtitle="Task Related Activities for Implementation and Launch of Services"
+     text="Pilotprojekte für innovative Lösungen"
+  %}
+
+  3. Linksbündige Überschrift ohne Icon:
+  {% include page-header.html
+     title="Technische Infrastruktur"
+     text="NFDI4Objects entwickelt verschiedene Infrastrukturdienste"
+     align="left"
+  %}
+
+  4. Mit großem Icon:
+  {% include page-header.html
+     icon="/assets/icons/hero.svg"
+     icon_class="icon-lg"
+     title="Willkommen"
+  %}
+{% endcomment %}
+
+{% assign align = include.align | default: "center" %}
+{% assign title_tag = include.title_tag | default: "h1" %}
+
+<header class="text-{{ align }}">
+  {% comment %} Icon oder Bild {% endcomment %}
+  {% if include.image %}
+  <figure class="section-icon {{ include.icon_class }}">
+    <img src="{{ include.image | relative_url }}" alt="{{ include.title }}">
+  </figure>
+  {% elsif include.icon %}
+  <figure class="section-icon {{ include.icon_class }}">
+    <img src="{{ include.icon | relative_url }}" alt="{{ include.title }}">
+  </figure>
+  {% endif %}
+
+  {% comment %} Hauptüberschrift {% endcomment %}
+  {% if include.title %}
+  <{{ title_tag }}>{{ include.title }}</{{ title_tag }}>
+  {% endif %}
+
+  {% comment %} Untertitel {% endcomment %}
+  {% if include.subtitle %}
+  <p class="lead text-{{ align }}">{{ include.subtitle }}</p>
+  {% endif %}
+</header>
+
+{% comment %} Beschreibungstext {% endcomment %}
+{% if include.text %}
+<p class="section-intro">{{ include.text | markdownify }}</p>
+{% endif %}

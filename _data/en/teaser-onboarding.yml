@@ -1,0 +1,31 @@
+title: "New here?"
+subtitle: "Choose your starting point"
+bg: "bg-sand-light-img"
+focus: "focus-white"
+centered: true
+columns: 4
+items:
+  - icon: "fas fa-microscope"
+    title: "Researchers"
+    text: "Discover tools and services for your research on material objects."
+    button: "Go to Research"
+    url: "/en/offers/research/"
+    bg: "bg-sand"
+
+  - icon: "fas fa-user-graduate"
+    title: "Students"
+    text: "Learn the basics of research data infrastructures and data management."
+    button: "Go to Learning Materials"
+    url: "/en/offers/learning/"
+
+  - icon: "fas fa-building"
+    title: "Institutions"
+    text: "Learn more about cooperation opportunities and partnerships."
+    button: "Go to Institutions"
+    url: "/en/community/institutions/"
+
+  - icon: "fas fa-code"
+    title: "Developers"
+    text: "Access technical documentation and APIs for developers."
+    button: "Go to Developer Area"
+    url: "/en/developer/"

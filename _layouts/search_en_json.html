@@ -1,0 +1,20 @@
+---
+layout: none
+---
+[
+{% assign all_docs = site.pages %}
+{% for coll in site.collections %}
+  {% assign all_docs = all_docs | concat: coll.docs %}
+{% endfor %}
+{% assign searchable = all_docs | where_exp: "p", "p.search != false" %}
+{% assign searchable = searchable | where: "lang", "en" %}
+{% for page in searchable %}
+  {
+    "title": {{ page.title | jsonify }},
+    "content": {{ page.content | strip_html | normalize_whitespace | truncatewords: 60 | jsonify }},
+    "url": {{ page.url | absolute_url | jsonify }},
+    "type": {% if page.collection == "persons" %}"person"{% elsif page.url contains "/areas/" %}"area"{% elsif page.url contains "/news/" %}"news"{% else %}"page"{% endif %},
+    "tags": {% if page.url contains "/news/" %}[]{% elsif page.tags_en %}{{ page.tags_en | jsonify }}{% elsif page.tags %}{{ page.tags | jsonify }}{% else %}[]{% endif %}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]

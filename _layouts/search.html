@@ -1,0 +1,52 @@
+---
+layout: n4o-base
+title: Suche
+---
+
+<section class="search-section">
+  {% if page.lang == "en" %}
+    <h1>Search</h1>
+  {% else %}
+    <h1>Suche</h1>
+  {% endif %}
+
+  <input
+    type="text"
+    id="search-input"
+    {% if page.lang == "en" %}
+      placeholder="Type to search…"
+    {% else %}
+      placeholder="Suchbegriff eingeben…"
+    {% endif %}
+    autofocus
+  >
+
+  <div class="search-filters">
+    <button data-filter="all" class="active">
+      {% if page.lang == "en" %}All{% else %}Alle{% endif %}
+    </button>
+    <button data-filter="person">
+      {% if page.lang == "en" %}People{% else %}Personen{% endif %}
+    </button>
+    <button data-filter="area">
+      {% if page.lang == "en" %}Areas{% else %}Bereiche{% endif %}
+    </button>
+    <button data-filter="news">
+      {% if page.lang == "en" %}News{% else %}Nachrichten{% endif %}
+    </button>
+  </div>
+
+  <ul id="search-results" class="search-results"></ul>
+</section>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const lang = "{{ page.lang | default: 'de' }}";
+    const searchIndex = lang === "en" ? "/en/search.json" : "/search.json";
+    if (typeof initSearch === "function") {
+      initSearch(searchIndex, lang);
+    } else {
+      console.error("initSearch() not found – check search.js inclusion order.");
+    }
+  });
+</script>

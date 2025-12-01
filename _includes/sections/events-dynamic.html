@@ -1,0 +1,61 @@
+{% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
+{% assign filtered = site.events | where: "lang", include.lang | sort: "event_date" | reverse %}
+
+{% if filtered.size == 0 %}
+  <p class="no-events">
+    {% if include.lang == "en" %}
+      No events available.
+    {% else %}
+      Keine Veranstaltungen verfügbar.
+    {% endif %}
+  </p>
+{% else %}
+  <section class="{{ include.bg | default: 'bg-sand' }}  space-top-0">
+    <div class="container">
+      <header>
+        <h1>{{ include.title | default: "Veranstaltungen" }}</h1>
+      </header>
+
+      <div class="col3-grid">
+        {% for item in filtered limit: include.limit %}
+          {% assign has_image = item.teaser_image %}
+          <article class="card {% if has_image %}teaser-img{% endif %}">
+            {% if has_image %}
+              <img src="{{ item.teaser_image }}"
+                   {% if item.teaser_image_srcset %}srcset="{{ item.teaser_image_srcset }}"{% endif %}
+                   {% if item.teaser_image_srcset %}sizes="{{ item.teaser_image_sizes | default: '(min-width: 768px) 600px, 100vw' }}"{% endif %}
+                   alt="{{ item.teaser_image_alt | default: item.title }}">
+              <div class="card-content">
+            {% endif %}
+                <div class="card-date">
+                  <i class="fa fa-calendar-days" aria-hidden="true"></i>
+                  {{ item.event_date | date: "%-d. %B %Y" }}
+                  {% if item.event_end_date %} - {{ item.event_end_date | date: "%-d. %B %Y" }}{% endif %}
+                </div>
+                {% if item.location %}
+                <div class="card-location">
+                  <i class="fa fa-location-pin" aria-hidden="true"></i>
+                  {{ item.location }}
+                </div>
+                {% endif %}
+                <h2><a href="{{ item.url | relative_url }}" class="read-more">{{ item.title }}</a></h2>
+                <p>                  
+                    {{ item.excerpt | default: item.content | strip_html | truncatewords: 30 }}
+                </p>
+            {% if has_image %}
+              </div>
+            {% endif %}
+          </article>
+        {% endfor %}
+      </div>
+
+      {% if include.all_url %}
+        <div class="text-center">
+          <a href="{{ include.all_url | relative_url }}" class="btn btn-primary">
+            {% if include.lang == "en" %}All Events{% else %}Alle Veranstaltungen{% endif %}
+          </a>
+        </div>
+      {% endif %}
+    </div>
+  </section>
+{% endif %}

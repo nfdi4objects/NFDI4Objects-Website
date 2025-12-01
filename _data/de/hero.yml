@@ -1,0 +1,32 @@
+# Hero-Bereich für die Startseite
+
+title: "NFDI4Objects"
+subtitle: "Forschungsdateninfrastruktur für materielle Objekte"
+description: "Wir unterstützen Forschende bei der Verwaltung, Analyse und Veröffentlichung von Forschungsdaten zu materiellen Objekten."
+
+# Button zum Hauptinhalt springen
+skip_to_content:
+  text: "zum Hauptinhalt springen"
+  icon: "/assets/icons/focus-N4O.svg"
+  target: "#main-content"
+
+# Liste der Hero-Hintergrundbilder
+# Ein zufälliges Bild wird beim Laden der Seite ausgewählt
+# Bilder sollten mindestens 1920px breit und querformatig sein  für beste Darstellung
+background_images:
+  - path: "/assets/images/hero/egypt-3326900_1920.jpg"
+    alt: "Ägyptische Tempelanlage"
+  - path: "/assets/images/hero/hero-NFDI4Objects_2025.jpg"
+    alt: "NFDI4Objects 2025"
+  - path: "/assets/images/hero/pexels-berfintage-2153843733-34087936.jpg"
+    alt: "Archäologische Funde"
+  - path: "/assets/images/hero/pexels-janeth-charris-468202554-17428774.jpg"
+    alt: "Historische Objekte"
+  - path: "/assets/images/hero/pexels-murat-halici-294274529-34149577.jpg"
+    alt: "Antike Stätte"
+  - path: "/assets/images/hero/syria-2932498_1920.jpg"
+    alt: "Syrische Architektur"
+  - path: "/assets/images/hero/egypt-1197834_1920.jpg"
+    alt: "Ägyptische Pyramiden"
+  - path: "/assets/images/hero/stilt-houses-228373_1920.jpg"
+    alt: "Pfahlbauten"

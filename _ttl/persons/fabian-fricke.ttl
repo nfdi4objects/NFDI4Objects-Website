@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/fabian-fricke/index.ttl
+source: person-fabian-fricke
+---

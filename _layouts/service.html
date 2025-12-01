@@ -1,0 +1,68 @@
+---
+layout: n4o-base
+---
+
+<main id="main-content" class="service">
+  <div class="container">
+    {% include breadcrumb.html %}
+
+    <article class="service-content">
+      <header class="service-header">
+        {% if page.logo %}
+        <div class="service-logo">
+          <img src="{{ page.logo | relative_url }}" alt="{{ page.title }}" />
+        </div>
+        {% endif %}
+
+        <h1>{{ page.title }}</h1>
+
+        {% if page.short_title %}
+        <p class="service-subtitle lead">{{ page.short_title }}</p>
+        {% endif %}
+
+      </header>
+
+      {% comment %} Service Infobox - Metadaten direkt nach Header {% endcomment %}
+      {% include service-infobox.html %}
+
+      {% comment %} Main Content {% endcomment %}
+      <div class="service-body">
+        {{ content }}
+      </div>
+
+      {% comment %} 1. Access-Button {% endcomment %}
+      {% if page.access_url %}
+      <p class="text-center space">
+        <a href="{{ page.access_url }}" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
+          {{ page.title }} {% if page.lang == "en" %}use{% else %}nutzen{% endif %}
+        </a>
+      </p>
+      {% endif %}
+
+      {% comment %} 2. Kontakt-Sektion {% endcomment %}
+      {% if page.coordinators or page.contact_email %}
+      <section class="service-contact space-md">
+        <h3 class="arrow arrow-left">{% if page.lang == "en" %}Contact{% else %}Kontakt{% endif %}</h3>
+
+        {% if page.coordinators %}
+          {% include coordinators-list.html
+             coordinators=page.coordinators
+             title="Ansprechpartner"
+             title_en="Contact Persons"
+          %}
+        {% endif %}
+
+        {% if page.contact_email %}
+        <p>
+          <a href="mailto:{{ page.contact_email }}">{{ page.contact_email }}</a>
+        </p>
+        {% endif %}
+      </section>
+      {% endif %}
+
+      {% comment %} 3. Dynamische Inhalte (Querverbindungen: Areas, CCs, Trails, TWGs, etc.) {% endcomment %}
+      {% include dynamic-content.html %}
+
+    </article>
+  </div>
+</main>

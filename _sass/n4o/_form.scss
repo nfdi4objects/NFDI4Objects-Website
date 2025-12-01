@@ -1,0 +1,74 @@
+@use './variables' as *;
+#helpdeskform {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Leichter Schatten */
+    width: 100%;
+    max-width: 600px; /* Begrenzte Breite für bessere Lesbarkeit */
+    margin: 0 auto;
+}
+
+/* Stil für alle Text-Inputs, Email-Input, Select und Textarea */
+#helpdeskform input[type="text"],
+#helpdeskform input[type="email"],
+#helpdeskform select,
+#helpdeskform textarea {
+    width: 100%; /* Volle Breite im Formular */
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; /* Stellt sicher, dass Padding und Border innerhalb der Breite sind */
+}
+
+/* Spezieller Stil für die Textarea, da sie größer sein sollte */
+#helpdeskform textarea {
+    resize: vertical; /* Nur vertikales Skalieren erlauben */
+    min-height: 100px;
+}
+
+/* Stil für Checkbox-Beschriftung */
+#helpdeskform label[for="readdataprotection"] {
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 0.9em;
+}
+
+#helpdeskform a {
+    color: var(--color-blue); /* Hellerer Link-Farbe */
+    text-decoration: none;
+}
+
+#helpdeskform a:hover {
+    text-decoration: underline;
+}
+
+/* Stil für Submit und Reset Buttons */
+#helpdeskform input[type="submit"],
+#helpdeskform input[type="reset"] {
+    background-color: var(--color-blue); /* Eine angenehme blaue Farbe */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 10px; /* Abstand zwischen den Buttons */
+    transition: background-color 0.3s ease; /* Übergang für Hover-Effekt */
+}
+
+#helpdeskform input[type="submit"]:hover,
+#helpdeskform input[type="reset"]:hover {
+    background-color: var(--color-blue-dark);/* Dunkleres Blau beim Hover */
+}
+
+#helpdeskform input[type="reset"] {
+    background-color: var(--color-sand-dark); /* Graue Farbe für Reset */
+}
+
+#helpdeskform input[type="reset"]:hover {
+    background-color:  var(--color-beige-dark);
+}

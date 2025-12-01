@@ -1,0 +1,26 @@
+---
+layout: page
+title: "Lernen & Beraten"
+description: ""
+keywords: ""
+lang: de
+translation_key: services-learning
+permalink: /services/learning-consulting/
+cards:
+  - title: "Research Software Engineering - Entwickler-Toolkits for Knowledge Modelling"
+    icon: "/assets/icons/dienste/Dienste-Icons-05.svg"
+    url: "#"
+    description: "Werkzeugkästen und Anleitungen zur <strong>semantischen Wissensmodellierung</strong> und Ontologie-Entwicklung."
+  - title: "Objektontologie und Minimal-Metadatensatz für Objekte"
+    icon: "/assets/icons/dienste/Dienste-Icons-07.svg"
+    url: "#"
+    description: "Standards für die <strong>semantische Beschreibung von Objektdaten</strong>. Grundlage für Interoperabilität."
+---
+
+{% include page-header.html
+    icon="/assets/icons/portal/Dienste.svg"
+    title="Lernen & Beraten"
+    subtitle="Schulungs- und Beratungsangebote sowie Wissensvermittlung"
+%}
+
+{% include teaser-cards.html cards=page.cards bg_color="bg-sand" %}

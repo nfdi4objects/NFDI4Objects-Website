@@ -1,0 +1,59 @@
+---
+layout: n4o-base
+---
+
+<main id="main-content" class="twg">
+  <div class="container">
+    {% include breadcrumb.html %}
+
+    <article class="twg-content">
+      <header class="twg-header">
+         <h1 class="focus-ring focus-white"><span>{{ page.title }}</span></h1>
+
+        {% if page.short_title %}
+         <p class="cc-subtitle section-intro">{{ page.short_title }}</p>
+        {% endif %}
+
+        <div class="twg-meta">
+          {% if page.twg_number %}
+          <span class="twg-number">TWG {{ page.twg_number }}</span>
+          {% endif %}
+
+          {% if page.status %}
+          <span class="status-badge {{ page.status }}">
+            {{ page.status }}
+          </span>
+          {% endif %}
+
+          {% if page.start_date %}
+          <span class="twg-date">
+            {{ page.start_date | date: "%d.%m.%Y" }}
+            {% if page.end_date %} - {{ page.end_date | date: "%d.%m.%Y" }}{% endif %}
+          </span>
+          {% endif %}
+        </div>
+      </header>
+
+      {% comment %} Teaser Image - automatisch anzeigen wenn vorhanden {% endcomment %}
+      {% if page.teaser_image %}
+        {% include blocks/image-centered.html
+           image=page.teaser_image
+           srcset=page.teaser_image_srcset
+           sizes=page.teaser_image_sizes
+           alt=page.teaser_image_alt
+           caption=page.teaser_image_caption
+           width="600"
+           class="img-center"
+        %}
+      {% endif %}
+
+      {% comment %} Hauptinhalt {% endcomment %}
+      <div class="twg-body">
+        {{ content }}
+      </div>
+
+      {% comment %} Dynamische Inhalte {% endcomment %}
+      {% include dynamic-content.html %}
+    </article>
+  </div>
+</main>

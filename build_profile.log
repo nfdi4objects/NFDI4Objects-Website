@@ -1,0 +1,20 @@
+C:/tools/ruby27/lib/ruby/gems/2.7.0/gems/bundler-2.1.4/lib/bundler/vendor/thor/lib/thor/error.rb:105:in '<class:Thor>': uninitialized constant DidYouMean::SPELL_CHECKERS (NameError)
+
+    DidYouMean::SPELL_CHECKERS.merge!(
+              ^^^^^^^^^^^^^^^^
+Did you mean?  DidYouMean::SpellChecker
+	from C:/tools/ruby27/lib/ruby/gems/2.7.0/gems/bundler-2.1.4/lib/bundler/vendor/thor/lib/thor/error.rb:1:in '<top (required)>'
+	from C:/tools/ruby27/lib/ruby/gems/2.7.0/gems/bundler-2.1.4/lib/bundler/vendor/thor/lib/thor/base.rb:3:in 'Kernel#require_relative'
+	from C:/tools/ruby27/lib/ruby/gems/2.7.0/gems/bundler-2.1.4/lib/bundler/vendor/thor/lib/thor/base.rb:3:in '<top (required)>'
+	from C:/tools/ruby27/lib/ruby/gems/2.7.0/gems/bundler-2.1.4/lib/bundler/vendor/thor/lib/thor.rb:2:in 'Kernel#require_relative'
+	from C:/tools/ruby27/lib/ruby/gems/2.7.0/gems/bundler-2.1.4/lib/bundler/vendor/thor/lib/thor.rb:2:in '<top (required)>'
+	from C:/tools/ruby27/lib/ruby/gems/2.7.0/gems/bundler-2.1.4/lib/bundler/vendored_thor.rb:8:in 'Kernel#require_relative'
+	from C:/tools/ruby27/lib/ruby/gems/2.7.0/gems/bundler-2.1.4/lib/bundler/vendored_thor.rb:8:in '<top (required)>'
+	from C:/tools/ruby27/lib/ruby/gems/2.7.0/gems/bundler-2.1.4/lib/bundler/ui/shell.rb:3:in 'Kernel#require_relative'
+	from C:/tools/ruby27/lib/ruby/gems/2.7.0/gems/bundler-2.1.4/lib/bundler/ui/shell.rb:3:in '<top (required)>'
+	from <internal:C:/tools/ruby34/lib/ruby/3.4.0/rubygems/core_ext/kernel_require.rb>:136:in 'Kernel#require'
+	from <internal:C:/tools/ruby34/lib/ruby/3.4.0/rubygems/core_ext/kernel_require.rb>:136:in 'Kernel#require'
+	from C:/tools/ruby27/lib/ruby/gems/2.7.0/gems/bundler-2.1.4/lib/bundler.rb:85:in 'Bundler.ui'
+	from C:/tools/ruby27/lib/ruby/gems/2.7.0/gems/bundler-2.1.4/lib/bundler/setup.rb:20:in '<top (required)>'
+	from <internal:C:/tools/ruby34/lib/ruby/3.4.0/rubygems/core_ext/kernel_require.rb>:136:in 'Kernel#require'
+	from <internal:C:/tools/ruby34/lib/ruby/3.4.0/rubygems/core_ext/kernel_require.rb>:136:in 'Kernel#require'

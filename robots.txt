@@ -1,0 +1,20 @@
+# robots.txt für NFDI4Objects
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
+
+# Disallow private/admin areas 
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow all content
+Allow: /assets/
+Allow: /news/
+Allow: /persons/
+Allow: /services/
+Allow: /areas/
+Allow: /trails/
+Allow: /twgs/
+Allow: /ccs/

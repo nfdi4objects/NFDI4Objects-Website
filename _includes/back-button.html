@@ -1,0 +1,41 @@
+{%- comment -%}
+Back Button Component
+
+Zeigt einen Zurück-Button mit sprachabhängigem Text.
+
+Usage:
+{% include back-button.html type="areas" %}
+{% include back-button.html type="trails" %}
+{% include back-button.html type="ccs" %}
+{% include back-button.html type="twgs" %}
+
+Parameters:
+- type: Der Typ für den Zurück-Button (areas, trails, ccs, twgs)
+{%- endcomment -%}
+
+{%- assign current_lang = page.lang | default: "de" -%}
+{%- assign nav_data = site.data[current_lang].navigation -%}
+{%- assign btn_type = include.type -%}
+
+{%- case btn_type -%}
+  {%- when "areas" -%}
+    {%- assign btn_url = nav_data.back_buttons.areas_url -%}
+    {%- assign btn_text = nav_data.back_buttons.areas -%}
+  {%- when "trails" -%}
+    {%- assign btn_url = nav_data.back_buttons.trails_url -%}
+    {%- assign btn_text = nav_data.back_buttons.trails -%}
+  {%- when "ccs" -%}
+    {%- assign btn_url = nav_data.back_buttons.ccs_url -%}
+    {%- assign btn_text = nav_data.back_buttons.ccs -%}
+  {%- when "twgs" -%}
+    {%- assign btn_url = nav_data.back_buttons.twgs_url -%}
+    {%- assign btn_text = nav_data.back_buttons.twgs -%}
+{%- endcase -%}
+
+{%- if btn_url and btn_text -%}
+<section class="bg-sand full-width-content margin-t">
+  <p class="text-center space">
+    <a href="{{ btn_url }}" class="btn btn-primary">{{ btn_text }}</a>
+  </p>
+</section>
+{%- endif -%}

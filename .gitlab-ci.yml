@@ -1,0 +1,20 @@
+stages:
+  - build
+  - test
+  - deploy
+
+build_site:
+  stage: build
+  script:
+    - bundle install
+    - bundle exec jekyll build -d _site
+  artifacts:
+    paths:
+      - _site
+
+validate_json:
+  stage: test
+  script:
+    - ruby check_json_validity.rb
+  dependencies:
+    - build_site

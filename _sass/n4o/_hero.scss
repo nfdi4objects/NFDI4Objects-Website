@@ -1,0 +1,102 @@
+@use './variables' as *;
+
+
+.hero-section {
+    //background-color: var(--color-blue-dark);
+
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+    color: var(--color-darkblue);
+    padding: var(--spacing-xl) 0; 
+    min-height: 65vh;
+    width: 100%;
+    overflow: hidden;
+    @media (min-width: $device-sm){
+        padding: var(--spacing-3xl) 0;
+    }
+
+}
+
+.hero-content {
+    max-width: 500px;   
+    height: 55vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.hero-hl {
+    position: relative;
+    z-index:2;
+    padding:  0.5rem;
+     @media (min-width: $device-sm){
+        padding: 1.5rem 2.5rem 0.5rem 1.5rem;
+    }  
+    &:before {
+        content: '';
+        display: inline;
+        height: 140vw;
+        width: 140vw;     
+        position: absolute;
+        background-image: url('../images/basic/Bg-Sandton-Hell-Backgroundimage.png');
+        border-radius: 50%;
+        left: -4rem;
+         top: -0.5rem;
+        opacity: 0.8;
+        @media (min-width: $device-xs){
+            left: -4rem;
+            top: -3rem;
+            height: 35rem;
+            width: 35rem;
+         }
+    }     
+    h1{
+        padding-top: 2.5rem; 
+        font-size: clamp(1.5rem, 8vw, 2rem);
+        font-weight: 700;
+        margin-bottom: var(--spacing-lg);       
+        position: relative;
+        hyphens: auto;
+        line-height: 1.2;        
+    }
+    .hero-subtitle{
+        font-size: var(--font-size-lg);
+        margin-bottom: var(--spacing-xl);
+        opacity: 0.9;
+        line-height: 1.2;
+        margin-bottom: 0.5rem;
+        @media (min-width: $device-sm){
+             font-size: var(--font-size-xl);
+        }
+    }
+}
+
+
+
+
+.arrow-btn-b {
+    transform: rotate(180deg);
+    
+}
+.hero-button {
+    position: relative;    
+    justify-content: center;
+    display: flex;
+    left: -3rem;
+    z-index: 3;
+    img {
+        width: 25rem;
+    }
+    a {
+   max-width: clamp(150px, 20vw, 250px);
+    }
+}
+
+@media (max-width: $device-lg)
+ {
+  
+    .hero-subtitle {
+        font-size: var(--font-size-lg);
+    }    
+}

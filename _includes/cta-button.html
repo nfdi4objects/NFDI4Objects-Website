@@ -1,0 +1,28 @@
+{%- comment -%}
+Call-to-Action Button Component
+
+Usage:
+{% include cta-button.html
+   text="Zenodo Antrag S. 61-67"
+   url="https://zenodo.org/records/10409228"
+   style="primary"
+   new_window=true
+%}
+
+Parameters:
+- text: Button text (required)
+- url: Link URL (required)
+- style: Button color style (optional, default: "primary")
+  Options: primary, secondary, success, danger, warning, info, light, dark
+- new_window: Open link in new window/tab (optional, default: false)
+{%- endcomment -%}
+
+{%- assign btn_style = include.style | default: "primary" -%}
+{%- assign target_attr = "" -%}
+{%- if include.new_window == true -%}
+  {%- assign target_attr = ' target="_blank" rel="noopener noreferrer"' -%}
+{%- endif -%}
+
+<p class="text-center space">
+  <a href="{{ include.url }}" class="btn btn-{{ btn_style }}"{{ target_attr }}>{{ include.text }}</a>
+</p>

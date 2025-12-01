@@ -1,0 +1,71 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Title & Description -->
+  <title>{{ page.title | default: site.title }}{% if page.title and site.title %} | {{ site.title }}{% endif %}</title>
+  {% assign description = page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 30 %}
+  <meta name="description" content="{{ description }}">
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}">
+  {% endif %}
+  <meta name="robots" content="{{ page.robots | default: 'index, follow' }}">
+  {% if page.author %}
+  <meta name="author" content="{{ page.author }}">
+  {% endif %}
+  <link rel="canonical" href="{{ page.canonical_url | default: page.url | absolute_url }}">
+  <!-- Language & hreflang -->
+  {% if page.lang == "en" %}
+    <link rel="alternate" hreflang="de" href="{{ page.url | absolute_url | replace: '/en/', '/de/' }}">
+    <meta property="og:locale" content="en_GB">
+  {% else %}
+    <link rel="alternate" hreflang="en" href="{{ page.url | absolute_url | replace: '/de/', '/en/' }}">
+    <meta property="og:locale" content="de_DE">
+  {% endif %}
+  {% if page.translation_key %}
+  {% assign translations = site.pages | where: "translation_key", page.translation_key %}
+  {% for trans in translations %}
+    <link rel="alternate" hreflang="{{ trans.lang }}" href="{{ trans.url | absolute_url }}">
+  {% endfor %}
+  {% endif %}
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="{{ page.og_type | default: 'website' }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  {% if page.og_image %}
+  <meta property="og:image" content="{{ page.og_image | absolute_url }}">
+  <meta property="og:image:alt" content="{{ page.title }}">
+  {% elsif site.og_image %}
+  <meta property="og:image" content="{{ site.og_image | absolute_url }}">
+  {% endif %}
+  {% if page.date %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  {% endif %}
+  {% if page.date_modified %}
+  <meta property="article:modified_time" content="{{ page.date_modified | date_to_xmlschema }}">
+  {% endif %}
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="{{ page.twitter_card | default: site.twitter_card | default: 'summary' }}">
+  {% if site.twitter_username %}
+  <meta name="twitter:site" content="@{{ site.twitter_username }}">
+  {% endif %}
+  <meta name="twitter:title" content="{{ page.title | default: site.title }}">
+  <meta name="twitter:description" content="{{ description }}">
+  {% if page.og_image %}
+  <meta name="twitter:image" content="{{ page.og_image | absolute_url }}">
+  {% elsif site.og_image %}
+  <meta name="twitter:image" content="{{ site.og_image | absolute_url }}">
+  {% endif %}
+  <!-- Structured Data / Schema.org JSON-LD -->
+  {% include schema-jsonld.html %}
+  <!-- Favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+<link rel="manifest" href="/assets/images/site.webmanifest">
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="{{ '/assets/css/n4o.css' | relative_url }}">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>

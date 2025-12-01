@@ -1,0 +1,23 @@
+---
+# ============================================
+# VORLAGE: POINTER-TTL für neue Person
+# ============================================
+#
+# ANLEITUNG:
+# 1. Kopieren Sie diese Datei nach _ttl/persons/vorname-nachname.ttl
+# 2. Passen Sie 'permalink' an (muss mit Dateinamen übereinstimmen)
+# 3. Passen Sie 'source' an (muss mit translation_key der MD-Datei übereinstimmen)
+# 4. Alle Daten werden automatisch aus der MD-Datei gelesen
+#
+# WICHTIG:
+# - Sie müssen nur die Markdown-Datei in _persons/de/ pflegen
+# - Diese TTL-Datei ist ein "Pointer" und bleibt minimalistisch
+# - Keine Duplikation von Daten.
+#
+# Siehe REDAKTION_TTL_ANLEITUNG.md für Details!
+# ============================================
+
+layout: person-ttl
+permalink: /persons/VORNAME-NACHNAME/index.ttl
+source: person-vorname-nachname  # WICHTIG: Muss mit translation_key der MD-Datei übereinstimmen!
+---

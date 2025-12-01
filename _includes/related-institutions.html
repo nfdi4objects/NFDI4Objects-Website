@@ -1,0 +1,33 @@
+{%- comment -%}
+Related Institutions Component
+
+Zeigt beteiligte Institutionen als Badges an.
+
+Usage:
+{% include related-institutions.html institutions=page.institutions %}
+
+Parameters:
+- institutions: Array von Institutions-IDs
+{%- endcomment -%}
+
+{%- assign current_lang = page.lang | default: "de" -%}
+{%- assign inst_ids = include.institutions -%}
+
+{%- if inst_ids and inst_ids.size > 0 -%}
+<section class="related-institutions space-md">
+  <h3 class="arrow arrow-left">{% if current_lang == "en" %}Participating Institutions{% else %}Beteiligte Institutionen{% endif %}</h3>
+  <div class="institution-badges">
+    {%- assign institutions_data = site.data[current_lang].institutions -%}
+    {%- for inst_id in inst_ids -%}
+      {%- assign inst = institutions_data | where: "id", inst_id | first -%}
+      {%- if inst -%}
+        {%- if inst.url -%}
+        <a href="{{ inst.url }}" class="badge badge--institution" title="{{ inst.name }}" target="_blank" rel="noopener">{{ inst.short }}</a>
+        {%- else -%}
+        <span class="badge badge--institution" title="{{ inst.name }}">{{ inst.short }}</span>
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+</section>
+{%- endif -%}

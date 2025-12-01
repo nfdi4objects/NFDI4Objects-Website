@@ -1,0 +1,67 @@
+---
+layout: null
+---
+{%- comment -%}
+POINTER-SYSTEM: Dieses Layout liest Daten aus der Markdown-Datei
+Unterstützt zwei Modi:
+1. Legacy-Modus: Daten direkt im TTL-Frontmatter (page.*)
+2. Pointer-Modus: Verweis auf MD-Datei (page.source)
+{%- endcomment -%}
+
+{%- if page.source -%}
+  {%- assign service = site.services | where: "translation_key", page.source | first -%}
+{%- else -%}
+  {%- assign service = page -%}
+{%- endif -%}
+
+{%- if service.service_id -%}
+  {%- assign service_id = service.service_id -%}
+{%- else -%}
+  {%- assign service_id = service.translation_key | remove: "service-" | replace: "-", "_" -%}
+{%- endif -%}
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#> .
+@prefix n4o: <https://nfdi4objects.net/ontology#> .
+
+<https://nfdi4objects.net/services/{{ service_id }}/{{ service_id }}>
+    rdf:type nfdicore:Service ;
+    skos:prefLabel "{{ service.title }}"@{{ service.lang }} ;
+    {%- if service.description %}
+    skos:definition "{{ service.description | strip_html | escape }}"@{{ service.lang }} ;
+    {%- endif %}
+    {%- if service.url %}
+    foaf:homepage <{{ service.url }}> ;
+    {%- endif %}
+    {%- if service.logo %}
+    foaf:logo "{{ service.logo }}" ;
+    {%- endif %}
+    {%- if service.service_type %}
+    n4o:serviceType "{{ service.service_type }}" ;
+    {%- endif %}
+    {%- if service.category %}
+    n4o:serviceCategory "{{ service.category }}" ;
+    {%- endif %}
+    {%- if service.provider %}
+    dcterms:publisher "{{ service.provider }}" ;
+    {%- endif %}
+    {%- if service.contact_email %}
+    foaf:mbox <mailto:{{ service.contact_email }}> ;
+    {%- endif %}
+    {%- if service.features %}
+    {%- for feature in service.features %}
+    n4o:feature "{{ feature }}" ;
+    {%- endfor %}
+    {%- endif %}
+    {%- if service.areas %}
+    {%- for area in service.areas %}
+    n4o:relatedTaskArea <https://nfdi4objects.net/areas/{{ area }}/{{ area }}> ;
+    {%- endfor %}
+    {%- endif %}
+    dcterms:isPartOf <https://nfdi4objects.net> .

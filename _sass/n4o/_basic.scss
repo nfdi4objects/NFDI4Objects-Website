@@ -1,0 +1,220 @@
+@use './variables' as *;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {    
+    background-color: var(--color-sand-light);
+}
+.container {
+    width: 100%;
+    max-width: var(--container-max-width);
+    margin: 0 auto;
+    padding: 0 var(--container-padding);
+    box-sizing: border-box;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Verhindert unerwünschte Abstände unter Bildern */
+}
+.center {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+figure {
+    margin: 0 0 1rem 0;
+     img[src$='.jpg'] {
+        box-shadow: 8px 8px 16px rgba(19,41,75, .1);
+     }
+    &.img-center {
+        display: table; 
+        margin-left: auto;
+        margin-right: auto;
+        padding: var(--spacing-md) 0;   
+        figcaption { 
+            display: table-footer; 
+            }
+        }
+}
+figcaption {
+    margin-top: 0.9rem;
+}
+main {
+    ul {
+        margin-bottom: var(--spacing-md);
+    }
+}
+/* @media (min-width: $device-sm) {
+    .container {
+        padding: 0 0.5rem; // oder 0, wenn du wirklich randlos willst
+    }
+} */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+}
+
+.hidden {
+    display: none !important;
+}
+.text-center{
+   text-align: center;
+}
+/* ===== Barrierefreiheit ===== */
+.skip-link {
+    position: absolute;
+    top: -0;
+    left: 0;
+    background: var(--color-white);
+    color: var(--color-blue-dark);
+    border-radius: var(--border-radius-sm);
+    border: 2px solid var(--color-blue-dark);
+    padding: var(--spacing-sm) var(--spacing-sm);
+    z-index: 101;
+    &:not(:focus){
+    z-index: 100;
+    }
+    transition: top var(--transition-fast);
+}
+
+.skip-link:focus {
+    top: 0;
+    text-decoration: none;
+}
+
+
+section, .page section.all-button {
+    padding: var(--spacing-xl) 0;
+    @media (min-width: $device-sm){
+        padding: var(--spacing-3xl) 0;
+    }    
+    &.space-md {
+        padding: var(--spacing-md) 0;
+        @media (min-width: $device-sm){
+        padding: var(--spacing-md) 0;
+    }    
+
+  }
+}
+.page section {
+    padding: var(--spacing-md) 0;
+    @media (min-width: $device-sm){
+        padding: var(--spacing-lg) 0;
+    }    
+
+}
+.shadow {
+    box-shadow: var(--shadow-md);
+}
+
+.space-t{
+        padding-top: var(--spacing-lg);
+}
+.space-b{
+        padding-bottom: var(--spacing-lg);
+}
+.space {
+     padding: var(--spacing-lg) 0;
+}
+.margin-t,  section.all-button {
+     margin-top: var(--spacing-3xl) !important;
+}
+.space-top-0{
+    padding-top: 0;
+}
+.space-top-1{
+    padding-top: 0;
+}
+.block {
+    display: block;
+}
+/* ===== Performance-Optimierungen ===== */
+/* Lazy Loading für Bilder */
+img.lazy {
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+img.lazy.loaded {
+    opacity: 1;
+}
+
+/* Reduzierte Animationen für Nutzer, die dies bevorzugen */
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+/* Druckstile */
+@media print {
+    .site-header,
+    .hero-section,
+    .cookie-banner,
+    .footer-bottom,
+    .community-cta,
+    .services-cta,
+    .news-cta {
+        display: none;
+    }
+    
+    body {
+        font-size: 12pt;
+        color: #000;
+        background: #fff;
+    }
+    
+    a {
+        color: #000;
+        text-decoration: underline;
+    }
+    
+    .container {
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+    }
+    
+    .footer-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: $device-sm){
+    :root {
+        --container-padding: var(--spacing-md);
+    }    
+}
+
+
+
+.infobox-list {
+  display: none;
+}
+
+.infobox-list.active {
+  display: block;
+}
+
+.infobox-toggle {
+  cursor: pointer;
+}
+

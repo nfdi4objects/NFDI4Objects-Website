@@ -1,0 +1,99 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {% for page in site.pages %}
+    {% unless page.url contains '/404' or page.search == false %}
+    <url>
+      <loc>{{ page.url | absolute_url }}</loc>
+      {% if page.date_modified %}
+      <lastmod>{{ page.date_modified | date_to_xmlschema }}</lastmod>
+      {% elsif page.date %}
+      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>{% if page.url == '/' %}weekly{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if page.url == '/' %}1.0{% elsif page.url contains '/en/' %}0.7{% else %}0.8{% endif %}</priority>
+      {% if page.translation_key %}
+        {% assign translations = site.pages | where: "translation_key", page.translation_key %}
+        {% for trans in translations %}
+        <xhtml:link rel="alternate" hreflang="{{ trans.lang }}" href="{{ trans.url | absolute_url }}" />
+        {% endfor %}
+      {% endif %}
+    </url>
+    {% endunless %}
+  {% endfor %}
+  {% for post in site.news %}
+    <url>
+      <loc>{{ post.url | absolute_url }}</loc>
+      {% if post.date_modified %}
+      <lastmod>{{ post.date_modified | date_to_xmlschema }}</lastmod>
+      {% elsif post.date %}
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  {% endfor %}
+  {% for person in site.persons %}
+    <url>
+      <loc>{{ person.url | absolute_url }}</loc>
+      {% if person.date_modified %}
+      <lastmod>{{ person.date_modified | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+  {% endfor %}
+  {% for area in site.areas %}
+    <url>
+      <loc>{{ area.url | absolute_url }}</loc>
+      {% if area.date_modified %}
+      <lastmod>{{ area.date_modified | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  {% endfor %}
+  {% for trail in site.trails %}
+    <url>
+      <loc>{{ trail.url | absolute_url }}</loc>
+      {% if trail.date_modified %}
+      <lastmod>{{ trail.date_modified | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  {% endfor %}
+  {% for twg in site.twgs %}
+    <url>
+      <loc>{{ twg.url | absolute_url }}</loc>
+      {% if twg.date_modified %}
+      <lastmod>{{ twg.date_modified | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  {% endfor %}
+  {% for cc in site.ccs %}
+    <url>
+      <loc>{{ cc.url | absolute_url }}</loc>
+      {% if cc.date_modified %}
+      <lastmod>{{ cc.date_modified | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  {% endfor %}
+  {% for service in site.services %}
+    <url>
+      <loc>{{ service.url | absolute_url }}</loc>
+      {% if service.date_modified %}
+      <lastmod>{{ service.date_modified | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  {% endfor %}
+</urlset>

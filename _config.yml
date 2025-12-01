@@ -1,0 +1,78 @@
+title: NFDI4Objects
+description: Forschungsdateninfrastruktur für materielle Objekte. Wir unterstützen Forschende bei der Verwaltung, Analyse und Veröffentlichung von Forschungsdaten.
+url: "http://localhost:4000"
+baseurl: ""
+
+# SEO Settings
+author: NFDI4Objects
+twitter_username: ""  # Optional: Twitter Handle ohne @
+twitter_card: summary_large_image
+og_image: /assets/images/og-default.jpg  # Standardbild für Social Media Shares
+
+# Language settings ( manual multi-language via /en/ prefix)
+site_lang: de
+default_lang: de
+exclude_from_localizations:
+  - "assets/"
+  - "_data/"
+  - "_ttl/"
+  - "_includes/"
+
+# Windows-specific: Exclude nul device file
+exclude:
+  - nul
+  - "**/nul"
+
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+  news:
+    output: true
+    permalink: /news/:slug/
+  events:
+    output: true
+    permalink: /events/:slug/
+  ttl:
+    output: true
+    # Note: Individual TTL files set their own permalink in frontmatter
+  persons:
+    output: true
+    permalink: /persons/:path/
+  areas:
+    output: true
+    permalink: /areas/:path/
+  trails:
+    output: true
+    permalink: /trails/:path/
+  twgs:
+    output: true
+    permalink: /twgs/:path/
+  ccs:
+    output: true
+    permalink: /ccs/:path/
+  services:
+    output: true
+    permalink: /services/:path/
+
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "licenses"
+    values:
+      search: false
+  - scope:
+      path: "en"
+    values:
+      lang: en
+      permalink: /en/:basename/
+
+include:
+  - "en"

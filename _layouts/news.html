@@ -1,0 +1,140 @@
+---
+layout: n4o-base
+---
+<main id="main-content" class="bg-sand">
+<div class="container">
+  {% include breadcrumb.html %}
+</div>
+<article class="news-article container">
+  <header class="news-header">
+    <p class="news-date">
+     <strong> {{ page.date | date: "%-d. %B %Y" }}</strong>
+    </p>
+    <h1 class="news-title">{{ page.title }}</h1>
+    {% if page.excerpt %}
+      <p class="news-excerpt lead">{{ page.excerpt }}</p>
+    {% endif %}
+  </header>
+  {% comment %} Teaser Image - automatisch anzeigen wenn vorhanden {% endcomment %}
+  {% if page.teaser_image %}
+    {% include blocks/image-centered.html
+       image=page.teaser_image
+       srcset=page.teaser_image_srcset
+       sizes=page.teaser_image_sizes
+       alt=page.teaser_image_alt
+       caption=page.teaser_image_caption
+       width="600"
+       class="img-center"
+    %}
+  {% endif %}
+  <div class="news-content">
+    {{ content }}
+  </div>
+  {% comment %} Taxonomie-Zuordnungen {% endcomment %}
+  {% if page.areas or page.ccs or page.twgs %}
+  <section class="news-taxonomies">
+    {% comment %} Task Areas {% endcomment %}
+    {% if page.areas and page.areas.size > 0 %}
+    <div class="taxonomy-section">
+      <h3 class="arrow arrow-left">
+        {% if page.lang == "en" %}Associated Task Areas{% else %}Zugeordnete Task Areas{% endif %}
+      </h3>
+      <div class="area-badges">
+        {% assign filtered_areas = site.areas | where: "type", "ta" | where: "lang", page.lang %}
+        {% for area_id in page.areas %}
+          {% for a in filtered_areas %}
+            {% if a.url contains area_id %}
+            <a href="{{ a.url | relative_url }}" class="badge badge--area">{{ a.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% comment %} Community Clusters {% endcomment %}
+    {% if page.ccs and page.ccs.size > 0 %}
+    <div class="taxonomy-section">
+      <h3 class="arrow arrow-left">
+        {% if page.lang == "en" %}Related Community Clusters{% else %}Zugeordnete Community Cluster{% endif %}
+      </h3>
+      <div class="cc-badges">
+        {% assign filtered_ccs = site.ccs | where: "lang", page.lang %}
+        {% for cc_id in page.ccs %}
+          {% for cc in filtered_ccs %}
+            {% if cc.translation_key == cc_id or cc.url contains cc_id %}
+            <a href="{{ cc.url | relative_url }}" class="badge badge--cc">{{ cc.identifier }} - {{ cc.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% comment %} TWGs {% endcomment %}
+    {% if page.twgs and page.twgs.size > 0 %}
+    <div class="taxonomy-section">
+      <h3 class="arrow arrow-left">
+        {% if page.lang == "en" %}Related Working Groups{% else %}Zugeordnete Arbeitsgruppen{% endif %}
+      </h3>
+      <div class="twg-badges">
+        {% assign filtered_twgs = site.twgs | where: "lang", page.lang %}
+        {% for twg_id in page.twgs %}
+          {% for twg in filtered_twgs %}
+            {% if twg.translation_key == twg_id or twg.url contains twg_id %}
+            <a href="{{ twg.url | relative_url }}" class="badge badge--twg">{{ twg.identifier }} - {{ twg.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+  </section>
+  {% endif %}
+
+ {% comment %} Navigation nur anzeigen wenn vorheriger oder nächster Beitrag existiert {% endcomment %}
+  {% assign sorted = site.news | where: "lang", page.lang | sort: "date" %}
+  {% assign current_index = -1 %}
+
+  {% for item in sorted %}
+    {% if item.url == page.url %}
+      {% assign current_index = forloop.index0 %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {% if current_index >= 0 %}
+    {% assign prev_index = current_index | minus: 1 %}
+    {% assign next_index = current_index | plus: 1 %}
+
+    {% if prev_index >= 0 %}
+      {% assign prev = sorted[prev_index] %}
+    {% else %}
+      {% assign prev = nil %}
+    {% endif %}
+
+    {% if next_index < sorted.size %}
+      {% assign next = sorted[next_index] %}
+    {% else %}
+      {% assign next = nil %}
+    {% endif %}
+
+    {% if prev or next %}
+    <nav class="news-nav">
+      <div class="news-nav-buttons">
+        {% if prev %}
+          <a href="{{ prev.url | relative_url }}" class="btn btn-outline prev">
+            {% if page.lang == "en" %}← Previous{% else %}← Vorheriger Beitrag{% endif %}
+          </a>
+        {% endif %}
+        {% if next %}
+          <a href="{{ next.url | relative_url }}" class="btn btn-outline next">
+            {% if page.lang == "en" %}Next →{% else %}Nächster Beitrag →{% endif %}
+          </a>
+        {% endif %}
+      </div>
+    </nav>
+    {% endif %}
+  {% endif %}
+</article>
+</main>

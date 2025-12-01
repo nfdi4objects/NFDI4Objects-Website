@@ -1,0 +1,98 @@
+# Consortium members and associated partners
+# type: consortium_member | associated_partner
+
+- id: dai
+  name: "German Archaeological Institute"
+  short: "DAI"
+  logo: "/assets/images/institutions/dai-logo.png"
+  url: "https://www.dainst.org"
+  type: consortium_member
+  city: "Berlin"
+
+- id: rgzm
+  name: "Leibniz Centre for Archaeology (LEIZA)"
+  short: "LEIZA"
+  logo: "/assets/images/institutions/leiza-logo.png"
+  url: "https://www.leiza.de"
+  type: consortium_member
+  city: "Mainz"
+
+- id: gnm
+  name: "Germanic National Museum"
+  short: "GNM"
+  logo: "/assets/images/institutions/gnm-logo.png"
+  url: "https://www.gnm.de"
+  type: consortium_member
+  city: "Nuremberg"
+
+- id: adwmainz
+  name: "Academy of Sciences and Literature Mainz"
+  short: "AdW Mainz"
+  logo: "/assets/images/institutions/adw-logo.png"
+  url: "https://www.adwmainz.de"
+  type: consortium_member
+  city: "Mainz"
+
+- id: cau
+  name: "Kiel University"
+  short: "CAU Kiel"
+  logo: "/assets/images/institutions/cau-logo.png"
+  url: "https://www.uni-kiel.de"
+  type: consortium_member
+  city: "Kiel"
+
+- id: hab
+  name: "Herzog August Library Wolfenbüttel"
+  short: "HAB"
+  logo: "/assets/images/institutions/hab-logo.png"
+  url: "https://www.hab.de"
+  type: consortium_member
+  city: "Wolfenbüttel"
+
+- id: ianus
+  name: "IANUS Research Data Centre"
+  short: "IANUS"
+  logo: "/assets/images/institutions/ianus-logo.png"
+  url: "https://www.ianus-fdz.de"
+  type: consortium_member
+  city: "Berlin"
+
+- id: rgk
+  name: "Romano-Germanic Commission"
+  short: "RGK"
+  logo: "/assets/images/institutions/rgk-logo.png"
+  url: "https://www.dainst.org/standort/-/organization-display/ZI9STUj61zKB/18513"
+  type: consortium_member
+  city: "Frankfurt am Main"
+
+- id: tlda
+  name: "Thuringian State Office for Heritage Management and Archaeology"
+  short: "TLDA"
+  logo: "/assets/images/institutions/tlda-logo.png"
+  url: "https://denkmalpflege.thueringen.de"
+  type: consortium_member
+  city: "Weimar"
+
+- id: uni-koeln
+  name: "University of Cologne"
+  short: "Uni Cologne"
+  logo: "/assets/images/institutions/uni-koeln-logo.png"
+  url: "https://www.uni-koeln.de"
+  type: consortium_member
+  city: "Cologne"
+
+- id: uni-bamberg
+  name: "University of Bamberg"
+  short: "Uni Bamberg"
+  logo: "/assets/images/institutions/uni-bamberg-logo.png"
+  url: "https://www.uni-bamberg.de"
+  type: consortium_member
+  city: "Bamberg"
+
+- id: zbsa
+  name: "Centre for Baltic and Scandinavian Archaeology"
+  short: "ZBSA"
+  logo: "/assets/images/institutions/zbsa-logo.png"
+  url: "https://www.zbsa.eu"
+  type: consortium_member
+  city: "Schleswig"

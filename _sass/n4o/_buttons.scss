@@ -1,0 +1,179 @@
+@use './variables' as *;
+
+.btn {
+    display: inline-block;
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: var(--border-radius-md);
+    font-weight: 700;
+    text-align: center;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    border: 2px solid transparent;
+    text-decoration: none;
+    font-size: var(--font-size-md);
+
+    @media (min-width: $device-sm) {
+        font-size: var(--font-size-base);
+    }
+}
+.news-nav-buttons .btn {
+    @media (max-width: $device-sm) {
+        padding: var(--spacing-sm);
+         font-size: var(--font-size-sm);
+    }
+}
+
+.btn-primary {
+    background-color: var(--color-blue);
+    color: var(--color-white);
+}
+.btn-primary-outline {
+    background-color: transparent;
+    color: var(--color-blue-sand);
+    border: 1px solid var(--color-blue);
+    padding: var(--spacing-md);
+}
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: var(--color-blue-dark);
+    color: var(--color-white);
+    text-decoration: none;
+}
+
+/* .btn-secondary {
+    background-color: var(--color-sand);
+    color: var(--color-blue-dark);
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus {
+    background-color: var(--color-beige-light);
+    color: var(--color-blue-dark);
+    text-decoration: none;
+}
+ */
+.btn-outline {
+    background-color: transparent;
+    border: 2px solid var(--color-blue);
+    color: var(--color-blue);
+}
+
+.btn-outline:hover,
+.btn-outline:focus {
+    background-color: var(--color-blue);
+    color: var(--color-white);
+    text-decoration: none;
+}
+
+//Pfeil
+.arrow {
+    position: relative;
+
+    &:before,
+    &:after {
+        display: inline-block;
+        width: 2rem;
+        height: 2rem;
+        transform-origin: center;
+        background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" data-name="Ebene 1" viewBox="0 0 1980 1080"><path d="M1923.9 1045.307c-7.781 0-15.563-2.968-21.5-8.905L986.69 120.69 70.98 1036.402c-11.874 11.874-31.126 11.874-43 0-11.873-11.874-11.873-31.126 0-43l958.71-958.71 958.71 958.71c11.873 11.874 11.873 31.126 0 43-5.937 5.937-13.719 8.905-21.5 8.905Z" style="fill:%230083ff"/></svg>');
+        background-repeat: no-repeat;
+    }
+}
+
+.arrow-left {
+    &:before {
+    content: '';
+    position: relative;
+    transform: rotate(90deg) translate(0.5rem, 0.8rem);
+
+        @media (min-width: $device-xl) {
+            position: absolute;
+            transform: rotate(90deg) translate(0, 3rem);
+        }    
+    }
+    &.active:before {
+         transform: rotate(180deg) translate(0.5rem, 0.8rem);
+    }
+
+}
+
+// Focus Kreis
+.focus-ring {
+    position: relative;
+    z-index: 1;
+}
+
+.focus-ring span {
+    position: relative;
+    z-index: 2;
+    /* Damit der Text über dem ::before-Element liegt */
+}
+
+.focus-ring::before {
+    content: '';
+    display: block;
+    width: 6rem;
+    height: 6rem;
+    background-color: var(--color-white);
+    left: calc(50% - 3rem);
+    position: absolute;
+    border-radius: 50%;
+    //top: -70%;
+    transform: translateY(-30%);
+    z-index: 0;
+}
+h1.focus-ring::before {
+      //top: -50%;
+      transform: translateY(-20%);
+}
+.focus-sand::before {
+    background-color: var(--color-sand);
+}
+
+.services-section .focus-ring:before {
+    background-color: var(--color-sand-light);
+}
+.metadata-link {
+    i:before {
+        margin-right: 8px;
+    }
+}
+
+.status-badge  {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px; 
+  padding: 0 7px;
+  margin-top: 5px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: none;
+  cursor: default;
+  transition: all 0.2s ease-in-out; 
+    &:before {
+    font-size: 9px; 
+    line-height: 1;
+    margin-left: -2px; 
+    color: var(--color-white);
+    }
+&.in-arbeit {
+  background-color: var(--color-blue);
+  color: var(--color-white);
+    &:after {  content: '● ●';  }
+}
+
+&.planning {
+  background-color: var(--color-beige);
+  color: var(--color-blue-dark);
+     &:after {  content: '●';  }
+}
+
+&.rejected {
+  background-color: var(--color-sand-dark);
+  color: var(--color-blue-dark);
+  &:after {  content:  '—'; font-size: 16px;  color: var(--color-blue-dark); }
+}
+
+}

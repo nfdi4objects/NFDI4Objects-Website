@@ -1,0 +1,206 @@
+
+<header class="site-header">
+  <div class="container header-container">
+    <!-- Logo -->
+    <div class="logo-container">
+      <a href="{{ '/' | relative_url }}" aria-label="NFDI4Objects Startseite">
+        <img src="{{ '/assets/icons/logo/nfd14o-Verlauf.svg' | relative_url }}" alt="Zur Startseite" class="logo" width="300">
+      </a>
+    </div>
+
+    {% assign lang = page.lang | default: site.lang | default: 'de' %}
+    {% assign navitems = site.data[lang].navigation.main %}
+
+    <!-- Navigation -->
+    <nav class="main-navigation" aria-label="Hauptnavigation">
+      <button class="mobile-menu-toggle" aria-expanded="false" aria-controls="primary-menu">
+        <span class="sr-only">Menü öffnen</span>
+        <i class="fas fa-bars" aria-hidden="true"></i>
+      </button>
+
+      <ul id="primary-menu" class="nav-menu" role="menu">
+        {% for item in navitems %}
+          {% assign hasChildren = item.children or item.dynamic %}
+          <li class="nav-item {% if hasChildren %}has-submenu{% endif %}">
+            <a 
+              {% if item.url == "#" or item.children or item.dynamic %}
+                href="#"
+              {% else %}
+                href="{{ item.url | relative_url }}"
+              {% endif %}
+              {% if item.children or item.dynamic %}
+                aria-haspopup="true" aria-expanded="false"
+              {% endif %}
+            >
+              {{ item.title }}
+            </a>
+            {% if item.dynamic == "areas" or item.dynamic == "person_groups" or item.children %}
+              <ul class="submenu" role="menu">
+                {% if item.dynamic == "areas" %}
+                  {% assign areas = site.areas | sort: 'order' %}
+                  {% for area in areas %}
+                    {% if area.lang == lang %}
+                      <li role="none"><a href="{{ area.url | relative_url }}" role="menuitem">{{ area.title }}</a></li>
+                    {% endif %}
+                  {% endfor %}
+                {% elsif item.dynamic == "person_groups" %}
+                  {% comment %} Dynamische Personen-Gruppen {% endcomment %}
+                  {% for child in item.children %}
+                    <li role="none"><a href="{{ child.url | relative_url }}" role="menuitem">{{ child.title }}</a></li>
+                  {% endfor %}
+                {% else %}
+                  {% for child in item.children %}
+                    <li role="none"><a href="{{ child.url | relative_url }}" role="menuitem">{{ child.title }}</a></li>
+                  {% endfor %}
+                {% endif %}
+              </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+    <!-- Header Actions -->
+    <div class="header-actions">
+      <!-- Language Switcher -->
+<div class="language-switcher">
+  {% comment %}
+  Aktuelle Seite und Sprache ermitteln
+  {% endcomment %}
+  {% assign current_key = page.translation_key | default: "home" %}
+  {% assign current_lang = page.lang | default: site.default_lang | default: "de" %}
+
+  {% if current_lang == "en" %}
+    {% assign target_lang = "de" %}
+  {% else %}
+    {% assign target_lang = "en" %}
+  {% endif %}
+
+  {% comment %}
+  Alle Seiten und Collections sammeln (pages + news + events + persons + areas)
+  {% endcomment %}
+  {% assign all_docs = site.pages %}
+  {% assign all_docs = all_docs | concat: site.news %}
+  {% assign all_docs = all_docs | concat: site.events %}
+  {% assign all_docs = all_docs | concat: site.persons %}
+  {% assign all_docs = all_docs | concat: site.areas %}
+
+  {% comment %}
+  Passende Gegen-Seite finden (gleiche translation_key, andere Sprache)
+  {% endcomment %}
+  {% assign alt_page = nil %}
+  {% for doc in all_docs %}
+    {% if doc.translation_key == current_key and doc.lang == target_lang %}
+      {% assign alt_page = doc %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {% comment %}
+  Wenn keine Entsprechung gefunden → Fallback zur Sprach-Startseite
+  {% endcomment %}
+  {% if alt_page and alt_page.url %}
+    {% assign target_url = alt_page.url %}
+  {% elsif target_lang == "en" %}
+    {% assign target_url = "/en/" %}
+  {% else %}
+    {% assign target_url = "/" %}
+  {% endif %}
+
+  {% comment %}
+  Ausgabe des Sprachschalters
+  {% endcomment %}
+  {% if current_lang == "en" %}
+    <a href="{{ target_url | relative_url }}" lang="de">DE</a>
+    <span class="separator">|</span>
+    <a href="{{ page.url | relative_url }}" class="active" lang="en" aria-current="true">EN</a>
+  {% else %}
+    <a href="{{ page.url | relative_url }}" class="active" lang="de" aria-current="true">DE</a>
+    <span class="separator">|</span>
+    <a href="{{ target_url | relative_url }}" lang="en">EN</a>
+  {% endif %}
+</div>
+      <!-- Search Button -->
+      <button class="search-toggle" aria-expanded="false" aria-controls="search-overlay">
+        <i class="fas fa-search"></i>
+        <span class="sr-only">{% if lang == 'en' %}Open search{% else %}Suche öffnen{% endif %}</span>
+      </button>
+    </div>
+    </div>    
+    <!-- Vollflächiges Suchoverlay -->
+    <div id="search-overlay" class="search-overlay hidden" role="dialog" aria-modal="true">
+      <div class="search-overlay-content">
+        <form role="search" class="search-form">
+          <label for="overlay-search-input" class="sr-only">
+            {% if lang == "en" %}Search{% else %}Suchen{% endif %}
+          </label>
+          <input type="search" id="overlay-search-input" placeholder="{% if lang == " en" %}Type to search…{% else
+            %}Suchbegriff eingeben…{% endif %}" aria-label="{% if lang == " en" %}Search{% else %}Suchen{% endif %}"
+            autofocus>
+        </form>
+        <ul id="overlay-search-results" class="search-results"></ul>    
+        <button class="search-close" aria-label="{% if lang == 'en' %}Close search{% else %}Suche schließen{% endif %}">
+          <i class="fas fa-times"></i>
+        </button>
+      </div>
+    </div>
+    </header>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const searchToggle = document.querySelector(".search-toggle");
+  const overlay = document.getElementById("search-overlay");
+  const closeBtn = overlay.querySelector(".search-close");
+  const input = overlay.querySelector("#overlay-search-input");
+  const resultsList = overlay.querySelector("#overlay-search-results");
+  const searchForm = overlay.querySelector(".search-form");
+  // Enter-Taste blockieren
+  if (searchForm) {
+    searchForm.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const term = input.value.trim();
+      if (term.length > 1) {
+        const event = new Event("input");
+        input.dispatchEvent(event);
+      }
+    });
+  }
+  // Lunr-Index initialisieren, sobald verfügbar
+  const lang = document.documentElement.lang || "de";
+  const searchIndex = `/${lang === "en" ? "en/" : ""}search.json`;
+  function initializeOverlaySearch() {
+    if (typeof initSearch !== "function") {
+      setTimeout(initializeOverlaySearch, 200);
+      return;
+    }
+    initSearch(searchIndex, lang, {
+      inputSelector: "#overlay-search-input",
+      resultsSelector: "#overlay-search-results"
+    });
+  }
+  initializeOverlaySearch();
+  // Overlay öffnen/schließen
+  searchToggle.addEventListener("click", (e) => {
+    e.preventDefault();
+    overlay.classList.remove("hidden");
+    input.focus();
+  });
+  closeBtn.addEventListener("click", () => {
+    overlay.classList.add("hidden");
+    resultsList.innerHTML = "";
+  });
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !overlay.classList.contains("hidden")) {
+      overlay.classList.add("hidden");
+      resultsList.innerHTML = "";
+      searchToggle.focus();
+    }
+  });
+  // Navigation stabilisieren (nach Resize oder Wechsel)
+  window.addEventListener("resize", () => {
+    const navMenu = document.getElementById("primary-menu");
+    if (window.innerWidth > 900 && navMenu) {
+      navMenu.classList.remove("active");
+    }
+  });
+});
+</script>

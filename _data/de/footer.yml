@@ -1,0 +1,58 @@
+social_links:
+  - name: "Mastodon"
+    url: "https://mastodon.social/@nfdi4objects"
+    icon: "fa-brands fa-mastodon"
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/company/nfdi4objects"
+    icon: "fa-brands fa-linkedin-in"
+  - name: "Instagram"
+    url: "https://www.instagram.com/nfdi4objects"
+    icon: "fa-brands fa-instagram"
+  - name: "Bluesky"
+    url: "https://bsky.app/profile/nfdi4objects.bsky.social"
+    icon: "fa-brands fa-bluesky"
+  - name: "RSS"
+    url: "/feed.xml"
+    icon: "fa-solid fa-rss"
+
+navigation:
+  - title: "Start"
+    url: "/"
+  - title: "Über NFDI4Objects"
+    url: "/about/mission/"
+  - title: "Mitmachen"
+    url: "/community/clusters/"
+  - title: "Services"
+    url: "/services/all/"
+  - title: "Aktuelles"
+    url: "/news/"
+  - title: "Hilfe"
+    url: "/help/"
+
+legal:
+  - title: "Impressum"
+    url: "/impressum/"
+  - title: "Datenschutz"
+    url: "/datenschutz/"
+  - title: "Barrierefreiheit"
+    url: "/barrierefreiheit/"
+  - title: "Nutzungsbedingungen"
+    url: "/nutzungsbedingungen/"
+
+about:
+  title: "NFDI4Objects"
+  description_line1: "Nationale Forschungsdateninfrastruktur"
+  description_line2: "für materielle Objekte der Menschheitsgeschichte"
+
+contact:
+  title: "Kontakt"
+  organization: "NFDI4Objects"
+  email: "info@nfdi4objects.net"
+  phone: "+49 (0) 123 456789"
+
+funding:
+  text: "Gefördert durch die Deutsche Forschungsgemeinschaft (DFG)"
+  logo: "/assets/images/logos/dfg-logo.png"
+  logo_alt: "DFG Logo"
+
+copyright: "© 2025 NFDI4Objects. Alle Rechte vorbehalten."

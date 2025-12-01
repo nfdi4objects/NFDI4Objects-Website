@@ -1,0 +1,397 @@
+{%- comment -%}
+Dynamic Content Component (Refactored)
+
+Automatisches Include für dynamische Inhalte am Ende von Seiten.
+Zeigt relevante dynamische Sektionen basierend auf verfügbaren Front Matter Daten an.
+
+Usage:
+{% include dynamic-content.html %}
+
+Unterstützte Collections:
+- Task Areas (type: ta)
+- CCs (Community Clusters)
+- Trails
+- TWGs (Temporary Working Groups)
+- Services
+- Persons
+{%- endcomment -%}
+
+{%- assign current_lang = page.lang | default: "de" -%}
+
+{%- comment -%} === TASK AREAS === {%- endcomment -%}
+{%- if page.type == "ta" -%}
+
+  {%- comment -%} Zenodo-Button wenn URL im Front Matter {%- endcomment -%}
+  {%- if page.zenodo_url -%}
+    {%- assign zenodo_text = "Zenodo Antrag" -%}
+    {%- if page.zenodo_pages -%}
+      {%- assign zenodo_text = zenodo_text | append: " " | append: page.zenodo_pages -%}
+    {%- endif -%}
+    <h2 class="text-center size-sm">
+      {%- if current_lang == "de" -%}
+        Das {{ page.translation_key | upcase }}-Arbeitsprogramm im NFDI4Objects-Antrag
+      {%- else -%}
+        The {{ page.translation_key | upcase }} Work Programme in the NFDI4Objects Proposal
+      {%- endif -%}
+    </h2>
+    {%- include cta-button.html text=zenodo_text url=page.zenodo_url style="primary" new_window=true -%}
+  {%- endif -%}
+
+  {%- comment -%} Task Area Personen {%- endcomment -%}
+  {%- if page.translation_key -%}
+    {%- assign ta_id = page.translation_key -%}
+    {%- assign co_applicants = "" | split: "" -%}
+    {%- assign staff = "" | split: "" -%}
+    {%- assign persons_by_lang = site.persons | where: "lang", current_lang -%}
+
+    {%- for person in persons_by_lang -%}
+      {%- if person.areas contains ta_id -%}
+        {%- if person.groups contains "steering" or person.groups contains "coordination" or person.groups contains "co_applicants" -%}
+          {%- assign co_applicants = co_applicants | push: person -%}
+        {%- else -%}
+          {%- assign staff = staff | push: person -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+
+    {%- if co_applicants.size > 0 -%}
+    <section class="ta-persons space-md">
+      <h3 class="arrow arrow-left">Co-Applicants</h3>
+      <div class="coordinator-list">
+        {%- for person in co_applicants -%}
+        <div class="coordinator-card">
+          <strong><a href="{{ person.url | relative_url }}">{{ person.title }}</a></strong>
+          {%- if person.position -%}<span class="coordinator-role"> ({{ person.position }})</span>{%- endif -%}
+        </div>
+        {%- endfor -%}
+      </div>
+    </section>
+    {%- endif -%}
+
+    {%- if staff.size > 0 -%}
+    <section class="ta-persons space-md">
+      <h3 class="arrow arrow-left">{% if current_lang == "de" %}Mitarbeitende{% else %}Staff{% endif %}</h3>
+      <div class="coordinator-list">
+        {%- for person in staff -%}
+        <div class="coordinator-card">
+          <strong><a href="{{ person.url | relative_url }}">{{ person.title }}</a></strong>
+          {%- if person.position -%}<span class="coordinator-role"> ({{ person.position }})</span>{%- endif -%}
+        </div>
+        {%- endfor -%}
+      </div>
+    </section>
+    {%- endif -%}
+  {%- endif -%}
+
+  {% include ttl-download-button.html %}
+  {% include back-button.html type="areas" %}
+
+{%- endif -%}
+
+{%- comment -%} === COMMUNITY CLUSTERS === {%- endcomment -%}
+{%- if page.collection == "ccs" -%}
+
+  {%- if page.proposal_url -%}
+    {% include proposal-button.html url=page.proposal_url lang=current_lang %}
+  {%- endif -%}
+
+  {% include coordinators-list.html coordinators=page.cochairs title="Co-Chairs" title_en="Co-Chairs" %}
+  {% include related-areas.html areas=page.areas %}
+
+  {%- if page.focus_areas -%}
+  <section class="cc-focus space-md">
+    <h2>{% if current_lang == "en" %}Focus Areas{% else %}Fokus-Bereiche{% endif %}</h2>
+    <p>{{ page.focus_areas }}</p>
+  </section>
+  {%- endif -%}
+
+  {% include ttl-download-button.html %}
+  {% include back-button.html type="ccs" %}
+
+{%- endif -%}
+
+{%- comment -%} === TRAILS === {%- endcomment -%}
+{%- if page.collection == "trails" -%}
+
+  {%- if page.proposal_url -%}
+    {% include proposal-button.html url=page.proposal_url lang=current_lang %}
+  {%- endif -%}
+
+  {% include coordinators-list.html coordinators=page.coordinators %}
+  {% include related-areas.html areas=page.areas %}
+  {% include related-institutions.html institutions=page.institutions %}
+  {% include ttl-download-button.html %}
+  {% include back-button.html type="trails" %}
+
+{%- endif -%}
+
+{%- comment -%} === TWGs (Temporary Working Groups) === {%- endcomment -%}
+{%- if page.collection == "twgs" -%}
+
+  {%- if page.proposal_url -%}
+    {% include proposal-button.html url=page.proposal_url lang=current_lang %}
+  {%- endif -%}
+
+  {% include coordinators-list.html coordinators=page.coordinators %}
+  {% include related-areas.html areas=page.areas %}
+  {% include related-institutions.html institutions=page.institutions %}
+  {% include ttl-download-button.html %}
+  {% include back-button.html type="twgs" %}
+
+{%- endif -%}
+
+{%- comment -%} === SERVICES === {%- endcomment -%}
+{%- if page.collection == "services" -%}
+
+  {%- comment -%}
+    Hinweis: Institution, Service-Kategorien und Lifecycle-Phasen werden
+    jetzt im service-infobox.html oben auf der Seite angezeigt.
+    Coordinators werden im Kontakt-Bereich des service.html Layouts angezeigt.
+  {%- endcomment -%}
+
+  {%- comment -%} Task Areas (task_areas oder areas) {%- endcomment -%}
+  {%- if page.task_areas -%}
+    {% include related-areas.html areas=page.task_areas %}
+  {%- elsif page.areas -%}
+    {% include related-areas.html areas=page.areas %}
+  {%- endif -%}
+
+  {%- comment -%} Community Clusters {%- endcomment -%}
+  {%- if page.ccs and page.ccs.size > 0 -%}
+  <section class="taxonomy-section space-md">
+    <h3 class="arrow arrow-left">
+      {% if current_lang == "en" %}Related Community Clusters{% else %}Zugeordnete Community Cluster{% endif %}
+    </h3>
+    <div class="cc-badges">
+      {%- assign filtered_ccs = site.ccs | where: "lang", current_lang -%}
+      {%- for cc_id in page.ccs -%}
+        {%- for cc in filtered_ccs -%}
+          {%- if cc.translation_key == cc_id or cc.url contains cc_id -%}
+          <a href="{{ cc.url | relative_url }}" class="badge badge--cc">{{ cc.identifier }} - {{ cc.title }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
+  {%- comment -%} Trails {%- endcomment -%}
+  {%- if page.trails and page.trails.size > 0 -%}
+  <section class="taxonomy-section space-md">
+    <h3 class="arrow arrow-left">
+      {% if current_lang == "en" %}Related Trails{% else %}Zugeordnete Trails{% endif %}
+    </h3>
+    <div class="trail-badges">
+      {%- assign filtered_trails = site.trails | where: "lang", current_lang -%}
+      {%- for trail_id in page.trails -%}
+        {%- for trail in filtered_trails -%}
+          {%- if trail.translation_key == trail_id or trail.url contains trail_id -%}
+          <a href="{{ trail.url | relative_url }}" class="badge badge--trail">{{ trail.title }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
+  {%- comment -%} TWGs {%- endcomment -%}
+  {%- if page.twgs and page.twgs.size > 0 -%}
+  <section class="taxonomy-section space-md">
+    <h3 class="arrow arrow-left">
+      {% if current_lang == "en" %}Related Working Groups{% else %}Zugeordnete Arbeitsgruppen{% endif %}
+    </h3>
+    <div class="twg-badges">
+      {%- assign filtered_twgs = site.twgs | where: "lang", current_lang -%}
+      {%- for twg_id in page.twgs -%}
+        {%- for twg in filtered_twgs -%}
+          {%- if twg.translation_key == twg_id or twg.url contains twg_id -%}
+          <a href="{{ twg.url | relative_url }}" class="badge badge--twg">{{ twg.identifier }} - {{ twg.title }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
+  {% include ttl-download-button.html %}
+
+{%- endif -%}
+
+{%- comment -%} === PERSONS === {%- endcomment -%}
+{%- if page.collection == "persons" -%}
+
+  {%- if page.position -%}
+  <div class="person-position">
+    <h3>Position</h3>
+    <p>{{ page.position }}</p>
+  </div>
+  {%- endif -%}
+
+  {%- if page.institution -%}
+  <div class="person-institution">
+    <h3>Institution</h3>
+    {%- assign inst_data = site.data[current_lang].institutions | where: "id", page.institution | first -%}
+    {%- if inst_data -%}
+    <p><a href="{{ inst_data.url }}" target="_blank" rel="noopener noreferrer">{{ inst_data.name }}</a></p>
+    {%- else -%}
+    <p>{{ page.institution }}</p>
+    {%- endif -%}
+  </div>
+  {%- endif -%}
+
+  {%- comment -%} Organisatorische Rollen {%- endcomment -%}
+  {%- if page.groups and page.groups.size > 0 -%}
+  <div class="person-groups">
+    <h3>{% if current_lang == "en" %}Organizational Roles{% else %}Organisatorische Rollen{% endif %}</h3>
+    <ul class="role-list">
+      {%- for group in page.groups -%}
+        <li class="role-item role-{{ group }}">
+          {%- case group -%}
+            {%- when "coordination" -%}
+              <a href="{% if current_lang == 'en' %}/en{% endif %}/about/people/coordination/">{% if current_lang == "en" %}Coordination Office{% else %}Koordinationsbüro{% endif %}</a>
+            {%- when "steering" -%}
+              <a href="{% if current_lang == 'en' %}/en{% endif %}/about/organisation/steering/">{% if current_lang == "en" %}Steering Committee{% else %}Lenkungsausschuss{% endif %}</a>
+            {%- when "advisory_board" -%}
+              <a href="{% if current_lang == 'en' %}/en{% endif %}/about/organisation/advisory/">{% if current_lang == "en" %}Advisory Board{% else %}Wissenschaftlicher Beirat{% endif %}</a>
+            {%- when "co_applicants" -%}
+              <a href="{% if current_lang == 'en' %}/en{% endif %}/about/people/members/">{% if current_lang == "en" %}Co-Applicant Institution{% else %}Mitantragstellende Institution{% endif %}</a>
+            {%- else -%}
+              {{ group }}
+          {%- endcase -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+  </div>
+  {%- endif -%}
+
+  {%- comment -%} Task Areas {%- endcomment -%}
+  {%- if page.areas and page.areas.size > 0 -%}
+  <div class="person-task-areas">
+    <h3>Task Areas</h3>
+    <div class="area-badges">
+      {%- assign filtered_areas = site.areas | where: "type", "ta" | where: "lang", current_lang -%}
+      {%- for area_id in page.areas -%}
+        {%- for a in filtered_areas -%}
+          {%- if a.url contains area_id -%}
+          <a href="{{ a.url | relative_url }}" class="badge badge--area">{{ a.title }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </div>
+  </div>
+  {%- endif -%}
+
+  {%- comment -%} Community Clusters {%- endcomment -%}
+  {%- assign relevant_ccs = "" | split: "" -%}
+  {%- assign ccs_by_lang = site.ccs | where: "lang", current_lang -%}
+  {%- for cc in ccs_by_lang -%}
+    {%- if cc.cochairs -%}
+      {%- for cochair in cc.cochairs -%}
+        {%- if cochair.person_ref == page.translation_key -%}
+          {%- assign relevant_ccs = relevant_ccs | push: cc -%}
+          {%- break -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {%- if relevant_ccs.size > 0 -%}
+  <div class="person-ccs">
+    <h3>{% if current_lang == "en" %}Community Clusters{% else %}Community Cluster{% endif %}</h3>
+    <ul class="involvement-list">
+      {%- for cc in relevant_ccs -%}
+        {%- for cochair in cc.cochairs -%}
+          {%- if cochair.person_ref == page.translation_key -%}
+          <li>
+            <a href="{{ cc.url | relative_url }}" class="badge badge--cc">{{ cc.title }}</a>
+            <span class="role-label">({{ cochair.role | default: "Co-Chair" }})</span>
+          </li>
+          {%- break -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </ul>
+  </div>
+  {%- endif -%}
+
+  {%- comment -%} Trails {%- endcomment -%}
+  {%- assign relevant_trails = "" | split: "" -%}
+  {%- assign trails_by_lang = site.trails | where: "lang", current_lang -%}
+  {%- for trail in trails_by_lang -%}
+    {%- if trail.coordinators -%}
+      {%- for coordinator in trail.coordinators -%}
+        {%- if coordinator.person_ref == page.translation_key -%}
+          {%- assign relevant_trails = relevant_trails | push: trail -%}
+          {%- break -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {%- if relevant_trails.size > 0 -%}
+  <div class="person-trails">
+    <h3>Trails</h3>
+    <ul class="involvement-list">
+      {%- for trail in relevant_trails -%}
+        {%- for coordinator in trail.coordinators -%}
+          {%- if coordinator.person_ref == page.translation_key -%}
+          <li>
+            <a href="{{ trail.url | relative_url }}" class="badge badge--trail">{{ trail.title }}</a>
+            <span class="role-label">({{ coordinator.role | default: "Coordinator" }})</span>
+          </li>
+          {%- break -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </ul>
+  </div>
+  {%- endif -%}
+
+  {%- comment -%} TWGs {%- endcomment -%}
+  {%- assign relevant_twgs = "" | split: "" -%}
+  {%- assign twgs_by_lang = site.twgs | where: "lang", current_lang -%}
+  {%- for twg in twgs_by_lang -%}
+    {%- if twg.coordinators -%}
+      {%- for coordinator in twg.coordinators -%}
+        {%- if coordinator.person_ref == page.translation_key -%}
+          {%- assign relevant_twgs = relevant_twgs | push: twg -%}
+          {%- break -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {%- if relevant_twgs.size > 0 -%}
+  <div class="person-twgs">
+    <h3>{% if current_lang == "en" %}Temporary Working Groups{% else %}Temporäre Arbeitsgruppen{% endif %}</h3>
+    <ul class="involvement-list">
+      {%- for twg in relevant_twgs -%}
+        {%- for coordinator in twg.coordinators -%}
+          {%- if coordinator.person_ref == page.translation_key -%}
+          <li>
+            <a href="{{ twg.url | relative_url }}" class="badge badge--twg">{{ twg.title }}</a>
+            <span class="role-label">({{ coordinator.role | default: "Coordinator" }})</span>
+          </li>
+          {%- break -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </ul>
+  </div>
+  {%- endif -%}
+
+  {%- if page.orcid -%}
+  <div class="person-orcid">
+    <h3>ORCID</h3>
+    <p>
+      <a href="https://orcid.org/{{ page.orcid }}" target="_blank" rel="noopener noreferrer" class="orcid-link">
+        <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" style="display:inline-block; margin-right: 0.5em; vertical-align: middle;">
+        {{ page.orcid }}
+      </a>
+    </p>
+  </div>
+  {%- endif -%}
+
+  {% include ttl-download-button.html %}
+
+{%- endif -%}
