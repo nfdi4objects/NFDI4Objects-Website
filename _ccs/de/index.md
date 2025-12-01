@@ -26,7 +26,7 @@ permalink: /ccs/
           {% assign has_image = cc.teaser_image %}
           <div class="card {% if has_image %}teaser-img{% else %}bg-sand{% endif %}">
             {% if has_image %}
-              <img src="{{ cc.teaser_image }}"
+              <img src="{{ cc.teaser_image | relative_url }}"
                    {% if cc.teaser_image_srcset %}srcset="{{ cc.teaser_image_srcset }}"{% endif %}
                    {% if cc.teaser_image_srcset %}sizes="{{ cc.teaser_image_sizes | default: '(min-width: 768px) 600px, 100vw' }}"{% endif %}
                    alt="{{ cc.teaser_image_alt | default: cc.title }}">
