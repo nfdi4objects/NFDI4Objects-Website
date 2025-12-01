@@ -248,13 +248,29 @@ Unterstützte Collections:
         <li class="role-item role-{{ group }}">
           {%- case group -%}
             {%- when "coordination" -%}
-              <a href="{{ '/' | append: current_lang | append: '/about/people/coordination/' | replace: '//de/', '/' | replace: '//en/', '/en/' | relative_url }}">{% if current_lang == "en" %}Coordination Office{% else %}Koordinationsbüro{% endif %}</a>
+              {%- if current_lang == "en" -%}
+                <a href="{{ '/en/about/people/coordination/' | relative_url }}">Coordination Office</a>
+              {%- else -%}
+                <a href="{{ '/about/people/coordination/' | relative_url }}">Koordinationsbüro</a>
+              {%- endif -%}
             {%- when "steering" -%}
-              <a href="{{ '/' | append: current_lang | append: '/about/organisation/steering/' | replace: '//de/', '/' | replace: '//en/', '/en/' | relative_url }}">{% if current_lang == "en" %}Steering Committee{% else %}Lenkungsausschuss{% endif %}</a>
+              {%- if current_lang == "en" -%}
+                <a href="{{ '/en/about/organisation/steering/' | relative_url }}">Steering Committee</a>
+              {%- else -%}
+                <a href="{{ '/about/organisation/steering/' | relative_url }}">Lenkungsausschuss</a>
+              {%- endif -%}
             {%- when "advisory_board" -%}
-              <a href="{{ '/' | append: current_lang | append: '/about/organisation/advisory/' | replace: '//de/', '/' | replace: '//en/', '/en/' | relative_url }}">{% if current_lang == "en" %}Advisory Board{% else %}Wissenschaftlicher Beirat{% endif %}</a>
+              {%- if current_lang == "en" -%}
+                <a href="{{ '/en/about/organisation/advisory/' | relative_url }}">Advisory Board</a>
+              {%- else -%}
+                <a href="{{ '/about/organisation/advisory/' | relative_url }}">Wissenschaftlicher Beirat</a>
+              {%- endif -%}
             {%- when "co_applicants" -%}
-              <a href="{{ '/' | append: current_lang | append: '/about/people/members/' | replace: '//de/', '/' | replace: '//en/', '/en/' | relative_url }}">{% if current_lang == "en" %}Co-Applicant Institution{% else %}Mitantragstellende Institution{% endif %}</a>
+              {%- if current_lang == "en" -%}
+                <a href="{{ '/en/about/people/members/' | relative_url }}">Co-Applicant Institution</a>
+              {%- else -%}
+                <a href="{{ '/about/people/members/' | relative_url }}">Mitantragstellende Institution</a>
+              {%- endif -%}
             {%- else -%}
               {{ group }}
           {%- endcase -%}
