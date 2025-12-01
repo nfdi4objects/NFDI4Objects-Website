@@ -25,10 +25,26 @@ permalink: /trails/
       <div class="grid-12 cols-3">
         {% for trail in trails %}
           {% assign has_image = trail.teaser_image %}
+          {% comment %} Process srcset to add relative_url to each path {% endcomment %}
+          {% if trail.teaser_image_srcset %}
+            {% assign srcset_parts = trail.teaser_image_srcset | split: ", " %}
+            {% assign processed_srcset = "" %}
+            {% for part in srcset_parts %}
+              {% assign path_and_descriptor = part | split: " " %}
+              {% if path_and_descriptor.size == 2 %}
+                {% assign path = path_and_descriptor[0] | relative_url %}
+                {% assign descriptor = path_and_descriptor[1] %}
+                {% if processed_srcset != "" %}
+                  {% assign processed_srcset = processed_srcset | append: ", " %}
+                {% endif %}
+                {% assign processed_srcset = processed_srcset | append: path | append: " " | append: descriptor %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
           <div class="card {% if has_image %}teaser-img{% else %}bg-sand{% endif %}">
             {% if has_image %}
               <img src="{{ trail.teaser_image | relative_url }}"
-                   {% if trail.teaser_image_srcset %}srcset="{{ trail.teaser_image_srcset }}"{% endif %}
+                   {% if trail.teaser_image_srcset %}srcset="{{ processed_srcset }}"{% endif %}
                    {% if trail.teaser_image_srcset %}sizes="{{ trail.teaser_image_sizes | default: '(min-width: 768px) 600px, 100vw' }}"{% endif %}
                    alt="{{ trail.teaser_image_alt | default: trail.title }}">
               <div class="card-content">

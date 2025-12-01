@@ -20,10 +20,26 @@ permalink: /twgs/
       <div class="grid-12 cols-3">
         {% for twg in twgs %}
           {% assign has_image = twg.teaser_image %}
+          {% comment %} Process srcset to add relative_url to each path {% endcomment %}
+          {% if twg.teaser_image_srcset %}
+            {% assign srcset_parts = twg.teaser_image_srcset | split: ", " %}
+            {% assign processed_srcset = "" %}
+            {% for part in srcset_parts %}
+              {% assign path_and_descriptor = part | split: " " %}
+              {% if path_and_descriptor.size == 2 %}
+                {% assign path = path_and_descriptor[0] | relative_url %}
+                {% assign descriptor = path_and_descriptor[1] %}
+                {% if processed_srcset != "" %}
+                  {% assign processed_srcset = processed_srcset | append: ", " %}
+                {% endif %}
+                {% assign processed_srcset = processed_srcset | append: path | append: " " | append: descriptor %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
           <div class="card {% if has_image %}teaser-img{% else %}bg-sand{% endif %}">
             {% if has_image %}
               <img src="{{ twg.teaser_image | relative_url }}"
-                   {% if twg.teaser_image_srcset %}srcset="{{ twg.teaser_image_srcset }}"{% endif %}
+                   {% if twg.teaser_image_srcset %}srcset="{{ processed_srcset }}"{% endif %}
                    {% if twg.teaser_image_srcset %}sizes="{{ twg.teaser_image_sizes | default: '(min-width: 768px) 600px, 100vw' }}"{% endif %}
                    alt="{{ twg.teaser_image_alt | default: twg.title }}">
               <div class="card-content">

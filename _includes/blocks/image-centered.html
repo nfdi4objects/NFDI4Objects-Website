@@ -1,9 +1,26 @@
 {% comment %} Set default sizes if not provided {% endcomment %}
 {% assign final_sizes = include.sizes | default: "(min-width: 768px) 600px, 100vw" %}
 
+{% comment %} Process srcset to add relative_url to each path {% endcomment %}
+{% if include.srcset %}
+  {% assign srcset_parts = include.srcset | split: ", " %}
+  {% assign processed_srcset = "" %}
+  {% for part in srcset_parts %}
+    {% assign path_and_descriptor = part | split: " " %}
+    {% if path_and_descriptor.size == 2 %}
+      {% assign path = path_and_descriptor[0] | relative_url %}
+      {% assign descriptor = path_and_descriptor[1] %}
+      {% if processed_srcset != "" %}
+        {% assign processed_srcset = processed_srcset | append: ", " %}
+      {% endif %}
+      {% assign processed_srcset = processed_srcset | append: path | append: " " | append: descriptor %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
 <figure class="{{ include.class | default: 'img-center' }}">
   <img src="{{ include.image | relative_url }}"
-       {% if include.srcset %}srcset="{{ include.srcset }}"{% endif %}
+       {% if include.srcset %}srcset="{{ processed_srcset }}"{% endif %}
        {% if include.srcset %}sizes="{{ final_sizes }}"{% endif %}
        alt="{{ include.alt | default: '' }}"
        {% if include.width %}width="{{ include.width }}"{% endif %}>
