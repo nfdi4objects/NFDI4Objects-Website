@@ -60,12 +60,17 @@
   <!-- Structured Data / Schema.org JSON-LD -->
   {% include schema-jsonld.html %}
   <!-- Favicon -->
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
-<link rel="manifest" href="/assets/images/site.webmanifest">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
+<link rel="manifest" href="{{ '/assets/images/site.webmanifest' | relative_url }}">
   <!-- Stylesheets -->
   <link rel="stylesheet" href="{{ '/assets/css/n4o.css' | relative_url }}">
+  <style>
+    :root {
+      --bg-image-sand-light: url('{{ "/assets/images/basic/Bg-Sandton-Hell-Backgroundimage.png" | relative_url }}');
+    }
+  </style>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>

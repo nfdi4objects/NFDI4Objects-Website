@@ -6,7 +6,7 @@
 
 .bg-sand-light-img {
     background-color: #f4ede1;
-  background-image: url('/assets/images/basic/Bg-Sandton-Hell-Backgroundimage.png');
+  background-image: var(--bg-image-sand-light);
 }
 .bg-sand-light {
     background-color: var(--color-sand-light);
@@ -53,7 +53,7 @@
 
 .bg-sand-light-img .bg-sand .card {
     background-color: var(--color-sand-light);
-    background-image: url('/assets/images/basic/Bg-Sandton-Hell-Backgroundimage.png');
+    background-image: var(--bg-image-sand-light);
 }
 .bg-sand-light-img .card {
     background-color: var(--color-sand);

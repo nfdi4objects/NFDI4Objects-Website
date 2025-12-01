@@ -165,7 +165,8 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   // Lunr-Index initialisieren, sobald verfügbar
   const lang = document.documentElement.lang || "de";
-  const searchIndex = `/${lang === "en" ? "en/" : ""}search.json`;
+  const baseUrl = "{{ site.baseurl }}";
+  const searchIndex = `${baseUrl}/${lang === "en" ? "en/" : ""}search.json`;
   function initializeOverlaySearch() {
     if (typeof initSearch !== "function") {
       setTimeout(initializeOverlaySearch, 200);
