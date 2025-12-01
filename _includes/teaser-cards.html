@@ -81,9 +81,9 @@
     <figure>
       {% comment %} Icon oder Bild {% endcomment %}
       {% if card.image %}
-      <img src="{{ card.image }}" alt="{{ card.title }}" class="card-img">
+      <img src="{{ card.image | relative_url }}" alt="{{ card.title }}" class="card-img">
       {% elsif card.icon %}
-      <img src="{{ card.icon }}" alt="{{ card.title }}">
+      <img src="{{ card.icon | relative_url }}" alt="{{ card.title }}">
       {% endif %}
 
       {% comment %} Überschrift - mit oder ohne Link {% endcomment %}

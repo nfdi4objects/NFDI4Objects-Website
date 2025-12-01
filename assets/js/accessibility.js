@@ -49,11 +49,13 @@ document.addEventListener('DOMContentLoaded', () => {
   if (heroSection) {
     try {
       const imagesData = heroSection.getAttribute('data-hero-images');
+      const baseUrl = heroSection.getAttribute('data-baseurl') || '';
       if (imagesData) {
         const heroImages = JSON.parse(imagesData);
         if (heroImages && heroImages.length > 0) {
           const randomImage = heroImages[Math.floor(Math.random() * heroImages.length)];
-          heroSection.style.backgroundImage = `url('${randomImage.path}')`;
+          const imagePath = randomImage.path.startsWith('/') ? baseUrl + randomImage.path : randomImage.path;
+          heroSection.style.backgroundImage = `url('${imagePath}')`;
           heroSection.style.backgroundSize = 'cover';
           heroSection.style.backgroundPosition = 'center';
           heroSection.style.backgroundBlendMode = 'overlay';

@@ -22,6 +22,7 @@ Barrierefreiheit:
 
 <section class="hero-section" id="hero-section"
          data-hero-images='{{ hero_data.background_images | jsonify | escape }}'
+         data-baseurl="{{ site.baseurl }}"
          role="banner"
          aria-label="{{ default_aria }}">
     <div class="container">
@@ -37,7 +38,7 @@ Barrierefreiheit:
             {% if hero_data.skip_to_content %}
             <div class="hero-button">
                 <a href="{{ hero_data.skip_to_content.target }}">
-                    <img src="{{ hero_data.skip_to_content.icon }}"
+                    <img src="{{ hero_data.skip_to_content.icon | relative_url }}"
                          alt="{{ hero_data.skip_to_content.text }}"
                          class="arrow-btn-b">
                 </a>
