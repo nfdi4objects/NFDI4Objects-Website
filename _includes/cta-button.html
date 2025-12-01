@@ -24,5 +24,5 @@ Parameters:
 {%- endif -%}
 
 <p class="text-center space">
-  <a href="{{ include.url }}" class="btn btn-{{ btn_style }}"{{ target_attr }}>{{ include.text }}</a>
+  <a href="{{ include.url | relative_url }}" class="btn btn-{{ btn_style }}"{{ target_attr }}>{{ include.text }}</a>
 </p>

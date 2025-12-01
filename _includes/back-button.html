@@ -35,7 +35,7 @@ Parameters:
 {%- if btn_url and btn_text -%}
 <section class="bg-sand full-width-content margin-t">
   <p class="text-center space">
-    <a href="{{ btn_url }}" class="btn btn-primary">{{ btn_text }}</a>
+    <a href="{{ btn_url | relative_url }}" class="btn btn-primary">{{ btn_text }}</a>
   </p>
 </section>
 {%- endif -%}

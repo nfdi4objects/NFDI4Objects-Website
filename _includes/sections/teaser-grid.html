@@ -36,7 +36,7 @@
             {% if item.text %}
               <p>
                 {% if item.text_url %}
-                  <a href="{{ item.text_url }}">{{ item.text }}</a>
+                  <a href="{{ item.text_url | relative_url }}">{{ item.text }}</a>
                 {% else %}
                   {{ item.text }}
                 {% endif %}
@@ -45,7 +45,7 @@
 
             {% if item.button %}
               <div>
-                <a href="{{ item.url | default: '#' }}" class="btn {{ item.button_style | default: 'btn-outline' }}">
+                <a href="{{ item.url | default: '#' | relative_url }}" class="btn {{ item.button_style | default: 'btn-outline' }}">
                   {{ item.button }}
                 </a>
               </div>
@@ -57,7 +57,7 @@
 
     {% if include.section_button %}
       <div class="text-center space-t">
-        <a href="{{ include.section_button.url | default: '#' }}" class="btn {{ include.section_button.style | default: 'btn-primary' }}">
+        <a href="{{ include.section_button.url | default: '#' | relative_url }}" class="btn {{ include.section_button.style | default: 'btn-primary' }}">
           {{ include.section_button.label }}
         </a>
       </div>
