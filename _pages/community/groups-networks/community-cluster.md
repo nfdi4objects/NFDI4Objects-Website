@@ -33,8 +33,8 @@ Alle Interessierten sind herzlich eingeladen, sich an den Community Clustern zu 
 
 <section class="bg-sand full-width-content all-button">
       {% include blocks/button.html
-         text="Coummunity Cluster"
-         url="/CCS/"
+         text="Community Cluster"
+         url="/ccs/"
          style="primary"
       %}
 </section>

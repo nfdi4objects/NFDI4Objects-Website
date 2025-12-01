@@ -22,7 +22,7 @@ permalink: /twgs/
           {% assign has_image = twg.teaser_image %}
           <div class="card {% if has_image %}teaser-img{% else %}bg-sand{% endif %}">
             {% if has_image %}
-              <img src="{{ twg.teaser_image }}"
+              <img src="{{ twg.teaser_image | relative_url }}"
                    {% if twg.teaser_image_srcset %}srcset="{{ twg.teaser_image_srcset }}"{% endif %}
                    {% if twg.teaser_image_srcset %}sizes="{{ twg.teaser_image_sizes | default: '(min-width: 768px) 600px, 100vw' }}"{% endif %}
                    alt="{{ twg.teaser_image_alt | default: twg.title }}">
