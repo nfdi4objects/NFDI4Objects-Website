@@ -248,13 +248,13 @@ Unterstützte Collections:
         <li class="role-item role-{{ group }}">
           {%- case group -%}
             {%- when "coordination" -%}
-              <a href="{% if current_lang == 'en' %}/en{% endif %}/about/people/coordination/">{% if current_lang == "en" %}Coordination Office{% else %}Koordinationsbüro{% endif %}</a>
+              <a href="{{ '/' | append: current_lang | append: '/about/people/coordination/' | replace: '//de/', '/' | replace: '//en/', '/en/' | relative_url }}">{% if current_lang == "en" %}Coordination Office{% else %}Koordinationsbüro{% endif %}</a>
             {%- when "steering" -%}
-              <a href="{% if current_lang == 'en' %}/en{% endif %}/about/organisation/steering/">{% if current_lang == "en" %}Steering Committee{% else %}Lenkungsausschuss{% endif %}</a>
+              <a href="{{ '/' | append: current_lang | append: '/about/organisation/steering/' | replace: '//de/', '/' | replace: '//en/', '/en/' | relative_url }}">{% if current_lang == "en" %}Steering Committee{% else %}Lenkungsausschuss{% endif %}</a>
             {%- when "advisory_board" -%}
-              <a href="{% if current_lang == 'en' %}/en{% endif %}/about/organisation/advisory/">{% if current_lang == "en" %}Advisory Board{% else %}Wissenschaftlicher Beirat{% endif %}</a>
+              <a href="{{ '/' | append: current_lang | append: '/about/organisation/advisory/' | replace: '//de/', '/' | replace: '//en/', '/en/' | relative_url }}">{% if current_lang == "en" %}Advisory Board{% else %}Wissenschaftlicher Beirat{% endif %}</a>
             {%- when "co_applicants" -%}
-              <a href="{% if current_lang == 'en' %}/en{% endif %}/about/people/members/">{% if current_lang == "en" %}Co-Applicant Institution{% else %}Mitantragstellende Institution{% endif %}</a>
+              <a href="{{ '/' | append: current_lang | append: '/about/people/members/' | replace: '//de/', '/' | replace: '//en/', '/en/' | relative_url }}">{% if current_lang == "en" %}Co-Applicant Institution{% else %}Mitantragstellende Institution{% endif %}</a>
             {%- else -%}
               {{ group }}
           {%- endcase -%}

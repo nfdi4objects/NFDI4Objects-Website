@@ -12,7 +12,7 @@ layout: n4o-base
         {% include dynamic-content.html %}
       </div>
        <div>
-        <img src="{{ page.image }}" alt="{{ page.title }}" width="350" />
+        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" width="350" />
          {% if content and content != '' %}
           <div class="person-bio">
             {{ content }}
