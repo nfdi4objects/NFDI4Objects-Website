@@ -3,7 +3,7 @@
 
 <div class="grid-12 text-img-gap">
   <figure class="col-6 order-{{ include.image_order | default: '1' }}">
-      <img src="{{ include.image }}"
+      <img src="{{ include.image | relative_url }}"
            {% if include.srcset %}srcset="{{ include.srcset }}"{% endif %}
            {% if include.srcset %}sizes="{{ final_sizes }}"{% endif %}
            alt="{{ include.alt | default: '' }}"

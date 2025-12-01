@@ -21,7 +21,7 @@
           {% assign has_image = item.teaser_image %}
           <article class="card {% if has_image %}teaser-img{% endif %}">
             {% if has_image %}
-              <img src="{{ item.teaser_image }}"
+              <img src="{{ item.teaser_image | relative_url }}"
                    {% if item.teaser_image_srcset %}srcset="{{ item.teaser_image_srcset }}"{% endif %}
                    {% if item.teaser_image_srcset %}sizes="{{ item.teaser_image_sizes | default: '(min-width: 768px) 600px, 100vw' }}"{% endif %}
                    alt="{{ item.teaser_image_alt | default: item.title }}">

@@ -2,7 +2,7 @@
 {% assign final_sizes = include.sizes | default: "(min-width: 768px) 600px, 100vw" %}
 
 <figure class="{{ include.class | default: 'img-center' }}">
-  <img src="{{ include.image }}"
+  <img src="{{ include.image | relative_url }}"
        {% if include.srcset %}srcset="{{ include.srcset }}"{% endif %}
        {% if include.srcset %}sizes="{{ final_sizes }}"{% endif %}
        alt="{{ include.alt | default: '' }}"
