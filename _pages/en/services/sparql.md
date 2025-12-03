@@ -11,21 +11,19 @@ permalink: /en/services/sparql/
 {% include page-header.html
     icon="/assets/icons/portal/Dienste.svg"
     title="SPARQL Endpoint"
-    subtitle="Programmatic access to linked data"
+    subtitle="What is the NFDI4Objects Knowledge Graph?"
 %}
 
 {% include teaser-cards.html cards=page.cards bg_color="bg-sand" %}
 
 
 
-## What is the NFDI4Objects Knowledge Graph?>
-
 The NFDI4Objects Knowledge Graph is a machine-readable representation of all data on this website.
 It connects information about persons, projects (trails), services, task areas, and other entities
 in a semantic network based on open standards (RDF, FOAF, Dublin Core).
 
 
-### Use Cases
+## Use Cases
 
 **Research:** Analyze collaboration networks and project structures
 **Integration:** Integrate NFDI4Objects data into your applications

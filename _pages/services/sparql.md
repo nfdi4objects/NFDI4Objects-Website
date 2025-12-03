@@ -21,7 +21,7 @@ Er verknüpft Informationen über Personen, Projekte (Trails), Services, Task Ar
 in einem semantischen Netzwerk basierend auf offenen Standards (RDF, FOAF, Dublin Core).
 
 
-### Verwendungsmöglichkeiten
+## Verwendungsmöglichkeiten
 
 - **Forschung:** Analysieren Sie Kooperationsnetzwerke und Projektstrukturen
 - **Integration:** Binden Sie NFDI4Objects-Daten in Ihre Anwendungen ein
