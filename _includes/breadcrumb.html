@@ -54,10 +54,18 @@ Unterstützt:
   {% elsif page.collection == "persons" %}
     {% if lang == "en" %}
       {% assign collection_label = "People" %}
-      {% assign collection_index = "/en/persons/" %}
+      {% assign collection_index = "/en/about/people/persons/" %}
+      {% assign collection_category = "NFDI4Objects" %}
+      {% assign collection_category_url = "#" %}
+      {% assign collection_subcategory = "Who we are" %}
+      {% assign collection_subcategory_url = "/en/about/people/" %}
     {% else %}
       {% assign collection_label = "Personen" %}
-      {% assign collection_index = "/persons/" %}
+      {% assign collection_index = "/about/people/persons/" %}
+      {% assign collection_category = "NFDI4Objects" %}
+      {% assign collection_category_url = "#" %}
+      {% assign collection_subcategory = "Wer wir sind" %}
+      {% assign collection_subcategory_url = "/about/people/" %}
     {% endif %}
   {% elsif page.collection == "trails" %}
     {% if lang == "en" %}
@@ -343,19 +351,3 @@ Unterstützt:
   </ol>
 </nav>
 {% endif %}
-
-<!-- {%- comment -%} Debug (nur bei jekyll serve) {%- endcomment -%}
-{% if jekyll.environment == "development" %}
-  <pre class="debug" style="font-size:0.8em;opacity:0.6;">
-DEBUG breadcrumbs:
-{{ breadcrumbs | jsonify }}
-Current URL: {{ current_url }}
-Collection Index: {{ collection_index }}
-Grandparent: {{ grandparent_title }} ({{ grandparent_url }})
-Parent: {{ parent_title }} ({{ parent_url }})
-Collection Parent: {{ collection_parent_title }} ({{ collection_parent_url }})
-Found: {{ found }}
-Collection: {{ page.collection }}
-Lang: {{ lang }}
-  </pre>
-{% endif %} -->
