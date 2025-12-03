@@ -55,17 +55,9 @@ Unterstützt:
     {% if lang == "en" %}
       {% assign collection_label = "People" %}
       {% assign collection_index = "/en/about/people/persons/" %}
-      {% assign collection_category = "NFDI4Objects" %}
-      {% assign collection_category_url = "#" %}
-      {% assign collection_subcategory = "Who we are" %}
-      {% assign collection_subcategory_url = "/en/about/people/" %}
     {% else %}
       {% assign collection_label = "Personen" %}
       {% assign collection_index = "/about/people/persons/" %}
-      {% assign collection_category = "NFDI4Objects" %}
-      {% assign collection_category_url = "#" %}
-      {% assign collection_subcategory = "Wer wir sind" %}
-      {% assign collection_subcategory_url = "/about/people/" %}
     {% endif %}
   {% elsif page.collection == "trails" %}
     {% if lang == "en" %}
