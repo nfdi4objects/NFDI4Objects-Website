@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/sophie-schmidt/index.ttl
+source: person-sophie-schmidt
+---

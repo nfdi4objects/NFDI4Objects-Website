@@ -17,7 +17,7 @@ Unterstützt zwei Modi:
 {%- if twg.twg_id -%}
   {%- assign twg_id = twg.twg_id -%}
 {%- else -%}
-  {%- assign twg_id = twg.translation_key | remove: "twg-" | replace: "-", "_" -%}
+  {%- assign twg_id = twg.translation_key | remove: "twg-" -%}
 {%- endif -%}
 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -30,7 +30,7 @@ Unterstützt zwei Modi:
 @prefix nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#> .
 @prefix n4o: <https://nfdi4objects.net/ontology#> .
 
-<https://nfdi4objects.net/twgs/{{ twg_id }}/{{ twg_id }}>
+<https://nfdi4objects.net/twgs/{{ twg_id }}>
     rdf:type n4o:Organization ;
     skos:prefLabel "{{ twg.title }}"@{{ twg.lang }} ;
     {%- if twg.description %}
@@ -59,7 +59,7 @@ Unterstützt zwei Modi:
     {%- if twg_members.size > 0 -%}
     foaf:member
         {%- for person in twg_members -%}
-        <https://nfdi4objects.net/persons/{{ person.translation_key | remove: "person-" | replace: "-", "_" }}/{{ person.translation_key | remove: "person-" | replace: "-", "_" }}>{%- unless forloop.last -%},{%- else -%} .{%- endunless -%}
+        <https://nfdi4objects.net/persons/{{ person.translation_key | remove: "person-" }}>{%- unless forloop.last -%},{%- else -%} .{%- endunless -%}
         {%- endfor -%}
     {%- else -%}
     .

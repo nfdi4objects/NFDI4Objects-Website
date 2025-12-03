@@ -17,7 +17,7 @@ Unterstützt zwei Modi:
 {%- if cc.cc_id -%}
   {%- assign cc_id = cc.cc_id -%}
 {%- else -%}
-  {%- assign cc_id = cc.translation_key | remove: "cc-" | replace: "-", "_" -%}
+  {%- assign cc_id = cc.translation_key | remove: "cc-" -%}
 {%- endif -%}
 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -30,7 +30,7 @@ Unterstützt zwei Modi:
 @prefix nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#> .
 @prefix n4o: <https://nfdi4objects.net/ontology#> .
 
-<https://nfdi4objects.net/ccs/{{ cc_id }}/{{ cc_id }}>
+<https://nfdi4objects.net/ccs/{{ cc_id }}>
     rdf:type n4o:Organization ;
     skos:prefLabel "{{ cc.title }}"@{{ cc.lang }} ;
     {%- if cc.description %}
@@ -59,7 +59,7 @@ Unterstützt zwei Modi:
     {%- if cc_members.size > 0 -%}
     foaf:member
         {%- for person in cc_members -%}
-        <https://nfdi4objects.net/persons/{{ person.translation_key | remove: "person-" | replace: "-", "_" }}/{{ person.translation_key | remove: "person-" | replace: "-", "_" }}>{%- unless forloop.last -%},{%- else -%} .{%- endunless -%}
+        <https://nfdi4objects.net/persons/{{ person.translation_key | remove: "person-" }}>{%- unless forloop.last -%},{%- else -%} .{%- endunless -%}
         {%- endfor -%}
     {%- else -%}
     .

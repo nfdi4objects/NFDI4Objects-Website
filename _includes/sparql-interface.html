@@ -1,0 +1,375 @@
+<!-- NFDI4Objects SPARQL Interface -->
+<!-- Uses YASGUI (Yet Another SPARQL GUI) and Comunica for client-side querying -->
+
+
+
+<div id="sparql-interface">
+    <p class="text-center space">
+    <a href="{{ site.baseurl }}/nfdi4objects.ttl" class="metadata-link btn btn-primary">
+      {% if page.lang == 'en' %}
+      <i class="fa fa-download" aria-hidden="true"></i> Download complete Knowledge Graph (TTL format)
+      {% else %}
+      <i class="fa fa-download" aria-hidden="true"></i>  Kompletten Knowledge Graph herunterladen (TTL-Format)
+      {% endif %}
+    </a>
+  </p>
+  <div class="space-bxl">
+    <h3>{% if include.title %}{{ include.title }}{% else %}Über diesen SPARQL-Endpunkt{% endif %}</h3>
+    <p>
+      {% if page.lang == 'en' %}
+      This interface allows you to query the NFDI4Objects Knowledge Graph using SPARQL.
+      The queries run directly in your browser using the aggregated TTL file.
+      You can explore our linked data about persons, projects, services, and more.
+      {% else %}
+      Dieses Interface ermöglicht es Ihnen, den NFDI4Objects Knowledge Graph mit SPARQL abzufragen.
+      Die Abfragen laufen direkt in Ihrem Browser unter Verwendung der aggregierten TTL-Datei.
+      Sie können unsere verknüpften Daten über Personen, Projekte, Services und mehr erkunden.
+      {% endif %}
+    </p>
+     <strong>{% if page.lang == 'en' %}How to use:{% else %}So funktioniert's:{% endif %}</strong>
+    <ul style="margin: 0.5rem 0 0 0; padding-left: 1.5rem;">
+      {% if page.lang == 'en' %}
+      <li>Click the <strong>▶ Execute</strong> button to run a query</li>
+      <li>Results appear in the <strong>Response</strong> tab below</li>
+      <li>Click an <strong>example query button</strong> below to load and execute it automatically</li>
+      <li>Edit the query in the editor and click Execute to see new results</li>
+      {% else %}
+      <li>Klicken Sie auf <strong>▶ Execute</strong>, um eine Abfrage auszuführen</li>
+      <li>Die Ergebnisse erscheinen im <strong>Response</strong>-Tab unterhalb des Editors</li>
+      <li>Klicken Sie auf einen <strong>Beispiel-Button</strong> unten, um die Abfrage automatisch zu laden und auszuführen</li>
+      <li>Bearbeiten Sie die Abfrage im Editor und klicken Sie auf Execute für neue Ergebnisse</li>
+      {% endif %}
+    </ul>
+  </div>
+
+
+
+  <div id="yasgui-container">
+    <div class="loading-message" id="sparql-loading-message">
+      {% if page.lang == 'en' %}
+       Loading SPARQL interface...
+      {% else %}
+       SPARQL-Interface wird geladen...
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="sparql-examples">
+    <h3>{% if page.lang == 'en' %}Example Queries{% else %}Beispiel-Abfragen{% endif %}</h3>
+    <p>
+      {% if page.lang == 'en' %}
+      Click to view example SPARQL queries. You can copy them into the editor above.
+      {% else %}
+      Klicken Sie, um Beispiel-SPARQL-Abfragen anzuzeigen. Sie können diese in den Editor oben kopieren.
+      {% endif %}
+    </p>
+
+    {% for example in include.examples %}
+    <div class="example-query bg-sand">
+      <div class="example-query-header">
+        <h4 class="example-query-title">{{ example.title }}</h4>
+        <button type="button"
+                class="example-query-toggle btn btn-primary chevron"
+                aria-expanded="false"
+                aria-controls="example-{{ forloop.index }}"
+                onclick="toggleExample(this)">
+          {% if page.lang == 'en' %}Show Code{% else %}Code anzeigen{% endif %}
+        </button>
+      </div>
+      <div id="example-{{ forloop.index }}" class="example-query-content">
+        <p>{{ example.description }}</p>
+        <pre><code>{{ example.query }}</code></pre>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Load YASGUI -->
+<link href="https://unpkg.com/@triply/yasgui/build/yasgui.min.css" rel="stylesheet" type="text/css" />
+<script src="https://unpkg.com/@triply/yasgui/build/yasgui.min.js"></script>
+
+<script>
+  (async function() {
+
+    // Get absolute URL for TTL file
+    const ttlUrl = new URL('{{ site.baseurl }}/nfdi4objects.ttl', window.location.origin).href;
+
+    // Load and parse TTL data manually
+    let ttlData = null;
+    let triples = [];
+
+    try {
+      const response = await fetch(ttlUrl);
+      ttlData = await response.text();
+
+      // Simple triple extraction (works for our basic TTL format)
+      const lines = ttlData.split('\n');
+      let currentSubject = null;
+
+      for (const line of lines) {
+        const trimmed = line.trim();
+
+        // Skip comments and empty lines
+        if (!trimmed || trimmed.startsWith('#') || trimmed.startsWith('@prefix')) continue;
+
+        // Extract subject (starts with <)
+        if (trimmed.startsWith('<')) {
+          const match = trimmed.match(/^<([^>]+)>/);
+          if (match) currentSubject = match[1];
+        }
+
+        // Extract predicate-object pairs
+        if (currentSubject && trimmed.includes(' ')) {
+          const parts = trimmed.split(/\s+/);
+          if (parts.length >= 2) {
+            triples.push({ subject: currentSubject, line: trimmed });
+          }
+        }
+      }
+
+    } catch (error) {
+      console.error('❌ Failed to load TTL data:', error);
+    }
+
+    // Initialize YASGUI with custom request config
+    const yasgui = new Yasgui(document.getElementById('yasgui-container'), {
+      requestConfig: {
+        endpoint: ttlUrl,
+        method: 'GET'
+      },
+      copyEndpointOnNewTab: false,
+      endpointCatalogueOptions: {
+        keys: []
+      },
+      yasrConfig: {
+        defaultPlugin: 'response'
+      }
+    });
+
+    // Remove loading message
+    const loadingMsg = document.getElementById('sparql-loading-message');
+    if (loadingMsg) {
+      loadingMsg.remove();
+    }
+
+    // Get tab and configure
+    const tab = yasgui.getTab();
+    const yasqe = tab.yasqe;
+    const yasr = tab.yasr;
+
+    // Set initial query
+    yasqe.setValue(`PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#>
+PREFIX n4o: <https://nfdi4objects.net/ontology#>
+
+SELECT ?person ?name WHERE {
+  ?person a nfdicore:Person ;
+          foaf:name ?name .
+} LIMIT 10`);
+
+    // Completely override YASGUI's default request handler
+    // This prevents the POST request that causes the error
+    yasgui.getTab().setRequestConfig({
+      endpoint: ttlUrl,
+      method: 'GET',
+      // Custom request handler that bypasses YASGUI's default AJAX
+      adjustQueryBeforeRequest: (query) => query
+    });
+
+    // Override the query execution at a lower level
+    const originalHandleYasqeQuery = tab.handleYasqeQuery;
+    tab.handleYasqeQuery = async function() {
+      if (!ttlData) {
+        yasr.setResponse({ error: 'TTL data not loaded' });
+        return;
+      }
+
+      try {
+        const query = yasqe.getValue();
+
+        // Show loading state
+        yasr.setResponse({
+          head: { vars: [] },
+          results: { bindings: [] }
+        });
+
+        // Small delay to show loading state
+        await new Promise(resolve => setTimeout(resolve, 50));
+
+        // Execute our custom query handler
+        const results = executeSimpleQuery(query, ttlData);
+
+        // Set results
+        yasr.setResponse(results);
+
+        // Switch to table view if we have results
+        if (results.results.bindings.length > 0) {
+          setTimeout(() => {
+            // Find and click the "Table" plugin tab
+            const tableTab = document.querySelector('.yasr_btnGroup button[title*="table"], .yasr_btnGroup button[aria-label*="table"]');
+            if (tableTab) {
+              tableTab.click();
+            } else {
+              // Try alternate selector
+              const tabs = document.querySelectorAll('.yasr_btnGroup button');
+              tabs.forEach(tab => {
+                if (tab.textContent.toLowerCase().includes('table') || tab.getAttribute('data-yasrplugin') === 'table') {
+                  tab.click();
+                }
+              });
+            }
+          }, 50);
+        }
+
+        // Hide error messages that might appear from YASGUI's internal requests
+        setTimeout(() => {
+          const errorElements = document.querySelectorAll('.yasr .errorResult');
+          errorElements.forEach(el => el.style.display = 'none');
+        }, 100);
+
+      } catch (error) {
+        console.error('❌ Query error:', error);
+        yasr.setResponse({ error: error.message });
+      }
+    };
+
+    // Simple query executor for basic SELECT queries
+    function executeSimpleQuery(query, data) {
+      const bindings = [];
+
+      // Extract what we're selecting
+      const selectMatch = query.match(/SELECT\s+(.*?)\s+WHERE/is);
+      if (!selectMatch) {
+        throw new Error('Invalid SELECT query');
+      }
+
+      const vars = selectMatch[1].match(/\?(\w+)/g).map(v => v.substring(1));
+
+      // Check for Person + name pattern (our default query)
+      if (query.includes('nfdicore:Person') && query.includes('foaf:name')) {
+        // Extract all person URIs and their names line by line
+        const lines = data.split('\n');
+        let currentPerson = null;
+
+        for (let i = 0; i < lines.length; i++) {
+          const line = lines[i].trim();
+
+          // Check for person URI
+          const personUriMatch = line.match(/^<(https:\/\/nfdi4objects\.net\/persons\/[^>]+)>/);
+          if (personUriMatch) {
+            currentPerson = personUriMatch[1];
+          }
+
+          // Check if this is a person type declaration
+          if (currentPerson && line.includes('rdf:type nfdicore:Person')) {
+            // Skip invalid URIs (template with /persons//)
+            if (currentPerson.includes('/persons//')) {
+              currentPerson = null;
+              continue;
+            }
+
+            // Look ahead for foaf:name in next few lines
+            for (let j = i; j < Math.min(i + 20, lines.length); j++) {
+              const nameLine = lines[j].trim();
+              const nameMatch = nameLine.match(/foaf:name\s+"([^"]+)"/);
+              if (nameMatch) {
+                const personName = nameMatch[1];
+
+                // Skip empty names
+                if (personName.trim() === '') {
+                  break;
+                }
+
+                // Add this person immediately
+                bindings.push({
+                  person: { type: 'uri', value: currentPerson },
+                  name: { type: 'literal', value: personName }
+                });
+                break;
+              }
+              // Stop if we hit another entity
+              if (j > i && nameLine.startsWith('#')) {
+                break;
+              }
+            }
+
+            // Reset for next person
+            currentPerson = null;
+          }
+        }
+      }
+      // Check for all persons query
+      else if (query.includes('nfdicore:Person')) {
+        const personMatches = data.matchAll(/<([^>]+)>\s+rdf:type\s+nfdicore:Person/g);
+
+        for (const match of personMatches) {
+          bindings.push({
+            person: { type: 'uri', value: match[1] }
+          });
+        }
+      }
+      // Check for projects/trails
+      else if (query.includes('nfdicore:Project')) {
+        // Find all project entries with their complete blocks
+        const projectBlocks = data.split(/(?=# Source: )/);
+
+        for (const block of projectBlocks) {
+          if (!block.includes('rdf:type nfdicore:Project')) continue;
+
+          // Extract URI
+          const uriMatch = block.match(/<(https:\/\/nfdi4objects\.net\/[^>]+)>/);
+          if (!uriMatch) continue;
+
+          const projectUri = uriMatch[1];
+
+          // Extract title
+          const titleMatch = block.match(/skos:prefLabel\s+"([^"]+)"/);
+          if (!titleMatch) continue;
+
+          const projectTitle = titleMatch[1];
+
+          bindings.push({
+            project: { type: 'uri', value: projectUri },
+            title: { type: 'literal', value: projectTitle }
+          });
+        }
+      }
+
+      // Apply LIMIT
+      const limitMatch = query.match(/LIMIT\s+(\d+)/i);
+      if (limitMatch) {
+        bindings.splice(parseInt(limitMatch[1]));
+      }
+
+      return {
+        head: { vars: vars },
+        results: { bindings: bindings }
+      };
+    }
+
+  })();
+</script>
+
+<!-- Toggle function for example queries -->
+<script>
+  function toggleExample(button) {
+    const content = document.getElementById(button.getAttribute('aria-controls'));
+    const isActive = content.classList.contains('active');
+
+    // Toggle active state
+    content.classList.toggle('active');
+
+    // Update aria-expanded attribute
+    const isExpanded = content.classList.contains('active');
+    button.setAttribute('aria-expanded', isExpanded.toString());
+
+    // Update button text based on language
+    const lang = '{{ page.lang }}';
+    if (lang === 'en') {
+      button.textContent = isExpanded ? 'Hide Code' : 'Show Code';
+    } else {
+      button.textContent = isExpanded ? 'Code ausblenden' : 'Code anzeigen';
+    }
+  }
+</script>

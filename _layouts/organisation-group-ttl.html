@@ -60,7 +60,7 @@ Es aggregiert automatisch alle Personen, die zur Gruppe gehören.
     {%- if group_members.size > 0 %}
     foaf:member
         {%- for person in group_members -%}
-        <https://nfdi4objects.net/persons/{{ person.translation_key | remove: "person-" | replace: "-", "_" }}/{{ person.translation_key | remove: "person-" | replace: "-", "_" }}>{%- unless forloop.last -%},{%- else -%} ;{%- endunless -%}
+        <https://nfdi4objects.net/persons/{{ person.translation_key | remove: "person-" }}>{%- unless forloop.last -%},{%- else -%} ;{%- endunless -%}
         {%- endfor %}
     {%- endif %}
     n4o:memberCount {{ group_members.size }} ;

@@ -16,7 +16,7 @@ Unterstützt zwei Modi:
   {%- assign person = page -%}
 {%- endif -%}
 
-{%- assign person_id = person.translation_key | remove: "person-" | replace: "-", "_" -%}
+{%- assign person_id = person.translation_key | remove: "person-" -%}
 
 {%- comment -%}Extrahiere Vor- und Nachname aus title, falls nicht explizit angegeben{%- endcomment -%}
 {%- assign name_parts = person.title | split: " " -%}
@@ -46,7 +46,7 @@ Unterstützt zwei Modi:
 @prefix nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#> .
 @prefix n4o: <https://nfdi4objects.net/ontology#> .
 
-<https://nfdi4objects.net/persons/{{ person_id }}/{{ person_id }}>
+<https://nfdi4objects.net/persons/{{ person_id }}>
     rdf:type nfdicore:Person ;
     foaf:name "{{ person.title }}" ;
     {%- if person.title %}
@@ -74,7 +74,7 @@ Unterstützt zwei Modi:
     {%- endif %}
     {%- if person.areas %}
     {%- for area in person.areas %}
-    n4o:worksIn <https://nfdi4objects.net/areas/{{ area }}/{{ area }}> ;
+    n4o:worksIn <https://nfdi4objects.net/areas/{{ area }}> ;
     {%- endfor %}
     {%- endif %}
     dcterms:isPartOf <https://nfdi4objects.net> .

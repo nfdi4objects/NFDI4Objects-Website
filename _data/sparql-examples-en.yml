@@ -1,0 +1,96 @@
+# SPARQL Example Queries for the NFDI4Objects Knowledge Graph
+# These examples are displayed on the SPARQL interface page
+
+- title: "List all persons"
+  description: "Shows all persons in the Knowledge Graph with their names."
+  query: |
+    PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+    PREFIX nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#>
+
+    SELECT ?person ?name WHERE {
+      ?person a nfdicore:Person ;
+              foaf:name ?name .
+    }
+    ORDER BY ?name
+
+- title: "Persons with ORCID ID"
+  description: "Finds all persons who have an ORCID ID."
+  query: |
+    PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+    PREFIX nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#>
+    PREFIX n4o: <https://nfdi4objects.net/ontology#>
+
+    SELECT ?person ?name ?orcid WHERE {
+      ?person a nfdicore:Person ;
+              foaf:name ?name ;
+              n4o:orcidId ?orcid .
+    }
+    ORDER BY ?name
+
+- title: "All projects (Trails)"
+  description: "Lists all trail projects with their titles."
+  query: |
+    PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+    PREFIX nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#>
+
+    SELECT ?project ?title WHERE {
+      ?project a nfdicore:Project ;
+               skos:prefLabel ?title .
+    }
+    ORDER BY ?title
+
+- title: "Persons and their Task Areas"
+  description: "Shows which persons work in which task areas."
+  query: |
+    PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+    PREFIX nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#>
+    PREFIX n4o: <https://nfdi4objects.net/ontology#>
+
+    SELECT ?person ?name ?taskArea WHERE {
+      ?person a nfdicore:Person ;
+              foaf:name ?name ;
+              n4o:worksIn ?taskArea .
+    }
+    ORDER BY ?name
+
+- title: "Project coordinators"
+  description: "Finds all projects and their co-chairs/coordinators."
+  query: |
+    PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+    PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+    PREFIX nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#>
+    PREFIX n4o: <https://nfdi4objects.net/ontology#>
+
+    SELECT ?project ?projectTitle ?coordinator ?coordinatorName WHERE {
+      ?project a nfdicore:Project ;
+               skos:prefLabel ?projectTitle ;
+               n4o:coChair ?coordinator .
+      ?coordinator foaf:name ?coordinatorName .
+    }
+    ORDER BY ?projectTitle
+
+- title: "Count persons per Task Area"
+  description: "Counts how many persons work in each task area."
+  query: |
+    PREFIX nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#>
+    PREFIX n4o: <https://nfdi4objects.net/ontology#>
+
+    SELECT ?taskArea (COUNT(?person) as ?personCount) WHERE {
+      ?person a nfdicore:Person ;
+              n4o:worksIn ?taskArea .
+    }
+    GROUP BY ?taskArea
+    ORDER BY DESC(?personCount)
+
+- title: "All data of a specific person"
+  description: "Shows all available information about a person (example: Florian Thiery)."
+  query: |
+    PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+    PREFIX nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#>
+
+    SELECT ?property ?value WHERE {
+      ?person a nfdicore:Person ;
+              foaf:name ?name ;
+              ?property ?value .
+      FILTER(CONTAINS(LCASE(?name), "thiery"))
+    }

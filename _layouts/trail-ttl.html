@@ -20,7 +20,7 @@ Unterstützt zwei Modi:
 {%- if trail.trail_id -%}
   {%- assign trail_id = trail.trail_id -%}
 {%- else -%}
-  {%- assign trail_id = trail.translation_key | remove: "trail-" | replace: "-", "_" -%}
+  {%- assign trail_id = trail.translation_key | remove: "trail-" -%}
 {%- endif -%}
 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -38,7 +38,7 @@ Unterstützt zwei Modi:
 @prefix nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#> .
 @prefix n4o: <https://nfdi4objects.net/ontology#> .
 
-<https://nfdi4objects.net/trails/{{ trail_id }}/{{ trail_id }}>
+<https://nfdi4objects.net/trails/{{ trail_id }}>
     rdf:type nfdicore:Project ;
     skos:prefLabel "{{ trail.title }}"@{{ trail.lang }} ;
     {%- if trail.description %}
@@ -61,12 +61,12 @@ Unterstützt zwei Modi:
     {%- endif %}
     {%- if trail.coordinators %}
     {%- for coordinator in trail.coordinators %}
-    n4o:coChair <https://nfdi4objects.net/persons/{{ coordinator.person_ref | remove: "person-" | replace: "-", "_" }}/{{ coordinator.person_ref | remove: "person-" | replace: "-", "_" }}> ;
+    n4o:coChair <https://nfdi4objects.net/persons/{{ coordinator.person_ref | remove: "person-" }}> ;
     {%- endfor %}
     {%- endif %}
     {%- if trail.areas %}
     {%- for area in trail.areas %}
-    n4o:relatedTaskArea <https://nfdi4objects.net/areas/{{ area }}/{{ area }}> ;
+    n4o:relatedTaskArea <https://nfdi4objects.net/areas/{{ area }}> ;
     {%- endfor %}
     {%- endif %}
     {%- if trail.institutions %}

@@ -27,8 +27,8 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: var(--spacing-lg);
-    margin-bottom: var(--spacing-lg);
-    margin-top: var(--spacing-lg);
+    margin-bottom: var(--spacing-md);
+    margin-top: var(--spacing-md);
     & > .card {
         // Mobile: 100% Breite (1 pro Reihe)
         flex: 0 0 100%;
@@ -36,14 +36,14 @@
 
         @media (min-width: $device-sm) {
             // Tablet: 50% Breite (2 pro Reihe)
-            flex: 0 0 calc(50% - var(--spacing-lg));
-            max-width: calc(50% - var(--spacing-lg));
+            flex: 0 0 calc(50% - var(--spacing-md));
+            max-width: calc(50% - var(--spacing-md));
         }
 
         @media (min-width: $device-md) {
             // Desktop: 25% Breite (4 pro Reihe)
-            flex: 0 0 calc(33.333333% - var(--spacing-lg));
-            max-width: calc(33.333333% - var(--spacing-lg));
+            flex: 0 0 calc(33.333333% - var(--spacing-md));
+            max-width: calc(33.333333% - var(--spacing-md));
         }
         @media (min-width: $device-lg) {
             // Desktop: 25% Breite (4 pro Reihe)

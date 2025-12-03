@@ -17,7 +17,7 @@ institution: leiza
 areas:
   - ta1
   - ta3
-  - ta5
+  - ta6
 
 # ORCID (optional)
 orcid: 0000-0002-3246-3531

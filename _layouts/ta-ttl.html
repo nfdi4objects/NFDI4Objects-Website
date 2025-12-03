@@ -19,7 +19,7 @@ Unterstützt zwei Modi:
 {%- elsif area.area_id -%}
   {%- assign ta_id = area.area_id -%}
 {%- else -%}
-  {%- assign ta_id = area.translation_key | remove: "area-" | remove: "ta-" | replace: "-", "_" -%}
+  {%- assign ta_id = area.translation_key | remove: "area-" | remove: "ta-" -%}
 {%- endif -%}
 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -32,7 +32,7 @@ Unterstützt zwei Modi:
 @prefix nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#> .
 @prefix n4o: <https://nfdi4objects.net/ontology#> .
 
-<https://nfdi4objects.net/areas/{{ ta_id }}/{{ ta_id }}>
+<https://nfdi4objects.net/areas/{{ ta_id }}>
     rdf:type n4o:TaskArea ;
     skos:prefLabel "{{ area.title }}"@{{ area.lang }} ;
     {%- if area.description %}
@@ -55,7 +55,7 @@ Unterstützt zwei Modi:
     {%- if ta_members.size > 0 -%}
     foaf:member
         {%- for person in ta_members -%}
-        <https://nfdi4objects.net/persons/{{ person.translation_key | remove: "person-" | replace: "-", "_" }}/{{ person.translation_key | remove: "person-" | replace: "-", "_" }}>{%- unless forloop.last -%},{%- else -%} .{%- endunless -%}
+        <https://nfdi4objects.net/persons/{{ person.translation_key | remove: "person-" }}>{%- unless forloop.last -%},{%- else -%} .{%- endunless -%}
         {%- endfor -%}
     {%- else -%}
     .

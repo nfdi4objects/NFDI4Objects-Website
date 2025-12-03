@@ -72,3 +72,14 @@
 #helpdeskform input[type="reset"]:hover {
     background-color:  var(--color-beige-dark);
 }
+
+label.switch {
+    span {
+        margin-right: 10px;
+    }
+}
+.yasr .tableControls .tableFilter {
+    padding: 2px 8px;
+    border-width:  1px ;
+    border-radius: var(--border-radius-sm);
+}

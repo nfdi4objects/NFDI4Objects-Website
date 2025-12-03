@@ -17,7 +17,7 @@ Unterstützt zwei Modi:
 {%- if service.service_id -%}
   {%- assign service_id = service.service_id -%}
 {%- else -%}
-  {%- assign service_id = service.translation_key | remove: "service-" | replace: "-", "_" -%}
+  {%- assign service_id = service.translation_key | remove: "service-" -%}
 {%- endif -%}
 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -30,7 +30,7 @@ Unterstützt zwei Modi:
 @prefix nfdicore: <https://nfdi.fiz-karlsruhe.de/ontology#> .
 @prefix n4o: <https://nfdi4objects.net/ontology#> .
 
-<https://nfdi4objects.net/services/{{ service_id }}/{{ service_id }}>
+<https://nfdi4objects.net/services/{{ service_id }}>
     rdf:type nfdicore:Service ;
     skos:prefLabel "{{ service.title }}"@{{ service.lang }} ;
     {%- if service.description %}
@@ -61,7 +61,7 @@ Unterstützt zwei Modi:
     {%- endif %}
     {%- if service.areas %}
     {%- for area in service.areas %}
-    n4o:relatedTaskArea <https://nfdi4objects.net/areas/{{ area }}/{{ area }}> ;
+    n4o:relatedTaskArea <https://nfdi4objects.net/areas/{{ area }}> ;
     {%- endfor %}
     {%- endif %}
     dcterms:isPartOf <https://nfdi4objects.net> .
