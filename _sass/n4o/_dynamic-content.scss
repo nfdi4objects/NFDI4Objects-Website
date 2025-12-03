@@ -3,7 +3,7 @@
 .trail-date {
    display: block;
 }
-.trail-content, .person-profile, .cc-content, .twg-content{
+.trail-content, .cc-content, .twg-content{
    margin-top: var(--spacing-3xl);
 }
 .trail-status-badge {
@@ -27,6 +27,7 @@
   color: black;
 }
 .person-profile {
+   margin-top: var(--spacing-xl);
     img {
          border-radius: 50%;
       }
