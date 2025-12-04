@@ -1,7 +1,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Title & Description -->
   <title>{{ page.title | default: site.title }}{% if page.title and site.title %} | {{ site.title }}{% endif %}</title>
   {% assign description = page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 30 %}
   <meta name="description" content="{{ description }}">
@@ -13,7 +12,6 @@
   <meta name="author" content="{{ page.author }}">
   {% endif %}
   <link rel="canonical" href="{{ page.canonical_url | default: page.url | absolute_url }}">
-  <!-- Language & hreflang -->
   {% if page.lang == "en" %}
     <link rel="alternate" hreflang="de" href="{{ page.url | absolute_url | replace: '/en/', '/de/' }}">
     <meta property="og:locale" content="en_GB">
@@ -27,7 +25,6 @@
     <link rel="alternate" hreflang="{{ trans.lang }}" href="{{ trans.url | absolute_url }}">
   {% endfor %}
   {% endif %}
-  <!-- Open Graph / Facebook -->
   <meta property="og:type" content="{{ page.og_type | default: 'website' }}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:title" content="{{ page.title | default: site.title }}">
@@ -45,7 +42,6 @@
   {% if page.date_modified %}
   <meta property="article:modified_time" content="{{ page.date_modified | date_to_xmlschema }}">
   {% endif %}
-  <!-- Twitter Card -->
   <meta name="twitter:card" content="{{ page.twitter_card | default: site.twitter_card | default: 'summary' }}">
   {% if site.twitter_username %}
   <meta name="twitter:site" content="@{{ site.twitter_username }}">
@@ -57,14 +53,11 @@
   {% elsif site.og_image %}
   <meta name="twitter:image" content="{{ site.og_image | absolute_url }}">
   {% endif %}
-  <!-- Structured Data / Schema.org JSON-LD -->
   {% include schema-jsonld.html %}
-  <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
 <link rel="manifest" href="{{ '/assets/images/site.webmanifest' | relative_url }}">
-  <!-- Stylesheets -->
   <link rel="stylesheet" href="{{ '/assets/css/n4o.css' | relative_url }}">
   <style>
     :root {

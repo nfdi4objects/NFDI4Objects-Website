@@ -6,6 +6,7 @@ body {
     line-height: 1.4;
     color: var(--color-blue-dark);
     font-size: var(--font-size-base);
+    font-display: swap;
 
     @media (min-width: $device-sm) {
         font-size: var(--font-size-md);

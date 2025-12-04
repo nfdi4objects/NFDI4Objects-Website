@@ -1,0 +1,15 @@
+{
+  "name": "nfdi4objects-site",
+  "version": "1.0.0",
+  "description": "NFDI4Objects Jekyll Site with JS optimization",
+  "private": true,
+  "scripts": {
+    "minify": "terser _site/assets/js/core.js -o _site/assets/js/core.js --compress --mangle",
+    "minify-search": "terser _site/assets/js/search.js -o _site/assets/js/search.js --compress --mangle",
+    "minify-all": "npm run minify && npm run minify-search",
+    "build": "bundle exec jekyll build && npm run minify-all"
+  },
+  "devDependencies": {
+    "terser": "^5.36.0"
+  }
+}

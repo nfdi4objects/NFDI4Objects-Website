@@ -13,10 +13,11 @@
      
 }
 
-.footer-column h3 {
+.footer-column .footer-headline, .footer-column h3  {
     font-size: var(--font-size-lg);
     margin-bottom: var(--spacing-md);
     color: var(--color-blue-dark);
+    font-weight: 700;
 }
 
 .footer-links {
