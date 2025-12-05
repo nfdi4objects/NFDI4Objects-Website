@@ -83,7 +83,8 @@ h2 {
 p {
     margin-bottom: var(--spacing-md);
     color: var(--color-blue-dark);
-    font-size: var(--font-size-md);
+    font-size: var(--font-size-p);
+    line-height: 1.8;
 }
 
 /* p:last-of-type {
