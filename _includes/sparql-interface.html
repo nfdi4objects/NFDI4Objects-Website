@@ -143,7 +143,8 @@
         keys: []
       },
       yasrConfig: {
-        defaultPlugin: 'response'
+        defaultPlugin: 'table',
+        plugins: ['table', 'error']
       }
     });
 
@@ -168,17 +169,19 @@ SELECT ?person ?name WHERE {
           foaf:name ?name .
 } LIMIT 10`);
 
-    // Completely override YASGUI's default request handler
-    // This prevents the POST request that causes the error
-    yasgui.getTab().setRequestConfig({
+    // Disable YASGUI's built-in request mechanism completely
+    yasqe.options.requestConfig = {
       endpoint: ttlUrl,
-      method: 'GET',
-      // Custom request handler that bypasses YASGUI's default AJAX
-      adjustQueryBeforeRequest: (query) => query
-    });
+      method: 'GET'
+    };
+
+    // Override Yasqe's query function to prevent default behavior
+    yasqe.query = function() {
+      // Trigger our custom handler instead and return a resolved promise
+      return tab.handleYasqeQuery();
+    };
 
     // Override the query execution at a lower level
-    const originalHandleYasqeQuery = tab.handleYasqeQuery;
     tab.handleYasqeQuery = async function() {
       if (!ttlData) {
         yasr.setResponse({ error: 'TTL data not loaded' });
@@ -203,24 +206,13 @@ SELECT ?person ?name WHERE {
         // Set results
         yasr.setResponse(results);
 
-        // Switch to table view if we have results
-        if (results.results.bindings.length > 0) {
-          setTimeout(() => {
-            // Find and click the "Table" plugin tab
-            const tableTab = document.querySelector('.yasr_btnGroup button[title*="table"], .yasr_btnGroup button[aria-label*="table"]');
-            if (tableTab) {
-              tableTab.click();
-            } else {
-              // Try alternate selector
-              const tabs = document.querySelectorAll('.yasr_btnGroup button');
-              tabs.forEach(tab => {
-                if (tab.textContent.toLowerCase().includes('table') || tab.getAttribute('data-yasrplugin') === 'table') {
-                  tab.click();
-                }
-              });
-            }
-          }, 50);
-        }
+        // Force table view
+        setTimeout(() => {
+          // Select the table plugin to display results
+          if (yasr.selectPlugin) {
+            yasr.selectPlugin('table');
+          }
+        }, 100);
 
         // Hide error messages that might appear from YASGUI's internal requests
         setTimeout(() => {
@@ -244,10 +236,19 @@ SELECT ?person ?name WHERE {
         throw new Error('Invalid SELECT query');
       }
 
-      const vars = selectMatch[1].match(/\?(\w+)/g).map(v => v.substring(1));
+      const selectClause = selectMatch[1];
+      const vars = selectClause.match(/\?(\w+)/g)?.map(v => v.substring(1)) || [];
 
-      // Check for Person + name pattern (our default query)
+      // Check for unsupported features
+      if (query.match(/GROUP\s+BY|COUNT|FILTER|CONTAINS|OPTIONAL/i)) {
+        throw new Error('This demo implementation does not support GROUP BY, COUNT, FILTER, or OPTIONAL. Please download the TTL file and use a full SPARQL processor.');
+      }
+
+      // Check for Person queries
       if (query.includes('nfdicore:Person') && query.includes('foaf:name')) {
+        const needsTaskArea = query.includes('n4o:worksIn');
+        const needsOrcid = query.includes('n4o:orcidId');
+
         // Extract all person URIs and their names line by line
         const lines = data.split('\n');
         let currentPerson = null;
@@ -269,29 +270,76 @@ SELECT ?person ?name WHERE {
               continue;
             }
 
-            // Look ahead for foaf:name in next few lines
-            for (let j = i; j < Math.min(i + 20, lines.length); j++) {
-              const nameLine = lines[j].trim();
-              const nameMatch = nameLine.match(/foaf:name\s+"([^"]+)"/);
-              if (nameMatch) {
-                const personName = nameMatch[1];
+            // Look ahead for properties in next few lines
+            let personName = null;
+            const taskAreas = [];
+            let orcidId = null;
 
-                // Skip empty names
-                if (personName.trim() === '') {
-                  break;
-                }
+            for (let j = i; j < Math.min(i + 30, lines.length); j++) {
+              const dataLine = lines[j].trim();
 
-                // Add this person immediately
-                bindings.push({
-                  person: { type: 'uri', value: currentPerson },
-                  name: { type: 'literal', value: personName }
-                });
-                break;
+              // Extract name
+              const nameMatch = dataLine.match(/foaf:name\s+"([^"]+)"/);
+              if (nameMatch && !personName) {
+                personName = nameMatch[1];
               }
+
+              // Extract task areas
+              const taskAreaMatch = dataLine.match(/n4o:worksIn\s+<([^>]+)>/);
+              if (taskAreaMatch) {
+                taskAreas.push(taskAreaMatch[1]);
+              }
+
+              // Extract ORCID
+              const orcidMatch = dataLine.match(/n4o:orcidId\s+"([^"]+)"/);
+              if (orcidMatch && !orcidId) {
+                orcidId = orcidMatch[1];
+              }
+
               // Stop if we hit another entity
-              if (j > i && nameLine.startsWith('#')) {
+              if (j > i && dataLine.startsWith('#')) {
                 break;
               }
+            }
+
+            // Skip empty names
+            if (!personName || personName.trim() === '') {
+              currentPerson = null;
+              continue;
+            }
+
+            // Skip if ORCID is required but not found
+            if (needsOrcid && !orcidId) {
+              currentPerson = null;
+              continue;
+            }
+
+            // Add bindings based on query requirements
+            if (needsTaskArea) {
+              // Add one binding per task area
+              if (taskAreas.length > 0) {
+                taskAreas.forEach(taskArea => {
+                  const binding = {
+                    person: { type: 'uri', value: currentPerson },
+                    name: { type: 'literal', value: personName },
+                    taskArea: { type: 'uri', value: taskArea }
+                  };
+                  if (needsOrcid && orcidId) {
+                    binding.orcid = { type: 'literal', value: orcidId };
+                  }
+                  bindings.push(binding);
+                });
+              }
+            } else {
+              // Just add person and name (and optionally ORCID)
+              const binding = {
+                person: { type: 'uri', value: currentPerson },
+                name: { type: 'literal', value: personName }
+              };
+              if (needsOrcid && orcidId) {
+                binding.orcid = { type: 'literal', value: orcidId };
+              }
+              bindings.push(binding);
             }
 
             // Reset for next person
@@ -340,6 +388,11 @@ SELECT ?person ?name WHERE {
       const limitMatch = query.match(/LIMIT\s+(\d+)/i);
       if (limitMatch) {
         bindings.splice(parseInt(limitMatch[1]));
+      }
+
+      // If no bindings were found, throw an error instead of returning empty results
+      if (bindings.length === 0) {
+        throw new Error('No results found. This query pattern may not be supported by this demo implementation. Please download the TTL file and use a full SPARQL processor for complex queries.');
       }
 
       return {

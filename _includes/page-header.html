@@ -21,6 +21,7 @@
   icon_class: CSS-Klasse für Icon/Bild (optional, z.B. "icon-lg" für größere Icons)
   title: Hauptüberschrift (optional)
   title_tag: HTML-Tag für Titel (h1, h2, h3, etc., default: "h1")
+  class: CSS-Klasse für den Titel (optional, fügt automatisch "focus-ring" hinzu)
   subtitle: Untertitel (optional)
   text: Beschreibungstext (optional, unterstützt Markdown)
   align: Ausrichtung - "left", "center", "right" (default: "center")
@@ -55,10 +56,20 @@
      icon_class="icon-lg"
      title="Willkommen"
   %}
+
+  5. Mit Focus-Ring Effekt:
+  {% include page-header.html
+     title="Entwickler"
+     class="focus-white"
+     subtitle="Welches Angebot können Entwickler bei NFDI4Objects nutzen?"
+  %}
 {% endcomment %}
 
 {% assign align = include.align | default: "center" %}
 {% assign title_tag = include.title_tag | default: "h1" %}
+{% if include.class %}
+  {% assign title_class = "focus-ring " | append: include.class %}
+{% endif %}
 
 <header class="text-{{ align }}">
   {% comment %} Icon oder Bild {% endcomment %}
@@ -74,7 +85,11 @@
 
   {% comment %} Hauptüberschrift {% endcomment %}
   {% if include.title %}
+    {% if title_class %}
+  <{{ title_tag }} class="{{ title_class }}"><span>{{ include.title }}</span></{{ title_tag }}>
+    {% else %}
   <{{ title_tag }}>{{ include.title }}</{{ title_tag }}>
+    {% endif %}
   {% endif %}
 
   {% comment %} Untertitel {% endcomment %}

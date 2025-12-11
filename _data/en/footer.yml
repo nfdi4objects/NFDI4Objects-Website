@@ -16,12 +16,10 @@ social_links:
     icon: "fa-solid fa-rss"
 
 navigation:
-  - title: "Home"
-    url: "/en/"
   - title: "About NFDI4Objects"
     url: "/en/about/mission/"
   - title: "Get Involved"
-    url: "/en/community/clusters/"
+    url: "/en/community/groups-networks/"
   - title: "Services"
     url: "/en/services/all/"
   - title: "News"
@@ -36,8 +34,6 @@ legal:
     url: "/en/privacy/"
   - title: "Accessibility"
     url: "/en/accessibility/"
-  - title: "Terms of Use"
-    url: "/en/terms/"
 
 about:
   title: "NFDI4Objects"

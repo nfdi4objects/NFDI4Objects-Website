@@ -32,6 +32,9 @@ h1, .card figcaption a {
 h1:has(+ .lead) {
     margin-bottom: var(--spacing-sm);  
 }
+h1.focus-ring {
+    padding-bottom: var(--spacing-lg);  
+}
 .lead, p:has(+ .grid-12) {
      margin-bottom: var(--spacing-xl);
 }

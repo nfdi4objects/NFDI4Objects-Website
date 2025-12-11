@@ -32,6 +32,7 @@ Flexible Seitenüberschrift mit optionalem Icon/Bild, Titel, Untertitel und Text
 - `icon_class` - CSS-Klasse für Icon/Bild (optional, z.B. "icon-lg")
 - `title` - Hauptüberschrift (optional)
 - `title_tag` - HTML-Tag für Titel: h1, h2, h3, etc. (optional, default: "h1")
+- `class` - CSS-Klasse für den Titel (optional, fügt automatisch "focus-ring" hinzu)
 - `subtitle` - Untertitel (optional)
 - `text` - Beschreibungstext, unterstützt Markdown (optional)
 - `align` - Ausrichtung: "left", "center", "right" (optional, default: "center")
@@ -53,6 +54,15 @@ Linksbündige Überschrift ohne Icon:
    title="Technische Infrastruktur"
    text="NFDI4Objects entwickelt verschiedene Infrastrukturdienste"
    align="left"
+%}
+```
+
+Mit Focus-Ring Effekt:
+```liquid
+{% include page-header.html
+   title="Entwickler"
+   class="focus-white"
+   subtitle="Welches Angebot können Entwickler bei NFDI4Objects nutzen?"
 %}
 ```
 

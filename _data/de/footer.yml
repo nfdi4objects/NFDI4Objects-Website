@@ -16,12 +16,10 @@ social_links:
     icon: "fa-solid fa-rss"
 
 navigation:
-  - title: "Start"
-    url: "/"
   - title: "Über NFDI4Objects"
     url: "/about/mission/"
   - title: "Mitmachen"
-    url: "/community/clusters/"
+    url: "/community/groups-networks/"
   - title: "Services"
     url: "/services/all/"
   - title: "Aktuelles"
@@ -36,8 +34,6 @@ legal:
     url: "/datenschutz/"
   - title: "Barrierefreiheit"
     url: "/barrierefreiheit/"
-  - title: "Nutzungsbedingungen"
-    url: "/nutzungsbedingungen/"
 
 about:
   title: "NFDI4Objects"
