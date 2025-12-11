@@ -21,7 +21,45 @@
       <ul id="primary-menu" class="nav-menu">
         {% for item in navitems %}
           {% assign hasChildren = item.children or item.dynamic %}
-          <li class="nav-item {% if hasChildren %}has-submenu{% endif %}">
+
+          {% comment %} Prüfen, ob aktueller Menüpunkt oder ein Unterpunkt aktiv ist {% endcomment %}
+          {% assign isActive = false %}
+          {% assign isParentActive = false %}
+
+          {% comment %} Direkter Treffer für Menüpunkt ohne Kinder {% endcomment %}
+          {% if item.url and item.url != "#" and page.url == item.url %}
+            {% assign isActive = true %}
+          {% endif %}
+
+          {% comment %} Prüfen, ob ein Unterpunkt aktiv ist {% endcomment %}
+          {% if item.children %}
+            {% for child in item.children %}
+              {% if child.url and page.url == child.url %}
+                {% assign isParentActive = true %}
+              {% endif %}
+
+              {% comment %} Prüfen von Unter-Kindern (verschachtelte Navigation) {% endcomment %}
+              {% if child.children %}
+                {% for subchild in child.children %}
+                  {% if subchild.url and page.url == subchild.url %}
+                    {% assign isParentActive = true %}
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+
+          {% comment %} Prüfen für dynamische Areas {% endcomment %}
+          {% if item.dynamic == "areas" %}
+            {% assign areas = site.areas | sort: 'order' %}
+            {% for area in areas %}
+              {% if area.lang == lang and page.url == area.url %}
+                {% assign isParentActive = true %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+
+          <li class="nav-item {% if hasChildren %}has-submenu{% endif %} {% if isActive or isParentActive %}active{% endif %}">
             <a
               {% if item.url == "#" or item.children or item.dynamic %}
                 href="#"
@@ -31,6 +69,7 @@
               {% if item.children or item.dynamic %}
                 aria-haspopup="true" aria-expanded="false"
               {% endif %}
+              {% if isActive or isParentActive %}class="active"{% endif %}
             >
               {{ item.title }}
             </a>
@@ -40,17 +79,17 @@
                   {% assign areas = site.areas | sort: 'order' %}
                   {% for area in areas %}
                     {% if area.lang == lang %}
-                      <li><a href="{{ area.url | relative_url }}">{{ area.title }}</a></li>
+                      <li><a href="{{ area.url | relative_url }}" {% if page.url == area.url %}class="active"{% endif %}>{{ area.title }}</a></li>
                     {% endif %}
                   {% endfor %}
                 {% elsif item.dynamic == "person_groups" %}
                   {% comment %} Dynamische Personen-Gruppen {% endcomment %}
                   {% for child in item.children %}
-                    <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+                    <li><a href="{{ child.url | relative_url }}" {% if page.url == child.url %}class="active"{% endif %}>{{ child.title }}</a></li>
                   {% endfor %}
                 {% else %}
                   {% for child in item.children %}
-                    <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+                    <li><a href="{{ child.url | relative_url }}" {% if page.url == child.url %}class="active"{% endif %}>{{ child.title }}</a></li>
                   {% endfor %}
                 {% endif %}
               </ul>

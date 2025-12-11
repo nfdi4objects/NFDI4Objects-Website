@@ -30,8 +30,8 @@ navigation:
 legal:
   - title: "Imprint"
     url: "/en/imprint/"
-  - title: "Privacy Policy"
-    url: "/en/privacy/"
+  - title: "Data protection"
+    url: "/en/legal/dataprotection/"
   - title: "Accessibility"
     url: "/en/accessibility/"
 

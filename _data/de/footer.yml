@@ -29,11 +29,11 @@ navigation:
 
 legal:
   - title: "Impressum"
-    url: "/impressum/"
+    url: "/imprint/"
   - title: "Datenschutz"
-    url: "/datenschutz/"
+    url: "/dataprotection/"
   - title: "Barrierefreiheit"
-    url: "/barrierefreiheit/"
+    url: "/accessibility/"
 
 about:
   title: "NFDI4Objects"
