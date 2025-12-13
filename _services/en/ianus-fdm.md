@@ -8,8 +8,7 @@ short_title: "IANUS RDM"
 nfdi_category: support
 service_type: consulting
 lifecycle_phases:
-  - planung
-  - lernen-beraten
+  - archivierung
 
 organization: "dai"
 contact_email: "ianus@dainst.de"

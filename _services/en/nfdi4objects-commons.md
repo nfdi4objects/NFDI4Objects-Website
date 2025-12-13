@@ -9,7 +9,6 @@ nfdi_category: support
 service_type: standard
 lifecycle_phases:
   - planung
-  - nachnutzung
 
 organization: "nfdi4objects"
 homepage: "https://www.nfdi4objects.net/"

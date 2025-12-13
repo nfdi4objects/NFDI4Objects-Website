@@ -8,6 +8,9 @@ short_title: "Helpdesk"
 nfdi_category: support
 service_type: consulting
 
+lifecycle_phases:
+  - planung
+
 organization: "n4o"
 contact_email: "helpdesk@nfdi4objects.net"
 homepage: "https://helpdesk.nfdi4objects.net/"

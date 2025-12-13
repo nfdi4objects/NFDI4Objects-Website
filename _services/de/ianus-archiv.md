@@ -8,6 +8,9 @@ short_title: "IANUS Archiv"
 nfdi_category: storage
 service_type: repository
 
+lifecycle_phases:
+  - archivierung
+
 institution: "dai"
 contact_email: "ianus@dainst.de"
 homepage: "https://ianus-fdz.de/"

@@ -8,7 +8,7 @@ short_title: "re3dragon"
 nfdi_category: web-apps
 service_type: webapp
 lifecycle_phases:
-  - planung
+  - nachnutzung
 
 organization: "leiza"
 contact_email: "florian.thiery@leiza.de"

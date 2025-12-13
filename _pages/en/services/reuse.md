@@ -7,7 +7,7 @@ permalink: /en/services/reuse/
 cards:
   - title: "re3dragon"
     icon: "/assets/images/services/re3dragon-logo.png"
-    url: "/services/re3dragon/"
+    url: "/en/services/re3dragon/"
     description: "Tool for <strong>3D reconstruction</strong> of archaeological objects and structures."
   - title: "Workflow Tool for Experimental Archaeological Experiments"
     icon: "/assets/icons/dienste/Dienste-Icons-05.svg"

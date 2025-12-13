@@ -7,6 +7,8 @@ short_title: "Metadata API"
 
 nfdi_category: libraries
 service_type: api
+lifecycle_phases:
+  - planung
 
 organization: "dai"
 contact_email: "helpdesk@nfdi4objects.net"

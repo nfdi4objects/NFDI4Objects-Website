@@ -9,7 +9,6 @@ nfdi_category: support
 service_type: standard
 lifecycle_phases:
   - planung
-  - nachnutzung
 
 organization: "n4o"
 logo: "/assets/images/services/n4o-commons-logo.png"

@@ -11,6 +11,13 @@
     {% assign lang = page.lang | default: site.lang | default: 'de' %}
     {% assign navitems = site.data[lang].navigation.main %}
 
+    {% comment %} Lifecycle-Phase Mapping einmalig definieren {% endcomment %}
+    {% if lang == "en" %}
+      {% assign phase_mapping = "planung:/en/services/planning/,erhebung:/en/services/collection/,verarbeitung:/en/services/processing/,archivierung:/en/services/archiving/,datenzugang:/en/services/access/,nachnutzung:/en/services/reuse/,lernen-beraten:/en/services/learning-consulting/" %}
+    {% else %}
+      {% assign phase_mapping = "planung:/services/planning/,erhebung:/services/collection/,verarbeitung:/services/processing/,archivierung:/services/archiving/,datenzugang:/services/access/,nachnutzung:/services/reuse/,lernen-beraten:/services/learning-consulting/" %}
+    {% endif %}
+
     <!-- Navigation -->
     <nav class="main-navigation" aria-label="Hauptnavigation">
       <button class="mobile-menu-toggle" aria-expanded="false" aria-controls="primary-menu">
@@ -46,17 +53,85 @@
                   {% endif %}
                 {% endfor %}
               {% endif %}
+
+              {% comment %} Prüfen ob aktuelle Seite zu dieser Child-URL gehört (via URL-Start) {% endcomment %}
+              {% if child.url and child.url != "#" %}
+                {% assign child_url_normalized = child.url | append: "/" | replace: "//", "/" %}
+                {% assign page_url_normalized = page.url | append: "/" | replace: "//", "/" %}
+                {% if page_url_normalized contains child_url_normalized %}
+                  {% assign isParentActive = true %}
+                {% endif %}
+              {% endif %}
             {% endfor %}
           {% endif %}
 
-          {% comment %} Prüfen für dynamische Areas {% endcomment %}
-          {% if item.dynamic == "areas" %}
-            {% assign areas = site.areas | sort: 'order' %}
-            {% for area in areas %}
-              {% if area.lang == lang and page.url == area.url %}
+          {% comment %} Collection-basierte Aktivierung (effizient, keine URL-Iteration) {% endcomment %}
+          {% if page.collection %}
+            {% comment %} Areas Collection {% endcomment %}
+            {% if page.collection == "areas" and item.dynamic == "areas" %}
+              {% assign isParentActive = true %}
+            {% endif %}
+
+            {% comment %} Persons Collection {% endcomment %}
+            {% if page.collection == "persons" %}
+              {% if item.dynamic == "person_groups" %}
                 {% assign isParentActive = true %}
               {% endif %}
-            {% endfor %}
+              {% comment %} Auch "Wer wir sind" Parent aktivieren {% endcomment %}
+              {% for child in item.children %}
+                {% if child.dynamic == "person_groups" %}
+                  {% assign isParentActive = true %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+
+            {% comment %} News Collection {% endcomment %}
+            {% if page.collection == "news" %}
+              {% if lang == "en" and item.url == "/en/news/" %}
+                {% assign isActive = true %}
+              {% elsif lang != "en" and item.url == "/news/" %}
+                {% assign isActive = true %}
+              {% endif %}
+            {% endif %}
+
+            {% comment %} Events Collection {% endcomment %}
+            {% if page.collection == "events" %}
+              {% for child in item.children %}
+                {% if lang == "en" and child.url == "/en/community/events/" %}
+                  {% assign isParentActive = true %}
+                {% elsif lang != "en" and child.url == "/community/events/" %}
+                  {% assign isParentActive = true %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+
+            {% comment %} Trails, CCs, TWGs Collections {% endcomment %}
+            {% if page.collection == "trails" or page.collection == "ccs" or page.collection == "twgs" %}
+              {% for child in item.children %}
+                {% if lang == "en" and child.url == "/en/community/groups-networks/" %}
+                  {% assign isParentActive = true %}
+                {% elsif lang != "en" and child.url == "/community/groups-networks/" %}
+                  {% assign isParentActive = true %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+
+            {% comment %} Services Collection {% endcomment %}
+            {% if page.collection == "services" and page.lifecycle_phases %}
+              {% for phase in page.lifecycle_phases %}
+                {% assign phase_search = phase | append: ":" %}
+                {% if phase_mapping contains phase_search %}
+                  {% assign phase_parts = phase_mapping | split: phase_search %}
+                  {% assign url_part = phase_parts[1] | split: "," | first %}
+                  {% for child in item.children %}
+                    {% if child.url == url_part %}
+                      {% assign isParentActive = true %}
+                      {% break %}
+                    {% endif %}
+                  {% endfor %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
           {% endif %}
 
           <li class="nav-item {% if hasChildren %}has-submenu{% endif %} {% if isActive or isParentActive %}active{% endif %}">
@@ -89,7 +164,32 @@
                   {% endfor %}
                 {% else %}
                   {% for child in item.children %}
-                    <li><a href="{{ child.url | relative_url }}" {% if page.url == child.url %}class="active"{% endif %}>{{ child.title }}</a></li>
+                    {% assign isChildActive = false %}
+                    {% if child.url and page.url == child.url %}
+                      {% assign isChildActive = true %}
+                    {% endif %}
+                    {% comment %} Auch aktiv wenn Unterseite dieser Child-URL {% endcomment %}
+                    {% if child.url and child.url != "#" %}
+                      {% assign child_url_normalized = child.url | append: "/" | replace: "//", "/" %}
+                      {% assign page_url_normalized = page.url | append: "/" | replace: "//", "/" %}
+                      {% if page_url_normalized contains child_url_normalized %}
+                        {% assign isChildActive = true %}
+                      {% endif %}
+                    {% endif %}
+                    {% comment %} Services Collection: Lifecycle-Phase Aktivierung {% endcomment %}
+                    {% if page.collection == "services" and page.lifecycle_phases %}
+                      {% for phase in page.lifecycle_phases %}
+                        {% assign phase_search = phase | append: ":" %}
+                        {% if phase_mapping contains phase_search %}
+                          {% assign phase_parts = phase_mapping | split: phase_search %}
+                          {% assign url_part = phase_parts[1] | split: "," | first %}
+                          {% if child.url == url_part %}
+                            {% assign isChildActive = true %}
+                          {% endif %}
+                        {% endif %}
+                      {% endfor %}
+                    {% endif %}
+                    <li><a href="{{ child.url | relative_url }}" {% if isChildActive %}class="active"{% endif %}>{{ child.title }}</a></li>
                   {% endfor %}
                 {% endif %}
               </ul>

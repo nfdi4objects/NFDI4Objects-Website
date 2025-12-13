@@ -11,6 +11,9 @@ nfdi_service_types:
   - dis
   - cres
 
+lifecycle_phases:
+  - nachnutzung
+
 institution: "leiza"
 contact_email: "florian.thiery@leiza.de"
 homepage: "https://tools.leiza.de/re3dragon/"
