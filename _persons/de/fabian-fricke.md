@@ -9,15 +9,13 @@ image: "/assets/images/persons/f.fricke.jpg"
 # Gruppenzugehörigkeit
 groups:
   - coordination    # Koordinationsbüro
-  - Mitarbeitende
 
 # Institution
 institution: dai
 
 # Task Areas & TWGs
 areas:
-  - ta1
-  - ta2
+  - ta7
 
 ---
 Fabian Fricke forscht zu archäologischen Datenmodellen und Metadatenstandards.
