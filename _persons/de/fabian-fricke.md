@@ -17,5 +17,6 @@ institution: dai
 areas:
   - ta7
 
+orcid: 0000-0003-3223-2079
 ---
 Fabian Fricke forscht zu archäologischen Datenmodellen und Metadatenstandards.
