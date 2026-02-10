@@ -9,6 +9,7 @@ image: "/assets/images/persons/f.fricke.jpg"
 # Gruppenzugehörigkeit
 groups:
   - coordination    # Koordinationsbüro
+  - Mitarbeitende
 
 # Institution
 institution: dai
