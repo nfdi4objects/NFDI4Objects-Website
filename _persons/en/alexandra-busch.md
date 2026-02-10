@@ -9,7 +9,6 @@ image: /assets/images/persons/a.busch.jpg
 # Gruppenzugehörigkeit
 
 groups:
-  - coordination         # Koordinationsbüro
   - steering            # Lenkungsausschuss
 
 # Institution
