@@ -1,7 +1,6 @@
 title: NFDI4Objects
 description: Forschungsdateninfrastruktur für materielle Objekte. Wir unterstützen Forschende bei der Verwaltung, Analyse und Veröffentlichung von Forschungsdaten.
 url: "https://ffricke.github.io"
-baseurl: "/nfdi4o-relaunch"
 
 # SEO Settings
 author: NFDI4Objects
