@@ -1,0 +1,11 @@
+---
+layout: person
+title: Øyvind Eide
+lang: en
+translation_key: øyvind-eide
+image: /assets/images/persons/n4o_website_person_grey.png
+groups:
+- participant
+institution: institut-fuer-digital-humanities-universitaet-koeln
+orcid: 0000-0002-7766-6287
+---
