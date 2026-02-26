@@ -11,7 +11,8 @@ permalink: /en/about/people/members/
        subtitle="NFDI4Objects is a consortium of leading research institutions, museums, and archives in the field of material culture and object research."
  %}
 
-# Main Applicant
+<h2 class="institutions-headline">Main Applicant</h2>
+
 {% assign institutions = site.data.de.institutions | where_exp: "item.type == 'mainapplicant'" %}
 
 <div class="institutions-grid">
@@ -62,7 +63,7 @@ permalink: /en/about/people/members/
 {% endfor %}
 </div>
 
-# Co-Applicants
+<h2 class="institutions-headline">Co-Applicants</h2> 
 {% assign institutions = site.data.de.institutions | where_exp: "item.type == 'coapplicant'" %}
 
 <div class="institutions-grid">
@@ -113,7 +114,7 @@ permalink: /en/about/people/members/
 {% endfor %}
 </div>
 
-# Participants
+<h2 class="institutions-headline">Participants</h2> 
 {% assign institutions = site.data.de.institutions | where_exp: "item.type == 'participant'" %}
 
 <div class="institutions-grid">
@@ -164,7 +165,7 @@ permalink: /en/about/people/members/
 {% endfor %}
 </div>
 
-# Supporter
+<h2 class="institutions-headline">Supporter</h2>
 {% assign institutions = site.data.de.institutions | where_exp: "item.type == 'supporter'" %}
 
 <div class="institutions-grid">
