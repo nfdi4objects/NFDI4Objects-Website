@@ -751,7 +751,7 @@
 
 - id: landesamt-für-denkmalpflege-und-archäologie-sachsen-anhalt-–-landesmuseum-für-vorgeschichte
   name: Landesamt für Denkmalpflege und Archäologie Sachsen-Anhalt – Landesmuseum für Vorgeschichte
-  logo: /assets/img/institutions/logo_lad_niedersachsen.png
+  logo: https://www.landesmuseum-vorgeschichte.de/fileadmin/_processed_/f/1/csm_kachel_lda_sachsen_anhalt_87210d3737.jpg
   url: https://www.lda-lsa.de/
   type: no-connection
   short: LDA Sachsen-Anhalt 
