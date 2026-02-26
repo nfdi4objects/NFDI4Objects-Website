@@ -1,0 +1,12 @@
+---
+layout: person
+title: Mona Hess
+lang: en
+translation_key: person-mona-hess
+image: //assets/images/persons/n4o_website_person_grey.png
+groups:
+- participant
+institution:
+- institut-für-archäologische-wissenschaften-denkmalwissenschaften-und-kunstgeschichte-universität-bamberg
+orcid: 0000-0001-7298-7631
+---

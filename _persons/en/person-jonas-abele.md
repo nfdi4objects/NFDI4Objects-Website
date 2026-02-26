@@ -1,0 +1,12 @@
+---
+layout: person
+title: Jonas Abele
+lang: en
+translation_key: person-jonas-abele
+image: /assets/images/persons/n4o_website_person_grey.png
+groups:
+- mitarbeitende
+institution:
+- landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-baden-württemberg
+orcid: ''
+---
