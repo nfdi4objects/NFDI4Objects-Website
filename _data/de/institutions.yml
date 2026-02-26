@@ -611,7 +611,7 @@
   logo: https://www.uaruhr.de/typo3temp/assets/_processed_/6/e/csm_uaruhr-logo-social_0bab05de9f.jpg
   url: https://www.college-uaruhr.de/
   type: supporter
-  short: RUB
+  short: UA-Ruhr
 
 - id: heidelberger-akademie-der-wissenschaften
   name: Heidelberger Akademie der Wissenschaften
@@ -753,5 +753,12 @@
   name: Landesamt für Denkmalpflege und Archäologie Sachsen-Anhalt – Landesmuseum für Vorgeschichte
   logo: /assets/img/institutions/logo_lad_niedersachsen.png
   url: https://www.lda-lsa.de/
-  type: participant
-  short: NLD
+  type: no-connection
+  short: LDA Sachsen-Anhalt 
+
+- id: bundesamt-für-kartographie-und-geodäsie
+  name: Bundesamt für Kartographie und Geodäsie
+  logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphcLPVgi3Zhc8IedDd92cRUVkALlCXTWIuw&s
+  url: https://www.bkg.bund.de/DE/Home/home.html
+  type: no-connection
+  short: BKG

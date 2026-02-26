@@ -122,6 +122,13 @@
   type: participant
   short: ASM
 
+- id: staatssammlung-fuer-anthropologie-muenchen-der-snsb
+  name: Bavarian State Collection for Anthropology
+  logo: https://sam.snsb.de/wp-content/uploads/sites/9/2021/12/b26db670.jpg 
+  url: https://sam.snsb.de/
+  type: supporter
+  short: ASM
+
 - id: archäologisches-institut-universtät-zu-köln
   name: Institute of Archaeology (University of Cologne)
   logo: https://kommunikation-marketing.uni-koeln.de/e135228/e48647/e48706/UniversitaetzuKoelnLogo_ger.jpg
@@ -592,6 +599,13 @@
   type: participant
   short: RUB
 
+- id: college-for-social-sciences-and-humanities-der-university-alliance-ruhr
+  name: College for Social Sciences and Humanities der University Alliance Ruhr
+  logo: https://www.uaruhr.de/typo3temp/assets/_processed_/6/e/csm_uaruhr-logo-social_0bab05de9f.jpg
+  url: https://www.college-uaruhr.de/
+  type: supporter
+  short: UA-Ruhr
+
 - id: heidelberger-akademie-der-wissenschaften
   name: Heidelberger Akademie der Wissenschaften
   logo: https://www.hadw-bw.de/themes/custom/hadw/images/hadw_logo_blau.svg
@@ -716,9 +730,9 @@
   short: LWL-MfA
 
 - id: landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-baden-württemberg
-  name: ''
+  name: Landesamt für Denkmalpflege im Regierungspräsidium Stuttgart (Baden-Württemberg)
   logo: https://www.denkmalpflege-bw.de/fileadmin/templates/images/lad-logo.png
-  url: ''
+  url: https://www.denkmalpflege-bw.de/
   type: coapplicant
 
 - id: niedersaechsisches-landesamt-fuer-denkmalpflege-projekt-denkmal-atlas
@@ -728,3 +742,9 @@
   type: participant
   short: NLD
 
+- id: bundesamt-für-kartographie-und-geodäsie
+  name: Federal Agency of Cartography and Geodesy
+  logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphcLPVgi3Zhc8IedDd92cRUVkALlCXTWIuw&s
+  url: https://www.bkg.bund.de/DE/Home/home.html
+  type: no-connection
+  short: BKG
