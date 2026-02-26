@@ -14,7 +14,7 @@ permalink: /about/people/members/
        subtitle="NFDI4Objects als Konsortium der Nationalen Forschungsdateninfrastruktur (NFDI). Durchsuchen Sie die Liste der Einrichtungen, die Mitglied sind oder die Arbeit unterstützen."
  %}
 
-{% assign institutions = site.data.de.institutions | where: "type", "consortium_member" %}
+{% assign institutions = site.data.de.institutions | where_exp: "item", "item.type == 'coapplicant' or item.type == 'participant' or item.type == 'mainapplicant'" %}
 
 <section class="institutions-grid">
 {% for inst in institutions %}
