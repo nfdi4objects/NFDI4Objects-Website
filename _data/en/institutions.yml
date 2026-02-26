@@ -1,7 +1,7 @@
 # Consortium members and associated partners
 # type: consortium_member | associated_partner
 
-- id: deutsches-archäologisches-institut-dai
+- id: deutsches-archaeologisches-institut-dai
   name: "German Archaeological Institute"
   short: "DAI"
   logo: "/assets/images/institutions/dai-logo.png"
