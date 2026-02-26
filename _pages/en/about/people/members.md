@@ -14,16 +14,14 @@ permalink: /en/about/people/members/
 {% assign types = "mainapplicant,coapplicant,participant" | split: "," %}
 {% for type in types %}
   {% assign institutions = site.data.de.institutions | where: "type", type %}
-
   {% if institutions.size > 0 %}
     <h2 class="institutions-headline">
       {% case type %}
-        {% when "mainapplicant" %}Main Applicant
-        {% when "coapplicant" %}Co-Applicants
-        {% when "participant" %}Participants
+        {% when "mainapplicant" %}Hauptantragsteller
+        {% when "coapplicant" %}Ko-Antragsteller
+        {% when "participant" %}Teilnehmende Einrichtungen
       {% endcase %}
     </h2>
-
     <section class="institutions-grid">
       {% for inst in institutions %}
         <div class="institution-card">
@@ -32,7 +30,6 @@ permalink: /en/about/people/members/
             <img src="{{ inst.logo | relative_url }}" alt="{{ inst.name }} Logo" loading="lazy">
           </div>
           {% endif %}
-
           <div class="institution-card__content">
             <h3 class="institution-card__name">
               {% if inst.url %}
@@ -41,18 +38,15 @@ permalink: /en/about/people/members/
               {{ inst.name }}
               {% endif %}
             </h3>
-
             {% if inst.short %}
             <p class="institution-card__short">{{ inst.short }}</p>
             {% endif %}
-
             {% if inst.city %}
             <p class="institution-card__location">
               <i class="fas fa-location-pin"></i> {{ inst.city }}
             </p>
             {% endif %}
           </div>
-
           {% assign inst_persons = site.persons | where: "lang", "de" | where: "institution", inst.id %}
           {% if inst_persons.size > 0 %}
           <div class="institution-card__persons">
@@ -72,6 +66,7 @@ permalink: /en/about/people/members/
     </section>
   {% endif %}
 {% endfor %}
+
 
 
 <div class="metadata-download">
