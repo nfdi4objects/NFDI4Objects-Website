@@ -1,150 +1,153 @@
-- id: institut-fuer-archaaeologie-denkmalkunde-und-kunstgeschichte-universitaet-bamberg.md
+- id: institut-fuer-archaaeologie-denkmalkunde-und-kunstgeschichte-universitaet-bamberg
   name: Institut für Archäologie, Denkmalkunde und Kunstgeschichte (Universität Bamberg)
   logo: https://www.uni-bamberg.de/fileadmin/iadk/Denkmalkunde/Bilder/Logo_IADK_NEU_I.png
   url: https://www.uni-bamberg.de/iadk/
   type: participant
   short: UBA-IADK
 
-- id: 4016f2c6-5030-4a6b-bd0f-2b9cc7f94417
+- id: fau-competence-center-for-research-data-and-information-cdi
   name: FAU Competence Center for Research Data and Information (CDI)
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg_Logo_07.2022.svg/640px-Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg_Logo_07.2022.svg.png
   url: https://www.cdi.fau.de/
   type: participant
 
-- id: berlin-brandenburgische-akademie-der-wissenschaften.md
+- id: berlin-brandenburgische-akademie-der-wissenschaften
   name: Berlin-Brandenburgische Akademie der Wissenschaften
   logo: https://upload.wikimedia.org/wikipedia/commons/e/ee/BBAW_Logo.png
   url: https://www.bbaw.de/
   type: participant
   short: BBAW
 
-- id: fiz-karlsruhe-leibniz-institut-fuer-informationsinfrastruktur.md
+- id: fiz-karlsruhe-leibniz-institut-fuer-informationsinfrastruktur
   name: FIZ Karlsruhe-Leibniz Institut für Informationsinfrastruktur
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/FIZ_Karlsruhe_%E2%80%93_Leibniz_Institute_for_Information_Infrastructure.png/640px-FIZ_Karlsruhe_%E2%80%93_Leibniz_Institute_for_Information_Infrastructure.png
   url: https://www.fiz-karlsruhe.de/
   type: participant
   short: FIZK
 
-- id: 4c8b45dd-9d5e-4e79-8798-f0c6c005e028
+- id: institut-für-altertumswissenschaften-jgu-mainz
   name: Institut für Altertumswissenschaften (JGU Mainz)
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg/640px-Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg.png
   url: https://www.altertumswissenschaften.uni-mainz.de/
   type: participant
 
-- id: cb66bf6e-3438-4a7e-af54-c8159182cae5
+- id: universität-zu-köln
   name: Universität zu Köln
   logo: https://kommunikation-marketing.uni-koeln.de/e135228/e48647/e48706/UniversitaetzuKoelnLogo_ger.jpg
   url: https://www.uni-koeln.de/
   type: participant
 
-- id: niedersaechsische-staats-und-universitaetsbibliothek-goettingen.md
+- id: niedersaechsische-staats-und-universitaetsbibliothek-goettingen
   name: Niedersächsische Staats- und Universitätsbibliothek Göttingen
   logo: /assets/img/institutions/logo_sub_goettingen.png
   url: https://www.sub.uni-goettingen.de
   type: participant
   short: SUB
 
-- id: data-center-for-the-humanities-universitaet-koeln.md
+- id: data-center-for-the-humanities-universitaet-koeln
   name: Data Center for the Humanities (Universität Köln)
   logo: https://dch.phil-fak.uni-koeln.de/sites/dighum/_processed_/e/b/csm_DCH_Logo_2_984d0b7504.jpg
   url: https://dch.phil-fak.uni-koeln.de/
   type: participant
   short: UzK - DCH
 
-- id: rwth-aachen-lehrstuhl-fuer-architekturgeschichte.md
+- id: rwth-aachen-lehrstuhl-fuer-architekturgeschichte
   name: RWTH Aachen Lehrstuhl für Architekturgeschichte
   logo: /assets/img/institutions/logo_rwth_aachen.png
   url: https://ages.rwth-aachen.de/cms/~pska/
   type: participant
   short: RWTH
 
-- id: thueringisches-landesamt-fuer-denkmalpflege-und-archaeologie-lda-thuringia.md
+- id: thueringisches-landesamt-fuer-denkmalpflege-und-archaeologie-lda-thuringia
   name: Thüringisches Landesamt für Denkmalpflege und Archäologie (LDA Thuringia)
   logo: /assets/img/institutions/lda_thueringen.jpg
   url: https://www.archive-in-thueringen.de/de/archiv/view/id/161
   type: participant
   short: LDA Th
 
-- id: d4146055-4409-42ab-ae2b-c14f3fa53665
+- id: zuse-institut-berlin
   name: Zuse Institut Berlin
   logo: https://www.zib.de/sites/default/files/styles/colwidth-one/public/page_images/ZUSE-INSTITUTE_LOGO_SCREEN_Blue-RGB.png?itok=yHUsfCz-
   url: https://www.zib.de/de/
   type: supporter
 
-- id: koordinierungsstelle-fuer-wissenschaftliche-Universitaetssammlungen-in-deutschland-am-hzk.md
-  name: Koordinierungsstelle für wissenschaftliche Universitätssammlungen in Deutschland am HZK (HU Berlin)
+- id: koordinierungsstelle-fuer-wissenschaftliche-Universitaetssammlungen-in-deutschland-am-hzk
+  name: Koordinierungsstelle für wissenschaftliche Universitätssammlungen in Deutschland
+    am HZK (HU Berlin)
   logo: /assets/img/institutions/koordinierungsstelle_180px.svg
   url: https://www.kulturtechnik.hu-berlin.de/forschung/koordinierungsstelle/
   type: participant
   short: HZK-HU
 
-- id: institut-fuer-archaeologie-und-kulturgeschichte-des-antiken-mittelmeerraumes-universitaet-hamburg.md
-  name: Institut für Archäologie und Kulturgeschichte des antiken Mittelmeerraumes (Universität Hamburg)
+- id: institut-fuer-archaeologie-und-kulturgeschichte-des-antiken-mittelmeerraumes-universitaet-hamburg
+  name: Institut für Archäologie und Kulturgeschichte des antiken Mittelmeerraumes
+    (Universität Hamburg)
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/UHH_Universit%C3%A4t_Hamburg_Logo.svg/481px-UHH_Universit%C3%A4t_Hamburg_Logo.svg.png
   url: https://www.kulturwissenschaften.uni-hamburg.de/ka.html
   type: participant
   short: UHA
 
-- id: universität-kiel
+- id: universität-kiel-cau
   name: Christian - Albrechts Universität zu Kiel
   logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-lilagrey-rgb.svg
   url: https://www.uni-kiel.de/de/
   type: coapplicant
   short: CAU
 
-- id: herzog-anton-ulrich-museum.md
+- id: herzog-anton-ulrich-museum
   name: Herzog Anton Ulrich-Museum Braunschweig
   logo: /assets/img/institutions/logo_herzog_anton_ulrich-museum.svg.png
   url: https://3landesmuseen-braunschweig.de/herzog-anton-ulrich-museum
   type: participant
   short: HAUM
 
-- id: 96edaa1a-3dc6-4585-b6c9-a94ab305ece3
-  name: OSIRIS - Offene Sammlungs-, Informations- und Rechercheinfrastruktur, Museum für Naturkunde Berlin
+- id: osiris-offene-sammlungs-informations-und-rechercheinfrastruktur-museum-für-naturkunde-berlin
+  name: OSIRIS - Offene Sammlungs-, Informations- und Rechercheinfrastruktur, Museum
+    für Naturkunde Berlin
   logo: https://www.museumfuernaturkunde.berlin/sites/default/files/styles/mfn_default/public/osiris_logo.jpg?itok=VjFHMldY
   url: https://www.museumfuernaturkunde.berlin/de/forschung/osiris-offene-sammlungs-informations-und-rechercheinfrastruktur
   type: supporter
 
-- id: stiftung-schleswig-holsteinische-landesmuseen-schloss-gottorf.md
+- id: stiftung-schleswig-holsteinische-landesmuseen-schloss-gottorf
   name: Stiftung Schleswig-Holsteinische Landesmuseen Schloss Gottorf
   logo: https://www.bei-sh.org/files/media/BEI-Mitglieder/landesmuseen-schleswig-holstein/logo_landesmuseen_sh_web.png
   url: https://landesmuseen.sh/
   type: participant
   short: ZBSA
 
-- id: archäologische-staatssammlung-münchen
+- id: archäologische-staatssammlung-munchen
   name: Archäologische Staatssammlung München
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Arch%C3%A4ologische_staatssammlung_logo_2024.svg/640px-Arch%C3%A4ologische_staatssammlung_logo_2024.svg.png
   url: https://www.archaeologie.bayern/
   type: participant
   short: ASM
 
-- id: c0a6b53b-679f-451d-8ec7-d5d15b01da1a
+- id: archäologisches-institut-universtät-zu-köln
   name: Archäologisches Institut (Universtät zu Köln)
   logo: https://kommunikation-marketing.uni-koeln.de/e135228/e48647/e48706/UniversitaetzuKoelnLogo_ger.jpg
   url: https://archaeologie.phil-fak.uni-koeln.de/institut/profil
   type: participant
 
-- id: bcb522d2-0a7d-450b-a6bb-a89fe76295ab
+- id: universität-exeter
   name: University of Exeter
   logo: ''
   url: https://www.exeter.ac.uk/
   type: advisoryboard_inst
 
-- id: klassische-archaeologie-fb-architektur-tu-darmstadt.md
+- id: klassische-archaeologie-fb-architektur-tu-darmstadt
   name: Klassische Archäologie FB Architektur (TU Darmstadt)
   logo: https://www.tu-darmstadt.de/media/resources/images_1/tu_logo_web.svg
   url: https://www.archaeologie.architektur.tu-darmstadt.de/klarch/
   type: participant
   short: TUD
 
-- id: 2694ad37-e212-4c31-9390-c7ddf6ff632b
+- id: mommsen-gesellschaft
   name: Mommsen-Gesellschaft
   logo: https://www.mommsen-gesellschaft.de/images/logos/logo-mommsen-gesellschaft.jpg#joomlaImage://local-images/logos/logo-mommsen-gesellschaft.jpg?width=1494&height=317
   url: https://www.mommsen-gesellschaft.de/
   type: supporter
 
-- id: aegyptisches-museum-georg-steindorff-universitaet-leipzig.md
+- id: aegyptisches-museum-georg-steindorff-universitaet-leipzig
   name: Ägyptisches Museum - Georg Steindorff (Universität Leipzig)
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Universit%C3%A4t_Leipzig_logo.svg/640px-Universit%C3%A4t_Leipzig_logo.svg.png
   url: https://www.gkr.uni-leipzig.de/aegyptisches-museum
@@ -158,21 +161,21 @@
   type: coapplicant
   short: SPK
 
-- id: curt-engelhorn-zentrum-archaeometrie.md
+- id: curt-engelhorn-zentrum-archaeometrie
   name: Curt-Engelhorn-Zentrum Archäometrie gGmbH
   logo: /assets/img/institutions/logo_ceza.png
   url: https://ceza.de/
   type: participant
   short: CEZA
 
-- id: landesmuseum-fuer-vorgeschichte-halle-saale-lda-sk-.md
+- id: landesmuseum-fuer-vorgeschichte-halle-saale-lda-sk-
   name: Landesmuseum für Vorgeschichte Halle (Saale) LDK-SA
   logo: https://www.geschichte.uni-halle.de/im/1697886824_320_00_200.jpg
   url: https://www.landesmuseum-vorgeschichte.de/
   type: participant
   short: LDA-SA
 
-- id: 26a32ae9-9886-4a42-a722-e0b578edf94b
+- id: numismatischer-verbund-in-baden-württemberg
   name: Numismatischer Verbund in Baden-Württemberg
   logo: https://nvbw.zaw.uni-heidelberg.de/static/img/logonvbw.png
   url: https://nvbw.zaw.uni-heidelberg.de/
@@ -185,174 +188,199 @@
   type: coapplicant
   short: DBM
 
-- id: 4e742ac4-152c-4dc5-bb90-0713debfdfab
+- id: numismatischer-forschungs-und-digitalisierungsverbunds-numid
   name: Numismatischer Forschungs- und Digitalisierungsverbund NUMiD
   logo: https://www.numid.online/special/logos/logo.png
   url: https://www.numid.online/home?lang=de
   type: participant
 
-- id: lehrstuhl-digitale-provenienzforschung-am-institut-fuer-kunstgeschichte-tu-berlin.md
-  name: Lehrstuhl Digitale Provenienzforschung am Institut für Kunstgeschichte (TU Berlin)
+- id: lehrstuhl-digitale-provenienzforschung-am-institut-fuer-kunstgeschichte-tu-berlin
+  name: Lehrstuhl Digitale Provenienzforschung am Institut für Kunstgeschichte (TU
+    Berlin)
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_der_Technischen_Universit%C3%A4t_Berlin.svg/640px-Logo_der_Technischen_Universit%C3%A4t_Berlin.svg.png
   url: https://www.tu.berlin/kwhistu
   type: participant
   short: TUB-DP
 
-- id: 25a0ae15-b4cd-49e5-a8cd-5d557c9b5f5e
+- id: university-of-washington
   name: University of Washington
   logo: ''
   url: http://www.washington.edu/
   type: advisoryboard_inst
 
-- id: cologne-center-for-ehumanities-universitaet-koeln.md
+- id: cologne-center-for-ehumanities-universitaet-koeln
   name: Cologne Center for eHumanities (Universität Köln)
   logo: /assets/img/institutions/logo_cceh.png
   url: https://cceh.uni-koeln.de/
   type: participant
   short: UzK - CCeH
 
-- id: 33f808c3-99f9-4111-9837-679b9eedfb75
+- id: stiftung-neanderthal-museum
   name: Stiftung Neanderthal Museum
   logo: https://neanderthal.de/media/original_images/logo.svg
   url: https://neanderthal.de/de/unser-museum/forschung
   type: supporter
 
-- id: hochschule-mittweida-fakultaet-angewandte-computer-und-biowissenschaften.md
+- id: hochschule-mittweida-fakultaet-angewandte-computer-und-biowissenschaften
   name: Hochschule Mittweida Fakultät Angewandte Computer- und Biowissenschaften
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Logo-hsmw.svg/640px-Logo-hsmw.svg.png
   url: https://www.hs-mittweida.de/
   type: participant
   short: UAS-MW
 
-- id: edee1956-6da4-4d9b-8eba-46fdc6ed8d19
+- id: exarc
   name: EXARC
   logo: https://exarc.net/sites/default/files/2017-exarc-net-540.png
   url: https://exarc.net/
   type: supporter
 
-- id: niedersaechsisches-institut-fuer-historische-kuestenforschung.md
+- id: niedersaechsisches-institut-fuer-historische-kuestenforschung
   name: Niedersächsisches Institut für historische Küstenforschung
   logo: https://nihk.de/fileadmin/Resources/Public/Images/Logo_NIhK_Homepage.png
   url: https://nihk.de/
   type: participant
   short: NIhK
 
-- id: 5d575abc-14c8-4a03-bc51-db4abacdac40
+- id: archäoinformatik-im-fachbereich-geschichts-und-kulturwissenschaften-fu-berlin
   name: Archäoinformatik im Fachbereich Geschichts- und Kulturwissenschaften (FU Berlin)
   logo: https://upload.wikimedia.org/wikipedia/de/thumb/7/71/Fub-logo.svg/640px-Fub-logo.svg.png
   url: https://www.geschkult.fu-berlin.de/fachbereich/index.html
   type: supporter
 
-- id: ccf827a6-cbc3-4edb-95ef-3ba2e4a693ff
+- id: schleswig-holsteinische-landesbibliothek
+  name: Schleswig-Holsteinische Landesbibliothek
+  logo: /assets/img/institutions/logo_.svg
+  url: https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/LBSH/lbsh_node
+  type: participant
+
+- id: gesellschaft-für-naturwissenschaftliche-archäologie-archaeometrie-e-v
   name: Gesellschaft für Naturwissenschaftliche Archäologie ARCHAEOMETRIE e.V.
   logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq7HitX3FThfa7dFnYtUDau4YSuN67VWa2mw&s
   url: https://www.archaeometrie.de/
   type: supporter
 
-- id: e56e9a68-0fd4-43fb-b268-b2d770bae7a2
+- id: gesellschaft-für-anthropologie
   name: Gesellschaft für Anthropologie
   logo: /assets/img/institutions/gfa-logo.png
   url: https://gfa-anthropologie.de/
   type: supporter
 
-- id: deutsche-nationalbibliothek.md
+- id: deutsche-nationalbibliothek
   name: Deutsche Nationalbibliothek
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/DNB.svg/640px-DNB.svg.png
   url: https://www.dnb.de/
   type: participant
   short: DNB
 
-- id: computer-anwendungen-&-quantitative-methoden-in-der-archaeologie-sektion-deutschland.md
+- id: computer-anwendungen-&-quantitative-methoden-in-der-archaeologie-sektion-deutschland
   name: Computer Anwendungen & Quantitative Methoden in der Archäologie e.V.
   logo: assets/img/institutions/caa_germany-black.png
   url: https://ag-caa.de/
   type: participant
   short: CAA-DE
 
-- id: dai
+- id: deutsches-archäologisches-institut-dai
   name: Deutsches Archäologisches Institut (DAI)
   logo: https://upload.wikimedia.org/wikipedia/de/thumb/8/82/Deutsches_Arch%C3%A4ologisches_Institut_Logo.svg/446px-Deutsches_Arch%C3%A4ologisches_Institut_Logo.svg.png
   url: https://www.dainst.org/
   type: mainapplicant
 
-- id: thueringer-universitaets-und-landesbibliothek.md
+- id: thueringer-universitaets-und-landesbibliothek
   name: Thüringer Universitäts und Landesbibliothek (Universität Jena)
   logo: /assets/img/institutions/thulb_604x270.png
   url: https://www.thulb.uni-jena.de/home
   type: participant
   short: ThULB
 
-- id: b0549888-df6f-4669-9169-0893a44717e2
+- id: universität-münster
   name: Universität Münster
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_Universit%C3%A4t_M%C3%BCnster.svg/640px-Logo_Universit%C3%A4t_M%C3%BCnster.svg.png
   url: https://www.uni-muenster.de/de/
   type: supporter
 
-- id: staatliche-archive-bayern.md
+- id: staatliche-archive-bayern
   name: Staatliche Archive Bayerns
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Staatliche_Archive_Bayerns_Logo.svg/430px-Staatliche_Archive_Bayerns_Logo.svg.png
   url: https://www.gda.bayern.de/die-staatlichen-archive-bayerns
   type: participant
   short: GDA
 
-- id: museum-fuer-naturkunde-leibniz-institut-fuer-evolutions-und-biodiversitaetsforschung.md
+- id: museum-fuer-naturkunde-leibniz-institut-fuer-evolutions-und-biodiversitaetsforschung
   name: Museum für Naturkunde - Leibniz Institut für Evolutions- und Biodiversitätsforschung
   logo: /assets/img/institutions/logo_mfnk_berlin.jpg
   url: https://www.museumfuernaturkunde.berlin/de
   type: participant
   short: MfN
 
-- id: deutsche-gesellschaft-fuer-ur-und-fruehgeschichte-e.V.-.md
+- id: deutsche-gesellschaft-fuer-ur-und-fruehgeschichte-e.V.-
   name: Deutsche Gesellschaft für Ur- und Frühgeschichte e. V.
   logo: /assets/img/institutions/dguf_logo_4c_kurz.jpg
   url: https://dguf.de/
   type: participant
   short: DGUF
 
-- id: ec747d9a-d71d-4b68-ac5b-b68d99e87ea2
+- id: bundesministerium-für-gesundheit-nfdi4health
   name: Bundesministerium für Gesundheit (NFDI4Health)
   logo: ''
   url: https://www.bundesgesundheitsministerium.de/
   type: advisoryboard_inst
 
-- id: 9ff5bfed-9091-409b-88d3-f94bc807be5b
+- id: deutsches-schifffahrtsmuseum
+  name: Deutsches Schifffahrtsmuseum
+  logo: /assets/img/institutions/dsm_rz_logo_srgb_d.png
+  url: https://www.dsm.museum/
+  type: participant
+
+- id: numismatische-kommission-der-länder-der-bundesrepublik-deutschland
   name: Numismatische Kommission der Länder der Bundesrepublik Deutschland
   logo: https://numismatische-kommission.de/fileadmin/user_upload/Nk/logo_nk.svg
   url: https://numismatische-kommission.de/startseite
   type: supporter
 
-- id: 005b4f71-5142-44fb-97a0-022beedc6e3a
+- id: bundesamt-für-kartographie-und-geodäsie
+  name: Bundesamt für Kartographie und Geodäsie
+  logo: ''
+  url: https://www.bkg.bund.de/DE/Home/home.html
+  type: participant
+
+- id: klassik-stiftung-weimar
   name: Klassik Stiftung Weimar
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Klassik_Stiftung_Weimar_Logo_SW.svg/640px-Klassik_Stiftung_Weimar_Logo_SW.svg.png
   url: https://www.klassik-stiftung.de/
   type: coapplicant
 
-- id: 1dbe9a64-0523-4182-8818-5b5e252e5241
+- id: humboldt-universität-zu-berlin
   name: Humboldt-Universität zu Berlin
   logo: https://www.hu-berlin.de/++resource++humboldt.logo.Logo.svg
   url: https://www.hu-berlin.de/
   type: supporter
 
-- id: b1033f31-7fbe-4de0-8791-71bdea11c62f
+- id: digital-humanities-center-universität-thübingen
   name: ' Digital Humanities Center (Universität Tübingen)'
   logo: https://upload.wikimedia.org/wikipedia/de/9/9c/UniversitaetTuebingen_WortBildMarke.png
   url: https://uni-tuebingen.de/forschung/forschungsinfrastruktur/digital-humanities-center/
   type: participant
 
-- id: efficient-computing-and-storage-group-jgu-mainz.md
+- id: braunschweigiges-landesmuseum
+  name: Braunschweigisches Landesmuseum
+  logo: /assets/img/institutions/blm_logo_4c_regular.svg
+  url: https://3landesmuseen-braunschweig.de/braunschweigisches-landesmuseum
+  type: participant
+
+- id: efficient-computing-and-storage-group-jgu-mainz
   name: Efficient Computing and Storage Group (JGU Mainz)
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg/640px-Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg.png
   url: https://research.zdv.uni-mainz.de/
   type: participant
   short: JGU-ECSG
 
-- id: ebf917bc-0812-4b75-8867-5c741e5a3a6e
+- id: fachhochschule-potsdam
   name: Fachhochschule Potsdam
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FHP_logo.svg/640px-FHP_logo.svg.png
   url: https://www.fh-potsdam.de/
   type: advisoryboard_inst
 
-- id: institut-fuer-kunstgeschichte-und-musikwissenschaft-jgu-mainz.md
+- id: institut-fuer-kunstgeschichte-und-musikwissenschaft-jgu-mainz
   name: Institut für Kunstgeschichte und Musikwissenschaft (JGU Mainz)
   logo: /assets/img/institutions/logo_ikm_jgu.png
   url: https://www.ikm.uni-mainz.de/
@@ -366,20 +394,20 @@
   type: coapplicant
   short: UBN
 
-- id: f1812f30-b6ba-479d-a82f-d72b2a9a0378
+- id: universität-leiden
   name: Universiteit Leiden
   logo: ''
   url: https://www.universiteitleiden.nl/en
   type: advisoryboard_inst
 
-- id: varusschlacht-im-osnabruecker-land-gGmbH-museum-und-park-kalkriese.md
+- id: varusschlacht-im-osnabruecker-land-gGmbH-museum-und-park-kalkriese
   name: VARUSSCHLACHT im Osnabrücker Land gGmbH – Museum und Park Kalkriese
   logo: https://www.kalkriese-varusschlacht.de/typo3conf/ext/ti_base_vs/Resources/Public/Images/logo-varusschlacht.svg
   url: https://www.kalkriese-varusschlacht.de/
   type: participant
   short: VARUS
 
-- id: deutscher-verband-fuer-archaeologie-e.V.-.md
+- id: deutscher-verband-fuer-archaeologie-e.V.-
   name: Deutscher Verband für Archäologie e.V.
   logo: https://www.luftfahrttechnisches-museum-rechlin.de/files/bilder/Museum/logo_dva_407x120.png
   url: https://www.dvarch.de/
@@ -393,40 +421,40 @@
   type: participant
   short: AdW Mainz
 
-- id: c3ae98dc-c256-4239-a596-a2c2a45b95ba
+- id: freie-universität-berlin-institut-für-vorderasiatische-archäologie
   name: Freie Universität Berlin, Institut für Vorderasiatische Archäologie
   logo: https://upload.wikimedia.org/wikipedia/de/thumb/7/71/Fub-logo.svg/640px-Fub-logo.svg.png
   url: https://www.geschkult.fu-berlin.de/e/vaa/index.html
   type: supporter
 
-- id: institut-fuer-stadt-und-regionalplanung-tu-berlin.md
+- id: institut-fuer-stadt-und-regionalplanung-tu-berlin
   name: Institut für Stadt- und Regionalplanung (TU Berlin)
   logo: /assets/img/institutions/logo_tu_berlin_isr.png
   url: https://www.tu.berlin/isr/
   type: participant
   short: TUB-IURP
 
-- id: e4c3283c-2cbe-42ec-a9da-acc3a9c0a3c1
+- id: institut-für-angewandte-photogrammetrie-und-geoinformatik-iapg
   name: Institut für Angewandte Photogrammetrie und Geoinformatik (IAPG)
   logo: https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_Jade_Hochschule.jpg
   url: https://iapg.jade-hs.de/institut
   type: supporter
 
-- id: hessenarchaeologie-landesamt-fuer-denkmalpflege-hessen.md
+- id: hessenarchaeologie-landesamt-fuer-denkmalpflege-hessen
   name: hessenARCHÄOLOGIE Landesamt für Denkmalpflege Hessen
   logo: /assets/img/institutions/lfdh_signet_ha_vorlage_cmyk_500px_150dpi.png
   url: https://denkmal.hessen.de/hessenarchaeologie
   type: participant
   short: hA
 
-- id: d6db887c-0d38-40a5-ab14-6016df6c0b78
+- id: hochschule-mainz-university-of-applied-sciences
   name: Hochschule Mainz University of Applied Sciences
   logo: /assets/img/institutions/hochschule_mainz_logo_blau_4c.svg
   url: https://www.hs-mainz.de/
   type: coapplicant
   short: HS Mainz
 
-- id: max-planck-institut-fuer-evolutionaere-anthropologie-abteilung-fuer-archaeogenetik.md
+- id: max-planck-institut-fuer-evolutionaere-anthropologie-abteilung-fuer-archaeogenetik
   name: Max-Planck-Institut für evolutionäre Anthropologie Abteilung für Archäogenetik
   logo: https://www.eva.mpg.de/typo3conf/ext/eva_template/Resources/Public/Images/MPI-EVA_Logo_Web_DE.svg
   url: https://www.eva.mpg.de/de/archaeogenetik/index/
@@ -440,97 +468,100 @@
   type: coapplicant
   short: VZG
 
-- id: d192699f-7e3e-40ff-b0b2-b23d64068261
-  name: Institut für Ur- und Frühgeschichte und Archäologie des Mittelalters (Eberhard Karls Universität Tübingen)
+- id: institut-für-ur-und-frühgeschichte-und-archäologie-des-mittelalters-eberhard-karls-universität-tübingen
+  name: Institut für Ur- und Frühgeschichte und Archäologie des Mittelalters (Eberhard
+    Karls Universität Tübingen)
   logo: ''
   url: https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/altertums-und-kunstwissenschaften/ur-und-fruehgeschichte-und-archaeologie-des-mittelalters/institut/
   type: participant
 
-- id: af5b9803-b651-45b2-b47d-b71d8c9a931b
+- id: internationaler-ägyptologenverband-iae
   name: 'Internationaler Ägyptologenverband (IAE) '
   logo: https://www.iae-egyptology.org/wp-content/uploads/2020/01/iae_logo.jpg
   url: https://www.iae-egyptology.org/
   type: supporter
 
-- id: 59d2f736-18b6-4596-9a90-7c7dff30caa1
+- id: staatliche-naturwissenschaftliche-sammlungen-bayerns
   name: Staatliche Naturwissenschaftliche Sammlungen Bayerns
   logo: https://snsb.de/wp-content/uploads/2021/06/b29cbfe5.png
   url: https://snsb.de/
   type: participant
 
-- id: cologne-digital-archaeology-laboratory-am-institut-fuer-archaeologie-universitaet-koeln.md
-  name: Cologne Digital Archaeology Laboratory am Institut für Archäologie (Universität Köln)
+- id: cologne-digital-archaeology-laboratory-am-institut-fuer-archaeologie-universitaet-koeln
+  name: Cologne Digital Archaeology Laboratory am Institut für Archäologie (Universität
+    Köln)
   logo: /assets/img/institutions/logo_codarchlab.png
   url: https://archaeologie.phil-fak.uni-koeln.de/institut/fachgebiete/archaeoinformatik/codarchlab
   type: participant
   short: UzK -CoDArchLab
 
-- id: hornemann-institut-der-hawk.md
+- id: hornemann-institut-der-hawk
   name: Hornemann Institut der Hochschule für Angewandte Wissenschaft und Kunst
   logo: https://upload.wikimedia.org/wikipedia/commons/6/67/HI-Logo.jpg
   url: https://hornemann-institut.hawk.de/
   type: participant
   short: HAWK
 
-- id: landesdenkmalamt-saarland.md
+- id: landesdenkmalamt-saarland
   name: Landesdenkmalamt Saarland
   logo: https://www.saarland.de/SharedDocs/Bilder/DE/logos/landesverwaltung/Saar_MZ_Min_BK_LDA_std_3C_SVG-Crop.svg?__blob=normal&v=4
   url: https://www.saarland.de/lda/DE/home
   type: participant
   short: LDA-Saar
 
-- id: 0f17718e-0aa2-4693-af34-dd03a9c6fafd
+- id: landesmuseum-natur-und-mensch-oldenburg
   name: Landesmuseum Natur und Mensch Oldenburg
   logo: https://idw-online.de/de/institutionlogo29420
   url: https://www.naturundmensch.de/
   type: supporter
 
-- id: deutscher-bibliotheksverband-e.V.-.md
+- id: deutscher-bibliotheksverband-e.V.-
   name: Deutscher Bibliotheksverband e.V.
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Deutscher_Bibliotheksverband_Logo_10.2019.svg/640px-Deutscher_Bibliotheksverband_Logo_10.2019.svg.png
   url: https://www.bibliotheksverband.de/
   type: participant
   short: DBV
 
-- id: berlin-graduate-school-of-ancient-studies-fu-berlin.md
-  name: Berlin Graduate School of Ancient Studies (Freie Universität Berlin/Humboldt Universität zu Berlin)
+- id: berlin-graduate-school-of-ancient-studies-fu-berlin
+  name: Berlin Graduate School of Ancient Studies (Freie Universität Berlin/Humboldt
+    Universität zu Berlin)
   logo: /assets/img/institutions/bergsas-logo-rgb.svg
   url: https://www.berliner-antike-kolleg.org/bergsas/
   type: participant
   short: BerGSAS
 
-- id: 2a582445-ca23-4b8b-9284-b9929ea4a03e
+- id: deutsche-orient-gesellschaft-e-v
   name: Deutsche Orient-Gesellschaft e. V.
   logo: https://www.orient-gesellschaft.de/bilder/logo.png
   url: https://www.orient-gesellschaft.de/
   type: supporter
 
-- id: c1c7942a-2750-48ef-968f-99d8c1e6a1f1
+- id: arizona-state-university
   name: Arizona State University
   logo: ''
   url: https://www.asu.edu/
   type: advisoryboard_inst
 
-- id: a2843f51-c0b8-412d-b8bd-a2f4d3be2b3b
+- id: verband-der-restauratoren-e-v
   name: Verband der Restauratoren e. V.
   logo: https://kommunaltopinform.de/wp-content/uploads/2020/02/Verband-der-Restauratoren_VDR-Logo_335px.png
   url: https://www.restauratoren.de/
   type: supporter
 
-- id: landesmuseum-hannover-das-weltenmuseum.md
+- id: landesmuseum-hannover-das-weltenmuseum
   name: Landesmuseum Hannover (Das WeltenMuseum)
   logo: https://books.ub.uni-heidelberg.de/public/site/images/admin/nlmh-logo.png
   url: https://www.landesmuseum-hannover.de/
   type: participant
   short: NLM
 
-- id: 5b535293-46c0-4e76-a477-83800841504e
+- id: commonwealth-scientific-and-industrial-research-organisation-csiro
   name: Commonwealth Scientific and Industrial Research Organisation (CSIRO)
   logo: ''
   url: https://www.csiro.au/
   type: advisoryboard_inst
 
-- id: 3d017985-9a3a-48ac-a207-03f538da0da8
+- id: european-research-infrastructure-for-heritage-science-e-rihs
   name: European research infrastructure for heritage science (E-RIHS)
   logo: https://sshopencloud.eu/sites/default/files/e-rihs-logo.jpg
   url: https://www.e-rihs.eu/
@@ -543,44 +574,50 @@
   type: participant
   short: AMH
 
-- id: 241ccb95-a066-48da-ac9a-326f0a34463a
+- id: leuphana-universität-lüneburg
   name: Leuphana Universität Lüneburg
   logo: ''
   url: https://www.leuphana.de/
   type: advisoryboard_inst
 
-- id: f554dff2-0ba9-4b91-817d-97cb2cbc65f6
+- id: königlich-niederländische-akademie-der-wissenschaften-knaw
   name: Königlich Niederländische Akademie der Wissenschaften (KNAW)
   logo: ''
   url: https://www.knaw.nl/en
   type: advisoryboard_inst
 
-- id: 2a5c577f-a565-435a-958a-88742ad4592d
+- id: riksantikvarieämbetet-zentralamt-für-denkmalpflege-schweden
   name: Riksantikvarieämbetet (Zentralamt für Denkmalpflege Schweden)
   logo: ''
   url: https://www.raa.se/in-english/
   type: advisoryboard_inst
 
-- id: institut-fuer-archaeologische-wissenschaften-ruhr-uni-bochum.md
+- id: institut-fuer-archaeologische-wissenschaften-ruhr-uni-bochum
   name: Institut für Archäologische Wissenschaften Ruhr-Universität Bochum
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ruhr-Universit%C3%A4t_Bochum_logo.svg/480px-Ruhr-Universit%C3%A4t_Bochum_logo.svg.png
   url: https://www.ruhr-uni-bochum.de/archaeologie/
   type: participant
   short: RUB
 
-- id: heidelbergakademiederwissenschaften
+- id: heidelberger-akademie-der-wissenschaften
   name: Heidelberger Akademie der Wissenschaften
   logo: https://www.hadw-bw.de/themes/custom/hadw/images/hadw_logo_blau.svg
   url: https://www.hadw-bw.de/
   type: participant
   short: HAdW
 
-- id: institut-fuer-geschichtswissenschaft-tu-braunschweig.md
+- id: institut-fuer-geschichtswissenschaft-tu-braunschweig
   name: Institut für Geschichtswissenschaft (TU Braunschweig)
   logo: https://www.tu-braunschweig.de/fileadmin/_processed_/b/e/csm_logo_geschichtswissenschaft_341a8eca01.png
   url: https://www.tu-braunschweig.de/geschichte
   type: participant
   short: TUBr
+
+- id: hochschule-für-technik-wirtschaft-und-kultur-htwk
+  name: Hochschule für Technik, Wirtschaft und Kultur (HTWK)
+  logo: ''
+  url: https://www.htwk-leipzig.de/
+  type: participant
 
 - id: generaldirektion-kulturelles-erbe-rheinland-pfalz
   name: Generaldirektion Kulturelles Erbe Rheinland-Pfalz
@@ -596,99 +633,102 @@
   type: coapplicant
   short: LEIZA
 
-- id: lvr-amt-fuer-bodendenkmalpflege-im-rheinland.md
+- id: lvr-amt-fuer-bodendenkmalpflege-im-rheinland
   name: Landschaftsverband Rheinland-Amt für Bodendenkmalpflege im Rheinland
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LVR-Logo-2009.svg/640px-LVR-Logo-2009.svg.png
   url: https://bodendenkmalpflege.lvr.de/de/startseite.html
   type: participant
   short: LVR-ABR
 
-- id: 7742cf7a-fc26-4458-90f0-ab64a6b93233
-  name: ' Institut für Archäologische Wissenschaften, Denkmalwissenschaften und Kunstgeschichte (Universität Bamberg)'
+- id: institut-für-archäologische-wissenschaften-denkmalwissenschaften-und-kunstgeschichte-universität-bamberg
+  name: ' Institut für Archäologische Wissenschaften, Denkmalwissenschaften und Kunstgeschichte
+    (Universität Bamberg)'
   logo: ''
   url: https://www.uni-bamberg.de/iadk/
   type: participant
 
-- id: lab-nicht-textuelle-materialien-am-tib.md
-  name: Lab Nicht-Textuelle Materialien am TIB - Leibniz-Informationszentrum Technik und Naturwissenschaften
+- id: lab-nicht-textuelle-materialien-am-tib
+  name: Lab Nicht-Textuelle Materialien am TIB - Leibniz-Informationszentrum Technik
+    und Naturwissenschaften
   logo: https://www.tib.eu/_assets/95710fb0dfc9d1275dd70f8177c8864a/gfx/logos/tib-full.svg
   url: https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/nicht-textuelle-materialien
   type: participant
   short: NTM
 
-- id: 8c66f7f2-f8d8-4a9b-b721-2fac40caa7cd
-  name: Institut für Altorientalistik und Vorderasiatische Archäologie (Universität Münster)
+- id: institut-für-altorientalistik-und-vorderasiatische-archäologie-universität-münster
+  name: Institut für Altorientalistik und Vorderasiatische Archäologie (Universität
+    Münster)
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_Universit%C3%A4t_M%C3%BCnster.svg/640px-Logo_Universit%C3%A4t_M%C3%BCnster.svg.png
   url: https://www.uni-muenster.de/Altoriental/
   type: participant
 
-- id: propylaeum-fid-altertumswissenschaften-universitaetsbibliothek-heidelberg.md
+- id: propylaeum-fid-altertumswissenschaften-universitaetsbibliothek-heidelberg
   name: Propylaeum FID Altertumswissenschaften Universitätsbibliothek Heidelberg
   logo: https://www.propylaeum.de/fileadmin/templates/images/logo_propylaeum_de.png
   url: https://www.propylaeum.de/
   type: participant
   short: UBH
 
-- id: afbbf436-d54e-4de7-98a8-a15ac27943a0
+- id: zentrum-für-altertumswissenschaften-universität-heidelberg
   name: Zentrum für Altertumswissenschaften (Universität Heidelberg)
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ruprecht-Karls-Universit%C3%A4t_Heidelberg_Logo.svg/640px-Ruprecht-Karls-Universit%C3%A4t_Heidelberg_Logo.svg.png
   url: https://www.phil.uni-heidelberg.de/de/ueber-uns/seminare-institute-und-weitere-einrichtungen
   type: participant
 
-- id: verband-der-landesarchaeologen-in-der-bundesrepublik-deutschland.md
+- id: verband-der-landesarchaeologen-in-der-bundesrepublik-deutschland
   name: Verband der Landesarchäologien in der Bundesrepublik Deutschland
   logo: https://www.landesarchaeologien.de/tmpl/daten/landesarchaeologen/img/logo/logo_landesarchaeologen_orig.png
   url: https://www.landesarchaeologien.de/
   type: participant
   short: VLA
 
-- id: deutscher-museumsbund-.md
+- id: deutscher-museumsbund
   name: Deutscher Museumsbund
   logo: https://upload.wikimedia.org/wikipedia/de/thumb/8/84/Deutscher_Museumsbund_logo.svg/518px-Deutscher_Museumsbund_logo.svg.png
   url: https://www.museumsbund.de/
   type: participant
   short: DMB
 
-- id: 8381087d-59e8-4e35-a53e-08239910e02e
+- id: universität-heidelberg
   name: Universität Heidelberg
   logo: ''
   url: https://www.uni-heidelberg.de
   type: participant
 
-- id: helmholtz-zentrum-fuer-umweltforschung-department-monitoring-und-erkundungstechnologien.md
+- id: helmholtz-zentrum-fuer-umweltforschung-department-monitoring-und-erkundungstechnologien
   name: Helmholtz Zentrum für Umweltforschung-Department Monitoring- und Erkundungstechnologien
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/UFZ_Logo_RGB_DE.png/640px-UFZ_Logo_RGB_DE.png
   url: https://www.ufz.de/index.php?de=34217
   type: participant
   short: UFZ
 
-- id: institut-fuer-digital-humanities-universitaet-koeln.md
+- id: institut-fuer-digital-humanities-universitaet-koeln
   name: Institut für Digital Humanities (Universität Köln)
   logo: https://dh.phil-fak.uni-koeln.de/sites/dighum/_processed_/7/5/csm_IDH_Logo_593d3538d3.png
   url: https://dh.phil-fak.uni-koeln.de/
   type: participant
   short: UzK - IDH
 
-- id: c80266c5-b8ed-44e6-aa9c-69ea52ec3249
+- id: frankfurt-big-data-lab-goethe-universität-frankfurt
   name: Frankfurt Big Data Lab (Goethe Universität Frankfurt)
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg/640px-Logo-Goethe-University-Frankfurt-am-Main.svg.png
   url: http://www.bigdata.uni-frankfurt.de/
   type: participant
 
-- id: lwl-museum-fuer-archaeologie-und-kultur-westfaelisches-landesmuseum.md
+- id: lwl-museum-fuer-archaeologie-und-kultur-westfaelisches-landesmuseum
   name: LWL-Museum für Archäologie und Kultur Westfälisches Landesmuseum
   logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/LWL_logo_4c_RGB.jpg/640px-LWL_logo_4c_RGB.jpg
   url: https://www.lwl-landesmuseum-herne.de/de/
   type: participant
   short: LWL-MfA
 
-- id: f1cba222-7d05-4f49-b4b0-0883b1f6e8db
+- id: landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-baden-württemberg
   name: Landesamt für Denkmalpflege im Regierungspräsidium Stuttgart (Baden-Württemberg)
   logo: https://www.denkmalpflege-bw.de/fileadmin/templates/images/lad-logo.png
   url: https://www.denkmalpflege-bw.de/
   type: coapplicant
 
-- id: niedersaechsisches-landesamt-fuer-denkmalpflege-projekt-denkmalatlas.md
+- id: niedersaechsisches-landesamt-fuer-denkmalpflege-projekt-denkmal-atlas
   name: Niedersächsisches Landesamt für Denkmalpflege Projekt Denkmalatlas
   logo: /assets/img/institutions/logo_lad_niedersachsen.png
   url: https://denkmalpflege.niedersachsen.de/
