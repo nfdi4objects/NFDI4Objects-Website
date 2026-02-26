@@ -11,7 +11,161 @@ permalink: /en/about/people/members/
        subtitle="NFDI4Objects is a consortium of leading research institutions, museums, and archives in the field of material culture and object research."
  %}
 
-{% assign institutions = site.data.de.institutions | where_exp: "item", "item.type == 'coapplicant' or item.type == 'participant' or item.type == 'mainapplicant'" %}
+# Main Applicant
+{% assign institutions = site.data.de.institutions | where_exp: "item.type == 'mainapplicant'" %}
+
+<div class="institutions-grid">
+{% for inst in institutions %}
+  <div class="institution-card">
+    {% if inst.logo %}
+    <div class="institution-card__logo">
+      <img src="{{ inst.logo | relative_url }}" alt="{{ inst.name }} Logo" loading="lazy">
+    </div>
+    {% endif %}
+
+    <div class="institution-card__content">
+      <h3 class="institution-card__name">
+        {% if inst.url %}
+        <a href="{{ inst.url }}" target="_blank" rel="noopener">{{ inst.name }}</a>
+        {% else %}
+        {{ inst.name }}
+        {% endif %}
+      </h3>
+
+      {% if inst.short %}
+      <p class="institution-card__short">{{ inst.short }}</p>
+      {% endif %}
+
+      {% if inst.city %}
+      <p class="institution-card__location">
+        <i class="fas fa-location-pin"></i> {{ inst.city }}
+      </p>
+      {% endif %}
+    </div>
+
+    {% comment %} Show persons from this institution {% endcomment %}
+    {% assign inst_persons = site.persons | where: "lang", "en" | where: "institution", inst.id %}
+    {% if inst_persons.size > 0 %}
+    <div class="institution-card__persons">
+      <h4>Staff:</h4>
+      <ul>
+        {% for person in inst_persons limit: 5 %}
+        <li><a href="{{ person.url | relative_url }}">{{ person.title }}</a></li>
+        {% endfor %}
+        {% if inst_persons.size > 5 %}
+        <li><em>{{ inst_persons.size | minus: 5 }} more...</em></li>
+        {% endif %}
+      </ul>
+    </div>
+    {% endif %}
+  </div>
+{% endfor %}
+</div>
+
+# Co-Applicants
+{% assign institutions = site.data.de.institutions | where_exp: "item.type == 'coapplicant'" %}
+
+<div class="institutions-grid">
+{% for inst in institutions %}
+  <div class="institution-card">
+    {% if inst.logo %}
+    <div class="institution-card__logo">
+      <img src="{{ inst.logo | relative_url }}" alt="{{ inst.name }} Logo" loading="lazy">
+    </div>
+    {% endif %}
+
+    <div class="institution-card__content">
+      <h3 class="institution-card__name">
+        {% if inst.url %}
+        <a href="{{ inst.url }}" target="_blank" rel="noopener">{{ inst.name }}</a>
+        {% else %}
+        {{ inst.name }}
+        {% endif %}
+      </h3>
+
+      {% if inst.short %}
+      <p class="institution-card__short">{{ inst.short }}</p>
+      {% endif %}
+
+      {% if inst.city %}
+      <p class="institution-card__location">
+        <i class="fas fa-location-pin"></i> {{ inst.city }}
+      </p>
+      {% endif %}
+    </div>
+
+    {% comment %} Show persons from this institution {% endcomment %}
+    {% assign inst_persons = site.persons | where: "lang", "en" | where: "institution", inst.id %}
+    {% if inst_persons.size > 0 %}
+    <div class="institution-card__persons">
+      <h4>Staff:</h4>
+      <ul>
+        {% for person in inst_persons limit: 5 %}
+        <li><a href="{{ person.url | relative_url }}">{{ person.title }}</a></li>
+        {% endfor %}
+        {% if inst_persons.size > 5 %}
+        <li><em>{{ inst_persons.size | minus: 5 }} more...</em></li>
+        {% endif %}
+      </ul>
+    </div>
+    {% endif %}
+  </div>
+{% endfor %}
+</div>
+
+# Participants
+{% assign institutions = site.data.de.institutions | where_exp: "item.type == 'participant'" %}
+
+<div class="institutions-grid">
+{% for inst in institutions %}
+  <div class="institution-card">
+    {% if inst.logo %}
+    <div class="institution-card__logo">
+      <img src="{{ inst.logo | relative_url }}" alt="{{ inst.name }} Logo" loading="lazy">
+    </div>
+    {% endif %}
+
+    <div class="institution-card__content">
+      <h3 class="institution-card__name">
+        {% if inst.url %}
+        <a href="{{ inst.url }}" target="_blank" rel="noopener">{{ inst.name }}</a>
+        {% else %}
+        {{ inst.name }}
+        {% endif %}
+      </h3>
+
+      {% if inst.short %}
+      <p class="institution-card__short">{{ inst.short }}</p>
+      {% endif %}
+
+      {% if inst.city %}
+      <p class="institution-card__location">
+        <i class="fas fa-location-pin"></i> {{ inst.city }}
+      </p>
+      {% endif %}
+    </div>
+
+    {% comment %} Show persons from this institution {% endcomment %}
+    {% assign inst_persons = site.persons | where: "lang", "en" | where: "institution", inst.id %}
+    {% if inst_persons.size > 0 %}
+    <div class="institution-card__persons">
+      <h4>Staff:</h4>
+      <ul>
+        {% for person in inst_persons limit: 5 %}
+        <li><a href="{{ person.url | relative_url }}">{{ person.title }}</a></li>
+        {% endfor %}
+        {% if inst_persons.size > 5 %}
+        <li><em>{{ inst_persons.size | minus: 5 }} more...</em></li>
+        {% endif %}
+      </ul>
+    </div>
+    {% endif %}
+  </div>
+{% endfor %}
+</div>
+
+# Supporter
+{% assign institutions = site.data.de.institutions | where_exp: "item.type == 'supporter'" %}
 
 <div class="institutions-grid">
 {% for inst in institutions %}
