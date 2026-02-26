@@ -5,7 +5,7 @@ lang: de
 translation_key: frank-dührkohp
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
-- steeringcommittee
+- steering
 institution: verbundzentrale-des-gbv
 orcid: 0000-0001-9895-8986
 ---

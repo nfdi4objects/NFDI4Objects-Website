@@ -5,7 +5,7 @@ lang: en
 translation_key: roland-schwab
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
-- steeringcommittee
+- steering
 institution: leiza
 orcid: 0000-0002-9115-0834
 ---

@@ -5,7 +5,7 @@ lang: en
 translation_key: thomas-stöllner
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
-- steeringcommittee
+- steering
 institution: deutsches-bergbau-museum-bochum
 orcid: ''
 ---
