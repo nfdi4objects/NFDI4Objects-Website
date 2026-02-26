@@ -121,6 +121,13 @@
   url: https://www.archaeologie.bayern/
   type: participant
   short: ASM
+  
+- id: staatssammlung-fuer-anthropologie-muenchen-der-snsb
+  name: Staatssammlung für Anthropologie München
+  logo: https://sam.snsb.de/wp-content/uploads/sites/9/2021/12/b26db670.jpg 
+  url: https://sam.snsb.de/
+  type: supporter
+  short: ASM
 
 - id: archäologisches-institut-universtät-zu-köln
   name: Archäologisches Institut (Universtät zu Köln)
@@ -599,6 +606,13 @@
   type: participant
   short: RUB
 
+- id: college-for-social-sciences-and-humanities-der-university-alliance-ruhr
+  name: College for Social Sciences and Humanities der University Alliance Ruhr
+  logo: https://www.uaruhr.de/typo3temp/assets/_processed_/6/e/csm_uaruhr-logo-social_0bab05de9f.jpg
+  url: https://www.college-uaruhr.de/
+  type: supporter
+  short: RUB
+
 - id: heidelberger-akademie-der-wissenschaften
   name: Heidelberger Akademie der Wissenschaften
   logo: https://www.hadw-bw.de/themes/custom/hadw/images/hadw_logo_blau.svg
@@ -735,3 +749,9 @@
   type: participant
   short: NLD
 
+- id: landesamt-für-denkmalpflege-und-archäologie-sachsen-anhalt-–-landesmuseum-für-vorgeschichte
+  name: Landesamt für Denkmalpflege und Archäologie Sachsen-Anhalt – Landesmuseum für Vorgeschichte
+  logo: /assets/img/institutions/logo_lad_niedersachsen.png
+  url: https://www.lda-lsa.de/
+  type: participant
+  short: NLD
