@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Konsortialmitglieder
-description: ""
-keywords: ""
-lang: de
+title: Consortium Members
+lang: en
 translation_key: consortium_members
 permalink: /en/about/people/members/
 ---
-
 {% include page-header.html
        icon="/assets/icons/portal/Konsortialmitglieder.svg"
        title="Consortium"
@@ -16,7 +13,7 @@ permalink: /en/about/people/members/
 
 {% assign institutions = site.data.de.institutions | where_exp: "item", "item.type == 'coapplicant' or item.type == 'mainapplicant'" %}
 
-<section class="institutions-grid">
+<div class="institutions-grid">
 {% for inst in institutions %}
   <div class="institution-card">
     {% if inst.logo %}
@@ -45,27 +42,27 @@ permalink: /en/about/people/members/
       {% endif %}
     </div>
 
-    {% comment %} Personen dieser Institution anzeigen {% endcomment %}
-    {% assign inst_persons = site.persons | where: "lang", "de" | where: "institution", inst.id %}
+    {% comment %} Show persons from this institution {% endcomment %}
+    {% assign inst_persons = site.persons | where: "lang", "en" | where: "institution", inst.id %}
     {% if inst_persons.size > 0 %}
     <div class="institution-card__persons">
-      <h4>Mitarbeitende:</h4>
+      <h4>Staff:</h4>
       <ul>
         {% for person in inst_persons limit: 5 %}
         <li><a href="{{ person.url | relative_url }}">{{ person.title }}</a></li>
         {% endfor %}
         {% if inst_persons.size > 5 %}
-        <li><em>{{ inst_persons.size | minus: 5 }} weitere...</em></li>
+        <li><em>{{ inst_persons.size | minus: 5 }} more...</em></li>
         {% endif %}
       </ul>
     </div>
     {% endif %}
   </div>
 {% endfor %}
-</section>
+</div>
 
 <div class="metadata-download">
   <a class="metadata-link btn btn-primary" href="/about/people/members/index.ttl" download="consortium-members.ttl">
-    Metadaten als .ttl herunterladen
+    Download metadata as .ttl
   </a>
 </div>
