@@ -14,12 +14,12 @@ cochairs:
 - name: ''
   person_ref: michaelmarkert
 areas:
-- ta6
 - ta1
 - ta2
 - ta3
 - ta4
 - ta5
+- ta6
 focus_areas: ''
 permalink: /ccs/cc3_authority_and_norm_data/
 ---

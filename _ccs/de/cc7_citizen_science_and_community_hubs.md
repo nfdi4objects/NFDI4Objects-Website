@@ -15,8 +15,8 @@ cochairs:
   person_ref: frank_duehrkohp
 areas:
 - ta4
-- ta6
 - ta5
+- ta6
 focus_areas: ''
 permalink: /ccs/cc7_citizen_science_and_community_hubs/
 ---

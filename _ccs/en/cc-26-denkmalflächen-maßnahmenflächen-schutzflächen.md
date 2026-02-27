@@ -14,8 +14,8 @@ cochairs:
 - name: ''
   person_ref: christianbollacher
 areas:
-- ta4
 - ta1
+- ta4
 focus_areas: ''
 permalink: /ccs/cc-26-denkmalflächen-maßnahmenflächen-schutzflächen/
 ---

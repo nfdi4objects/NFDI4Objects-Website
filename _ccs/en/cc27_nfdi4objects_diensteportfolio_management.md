@@ -14,6 +14,12 @@ cochairs:
 - name: 'Fabian Fricke'
   person_ref: 'fabian-fricke'
 areas:
+- ta1
+- ta2
+- ta3
+- ta4
+- ta5
+- ta6
 - ta7
 focus_areas: ''
 permalink: /ccs/cc27_nfdi4objects_diensteportfolio_management/

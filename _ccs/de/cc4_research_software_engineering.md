@@ -14,10 +14,10 @@ cochairs:
 - name: ''
   person_ref: lutzschubert
 areas:
-- ta2
 - ta1
-- ta4
+- ta2
 - ta3
+- ta4
 - ta5
 focus_areas: ''
 permalink: /ccs/cc4_research_software_engineering/
