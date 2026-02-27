@@ -9,10 +9,10 @@ start_date: ''
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: ''
-  person_ref: tobiasarera-rütenik
-- name: ''
-  person_ref: nadinemarcinczik
+- name: 'Tobias Arera-Rütenik'
+  person_ref: tobias-arera-rütenik
+- name: 'Nadine Marcinczik'
+  person_ref: nadine-marcinczik
 areas:
 - ta1
 focus_areas: ''

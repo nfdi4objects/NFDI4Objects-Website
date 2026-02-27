@@ -9,9 +9,9 @@ start_date: ''
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: ''
-  person_ref: ''
-- name: ''
+- name: 'Sandra Schröer-Spang'
+  person_ref: 'sandra-schröer-spang'
+- name: 'Nina Hohm'
   person_ref: ''
 areas:
 - ta5

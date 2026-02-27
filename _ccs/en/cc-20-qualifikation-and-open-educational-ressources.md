@@ -9,10 +9,10 @@ start_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/CC/f/5/proposals/20
 type: n4o:Organization
 cochairs:
-- name: ''
-  person_ref: franziskaklemstein
-- name: ''
-  person_ref: gerdagrimm
+- name: 'Franziska Klemstein'
+  person_ref: 
+- name: 'Gerda Grimm'
+  person_ref: gerda-grimm
 areas:
 - ta6
 focus_areas: ''

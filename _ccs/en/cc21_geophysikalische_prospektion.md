@@ -9,8 +9,8 @@ start_date: ''
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: ''
-  person_ref: tillsonnemann
+- name: 'Till Sonnemann'
+  person_ref: till-sonnemann
 - name: ''
   person_ref: ''
 areas: []

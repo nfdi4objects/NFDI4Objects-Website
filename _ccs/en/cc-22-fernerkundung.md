@@ -9,10 +9,10 @@ start_date: ''
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: ''
-  person_ref: matthias_lang
-- name: ''
-  person_ref: irmelaherzog
+- name: 'Matthias Lang'
+  person_ref: matthias-lang
+- name: 'Irmela Herzog'
+  person_ref: irmela-herzog
 areas:
 - ta1
 focus_areas: ''

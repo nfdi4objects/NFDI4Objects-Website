@@ -9,10 +9,10 @@ start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.10512603
 type: n4o:Organization
 cochairs:
-- name: ''
-  person_ref: florian_thiery
-- name: ''
-  person_ref: lutzschubert
+- name: 'Florian Thiery'
+  person_ref: florian-thiery
+- name: 'Lutz Schubert'
+  person_ref: lutz-schubert
 areas:
 - ta1
 - ta2

@@ -9,10 +9,10 @@ start_date: ''
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: ''
-  person_ref: ulrich_himmelmann
-- name: ''
-  person_ref: frank_duehrkohp
+- name: 'Ulrich Himmelmann'
+  person_ref: ulrich-himmelmann
+- name: 'Frank Dührkohp'
+  person_ref: frank-dührkohp
 areas:
 - ta4
 - ta5

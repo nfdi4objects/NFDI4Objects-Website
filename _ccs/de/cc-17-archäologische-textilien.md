@@ -9,10 +9,10 @@ start_date: ''
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: ''
-  person_ref: petralinscheid
-- name: ''
-  person_ref: christinapeek
+- name: 'Petral Linscheid'
+  person_ref: petra-linscheid
+- name: 'Christina Peek'
+  person_ref: christina-peek
 areas:
 - ta4
 focus_areas: ''
