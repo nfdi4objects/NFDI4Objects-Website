@@ -11,9 +11,9 @@ type: n4o:Organization
 teaser_image: /assets/images/ccs/n4o_website_portal_cc_15_200px.png
 teaser_image_alt: ''
 cochairs:
-- name: ''
+- name: 'Florian Thiery'
   person_ref: person-florian_thiery
-- name: ''
+- name: 'Karsten Tolle'
   person_ref: person-karstentolle
 areas:
 - ta2
