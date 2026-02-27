@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta1
 focus_areas: ''
-permalink: /ccs/cc-cc22-fernerkundung/
+permalink: /ccs/cc-22-fernerkundung/
 ---
 
 ## Beschreibung

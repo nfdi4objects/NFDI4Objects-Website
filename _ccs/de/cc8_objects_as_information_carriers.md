@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta2
 focus_areas: ''
-permalink: /ccs/cc-cc8-objekte-als-inschriftenträger/
+permalink: /ccs/cc8_objects_as_information_carriers/
 ---
 
 ## Beschreibung

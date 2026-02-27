@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta2
 focus_areas: ''
-permalink: /ccs/cc-cc5-digitale-provenienzforschung/
+permalink: /ccs/cc5_provenance_research/
 ---
 
 ## Beschreibung

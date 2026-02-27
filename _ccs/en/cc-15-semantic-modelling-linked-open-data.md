@@ -19,7 +19,7 @@ areas:
 - ta2
 - ta6
 focus_areas: ''
-permalink: /ccs/cc-cc15-semantic-modelling-&-linked-open-data/
+permalink: /ccs/cc-15-semantic-modelling-linked-open-data/
 ---
 
 ## Description

@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta7
 focus_areas: ''
-permalink: /ccs/cc-40a54567-8a96-4b8a-adae-991210a4bb14-nfdi4objects-service-portfolio-development/
+permalink: /ccs/cc27_nfdi4objects_diensteportfolio_management/
 ---
 
 ## Description

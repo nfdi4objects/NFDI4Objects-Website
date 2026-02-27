@@ -23,7 +23,7 @@ areas:
 - ta4
 - ta5
 focus_areas: ''
-permalink: /ccs/cc-cc3-authority-files-and-community-driven-vocabularies/
+permalink: /ccs/cc3_authority_and_norm_data/
 ---
 
 ## Description

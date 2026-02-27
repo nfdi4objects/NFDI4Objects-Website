@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta7
 focus_areas: ''
-permalink: /ccs/cc-cc11-cultural-anthropology/
+permalink: /ccs/cc11_cultural_anthropology/
 ---
 
 ## Description

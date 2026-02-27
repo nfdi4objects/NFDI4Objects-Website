@@ -17,7 +17,7 @@ cochairs:
   person_ref: person-
 areas: []
 focus_areas: ''
-permalink: /ccs/cc-906b0e47-679d-4a1f-9b16-735965dc6498-geophysikalische-prospektion/
+permalink: /ccs/cc21_geophysikalische_prospektion/
 ---
 
 ## Beschreibung

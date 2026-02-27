@@ -19,7 +19,7 @@ areas:
 - ta1
 - ta5
 focus_areas: ''
-permalink: /ccs/cc-cc18-data-exchange-formats/
+permalink: /ccs/cc-18-data-exchange-formats/
 ---
 
 ## Description

@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta1
 focus_areas: ''
-permalink: /ccs/cc-cc16-3d-dokumentation/
+permalink: /ccs/cc-16-3d-dokumentation/
 ---
 
 ## Beschreibung

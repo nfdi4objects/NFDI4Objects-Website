@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta2
 focus_areas: ''
-permalink: /ccs/cc-cc5-provenance-research/
+permalink: /ccs/cc5_provenance_research/
 ---
 
 ## Description

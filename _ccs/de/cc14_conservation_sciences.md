@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta4
 focus_areas: ''
-permalink: /ccs/cc-cc14-konservierung-/-restaurierung/
+permalink: /ccs/cc14_conservation_sciences/
 ---
 
 ## Beschreibung

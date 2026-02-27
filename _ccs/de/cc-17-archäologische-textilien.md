@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta4
 focus_areas: ''
-permalink: /ccs/cc-cc17-archäologische-textilien/
+permalink: /ccs/cc-17-archäologische-textilien/
 ---
 
 ## Beschreibung

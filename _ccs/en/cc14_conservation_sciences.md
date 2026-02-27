@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta4
 focus_areas: ''
-permalink: /ccs/cc-cc14-conservation-sciences/
+permalink: /ccs/cc14_conservation_sciences/
 ---
 
 ## Description

@@ -22,7 +22,7 @@ areas:
 - ta3
 - ta5
 focus_areas: ''
-permalink: /ccs/cc-cc4-research-software-engineering-(rse)/
+permalink: /ccs/cc4_research_software_engineering/
 ---
 
 ## Description

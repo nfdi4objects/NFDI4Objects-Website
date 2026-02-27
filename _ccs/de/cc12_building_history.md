@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta1
 focus_areas: ''
-permalink: /ccs/cc-cc12-bauforschung-und-bauerhalt/
+permalink: /ccs/cc12_building_history/
 ---
 
 ## Beschreibung

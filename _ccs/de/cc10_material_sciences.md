@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta3
 focus_areas: ''
-permalink: /ccs/cc-cc10-materialwissenschaften/
+permalink: /ccs/cc10_material_sciences/
 ---
 
 ## Beschreibung

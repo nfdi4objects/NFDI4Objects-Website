@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta1
 focus_areas: ''
-permalink: /ccs/cc-cc24-legacy-data/
+permalink: /ccs/cc-24-digitale-altdaten/
 ---
 
 ## Description

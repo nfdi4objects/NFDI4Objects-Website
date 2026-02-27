@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta2
 focus_areas: ''
-permalink: /ccs/cc-cc6-digitales-sammlungsmanagement/
+permalink: /ccs/cc6_collection_management/
 ---
 
 ## Beschreibung

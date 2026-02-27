@@ -24,7 +24,7 @@ areas:
 - ta4
 - ta7
 focus_areas: ''
-permalink: /ccs/cc-cc2-data-capture-and-creation/
+permalink: /ccs/cc2_data_capture_and_creation/
 ---
 
 ## Description

@@ -18,7 +18,7 @@ cochairs:
 areas:
 - ta1
 focus_areas: ''
-permalink: /ccs/cc-cc23-on-site-documentation/
+permalink: /ccs/cc-23-grabungsdokumentation/
 ---
 
 ## Description

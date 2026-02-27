@@ -19,7 +19,7 @@ areas:
 - ta4
 - ta1
 focus_areas: ''
-permalink: /ccs/cc-cc26-protected-heritage-sites/
+permalink: /ccs/cc-26-denkmalflächen-maßnahmenflächen-schutzflächen/
 ---
 
 ## Description

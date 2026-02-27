@@ -19,7 +19,7 @@ cochairs:
 areas:
 - ta7
 focus_areas: ''
-permalink: /ccs/cc-cc11-empirische-kulturwissenschaft,-europäische-ethnologie,-kulturanthropologie-und-volkskunde/
+permalink: /ccs/cc11_cultural_anthropology/
 ---
 
 ## Beschreibung
