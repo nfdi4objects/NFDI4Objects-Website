@@ -16,11 +16,10 @@ permalink: /about/people/members/
 
 {% include page-header.html
      title="Hauptantragssteller"
-     text="Der Hauptantragssteller von NFDI4Objects"
      align="left"
 %}
 
-{% assign institutions = site.data.en.institutions | where: "type", "mainapplicant" %}
+{% assign institutions = site.data.institutions | where: "type", "mainapplicant" %}
 
 <section class="institutions-grid">
 {% for inst in institutions %}
@@ -72,11 +71,10 @@ permalink: /about/people/members/
 
 {% include page-header.html
      title="Mitantragssteller"
-     text="Die Mitantragssteller von NFDI4Objects"
      align="left"
 %}
 
-{% assign institutions = site.data.en.institutions | where: "type", "coapplicant" %}
+{% assign institutions = site.data.institutions | where: "type", "coapplicant" %}
 
 <section class="institutions-grid">
 {% for inst in institutions %}
