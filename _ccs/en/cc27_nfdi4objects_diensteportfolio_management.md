@@ -9,10 +9,10 @@ start_date: ''
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: ''
-  person_ref: fabianfricke
-- name: ''
-  person_ref: ''
+- name: 'Benjamin Höcke'
+  person_ref: 'benjamin-höke'
+- name: 'Fabian Fricke'
+  person_ref: 'fabian-fricke'
 areas:
 - ta7
 focus_areas: ''
