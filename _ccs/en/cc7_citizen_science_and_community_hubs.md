@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-cc7-public-archaeology
+translation_key: cc7_citizen_science_and_community_hubs
 title: Public Archaeology
 identifier: CC7
 status: active
 start_date: ''
 proposal_url: ''
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_7_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-ulrich_himmelmann
+  person_ref: ulrich_himmelmann
 - name: ''
-  person_ref: person-frank_duehrkohp
+  person_ref: frank_duehrkohp
 areas:
 - ta4
 - ta6

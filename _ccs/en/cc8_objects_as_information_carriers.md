@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-cc8-objects-as-information-carriers
+translation_key: cc8_objects_as_information_carriers
 title: Objects as information carriers
 identifier: CC8
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.10684584
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_8_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-elisaroßberger
+  person_ref: elisaroßberger
 - name: ''
-  person_ref: person-bernhard_weisser
+  person_ref: bernhard_weisser
 areas:
 - ta2
 focus_areas: ''

@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-cc20-qualification-and-open-educational-ressources
+translation_key: cc-20-qualifikation-and-open-educational-ressources
 title: Qualification and Open Educational Ressources
 identifier: CC20
 status: active
 start_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/CC/f/5/proposals/20
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_20_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-franziskaklemstein
+  person_ref: franziskaklemstein
 - name: ''
-  person_ref: person-gerdagrimm
+  person_ref: gerdagrimm
 areas:
 - ta6
 focus_areas: ''

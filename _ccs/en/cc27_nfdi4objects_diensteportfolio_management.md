@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-40a54567-8a96-4b8a-adae-991210a4bb14-nfdi4objects-service-portfolio-development
+translation_key: cc27_nfdi4objects_diensteportfolio_management
 title: NFDI4Objects Service Portfolio Development
 identifier: 40A54567-8A96-4B8A-ADAE-991210A4BB14
 status: active
 start_date: ''
 proposal_url: ''
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_27_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-fabianfricke
+  person_ref: fabianfricke
 - name: ''
-  person_ref: person-
+  person_ref: ''
 areas:
 - ta7
 focus_areas: ''

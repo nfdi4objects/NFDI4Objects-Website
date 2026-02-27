@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-cc17-archaeological-textiles
+translation_key: cc-17-archäologische-textilien
 title: Archaeological textiles
 identifier: CC17
 status: active
 start_date: ''
 proposal_url: ''
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_17_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-petralinscheid
+  person_ref: petralinscheid
 - name: ''
-  person_ref: person-christinapeek
+  person_ref: christinapeek
 areas:
 - ta4
 focus_areas: ''

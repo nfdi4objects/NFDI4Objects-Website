@@ -15,7 +15,7 @@ cards:
     icon: /assets/icons/portal/Community-Cluster.svg
     url: /en/community/groups-networks/community-clusters/
     description: Discussion forums on different areas of research data management
-  - title: TRAILS
+  - title: TRAILs
     icon: /assets/icons/portal/Trails.svg
     url: /en/community/groups-networks/trails/
     description: Research-driven pilot projects developing technical solutions, standards and tools for research data management

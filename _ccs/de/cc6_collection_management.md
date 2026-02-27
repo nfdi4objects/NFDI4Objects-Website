@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: de
-translation_key: cc-cc6-digitales-sammlungsmanagement
+translation_key: cc6_collection_management
 title: Digitales Sammlungsmanagement
 identifier: CC6
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.10998703
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_6_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-frankvon-hagel
+  person_ref: frankvon-hagel
 - name: ''
-  person_ref: person-martinstricker
+  person_ref: martinstricker
 areas:
 - ta2
 focus_areas: ''

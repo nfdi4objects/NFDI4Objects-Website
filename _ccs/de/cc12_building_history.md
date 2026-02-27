@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: de
-translation_key: cc-cc12-bauforschung-und-bauerhalt
+translation_key: cc12_building_history
 title: Bauforschung und Bauerhalt
 identifier: CC12
 status: active
 start_date: ''
 proposal_url: ''
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_12_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-tobiasarera-rütenik
+  person_ref: tobiasarera-rütenik
 - name: ''
-  person_ref: person-nadinemarcinczik
+  person_ref: nadinemarcinczik
 areas:
 - ta1
 focus_areas: ''

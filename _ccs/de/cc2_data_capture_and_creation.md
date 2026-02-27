@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: de
-translation_key: cc-cc2-data-capture-and-creation
+translation_key: cc2_data_capture_and_creation
 title: Data Capture and Creation
 identifier: CC2
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.11655935
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_2_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-frank_duehrkohp
+  person_ref: frank_duehrkohp
 - name: ''
-  person_ref: person-anjagerber
+  person_ref: anjagerber
 areas:
 - ta1
 - ta2

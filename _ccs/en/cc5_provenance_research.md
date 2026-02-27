@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-cc5-provenance-research
+translation_key: cc5_provenance_research
 title: Provenance Research
 identifier: CC5
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.10653945
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_5_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-petrawinter
+  person_ref: petrawinter
 - name: ''
-  person_ref: person-meikehopp
+  person_ref: meikehopp
 areas:
 - ta2
 focus_areas: ''

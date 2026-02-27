@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: de
-translation_key: cc-cc4-research-software-engineering-(rse)
+translation_key: cc4_research_software_engineering
 title: Research Software Engineering (RSE)
 identifier: CC4
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.10512603
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_4_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-florian_thiery
+  person_ref: florian_thiery
 - name: ''
-  person_ref: person-lutzschubert
+  person_ref: lutzschubert
 areas:
 - ta2
 - ta1

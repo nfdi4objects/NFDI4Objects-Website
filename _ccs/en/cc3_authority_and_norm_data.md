@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-cc3-authority-files-and-community-driven-vocabularies
+translation_key: cc3_authority_and_norm_data
 title: Authority Files and Community-driven Vocabularies
 identifier: CC3
 status: active
 start_date: ''
 proposal_url: https://zenodo.org/records/14872038
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_3_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-anjagerber
+  person_ref: anjagerber
 - name: ''
-  person_ref: person-michaelmarkert
+  person_ref: michaelmarkert
 areas:
 - ta6
 - ta1

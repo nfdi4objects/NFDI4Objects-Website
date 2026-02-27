@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: de
-translation_key: cc-cc1-knowledge-modelling-and-interoperability
+translation_key: cc1_knowledge_modeling_and_interoperability
 title: Knowledge Modelling and Interoperability
 identifier: CC1
 status: active
 start_date: ''
 proposal_url: Proposal
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_1_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-
+  person_ref: ''
 - name: ''
-  person_ref: person-
+  person_ref: ''
 areas:
 - ta2
 focus_areas: ''

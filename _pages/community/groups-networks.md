@@ -11,11 +11,11 @@ cards:
     icon: /assets/icons/portal/Temporary-Working-Groups.svg
     url: /community/groups-networks/twgs/
     description: Arbeitsgruppen zu  konkreten Fragestellungen aus dem Forschungsdatenmanagement
-  - title: Community cluster
+  - title: Community Cluster
     icon: /assets/icons/portal/Community-Cluster.svg
     url: /community/groups-networks/community-clusters/
     description: Diskussionsforen zu unterschiedlichen Themenbereichen des Forschungsdatenmanagements.
-  - title: TRAILS
+  - title: TRAILs
     icon: /assets/icons/portal/Trails.svg
     url: /community/groups-networks/trails/
     description: Forschungsgetriebene Pilotprojekte für technische Lösungen, Standards und Werkzeuge im Forschungsdatenmanagement

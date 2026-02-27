@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: de
-translation_key: cc-cc26-denkmal-,-maßnahmen--und-schutzflächen
+translation_key: cc-26-denkmalflächen-maßnahmenflächen-schutzflächen
 title: Denkmal-, Maßnahmen- und Schutzflächen
 identifier: CC26
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.14887612
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_26_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-ulrich_himmelmann
+  person_ref: ulrich_himmelmann
 - name: ''
-  person_ref: person-christianbollacher
+  person_ref: christianbollacher
 areas:
 - ta4
 - ta1

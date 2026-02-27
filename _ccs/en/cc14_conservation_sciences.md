@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-cc14-conservation-sciences
+translation_key: cc14_conservation_sciences
 title: Conservation Sciences
 identifier: CC14
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.11370864
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_14_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-kristinafella
+  person_ref: kristinafella
 - name: ''
-  person_ref: person-nathalywitt
+  person_ref: nathalywitt
 areas:
 - ta4
 focus_areas: ''

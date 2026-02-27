@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: de
-translation_key: cc-cc25-experimentelle-archäologie
+translation_key: cc-25-experimentelle-archäologie
 title: Experimentelle Archäologie
 identifier: CC25
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.12077718
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_25_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-ivancalandra
+  person_ref: ivancalandra
 - name: ''
-  person_ref: person-susannegreiff
+  person_ref: susannegreiff
 areas:
 - ta3
 - ta6

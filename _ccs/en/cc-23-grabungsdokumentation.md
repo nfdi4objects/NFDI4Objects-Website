@@ -1,20 +1,20 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-cc23-on-site-documentation
+translation_key: cc-23-grabungsdokumentation
 title: On-site Documentation
 identifier: CC23
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.11550132
 type: n4o:Organization
-teaser_image: /assets/images/ccs/n4o_website_portal_cc_23_200px.png
+teaser_image: ''
 teaser_image_alt: ''
 cochairs:
 - name: ''
-  person_ref: person-benjaminhöke
+  person_ref: benjaminhöke
 - name: ''
-  person_ref: person-florian-janoschakreppner
+  person_ref: florian-janoschakreppner
 areas:
 - ta1
 focus_areas: ''
