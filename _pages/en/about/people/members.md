@@ -5,13 +5,13 @@ description: ""
 keywords: ""
 lang: de
 translation_key: consortium_members
-permalink: /about/people/members/
+permalink: /en/about/people/members/
 ---
 
 {% include page-header.html
        icon="/assets/icons/portal/Konsortialmitglieder.svg"
-       title="Konsortialmitglieder"
-       subtitle="NFDI4Objects als Konsortium der Nationalen Forschungsdateninfrastruktur (NFDI). Durchsuchen Sie die Liste der Einrichtungen, die Mitglied sind oder die Arbeit unterstützen."
+       title="Consortium"
+       subtitle="NFDI4Objects is a consortium of leading research institutions, museums, and archives in the field of material culture and object research."
  %}
 
 {% assign institutions = site.data.de.institutions | where_exp: "item", "item.type == 'coapplicant' or item.type == 'mainapplicant'" %}
