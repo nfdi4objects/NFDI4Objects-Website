@@ -14,10 +14,178 @@ permalink: /en/about/people/members/
 {% include page-header.html
      title="Main Applicant"
      class="focus-white"
-     subtitle="The Main Applicant NFDI4Objects"
+     subtitle="The Main Applicant of NFDI4Objects"
 %}
 
 {% assign institutions = site.data.en.institutions | where: "type", "mainapplicant" %}
+
+<section class="institutions-grid">
+{% for inst in institutions %}
+  <div class="institution-card">
+    {% if inst.logo %}
+    <div class="institution-card__logo">
+      <img src="{{ inst.logo | relative_url }}" alt="{{ inst.name }} Logo" loading="lazy">
+    </div>
+    {% endif %}
+
+    <div class="institution-card__content">
+      <h3 class="institution-card__name">
+        {% if inst.url %}
+        <a href="{{ inst.url }}" target="_blank" rel="noopener">{{ inst.name }}</a>
+        {% else %}
+        {{ inst.name }}
+        {% endif %}
+      </h3>
+
+      {% if inst.short %}
+      <p class="institution-card__short">{{ inst.short }}</p>
+      {% endif %}
+
+      {% if inst.city %}
+      <p class="institution-card__location">
+        <i class="fas fa-location-pin"></i> {{ inst.city }}
+      </p>
+      {% endif %}
+    </div>
+
+    {% comment %} Personen dieser Institution anzeigen {% endcomment %}
+    {% assign inst_persons = site.persons | where: "lang", "de" | where: "institution", inst.id %}
+    {% if inst_persons.size > 0 %}
+    <div class="institution-card__persons">
+      <h4>Mitarbeitende:</h4>
+      <ul>
+        {% for person in inst_persons limit: 5 %}
+        <li><a href="{{ person.url | relative_url }}">{{ person.title }}</a></li>
+        {% endfor %}
+        {% if inst_persons.size > 5 %}
+        <li><em>{{ inst_persons.size | minus: 5 }} weitere...</em></li>
+        {% endif %}
+      </ul>
+    </div>
+    {% endif %}
+  </div>
+{% endfor %}
+</section>
+
+{% include page-header.html
+     title="Co-Applicants"
+     class="focus-white"
+     subtitle="The Co-Applicants of NFDI4Objects"
+%}
+
+{% assign institutions = site.data.en.institutions | where: "type", "coapplicant" %}
+
+<section class="institutions-grid">
+{% for inst in institutions %}
+  <div class="institution-card">
+    {% if inst.logo %}
+    <div class="institution-card__logo">
+      <img src="{{ inst.logo | relative_url }}" alt="{{ inst.name }} Logo" loading="lazy">
+    </div>
+    {% endif %}
+
+    <div class="institution-card__content">
+      <h3 class="institution-card__name">
+        {% if inst.url %}
+        <a href="{{ inst.url }}" target="_blank" rel="noopener">{{ inst.name }}</a>
+        {% else %}
+        {{ inst.name }}
+        {% endif %}
+      </h3>
+
+      {% if inst.short %}
+      <p class="institution-card__short">{{ inst.short }}</p>
+      {% endif %}
+
+      {% if inst.city %}
+      <p class="institution-card__location">
+        <i class="fas fa-location-pin"></i> {{ inst.city }}
+      </p>
+      {% endif %}
+    </div>
+
+    {% comment %} Personen dieser Institution anzeigen {% endcomment %}
+    {% assign inst_persons = site.persons | where: "lang", "de" | where: "institution", inst.id %}
+    {% if inst_persons.size > 0 %}
+    <div class="institution-card__persons">
+      <h4>Mitarbeitende:</h4>
+      <ul>
+        {% for person in inst_persons limit: 5 %}
+        <li><a href="{{ person.url | relative_url }}">{{ person.title }}</a></li>
+        {% endfor %}
+        {% if inst_persons.size > 5 %}
+        <li><em>{{ inst_persons.size | minus: 5 }} weitere...</em></li>
+        {% endif %}
+      </ul>
+    </div>
+    {% endif %}
+  </div>
+{% endfor %}
+</section>
+
+{% include page-header.html
+     title="Participants"
+     class="focus-white"
+     subtitle="The Participants of NFDI4Objects"
+%}
+
+{% assign institutions = site.data.en.institutions | where: "type", "participant" %}
+
+<section class="institutions-grid">
+{% for inst in institutions %}
+  <div class="institution-card">
+    {% if inst.logo %}
+    <div class="institution-card__logo">
+      <img src="{{ inst.logo | relative_url }}" alt="{{ inst.name }} Logo" loading="lazy">
+    </div>
+    {% endif %}
+
+    <div class="institution-card__content">
+      <h3 class="institution-card__name">
+        {% if inst.url %}
+        <a href="{{ inst.url }}" target="_blank" rel="noopener">{{ inst.name }}</a>
+        {% else %}
+        {{ inst.name }}
+        {% endif %}
+      </h3>
+
+      {% if inst.short %}
+      <p class="institution-card__short">{{ inst.short }}</p>
+      {% endif %}
+
+      {% if inst.city %}
+      <p class="institution-card__location">
+        <i class="fas fa-location-pin"></i> {{ inst.city }}
+      </p>
+      {% endif %}
+    </div>
+
+    {% comment %} Personen dieser Institution anzeigen {% endcomment %}
+    {% assign inst_persons = site.persons | where: "lang", "de" | where: "institution", inst.id %}
+    {% if inst_persons.size > 0 %}
+    <div class="institution-card__persons">
+      <h4>Mitarbeitende:</h4>
+      <ul>
+        {% for person in inst_persons limit: 5 %}
+        <li><a href="{{ person.url | relative_url }}">{{ person.title }}</a></li>
+        {% endfor %}
+        {% if inst_persons.size > 5 %}
+        <li><em>{{ inst_persons.size | minus: 5 }} weitere...</em></li>
+        {% endif %}
+      </ul>
+    </div>
+    {% endif %}
+  </div>
+{% endfor %}
+</section>
+
+{% include page-header.html
+     title="Supporter"
+     class="focus-white"
+     subtitle="The Supporters of NFDI4Objects"
+%}
+
+{% assign institutions = site.data.en.institutions | where: "type", "supporter" %}
 
 <section class="institutions-grid">
 {% for inst in institutions %}

@@ -132,7 +132,7 @@ permalink: /about/people/members/
      subtitle="Die Participants von NFDI4Objects"
 %}
 
-{% assign institutions = site.data.de.institutions | where: "type", "participants" %}
+{% assign institutions = site.data.de.institutions | where: "type", "participant" %}
 
 <section class="institutions-grid">
 {% for inst in institutions %}
