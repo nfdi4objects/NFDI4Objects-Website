@@ -3,7 +3,7 @@ layout: cc
 lang: en
 translation_key: cc8_objects_as_information_carriers
 title: Objects as information carriers
-identifier: CC8
+identifier: CC08
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.10684584

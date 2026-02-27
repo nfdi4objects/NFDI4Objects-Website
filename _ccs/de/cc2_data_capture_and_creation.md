@@ -3,7 +3,7 @@ layout: cc
 lang: de
 translation_key: cc2_data_capture_and_creation
 title: Data Capture and Creation
-identifier: CC2
+identifier: CC02
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.11655935

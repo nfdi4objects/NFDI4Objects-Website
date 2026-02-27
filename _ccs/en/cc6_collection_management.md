@@ -3,7 +3,7 @@ layout: cc
 lang: en
 translation_key: cc6_collection_management
 title: Collection Management
-identifier: CC6
+identifier: CC06
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.10998703

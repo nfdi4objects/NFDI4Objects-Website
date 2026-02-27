@@ -3,7 +3,7 @@ layout: cc
 lang: de
 translation_key: cc8_objects_as_information_carriers
 title: Objekte als Inschriftenträger
-identifier: CC8
+identifier: CC08
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.10684584

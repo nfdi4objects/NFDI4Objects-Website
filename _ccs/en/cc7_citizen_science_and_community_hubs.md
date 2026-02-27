@@ -3,7 +3,7 @@ layout: cc
 lang: en
 translation_key: cc7_citizen_science_and_community_hubs
 title: Public Archaeology
-identifier: CC7
+identifier: CC07
 status: active
 start_date: ''
 proposal_url: ''

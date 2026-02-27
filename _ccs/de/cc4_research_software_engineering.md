@@ -3,7 +3,7 @@ layout: cc
 lang: de
 translation_key: cc4_research_software_engineering
 title: Research Software Engineering (RSE)
-identifier: CC4
+identifier: CC04
 status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.10512603

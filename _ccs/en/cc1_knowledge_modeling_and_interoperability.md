@@ -3,7 +3,7 @@ layout: cc
 lang: en
 translation_key: cc1_knowledge_modeling_and_interoperability
 title: Knowledge Modelling and Interoperability
-identifier: CC1
+identifier: CC01
 status: active
 start_date: ''
 proposal_url: ''
