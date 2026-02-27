@@ -16,6 +16,8 @@ permalink: /about/people/members/
 
 {% include page-header.html
      title="Hauptantragssteller"
+     class="focus-white"
+     subtitle="Der Hauptantragssteller von NFDI4Objects"
 %}
 
 {% assign institutions = site.data.institutions | where: "type", "mainapplicant" %}
@@ -70,6 +72,8 @@ permalink: /about/people/members/
 
 {% include page-header.html
      title="Mitantragssteller"
+     class="focus-white"
+     subtitle="Die Mitantragssteller von NFDI4Objects"
 %}
 
 {% assign institutions = site.data.institutions | where: "type", "coapplicant" %}
