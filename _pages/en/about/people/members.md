@@ -11,7 +11,13 @@ permalink: /en/about/people/members/
        subtitle="NFDI4Objects is a consortium of leading research institutions, museums, and archives in the field of material culture and object research."
  %}
 
-{% assign institutions = site.data.de.institutions | where_exp: "item", "item.type == 'coapplicant' or item.type == 'mainapplicant'" %}
+{% include page-header.html
+     title="Main Applicant"
+     class="focus-white"
+     subtitle="The Main Applicant NFDI4Objects"
+%}
+
+{% assign institutions = site.data.en.institutions | where: "type", "mainapplicant" %}
 
 <section class="institutions-grid">
 {% for inst in institutions %}
