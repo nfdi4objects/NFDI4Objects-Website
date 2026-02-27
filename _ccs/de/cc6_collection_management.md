@@ -10,7 +10,7 @@ proposal_url: https://doi.org/10.5281/zenodo.10998703
 type: n4o:Organization
 cochairs:
 - name: 'Frank von Hagel'
-  person_ref: frank-von%20hagel
+  person_ref: frank-von-hagel
 - name: 'Martin Stricker'
   person_ref: martin-stricker
 areas:

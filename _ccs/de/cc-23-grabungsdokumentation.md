@@ -12,7 +12,7 @@ cochairs:
 - name: 'Benajmin Höke'
   person_ref: benjamin-höke
 - name: 'Florian Janoscha Kreppner'
-  person_ref: florian%20janoscha-kreppner
+  person_ref: florian-janoscha-kreppner
 areas:
 - ta1
 focus_areas: ''
