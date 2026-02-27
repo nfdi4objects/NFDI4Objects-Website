@@ -16,7 +16,7 @@ cochairs:
 areas:
 - ta1
 focus_areas: ''
-permalink: /ccs/cc12_building_history/
+permalink: /en/ccs/cc12_building_history/
 ---
 
 ## Description

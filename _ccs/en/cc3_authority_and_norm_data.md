@@ -21,7 +21,7 @@ areas:
 - ta5
 - ta6
 focus_areas: ''
-permalink: /ccs/cc3_authority_and_norm_data/
+permalink: /en/ccs/cc3_authority_and_norm_data/
 ---
 
 ## Description

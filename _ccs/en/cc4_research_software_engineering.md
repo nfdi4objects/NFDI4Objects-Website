@@ -20,7 +20,7 @@ areas:
 - ta4
 - ta5
 focus_areas: ''
-permalink: /ccs/cc4_research_software_engineering/
+permalink: /en/ccs/cc4_research_software_engineering/
 ---
 
 ## Description

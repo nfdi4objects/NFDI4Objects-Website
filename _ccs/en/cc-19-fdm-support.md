@@ -17,7 +17,7 @@ areas:
 - ta5
 - ta6
 focus_areas: ''
-permalink: /ccs/cc-19-fdm-support/
+permalink: /en/ccs/cc-19-fdm-support/
 ---
 
 ## Description

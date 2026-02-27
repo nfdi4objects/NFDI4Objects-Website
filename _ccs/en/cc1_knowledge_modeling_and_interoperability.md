@@ -16,7 +16,7 @@ cochairs:
 areas:
 - ta2
 focus_areas: ''
-permalink: /ccs/cc1_knowledge_modeling_and_interoperability/
+permalink: /en/ccs/cc1_knowledge_modeling_and_interoperability/
 ---
 
 ## Description

@@ -16,7 +16,7 @@ cochairs:
 areas:
 - ta2
 focus_areas: ''
-permalink: /ccs/cc8_objects_as_information_carriers/
+permalink: /en/ccs/cc8_objects_as_information_carriers/
 ---
 
 ## Description

@@ -22,7 +22,7 @@ areas:
 - ta6
 - ta7
 focus_areas: ''
-permalink: /ccs/cc27_nfdi4objects_diensteportfolio_management/
+permalink: /en/ccs/cc27_nfdi4objects_diensteportfolio_management/
 ---
 
 ## Description

@@ -2,7 +2,7 @@
 layout: person
 title: Frank von Hagel
 lang: en
-translation_key: frank-von hagel
+translation_key: frank-von-hagel
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
 - participant

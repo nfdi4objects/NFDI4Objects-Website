@@ -2,7 +2,7 @@
 layout: person
 title: Florian Janoscha Kreppner
 lang: de
-translation_key: florian janoscha-kreppner
+translation_key: florian-janoscha-kreppner
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
 - participant

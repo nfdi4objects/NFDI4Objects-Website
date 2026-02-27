@@ -16,7 +16,7 @@ cochairs:
 areas:
 - ta3
 focus_areas: ''
-permalink: /ccs/cc9_biosciences/
+permalink: /en/ccs/cc9_biosciences/
 ---
 
 ## Description
