@@ -1,0 +1,43 @@
+---
+layout: cc
+lang: de
+translation_key: cc-cc4-research-software-engineering-(rse)
+title: Research Software Engineering (RSE)
+identifier: CC4
+status: active
+start_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.10512603
+type: n4o:Organization
+teaser_image: /assets/images/ccs/n4o_website_portal_cc_4_200px.png
+teaser_image_alt: ''
+cochairs:
+- name: ''
+  person_ref: person-florian_thiery
+- name: ''
+  person_ref: person-lutzschubert
+areas:
+- ta2
+- ta1
+- ta4
+- ta3
+- ta5
+focus_areas: ''
+permalink: /ccs/cc-cc4-research-software-engineering-(rse)/
+---
+
+## Beschreibung
+
+-----
+
+
+{: .note-title }
+> **Kontakt und Informationen**
+>
+> [Rocketchat](https://n4o-chat.nfdi.de/channel/CC_ResearchSoftwareEngineering)
+
+
+-----
+
+Das übergreifende Ziel dieses Clusters ist der interdisziplinäre Austausch im Bereich der Entwicklung nachhaltiger Forschungssoftware, welche selbst und die mit ihr produzierten Forschungsdaten FAIRedelt (FAIR und FAIR4RS), nachhaltig verfügbar sowie möglichst umfangreich nachnutzbar macht. Unter Forschungssoftware versteht das Cluster dabei Software und Tools, die in der Forschung eingesetzt werden, um Forschungsdaten zu erzeugen, zu verarbeiten, zu analysieren, zu verknüpfen oder zu präsentieren. Dies schließt statistische Analysen z.B. mit R und Python oder die Visualisierung von Geo- oder 3D-Daten in Webplattformen ein. 
+
+Das CC beschäftigt sich u.A. mit folgenden Themengebieten: Research Software Engineering, Entwicklung und Weiterentwicklung nachhaltiger FAIRification Tools sowie RSE in Forschung und Lehre.
