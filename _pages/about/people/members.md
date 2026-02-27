@@ -16,7 +16,6 @@ permalink: /about/people/members/
 
 {% include page-header.html
      title="Hauptantragssteller"
-     align="left"
 %}
 
 {% assign institutions = site.data.institutions | where: "type", "mainapplicant" %}
@@ -71,7 +70,6 @@ permalink: /about/people/members/
 
 {% include page-header.html
      title="Mitantragssteller"
-     align="left"
 %}
 
 {% assign institutions = site.data.institutions | where: "type", "coapplicant" %}
