@@ -20,7 +20,7 @@ permalink: /about/people/members/
      align="left"
 %}
 
-{% assign institutions = site.data.de.institutions | where_exp: "item", item.type == 'mainapplicant'" %}
+{% assign institutions = site.data.en.institutions | where: "type", "mainapplicant" %}
 
 <section class="institutions-grid">
 {% for inst in institutions %}
@@ -76,7 +76,7 @@ permalink: /about/people/members/
      align="left"
 %}
 
-{% assign institutions = site.data.de.institutions | where_exp: "item", item.type == 'coapplicant'" %}
+{% assign institutions = site.data.en.institutions | where: "type", "coapplicant" %}
 
 <section class="institutions-grid">
 {% for inst in institutions %}
