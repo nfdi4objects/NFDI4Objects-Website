@@ -13,7 +13,7 @@ permalink: /en/about/people/members/
 
 {% assign institutions = site.data.de.institutions | where_exp: "item", "item.type == 'coapplicant' or item.type == 'participant' or item.type == 'mainapplicant'" %}
 
-<div class="institutions-grid">
+<section class="institutions-grid">
 {% for inst in institutions %}
   <div class="institution-card">
     {% if inst.logo %}
@@ -42,24 +42,24 @@ permalink: /en/about/people/members/
       {% endif %}
     </div>
 
-    {% comment %} Show persons from this institution {% endcomment %}
-    {% assign inst_persons = site.persons | where: "lang", "en" | where: "institution", inst.id %}
+    {% comment %} Personen dieser Institution anzeigen {% endcomment %}
+    {% assign inst_persons = site.persons | where: "lang", "de" | where: "institution", inst.id %}
     {% if inst_persons.size > 0 %}
     <div class="institution-card__persons">
-      <h4>Staff:</h4>
+      <h4>Mitarbeitende:</h4>
       <ul>
         {% for person in inst_persons limit: 5 %}
         <li><a href="{{ person.url | relative_url }}">{{ person.title }}</a></li>
         {% endfor %}
         {% if inst_persons.size > 5 %}
-        <li><em>{{ inst_persons.size | minus: 5 }} more...</em></li>
+        <li><em>{{ inst_persons.size | minus: 5 }} weitere...</em></li>
         {% endif %}
       </ul>
     </div>
     {% endif %}
   </div>
 {% endfor %}
-</div>
+</section>
 
 <div class="metadata-download">
   <a class="metadata-link btn btn-primary" href="/about/people/members/index.ttl" download="consortium-members.ttl">
