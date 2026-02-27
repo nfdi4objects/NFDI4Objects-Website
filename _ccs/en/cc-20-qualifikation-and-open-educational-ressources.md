@@ -8,8 +8,6 @@ status: active
 start_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/CC/f/5/proposals/20
 type: n4o:Organization
-teaser_image: ''
-teaser_image_alt: ''
 cochairs:
 - name: ''
   person_ref: franziskaklemstein

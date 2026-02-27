@@ -8,8 +8,6 @@ status: active
 start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.10684584
 type: n4o:Organization
-teaser_image: ''
-teaser_image_alt: ''
 cochairs:
 - name: ''
   person_ref: elisaroßberger

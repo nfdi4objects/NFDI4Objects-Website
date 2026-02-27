@@ -9,8 +9,6 @@ status: active
 start_date: ''
 proposal_url: ''
 type: n4o:Organization
-teaser_image: ''
-teaser_image_alt: ''
 cochairs:
 - name: ''
   person_ref: ''

@@ -8,8 +8,6 @@ status: active
 start_date: ''
 proposal_url: https://zenodo.org/records/14872038
 type: n4o:Organization
-teaser_image: ''
-teaser_image_alt: ''
 cochairs:
 - name: ''
   person_ref: anjagerber
