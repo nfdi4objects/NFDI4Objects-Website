@@ -132,7 +132,7 @@ Unterstützte Collections:
     {% include proposal-button.html url=page.proposal_url lang=current_lang %}
   {%- endif -%}
 
-  {% include coordinators-list.html coordinators=page.coordinators %}
+  {% include coordinators-list.html coordinators=page.cochairs title="Co-Chairs" title_en="Co-Chairs" %}
   {% include related-areas.html areas=page.areas %}
   {% include related-institutions.html institutions=page.institutions %}
   {% include ttl-download-button.html %}
@@ -411,3 +411,4 @@ Unterstützte Collections:
   {% include ttl-download-button.html %}
 
 {%- endif -%}
+
