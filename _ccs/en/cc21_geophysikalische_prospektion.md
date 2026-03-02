@@ -9,13 +9,13 @@ start_date: ''
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: 'Till Sonnemann'
-  person_ref: till-sonnemann
+- name: ''
+  person_ref: tillsonnemann
 - name: ''
   person_ref: ''
 areas: []
 focus_areas: ''
-permalink: /en/ccs/cc21_geophysikalische_prospektion/
+permalink: /ccs/cc21_geophysikalische_prospektion/
 ---
 
 ## Description

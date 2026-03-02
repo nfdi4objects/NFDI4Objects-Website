@@ -1,0 +1,11 @@
+---
+layout: person
+title: Cäcilia Fluck
+lang: en
+translation_key: cäciliafluck
+image: /assets/images/persons/n4o_website_person_grey.png
+groups:
+- mitarbeitende
+institution: stiftung-preußischer-kulturbesitz
+orcid: ''
+---

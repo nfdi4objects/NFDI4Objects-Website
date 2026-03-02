@@ -6,6 +6,6 @@ translation_key: tahani-nadim
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
 - participant
-institution: college-for-social-sciences-and-humanities-der-university-alliance-ruhr
+institution: ruhr-universität-bochum
 orcid: 0000-0002-2515-7747
 ---

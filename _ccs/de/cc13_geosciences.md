@@ -4,7 +4,7 @@ lang: de
 translation_key: cc13_geosciences
 title: Geoarchäologie / Geowissenschaften
 identifier: CC13
-status: active
+status: planned
 start_date: ''
 proposal_url: ''
 type: n4o:Organization

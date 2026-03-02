@@ -4,7 +4,7 @@ lang: de
 translation_key: cc10_material_sciences
 title: Materialwissenschaften
 identifier: CC10
-status: active
+status: planned
 start_date: ''
 proposal_url: ''
 type: n4o:Organization

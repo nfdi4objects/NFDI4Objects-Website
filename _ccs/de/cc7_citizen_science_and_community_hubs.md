@@ -9,14 +9,14 @@ start_date: ''
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: 'Ulrich Himmelmann'
-  person_ref: ulrich-himmelmann
-- name: 'Frank Dührkohp'
-  person_ref: frank-dührkohp
+- name: ''
+  person_ref: ulrich_himmelmann
+- name: ''
+  person_ref: frank_duehrkohp
 areas:
 - ta4
-- ta5
 - ta6
+- ta5
 focus_areas: ''
 permalink: /ccs/cc7_citizen_science_and_community_hubs/
 ---

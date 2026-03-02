@@ -4,7 +4,7 @@ lang: de
 translation_key: cc9_biosciences
 title: Biowissenschaften
 identifier: CC09
-status: active
+status: planned
 start_date: ''
 proposal_url: ''
 type: n4o:Organization

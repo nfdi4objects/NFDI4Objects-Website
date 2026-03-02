@@ -9,10 +9,10 @@ start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.12077718
 type: n4o:Organization
 cochairs:
-- name: 'Ivan Calandra'
-  person_ref: ivan-calandra
-- name: 'Susanne Greiff'
-  person_ref: susanne-greiff
+- name: ''
+  person_ref: ivancalandra
+- name: ''
+  person_ref: susannegreiff
 areas:
 - ta3
 - ta6

@@ -9,14 +9,14 @@ start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.10998703
 type: n4o:Organization
 cochairs:
-- name: 'Frank von Hagel'
-  person_ref: frank-von-hagel
-- name: 'Martin Stricker'
-  person_ref: martin-stricker
+- name: ''
+  person_ref: frankvon-hagel
+- name: ''
+  person_ref: martinstricker
 areas:
 - ta2
 focus_areas: ''
-permalink: /en/ccs/cc6_collection_management/
+permalink: /ccs/cc6_collection_management/
 ---
 
 ## Description

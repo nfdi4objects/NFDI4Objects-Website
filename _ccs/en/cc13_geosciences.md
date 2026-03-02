@@ -4,7 +4,7 @@ lang: en
 translation_key: cc13_geosciences
 title: Geosciences
 identifier: CC13
-status: active
+status: planned
 start_date: ''
 proposal_url: ''
 type: n4o:Organization
@@ -17,7 +17,7 @@ areas:
 - ta1
 - ta3
 focus_areas: ''
-permalink: /en/ccs/cc13_geosciences/
+permalink: /ccs/cc13_geosciences/
 ---
 
 ## Description

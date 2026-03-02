@@ -4,7 +4,7 @@ lang: en
 translation_key: cc1_knowledge_modeling_and_interoperability
 title: Knowledge Modelling and Interoperability
 identifier: CC01
-status: active
+status: completed
 start_date: ''
 proposal_url: ''
 type: n4o:Organization
@@ -16,7 +16,7 @@ cochairs:
 areas:
 - ta2
 focus_areas: ''
-permalink: /en/ccs/cc1_knowledge_modeling_and_interoperability/
+permalink: /ccs/cc1_knowledge_modeling_and_interoperability/
 ---
 
 ## Description

@@ -9,20 +9,14 @@ start_date: ''
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: 'Benjamin Höcke'
-  person_ref: 'benjamin-höke'
-- name: 'Fabian Fricke'
-  person_ref: 'fabian-fricke'
+- name: ''
+  person_ref: fabianfricke
+- name: ''
+  person_ref: ''
 areas:
-- ta1
-- ta2
-- ta3
-- ta4
-- ta5
-- ta6
 - ta7
 focus_areas: ''
-permalink: /en/ccs/cc27_nfdi4objects_diensteportfolio_management/
+permalink: /ccs/cc27_nfdi4objects_diensteportfolio_management/
 ---
 
 ## Description

@@ -9,17 +9,17 @@ start_date: ''
 proposal_url: https://zenodo.org/records/14872038
 type: n4o:Organization
 cochairs:
-- name: 'Anja Gerber'
-  person_ref: anja-gerber
-- name: 'Michael Markert'
-  person_ref: michael-markert
+- name: ''
+  person_ref: anjagerber
+- name: ''
+  person_ref: michaelmarkert
 areas:
+- ta6
 - ta1
 - ta2
 - ta3
 - ta4
 - ta5
-- ta6
 focus_areas: ''
 permalink: /ccs/cc3_authority_and_norm_data/
 ---

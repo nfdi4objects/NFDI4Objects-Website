@@ -9,14 +9,14 @@ start_date: ''
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: 'Petral Linscheid'
+- name: ''
   person_ref: petralinscheid
-- name: 'Christina Peek'
+- name: ''
   person_ref: christinapeek
 areas:
 - ta4
 focus_areas: ''
-permalink: /en/ccs/cc-17-archäologische-textilien/
+permalink: /ccs/cc-17-archäologische-textilien/
 ---
 
 ## Description

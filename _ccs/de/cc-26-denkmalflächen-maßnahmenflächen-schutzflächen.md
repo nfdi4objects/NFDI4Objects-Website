@@ -9,13 +9,13 @@ start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.14887612
 type: n4o:Organization
 cochairs:
-- name: 'Ulrich Himmelmann'
-  person_ref: ulrich-himmelmann
-- name: 'Christian Bollacher'
-  person_ref: christian-bollacher
+- name: ''
+  person_ref: ulrich_himmelmann
+- name: ''
+  person_ref: christianbollacher
 areas:
-- ta1
 - ta4
+- ta1
 focus_areas: ''
 permalink: /ccs/cc-26-denkmalflächen-maßnahmenflächen-schutzflächen/
 ---

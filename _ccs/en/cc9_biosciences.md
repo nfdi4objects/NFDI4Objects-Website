@@ -4,7 +4,7 @@ lang: en
 translation_key: cc9_biosciences
 title: Biosciences
 identifier: CC09
-status: active
+status: planned
 start_date: ''
 proposal_url: ''
 type: n4o:Organization
@@ -16,7 +16,7 @@ cochairs:
 areas:
 - ta3
 focus_areas: ''
-permalink: /en/ccs/cc9_biosciences/
+permalink: /ccs/cc9_biosciences/
 ---
 
 ## Description

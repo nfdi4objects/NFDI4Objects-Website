@@ -9,13 +9,13 @@ start_date: ''
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: 'Sandra Schröer-Spang'
-  person_ref: 'sandra-schröer-spang'
-- name: 'Nina Hohm'
+- name: ''
+  person_ref: ''
+- name: ''
   person_ref: ''
 areas:
-- ta5
 - ta6
+- ta5
 focus_areas: ''
 permalink: /ccs/cc-19-fdm-support/
 ---

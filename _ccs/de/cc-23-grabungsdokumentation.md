@@ -9,10 +9,10 @@ start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.11550132
 type: n4o:Organization
 cochairs:
-- name: 'Benajmin Höke'
-  person_ref: benjamin-höke
-- name: 'Florian Janoscha Kreppner'
-  person_ref: florian-janoscha-kreppner
+- name: ''
+  person_ref: benjaminhöke
+- name: ''
+  person_ref: florian-janoschakreppner
 areas:
 - ta1
 focus_areas: ''

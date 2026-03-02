@@ -4,7 +4,7 @@ lang: de
 translation_key: cc-16-3d-dokumentation
 title: 3D-Dokumentation
 identifier: CC16
-status: active
+status: planned
 start_date: ''
 proposal_url: ''
 type: n4o:Organization

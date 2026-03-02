@@ -9,9 +9,9 @@ start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.11370864
 type: n4o:Organization
 cochairs:
-- name: 'Kristina Fella'
-  person_ref: kristina-fella
-- name: 'Nathaly Witt'
+- name: ''
+  person_ref: kristinafella
+- name: ''
   person_ref: nathalywitt
 areas:
 - ta4

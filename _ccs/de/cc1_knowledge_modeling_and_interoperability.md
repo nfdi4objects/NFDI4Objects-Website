@@ -4,7 +4,7 @@ lang: de
 translation_key: cc1_knowledge_modeling_and_interoperability
 title: Knowledge Modelling and Interoperability
 identifier: CC01
-status: active
+status: completed
 start_date: ''
 proposal_url: Proposal
 type: n4o:Organization

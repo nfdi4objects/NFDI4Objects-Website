@@ -9,10 +9,10 @@ start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.11655935
 type: n4o:Organization
 cochairs:
-- name: 'Frank Dührkohp'
-  person_ref: frank-dührkohp
-- name: 'Anja Gerber'
-  person_ref: anja-gerber
+- name: ''
+  person_ref: frank_duehrkohp
+- name: ''
+  person_ref: anjagerber
 areas:
 - ta1
 - ta2

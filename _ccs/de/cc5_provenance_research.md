@@ -9,10 +9,10 @@ start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.10653945
 type: n4o:Organization
 cochairs:
-- name: 'Petra Winter'
-  person_ref: petra-winter
-- name: 'Meike Hopp'
-  person_ref: meike-hopp
+- name: ''
+  person_ref: petrawinter
+- name: ''
+  person_ref: meikehopp
 areas:
 - ta2
 focus_areas: ''

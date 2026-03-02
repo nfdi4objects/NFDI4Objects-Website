@@ -4,7 +4,7 @@ lang: en
 translation_key: cc-18-data-exchange-formats
 title: Data Exchange Formats
 identifier: CC18
-status: active
+status: planned
 start_date: ''
 proposal_url: ''
 type: n4o:Organization
@@ -17,7 +17,7 @@ areas:
 - ta1
 - ta5
 focus_areas: ''
-permalink: /en/ccs/cc-18-data-exchange-formats/
+permalink: /ccs/cc-18-data-exchange-formats/
 ---
 
 ## Description

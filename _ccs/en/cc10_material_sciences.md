@@ -4,7 +4,7 @@ lang: en
 translation_key: cc10_material_sciences
 title: Material-Sciences
 identifier: CC10
-status: active
+status: planned
 start_date: ''
 proposal_url: ''
 type: n4o:Organization
@@ -16,7 +16,7 @@ cochairs:
 areas:
 - ta3
 focus_areas: ''
-permalink: /en/ccs/cc10_material_sciences/
+permalink: /ccs/cc10_material_sciences/
 ---
 
 ## Description

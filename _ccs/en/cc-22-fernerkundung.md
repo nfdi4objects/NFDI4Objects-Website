@@ -9,14 +9,14 @@ start_date: ''
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: 'Matthias Lang'
-  person_ref: matthias-lang
-- name: 'Irmela Herzog'
-  person_ref: irmela-herzog
+- name: ''
+  person_ref: matthias_lang
+- name: ''
+  person_ref: irmelaherzog
 areas:
 - ta1
 focus_areas: ''
-permalink: /en/ccs/cc-22-fernerkundung/
+permalink: /ccs/cc-22-fernerkundung/
 ---
 
 ## Description

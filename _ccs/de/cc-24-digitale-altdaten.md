@@ -4,7 +4,7 @@ lang: de
 translation_key: cc-24-digitale-altdaten
 title: Digitale Altdaten
 identifier: CC24
-status: active
+status: planned
 start_date: ''
 proposal_url: ''
 type: n4o:Organization

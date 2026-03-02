@@ -9,14 +9,14 @@ start_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.10684584
 type: n4o:Organization
 cochairs:
-- name: 'Elisa Roßberger'
-  person_ref: elisa-roßberger
-- name: 'Bernhard Weisser'
-  person_ref: bernhard-weisser
+- name: ''
+  person_ref: elisaroßberger
+- name: ''
+  person_ref: bernhard_weisser
 areas:
 - ta2
 focus_areas: ''
-permalink: /en/ccs/cc8_objects_as_information_carriers/
+permalink: /ccs/cc8_objects_as_information_carriers/
 ---
 
 ## Description

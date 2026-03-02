@@ -5,7 +5,7 @@ translation_key: cc11_cultural_anthropology
 title: Empirische Kulturwissenschaft, Europäische Ethnologie, Kulturanthropologie
   und Volkskunde
 identifier: CC11
-status: active
+status: planned
 start_date: ''
 proposal_url: ''
 type: n4o:Organization

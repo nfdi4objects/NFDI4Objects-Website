@@ -4,7 +4,7 @@ lang: en
 translation_key: cc11_cultural_anthropology
 title: Cultural Anthropology
 identifier: CC11
-status: active
+status: planned
 start_date: ''
 proposal_url: ''
 type: n4o:Organization
@@ -16,7 +16,7 @@ cochairs:
 areas:
 - ta7
 focus_areas: ''
-permalink: /en/ccs/cc11_cultural_anthropology/
+permalink: /ccs/cc11_cultural_anthropology/
 ---
 
 ## Description
