@@ -8,7 +8,7 @@ status: active
 start_date: 2025-04-30 14:32:02.325000+00:00
 end_date: 2025-04-30 14:32:02.326000+00:00
 cochairs:
-- name: ''
+- name: Juliane Watson
   person_ref: julianewatson
 - name: ''
   person_ref: ''

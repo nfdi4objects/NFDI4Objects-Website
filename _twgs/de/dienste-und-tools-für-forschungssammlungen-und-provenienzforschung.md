@@ -7,10 +7,12 @@ identifier: TWG 2024.5
 status: active
 start_date: 2024-07-21 21:55:00+00:00
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.13284190
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Frank von Hagel
   person_ref: frankvon-hagel
-- name: ''
+- name: Angela Berthold
   person_ref: angelaberthold
 areas:
 - ta2

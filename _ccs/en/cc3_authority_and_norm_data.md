@@ -9,9 +9,9 @@ start_date: 2025-02-14 11:00:00+00:00
 proposal_url: https://zenodo.org/records/14872038
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Anja Gerber
   person_ref: anjagerber
-- name: ''
+- name: Michael Markert
   person_ref: michaelmarkert
 areas:
 - ta6

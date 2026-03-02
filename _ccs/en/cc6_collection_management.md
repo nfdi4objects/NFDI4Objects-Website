@@ -9,9 +9,9 @@ start_date: 2024-04-12 09:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.10998703
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Frank von Hagel
   person_ref: frankvon-hagel
-- name: ''
+- name: Martin Stricker
   person_ref: martinstricker
 areas:
 - ta2

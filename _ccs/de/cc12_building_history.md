@@ -9,9 +9,9 @@ start_date: 2023-12-01 22:55:00+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Tobias Arera-Rütenik
   person_ref: tobiasarera-rütenik
-- name: ''
+- name: Nadine Marcinczik
   person_ref: nadinemarcinczik
 areas:
 - ta1

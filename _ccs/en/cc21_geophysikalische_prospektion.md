@@ -9,7 +9,7 @@ start_date: 2024-04-12 09:55:00+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Till Sonnemann
   person_ref: tillsonnemann
 - name: ''
   person_ref: ''

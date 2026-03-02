@@ -7,10 +7,12 @@ identifier: TWG 2024.2
 status: active
 start_date: 2023-09-10 21:55:00+00:00
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.10990410
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Yiu- Kang Hsu
   person_ref: yiu-kanghsu
-- name: ''
+- name: Jan Sessing
   person_ref: jansessing
 areas:
 - ta3

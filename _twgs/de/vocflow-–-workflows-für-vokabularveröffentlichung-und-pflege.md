@@ -7,10 +7,12 @@ identifier: ''
 status: active
 start_date: 2026-02-13 12:00:00+00:00
 end_date: ''
+proposal_url: https://community.nfdi4objects.net/assemblies/TWG/f/4/proposals/54
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Michael Markert
   person_ref: michaelmarkert
-- name: ''
+- name: Anja Gerber
   person_ref: anjagerber
 areas:
 - ta5

@@ -8,9 +8,9 @@ status: active
 start_date: 2023-05-01 21:55:00+00:00
 end_date: ''
 cochairs:
-- name: ''
+- name: Kai-Christian Bruhn
   person_ref: kai-christian_bruhn
-- name: ''
+- name: Bernhard Weisser
   person_ref: bernhard_weisser
 areas: []
 ---

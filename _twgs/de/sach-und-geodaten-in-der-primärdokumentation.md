@@ -7,10 +7,12 @@ identifier: TWG 2024.4
 status: active
 start_date: 2024-11-05 22:55:00+00:00
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.14931813
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Julian Hollaender
   person_ref: julianhollaender
-- name: ''
+- name: Fabian Riebschläger
   person_ref: fabianriebschläger
 areas:
 - ta1

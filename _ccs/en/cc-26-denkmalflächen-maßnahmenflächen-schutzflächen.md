@@ -9,9 +9,9 @@ start_date: 2025-03-17 22:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.14887612
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Ulrich Himmelmann
   person_ref: ulrich_himmelmann
-- name: ''
+- name: Christian Bollacher
   person_ref: christianbollacher
 areas:
 - ta4

@@ -8,9 +8,9 @@ status: active
 start_date: 2023-07-21 09:55:00+00:00
 end_date: ''
 cochairs:
-- name: ''
+- name: Frank von Hagel
   person_ref: frankvon-hagel
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
 areas:
 - ta2

@@ -9,9 +9,9 @@ start_date: 2024-05-24 09:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.11655935
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Frank Duehrkohp
   person_ref: frank_duehrkohp
-- name: ''
+- name: Anja Gerber
   person_ref: anjagerber
 areas:
 - ta1

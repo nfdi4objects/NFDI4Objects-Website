@@ -9,9 +9,9 @@ status: active
 start_date: 2023-11-07 22:55:00+00:00
 end_date: ''
 cochairs:
-- name: ''
+- name: Kristina Fischer
   person_ref: kristinafella
-- name: ''
+- name: Nathaly Witt
   person_ref: nathalywitt
 areas:
 - ta4

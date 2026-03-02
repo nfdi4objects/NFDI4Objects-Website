@@ -8,9 +8,9 @@ status: active
 start_date: 2024-06-30 19:12:28.088000+00:00
 end_date: ''
 cochairs:
-- name: ''
+- name: Felix Schäfer
   person_ref: felix-fschäfer
-- name: ''
+- name: Johannes Schäffer
   person_ref: johannesschäffer
 areas:
 - ta2

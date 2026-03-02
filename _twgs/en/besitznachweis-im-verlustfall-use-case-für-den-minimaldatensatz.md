@@ -8,9 +8,9 @@ status: active
 start_date: 2024-10-15 21:55:00+00:00
 end_date: ''
 cochairs:
-- name: ''
+- name: Christoph Klose
   person_ref: christophklose
-- name: ''
+- name: Benjamin Streubel
   person_ref: benjaminstreubel
 areas:
 - ta6

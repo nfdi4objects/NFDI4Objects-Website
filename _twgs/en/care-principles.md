@@ -8,9 +8,9 @@ status: active
 start_date: 2026-01-16 12:00:00+00:00
 end_date: ''
 cochairs:
-- name: ''
+- name: Heike Messemer
   person_ref: heikemessemer
-- name: ''
+- name: Romy Köhler
   person_ref: romyköhler
 areas:
 - ta7

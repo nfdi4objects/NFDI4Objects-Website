@@ -8,10 +8,12 @@ identifier: TWG 2024.9
 status: active
 start_date: 2024-11-13 22:55:00+00:00
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.14135528
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Lasse Mempel-Länger
   person_ref: lassemempel-länger
-- name: ''
+- name: Andreas Puhl
   person_ref: andreaspuhl
 areas:
 - ta4

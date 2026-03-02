@@ -9,9 +9,9 @@ start_date: 2024-06-27 21:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.12077718
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Ivan Calandra
   person_ref: ivancalandra
-- name: ''
+- name: Susanne Greiff
   person_ref: susannegreiff
 areas:
 - ta3

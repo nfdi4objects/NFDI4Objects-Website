@@ -9,9 +9,9 @@ start_date: 2026-01-30 12:00:00+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Ulrich Himmelmann
   person_ref: ulrich_himmelmann
-- name: ''
+- name: Frank Duehrkohp
   person_ref: frank_duehrkohp
 areas:
 - ta4

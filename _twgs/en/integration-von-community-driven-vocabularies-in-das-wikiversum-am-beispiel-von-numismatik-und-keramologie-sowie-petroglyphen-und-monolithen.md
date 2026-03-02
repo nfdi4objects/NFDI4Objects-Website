@@ -9,9 +9,9 @@ status: planned
 start_date: 2023-07-21 10:55:00+00:00
 end_date: 2024-09-23 20:01:12.873000+00:00
 cochairs:
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
-- name: ''
+- name: Allard Mees
   person_ref: allard_mees
 areas:
 - ta2

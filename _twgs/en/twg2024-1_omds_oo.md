@@ -9,9 +9,9 @@ status: active
 start_date: 2024-10-23 21:55:00+00:00
 end_date: ''
 cochairs:
-- name: ''
+- name: Anja Gerber
   person_ref: anjagerber
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
 areas:
 - ta6

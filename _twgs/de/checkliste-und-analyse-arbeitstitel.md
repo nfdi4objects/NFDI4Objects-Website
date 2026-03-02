@@ -8,10 +8,12 @@ identifier: TWG 2024.11
 status: active
 start_date: 2024-11-22 16:13:00+00:00
 end_date: 2028-09-24 15:13:00+00:00
+proposal_url: https://doi.org/10.5281/zenodo.14619866
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Christoph Klose
   person_ref: christophklose
-- name: ''
+- name: Allard Mees
   person_ref: allard_mees
 areas:
 - ta2

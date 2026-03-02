@@ -9,9 +9,9 @@ start_date: 2024-03-31 09:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.10684584
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Elisa Roßberger
   person_ref: elisaroßberger
-- name: ''
+- name: Bernhard Weisser
   person_ref: bernhard_weisser
 areas:
 - ta2

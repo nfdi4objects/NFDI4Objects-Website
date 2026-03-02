@@ -9,9 +9,9 @@ status: active
 start_date: 2025-02-14 11:00:00+00:00
 end_date: ''
 cochairs:
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
-- name: ''
+- name: Karsten Tolle
   person_ref: karstentolle
 areas:
 - ta2

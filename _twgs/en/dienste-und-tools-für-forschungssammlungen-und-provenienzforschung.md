@@ -8,9 +8,9 @@ status: active
 start_date: 2024-07-21 21:55:00+00:00
 end_date: ''
 cochairs:
-- name: ''
+- name: Frank von Hagel
   person_ref: frankvon-hagel
-- name: ''
+- name: Angela Berthold
   person_ref: angelaberthold
 areas:
 - ta2

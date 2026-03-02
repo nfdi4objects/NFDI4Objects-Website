@@ -7,10 +7,12 @@ identifier: TWG 2023.1
 status: active
 start_date: 2024-06-30 19:12:28.088000+00:00
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.10286399
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Felix Schäfer
   person_ref: felix-fschäfer
-- name: ''
+- name: Johannes Schäffer
   person_ref: johannesschäffer
 areas:
 - ta2

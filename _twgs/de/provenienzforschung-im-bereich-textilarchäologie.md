@@ -7,10 +7,12 @@ identifier: TWG 2025.4
 status: active
 start_date: 2024-09-24 15:17:57.405000+00:00
 end_date: 2024-09-24 15:17:57.406000+00:00
+proposal_url: ''
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Katarzyna Lubos
   person_ref: katarzynalubos
-- name: ''
+- name: Jennifer Moldenhauer
   person_ref: jennifermoldenhauer-1
 areas: []
 ---

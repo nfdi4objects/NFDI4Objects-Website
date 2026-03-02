@@ -8,9 +8,9 @@ status: active
 start_date: 2024-11-05 22:55:00+00:00
 end_date: ''
 cochairs:
-- name: ''
+- name: Julian Hollaender
   person_ref: julianhollaender
-- name: ''
+- name: Fabian Riebschläger
   person_ref: fabianriebschläger
 areas:
 - ta1

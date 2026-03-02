@@ -9,9 +9,9 @@ start_date: 2024-01-24 10:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.10512531
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
-- name: ''
+- name: Karsten Tolle
   person_ref: karstentolle
 areas:
 - ta2

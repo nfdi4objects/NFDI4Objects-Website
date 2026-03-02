@@ -9,9 +9,9 @@ start_date: 2025-12-10 12:00:00+00:00
 proposal_url: https://community.nfdi4objects.net/assemblies/CC/f/5/proposals/20
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Franziska Klemstein
   person_ref: franziskaklemstein
-- name: ''
+- name: Gerda Grimm
   person_ref: gerdagrimm
 areas:
 - ta6

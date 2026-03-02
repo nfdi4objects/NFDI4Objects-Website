@@ -8,9 +8,9 @@ status: active
 start_date: 2025-08-07 21:55:00+00:00
 end_date: ''
 cochairs:
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
-- name: ''
+- name: Angela Berthold
   person_ref: angelaberthold
 areas:
 - ta2

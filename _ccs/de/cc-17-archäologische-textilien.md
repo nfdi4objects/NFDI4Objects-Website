@@ -9,9 +9,9 @@ start_date: 2023-10-06 21:55:00+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Petra Linscheid
   person_ref: petralinscheid
-- name: ''
+- name: Christina Peek
   person_ref: christinapeek
 areas:
 - ta4

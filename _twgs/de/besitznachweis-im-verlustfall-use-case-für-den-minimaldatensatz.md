@@ -7,10 +7,12 @@ identifier: TWG 2024.6
 status: active
 start_date: 2024-10-15 21:55:00+00:00
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.13320390
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Christoph Klose
   person_ref: christophklose
-- name: ''
+- name: Benjamin Streubel
   person_ref: benjaminstreubel
 areas:
 - ta6

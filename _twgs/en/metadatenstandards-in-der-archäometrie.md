@@ -8,9 +8,9 @@ status: active
 start_date: 2023-09-10 21:55:00+00:00
 end_date: ''
 cochairs:
-- name: ''
+- name: Yiu- Kang Hsu
   person_ref: yiu-kanghsu
-- name: ''
+- name: Jan Sessing
   person_ref: jansessing
 areas:
 - ta3

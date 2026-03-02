@@ -9,9 +9,9 @@ status: active
 start_date: 2024-11-13 22:55:00+00:00
 end_date: ''
 cochairs:
-- name: ''
+- name: Lasse Mempel-Länger
   person_ref: lassemempel-länger
-- name: ''
+- name: Andreas Puhl
   person_ref: andreaspuhl
 areas:
 - ta4

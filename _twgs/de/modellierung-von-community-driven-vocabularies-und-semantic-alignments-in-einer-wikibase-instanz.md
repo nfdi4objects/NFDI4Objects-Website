@@ -8,10 +8,12 @@ identifier: TWG 2023.5
 status: planned
 start_date: 2023-11-01 22:55:00+00:00
 end_date: ''
+proposal_url: ''
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
-- name: ''
+- name: Timo Homburg
   person_ref: timohomburg
 areas:
 - ta2

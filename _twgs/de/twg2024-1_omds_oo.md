@@ -8,10 +8,12 @@ identifier: TWG 2024.1
 status: active
 start_date: 2024-10-23 21:55:00+00:00
 end_date: ''
+proposal_url: https://zenodo.org/records/17159183
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Anja Gerber
   person_ref: anjagerber
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
 areas:
 - ta6

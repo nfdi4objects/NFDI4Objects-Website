@@ -9,9 +9,9 @@ status: active
 start_date: 2024-11-22 16:13:00+00:00
 end_date: 2028-09-24 15:13:00+00:00
 cochairs:
-- name: ''
+- name: Christoph Klose
   person_ref: christophklose
-- name: ''
+- name: Allard Mees
   person_ref: allard_mees
 areas:
 - ta2

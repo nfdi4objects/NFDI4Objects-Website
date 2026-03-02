@@ -8,10 +8,12 @@ identifier: TWG 2024.8
 status: active
 start_date: 2023-11-07 22:55:00+00:00
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.14134651
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Kristina Fischer
   person_ref: kristinafella
-- name: ''
+- name: Nathaly Witt
   person_ref: nathalywitt
 areas:
 - ta4

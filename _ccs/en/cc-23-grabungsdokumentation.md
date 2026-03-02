@@ -9,9 +9,9 @@ start_date: 2024-07-03 21:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.11550132
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Benjamin Höke
   person_ref: benjaminhöke
-- name: ''
+- name: Florian Janoscha Kreppner
   person_ref: florian-janoschakreppner
 areas:
 - ta1

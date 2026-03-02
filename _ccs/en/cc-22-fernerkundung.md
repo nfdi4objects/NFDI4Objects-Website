@@ -9,9 +9,9 @@ start_date: 2025-04-03 13:20:57+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: ''
+- name: Matthias Lang
   person_ref: matthias_lang
-- name: ''
+- name: Irmela Herzog
   person_ref: irmelaherzog
 areas:
 - ta1

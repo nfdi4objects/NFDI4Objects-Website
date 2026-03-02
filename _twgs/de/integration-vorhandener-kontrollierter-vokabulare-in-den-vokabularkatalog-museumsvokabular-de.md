@@ -7,10 +7,12 @@ identifier: TWG 2023.2
 status: active
 start_date: 2023-07-21 09:55:00+00:00
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.10286724
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Frank von Hagel
   person_ref: frankvon-hagel
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
 areas:
 - ta2

@@ -7,10 +7,12 @@ identifier: ''
 status: active
 start_date: 2026-01-16 12:00:00+00:00
 end_date: ''
+proposal_url: https://community.nfdi4objects.net/assemblies/TWG/f/4/proposals/47
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Heike Messemer
   person_ref: heikemessemer
-- name: ''
+- name: Romy Köhler
   person_ref: romyköhler
 areas:
 - ta7

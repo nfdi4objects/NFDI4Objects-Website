@@ -7,10 +7,12 @@ identifier: TWG 2024.10
 status: active
 start_date: 2024-09-24 13:00:00+00:00
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.13833998
+type: n4o:Organization
 cochairs:
-- name: ''
+- name: Timo Homburg
   person_ref: timohomburg
-- name: ''
+- name: Hubert Mara
   person_ref: hubertmara
 areas:
 - ta6
