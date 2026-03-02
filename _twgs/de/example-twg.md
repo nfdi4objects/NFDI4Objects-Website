@@ -15,10 +15,10 @@ proposal_url: ""
 
 # Koordinatoren
 cochairs:
-- name: ''
-  person_ref: frankvon-hagel
-- name: ''
-  person_ref: martinstricker
+- name: 'Frank von Hagel'
+  person_ref: frank-von-hagel
+- name: 'Martin Stricker'
+  person_ref: martin-stricker
 
 # Zugeordnete Task Areas
 areas:
@@ -51,4 +51,5 @@ Diese temporäre Arbeitsgruppe beschäftigt sich mit [Thema].
 ## Ergebnisse
 
 Die Ergebnisse werden hier dokumentiert.
+
 
