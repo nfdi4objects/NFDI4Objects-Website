@@ -5,7 +5,7 @@ translation_key: cc-17-archäologische-textilien
 title: Archäologische Textilien
 identifier: CC17
 status: active
-start_date: ''
+start_date: 2023-10-06 21:55:00+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:

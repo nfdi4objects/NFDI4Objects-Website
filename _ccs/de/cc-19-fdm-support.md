@@ -5,7 +5,7 @@ translation_key: cc-19-fdm-support
 title: FDM Support
 identifier: CC19
 status: active
-start_date: ''
+start_date: 2025-10-20 12:00:00+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:

@@ -5,7 +5,7 @@ translation_key: cc10_material_sciences
 title: Material-Sciences
 identifier: CC10
 status: planned
-start_date: ''
+start_date: 2024-06-24 16:28:05.166000+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:

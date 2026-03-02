@@ -3,9 +3,9 @@ layout: cc
 lang: en
 translation_key: cc1_knowledge_modeling_and_interoperability
 title: Knowledge Modelling and Interoperability
-identifier: CC01
+identifier: CC1
 status: completed
-start_date: ''
+start_date: 2023-09-21 13:43:57.062000+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:

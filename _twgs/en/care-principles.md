@@ -5,19 +5,15 @@ translation_key: care-principles
 title: CARE Principles
 identifier: ''
 status: active
-start_date: ''
+start_date: 2026-01-16 12:00:00+00:00
 end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_symbolgraphik_twg.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+cochairs:
 - name: ''
-  person_ref: person-heikemessemer
+  person_ref: heikemessemer
 - name: ''
-  person_ref: person-romyköhler
+  person_ref: romyköhler
 areas:
 - ta7
-permalink: /twgs/care-principles/
 ---
 
 ## Description
@@ -33,26 +29,3 @@ The TWG “CARE Principles” aims to prepare the topic for the field of archaeo
 ###### Mailinglist
 
 [You will find the mailing list here.](https://www.listserv.dfn.de/sympa/subscribe/n4o_twg_care?previous_action=info)
-
-## Focus
-
-The focus is on standardized metadata for instrument configurations in analytical methods such as:
-- Optical microscopy
-- X-ray fluorescence
-- Raman spectroscopy
-
-
-## Goals
-
-The goal is to develop a metadata profile for instrument parameters that are significant for data comparison.
-
-
-## Duration
-
-**Start:** 
-**End:** 
-
-
-## Contact
-
-If interested, please contact one of the coordinators.

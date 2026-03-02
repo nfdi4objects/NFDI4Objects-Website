@@ -5,20 +5,16 @@ translation_key: sach-und-geodaten-in-der-primärdokumentation
 title: Object- and geodata in the primary documentation
 identifier: TWG 2024.4
 status: active
-start_date: ''
+start_date: 2024-11-05 22:55:00+00:00
 end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_portal_twg_2024_4_200px.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+cochairs:
 - name: ''
-  person_ref: person-julianhollaender
+  person_ref: julianhollaender
 - name: ''
-  person_ref: person-fabianriebschläger
+  person_ref: fabianriebschläger
 areas:
 - ta1
 - ta5
-permalink: /twgs/sach-und-geodaten-in-der-primärdokumentation/
 ---
 
 ## Description
@@ -35,27 +31,3 @@ For on-site documentation, the minimum data set comprises the necessary metadata
 The concepts developed are to be tested in practice with existing database systems for data acquisition (IDAI.field, Spatialist, DokuBook, ArchaeoNotes, possibly other systems)
 
 [^1]: In a similar way to zenodo.org/records/11209289
-
-
-## Focus
-
-The focus is on standardized metadata for instrument configurations in analytical methods such as:
-- Optical microscopy
-- X-ray fluorescence
-- Raman spectroscopy
-
-
-## Goals
-
-The goal is to develop a metadata profile for instrument parameters that are significant for data comparison.
-
-
-## Duration
-
-**Start:** 
-**End:** 
-
-
-## Contact
-
-If interested, please contact one of the coordinators.

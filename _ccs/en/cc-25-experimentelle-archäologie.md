@@ -5,7 +5,7 @@ translation_key: cc-25-experimentelle-archäologie
 title: Experimental Archaeology
 identifier: CC25
 status: active
-start_date: ''
+start_date: 2024-06-27 21:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.12077718
 type: n4o:Organization
 cochairs:

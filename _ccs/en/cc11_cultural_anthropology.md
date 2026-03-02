@@ -5,7 +5,7 @@ translation_key: cc11_cultural_anthropology
 title: Cultural Anthropology
 identifier: CC11
 status: planned
-start_date: ''
+start_date: 2024-06-30 14:21:36.452000+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:

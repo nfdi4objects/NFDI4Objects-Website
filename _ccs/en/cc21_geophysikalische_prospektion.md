@@ -3,9 +3,9 @@ layout: cc
 lang: en
 translation_key: cc21_geophysikalische_prospektion
 title: Geophysical prospection
-identifier: CC21
+identifier: 906B0E47-679D-4A1F-9B16-735965DC6498
 status: active
-start_date: ''
+start_date: 2024-04-12 09:55:00+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:

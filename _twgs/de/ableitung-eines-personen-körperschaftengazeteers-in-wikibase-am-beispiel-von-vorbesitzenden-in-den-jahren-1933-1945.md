@@ -6,19 +6,15 @@ title: Prototypische Modellierung eines Provenienzgazetteers zur FAIRen Bereitst
   in einer Wikibase
 identifier: TWG 2024.3
 status: active
-start_date: ''
+start_date: 2025-08-07 21:55:00+00:00
 end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_portal_twg_2024_3_200px.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+cochairs:
 - name: ''
-  person_ref: person-florian_thiery
+  person_ref: florian_thiery
 - name: ''
-  person_ref: person-angelaberthold
+  person_ref: angelaberthold
 areas:
 - ta2
-permalink: /twgs/ableitung-eines-personen-körperschaftengazeteers-in-wikibase-am-beispiel-von-vorbesitzenden-in-den-jahren-1933-1945/
 ---
 
 ## Beschreibung
@@ -30,26 +26,3 @@ Ziel dieser TWG ist es, Personen und Körperschaften prototypisch in einer Wikib
 Hierzu werden von verschiedenen Participants Daten zu Vorbesitzer*innen und Veräußernden insbesondere aus dem Zeitraum 1933 bis 1945 zur Verfügung gestellt. Diese sind besonders geeignet, da in vielen Sammlungen zu dieser Zeit eine breite Datenbasis zur Verfügung steht. Im Community Cluster Provenienzforschung wurde der Wunsch geäußert, auch Daten aus dem Bereich der kolonialen Kontexte miteinzubeziehen, so dass diese zunächst in der Wikibase einen zweiten thematischen Schwerpunkt setzen sollen. Zwischen diesen beiden Bereichen ist auch durchaus mit Überschneidungen zu rechnen.
 
 Infos und Protokolle im OSF: [https://osf.io/zms4b/](https://osf.io/zms4b/)
-
-## Fokus
-
-Der Fokus liegt auf standardisierten Metadaten für Instrumentenkonfigurationen bei analytischen Verfahren wie:
-- Optische Mikroskopie
-- Röntgenfluoreszenz
-- Raman-Spektroskopie
-
-
-## Ziele
-
-Ziel ist die Entwicklung eines Metadatenprofils für Instrumentenparameter, die bei Datenvergleich bedeutsam sind.
-
-
-## Laufzeit
-
-**Start:** 
-**Ende:** 
-
-
-## Kontakt
-
-Bei Interesse wenden Sie sich bitte an einen der Co-Chairs.

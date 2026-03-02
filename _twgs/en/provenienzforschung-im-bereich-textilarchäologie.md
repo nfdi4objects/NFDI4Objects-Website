@@ -5,18 +5,14 @@ translation_key: provenienzforschung-im-bereich-textilarchäologie
 title: Provenance research in textile archaeology
 identifier: TWG 2025.4
 status: active
-start_date: ''
-end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_portal_twg_2025_4_200px.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+start_date: 2024-09-24 15:17:57.405000+00:00
+end_date: 2024-09-24 15:17:57.406000+00:00
+cochairs:
 - name: ''
-  person_ref: person-katarzynalubos
+  person_ref: katarzynalubos
 - name: ''
-  person_ref: person-jennifermoldenhauer-1
+  person_ref: jennifermoldenhauer-1
 areas: []
-permalink: /twgs/provenienzforschung-im-bereich-textilarchäologie/
 ---
 
 ## Description
@@ -36,26 +32,3 @@ The aims of the TWG are:
 3. promoting professional exchange by establishing a network of institutions, researchers and experts to share information and best practices
 
 4. preparing a standardized data set for a Wikibase instance in order to create a sustainable, interoperable data structure for provenance research.
-
-## Focus
-
-The focus is on standardized metadata for instrument configurations in analytical methods such as:
-- Optical microscopy
-- X-ray fluorescence
-- Raman spectroscopy
-
-
-## Goals
-
-The goal is to develop a metadata profile for instrument parameters that are significant for data comparison.
-
-
-## Duration
-
-**Start:** 
-**End:** 
-
-
-## Contact
-
-If interested, please contact one of the coordinators.

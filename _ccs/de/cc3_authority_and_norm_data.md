@@ -3,9 +3,9 @@ layout: cc
 lang: de
 translation_key: cc3_authority_and_norm_data
 title: Authority Files and Community-driven Vocabularies
-identifier: CC03
+identifier: CC3
 status: active
-start_date: ''
+start_date: 2025-02-14 11:00:00+00:00
 proposal_url: https://zenodo.org/records/14872038
 type: n4o:Organization
 cochairs:

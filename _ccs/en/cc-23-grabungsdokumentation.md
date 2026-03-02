@@ -5,7 +5,7 @@ translation_key: cc-23-grabungsdokumentation
 title: On-site Documentation
 identifier: CC23
 status: active
-start_date: ''
+start_date: 2024-07-03 21:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.11550132
 type: n4o:Organization
 cochairs:

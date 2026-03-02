@@ -5,20 +5,16 @@ translation_key: 3d-annotation
 title: 3D-Annotation von Meshes mit dem Web Annotation Data Model
 identifier: TWG 2024.10
 status: active
-start_date: ''
+start_date: 2024-09-24 13:00:00+00:00
 end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_portal_twg_2024_10_200px.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+cochairs:
 - name: ''
-  person_ref: person-timohomburg
+  person_ref: timohomburg
 - name: ''
-  person_ref: person-hubertmara
+  person_ref: hubertmara
 areas:
 - ta6
 - ta1
-permalink: /twgs/3d-annotation/
 ---
 
 ## Beschreibung
@@ -51,26 +47,3 @@ Ggf. fehlende Target-Spezifikationen, Integration von Annotationen in bestehende
 Die Ergebnisse der TWG sollen geeignet sein, Erweiterungen von bestehenden Standards mit Bezug zu 3D auch in die Standardisierungsprozesse der internationalen Standardisierungsorganisationen einbringen zu können. 
 
 Eng mit der Annotation verbunden ist die Auswahl bzw. Empfehlung von Dateiformaten für 3D-Messdaten, wozu auch Aspekte wie die Dateigröße berücksichtigt werden müssen. Ein weiterer Faktor ist die Möglichkeit des Imports und der Bearbeitung von Annotationen unter Berücksichtigung der Möglichkeiten und Erweiterbarkeit bestehender Open Source Software.
-
-## Fokus
-
-Der Fokus liegt auf standardisierten Metadaten für Instrumentenkonfigurationen bei analytischen Verfahren wie:
-- Optische Mikroskopie
-- Röntgenfluoreszenz
-- Raman-Spektroskopie
-
-
-## Ziele
-
-Ziel ist die Entwicklung eines Metadatenprofils für Instrumentenparameter, die bei Datenvergleich bedeutsam sind.
-
-
-## Laufzeit
-
-**Start:** 
-**Ende:** 
-
-
-## Kontakt
-
-Bei Interesse wenden Sie sich bitte an einen der Co-Chairs.

@@ -5,19 +5,15 @@ translation_key: metadatenstandards-in-der-archäometrie
 title: Metadatenstandards in der Archäometrie
 identifier: TWG 2024.2
 status: active
-start_date: ''
+start_date: 2023-09-10 21:55:00+00:00
 end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_portal_twg_2024_2_200px.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+cochairs:
 - name: ''
-  person_ref: person-yiu-kanghsu
+  person_ref: yiu-kanghsu
 - name: ''
-  person_ref: person-jansessing
+  person_ref: jansessing
 areas:
 - ta3
-permalink: /twgs/metadatenstandards-in-der-archäometrie/
 ---
 
 ## Beschreibung
@@ -26,26 +22,3 @@ Diese TWG widmet sich der Harmonisierung bestehender Schemata und relevanter kon
 
 Wir treffen uns einmal im Monat über [ZOOM](https://thga-de.zoom-x.de/j/69824781010?pwd=UB2YBUoExbu2zN3ifA728bkqwtGDI4.1).
 Mailingliste: nfdi4objects_wg_lab_standards@listserv.dfn.de
-
-## Fokus
-
-Der Fokus liegt auf standardisierten Metadaten für Instrumentenkonfigurationen bei analytischen Verfahren wie:
-- Optische Mikroskopie
-- Röntgenfluoreszenz
-- Raman-Spektroskopie
-
-
-## Ziele
-
-Ziel ist die Entwicklung eines Metadatenprofils für Instrumentenparameter, die bei Datenvergleich bedeutsam sind.
-
-
-## Laufzeit
-
-**Start:** 
-**Ende:** 
-
-
-## Kontakt
-
-Bei Interesse wenden Sie sich bitte an einen der Co-Chairs.

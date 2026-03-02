@@ -5,7 +5,7 @@ translation_key: cc14_conservation_sciences
 title: Conservation Sciences
 identifier: CC14
 status: active
-start_date: ''
+start_date: 2024-06-04 09:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.11370864
 type: n4o:Organization
 cochairs:

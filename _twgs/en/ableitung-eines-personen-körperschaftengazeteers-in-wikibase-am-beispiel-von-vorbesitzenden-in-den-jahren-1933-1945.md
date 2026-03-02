@@ -5,19 +5,15 @@ translation_key: ableitung-eines-personen-körperschaftengazeteers-in-wikibase-a
 title: Prototypical modelling of a provenance gazetteer for FAIR provision in a Wikibase
 identifier: TWG 2024.3
 status: active
-start_date: ''
+start_date: 2025-08-07 21:55:00+00:00
 end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_portal_twg_2024_3_200px.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+cochairs:
 - name: ''
-  person_ref: person-florian_thiery
+  person_ref: florian_thiery
 - name: ''
-  person_ref: person-angelaberthold
+  person_ref: angelaberthold
 areas:
 - ta2
-permalink: /twgs/ableitung-eines-personen-körperschaftengazeteers-in-wikibase-am-beispiel-von-vorbesitzenden-in-den-jahren-1933-1945/
 ---
 
 ## Description
@@ -29,26 +25,3 @@ This TWG aims to prototype the linking of persons and corporate entities with th
 To achieve this, various participants will provide data on previous owners and sellers, particularly between 1933 and 1945. This period is especially suitable due to the availability of extensive datasets in many collections. In addition, the Provenance Research Community Cluster has expressed a desire to include data from colonial contexts. These will initially form a secondary thematic focus within the Wikibase. Overlaps between these two areas are also anticipated.
 
 more iformation in OSF: [https://osf.io/zms4b/](https://osf.io/zms4b/)
-
-## Focus
-
-The focus is on standardized metadata for instrument configurations in analytical methods such as:
-- Optical microscopy
-- X-ray fluorescence
-- Raman spectroscopy
-
-
-## Goals
-
-The goal is to develop a metadata profile for instrument parameters that are significant for data comparison.
-
-
-## Duration
-
-**Start:** 
-**End:** 
-
-
-## Contact
-
-If interested, please contact one of the coordinators.

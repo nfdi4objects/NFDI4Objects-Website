@@ -6,19 +6,15 @@ title: 'Status quo des Schriftträgers in epigraphischen Tools und Services: Che
   und Analyse'
 identifier: TWG 2024.11
 status: active
-start_date: ''
-end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_portal_twg_2024_11_200px.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+start_date: 2024-11-22 16:13:00+00:00
+end_date: 2028-09-24 15:13:00+00:00
+cochairs:
 - name: ''
-  person_ref: person-christophklose
+  person_ref: christophklose
 - name: ''
-  person_ref: person-allard_mees
+  person_ref: allard_mees
 areas:
 - ta2
-permalink: /twgs/checkliste-und-analyse-arbeitstitel/
 ---
 
 ## Beschreibung
@@ -40,26 +36,3 @@ In Übereinstimmung mit der beschlossenen Zielsetzung des CC Objekte als Inschri
 3) Erstellung einer Checkliste und anhand dieser Prüfung der Zusammenstellung von Tools & Services.
 
 4) Kriterienkatalog für die digitale Publikation schrifttragender Artefakte und begleitendes Whitepaper, das die Kriterien in den Kontext der Erforschung von Materialität beschrifteter Artefakte einordnet und diese exemplarisch skizziert. Zu diesem Zweck auch exemplarische Einbindung eines oder mehrerer Datensatz-Auszüge aus Best-Practice-Beispielen.
-
-## Fokus
-
-Der Fokus liegt auf standardisierten Metadaten für Instrumentenkonfigurationen bei analytischen Verfahren wie:
-- Optische Mikroskopie
-- Röntgenfluoreszenz
-- Raman-Spektroskopie
-
-
-## Ziele
-
-Ziel ist die Entwicklung eines Metadatenprofils für Instrumentenparameter, die bei Datenvergleich bedeutsam sind.
-
-
-## Laufzeit
-
-**Start:** 
-**Ende:** 
-
-
-## Kontakt
-
-Bei Interesse wenden Sie sich bitte an einen der Co-Chairs.

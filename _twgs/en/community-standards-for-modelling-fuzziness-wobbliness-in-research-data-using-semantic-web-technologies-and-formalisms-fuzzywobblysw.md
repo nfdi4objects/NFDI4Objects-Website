@@ -6,16 +6,13 @@ title: Community-Standards for modelling fuzziness & wobbliness in research data
   Semantic Web technologies and formalisms (FuzzyWobblySW)
 identifier: TWG 2025.1
 status: active
-start_date: ''
+start_date: 2025-02-14 11:00:00+00:00
 end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_portal_twg_2025_1_200px.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+cochairs:
 - name: ''
-  person_ref: person-florian_thiery
+  person_ref: florian_thiery
 - name: ''
-  person_ref: person-karstentolle
+  person_ref: karstentolle
 areas:
 - ta2
 - ta1
@@ -23,7 +20,6 @@ areas:
 - ta4
 - ta5
 - ta6
-permalink: /twgs/community-standards-for-modelling-fuzziness-wobbliness-in-research-data-using-semantic-web-technologies-and-formalisms-fuzzywobblysw/
 ---
 
 ## Description
@@ -47,26 +43,3 @@ Co-chairs of the TWG are [Florian Thiery (LEIZA)](https://www.leiza.de/ueber-uns
 # Meetings
 
 The first ‘constituent meeting’ will be held on **18 March 2025, 14.00h - 15.30h via Zoom**. The link will be sent via the mailing list.
-
-## Focus
-
-The focus is on standardized metadata for instrument configurations in analytical methods such as:
-- Optical microscopy
-- X-ray fluorescence
-- Raman spectroscopy
-
-
-## Goals
-
-The goal is to develop a metadata profile for instrument parameters that are significant for data comparison.
-
-
-## Duration
-
-**Start:** 
-**End:** 
-
-
-## Contact
-
-If interested, please contact one of the coordinators.

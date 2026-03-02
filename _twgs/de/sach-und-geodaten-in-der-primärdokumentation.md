@@ -5,20 +5,16 @@ translation_key: sach-und-geodaten-in-der-primärdokumentation
 title: Sach- und Geodaten in der Primärdokumentation
 identifier: TWG 2024.4
 status: active
-start_date: ''
+start_date: 2024-11-05 22:55:00+00:00
 end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_portal_twg_2024_4_200px.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+cochairs:
 - name: ''
-  person_ref: person-julianhollaender
+  person_ref: julianhollaender
 - name: ''
-  person_ref: person-fabianriebschläger
+  person_ref: fabianriebschläger
 areas:
 - ta1
 - ta5
-permalink: /twgs/sach-und-geodaten-in-der-primärdokumentation/
 ---
 
 ## Beschreibung
@@ -35,26 +31,3 @@ Der Minimaldatensatz für eine On-Site-Dokumentation umfasst die notwendigen Met
 Der Fokus dieser TWG soll, außer zur Erfüllung der primären TWG-Ziele, vorrangig nicht auf die Erstellung neuer Thesauri oder kontrollierter Vokabulare gelegt werden. Die erarbeiteten Konzepte sollen mit bestehenden Datenbanksystemen zur Datenerfassung (IDAI.field, Spatialist, DokuBook, ArchaeoNotes, ggfls. weiterer Systeme) in der Praxis erprobt werden.
 
 [^1]: In etwa analog zu [zenodo.org/records/11209289](zenodo.org/records/11209289)
-
-## Fokus
-
-Der Fokus liegt auf standardisierten Metadaten für Instrumentenkonfigurationen bei analytischen Verfahren wie:
-- Optische Mikroskopie
-- Röntgenfluoreszenz
-- Raman-Spektroskopie
-
-
-## Ziele
-
-Ziel ist die Entwicklung eines Metadatenprofils für Instrumentenparameter, die bei Datenvergleich bedeutsam sind.
-
-
-## Laufzeit
-
-**Start:** 
-**Ende:** 
-
-
-## Kontakt
-
-Bei Interesse wenden Sie sich bitte an einen der Co-Chairs.

@@ -5,16 +5,13 @@ translation_key: vocflow-–-workflows-für-vokabularveröffentlichung-und-pfleg
 title: VocFlow – Workflows for Vocabulary Publication and Maintenance
 identifier: ''
 status: active
-start_date: ''
+start_date: 2026-02-13 12:00:00+00:00
 end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_symbolgraphik_twg.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+cochairs:
 - name: ''
-  person_ref: person-michaelmarkert
+  person_ref: michaelmarkert
 - name: ''
-  person_ref: person-anjagerber
+  person_ref: anjagerber
 areas:
 - ta5
 - ta6
@@ -23,7 +20,6 @@ areas:
 - ta3
 - ta4
 - ta7
-permalink: /twgs/vocflow-–-workflows-für-vokabularveröffentlichung-und-pflege/
 ---
 
 ## Description
@@ -63,26 +59,3 @@ If you have any questions or are interested in working with us, please contact t
 Mailing list: [https://www.listserv.dfn.de/sympa/info/n4o_twg_vocflow](<>)[](<>)
 
 Rocket Chat: [https://n4o-chat.nfdi.de/channel/TWG-VocFlow](<>)
-
-## Focus
-
-The focus is on standardized metadata for instrument configurations in analytical methods such as:
-- Optical microscopy
-- X-ray fluorescence
-- Raman spectroscopy
-
-
-## Goals
-
-The goal is to develop a metadata profile for instrument parameters that are significant for data comparison.
-
-
-## Duration
-
-**Start:** 
-**End:** 
-
-
-## Contact
-
-If interested, please contact one of the coordinators.

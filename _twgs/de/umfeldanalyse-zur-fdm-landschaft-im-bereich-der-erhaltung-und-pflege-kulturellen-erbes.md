@@ -6,19 +6,15 @@ title: Umfeldanalyse zur FDM-Landschaft im Bereich der Erhaltung und Pflege kult
   Erbes
 identifier: TWG 2024.8
 status: active
-start_date: ''
+start_date: 2023-11-07 22:55:00+00:00
 end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_portal_twg_2024_8_200px.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+cochairs:
 - name: ''
-  person_ref: person-kristinafella
+  person_ref: kristinafella
 - name: ''
-  person_ref: person-nathalywitt
+  person_ref: nathalywitt
 areas:
 - ta4
-permalink: /twgs/umfeldanalyse-zur-fdm-landschaft-im-bereich-der-erhaltung-und-pflege-kulturellen-erbes/
 ---
 
 ## Beschreibung
@@ -30,26 +26,3 @@ Durch diese Evaluierung soll der aktuelle Status Quo im Umgang mit denkmal- bzw.
 
 
 Die gewonnenen Erkenntnisse werden zusammengetragen und analysiert, wodurch sich eine bedarfsorientierte Priorisierung der Handlungsfelder im Arbeitsprogramm der TA4 ergibt. Die Sammlung an bestehenden Standards, Vokabularen und Online-Ressourcen wird systematisch aufgelistet und für die Integration in den Commons-Katalog vorbereitet.
-
-## Fokus
-
-Der Fokus liegt auf standardisierten Metadaten für Instrumentenkonfigurationen bei analytischen Verfahren wie:
-- Optische Mikroskopie
-- Röntgenfluoreszenz
-- Raman-Spektroskopie
-
-
-## Ziele
-
-Ziel ist die Entwicklung eines Metadatenprofils für Instrumentenparameter, die bei Datenvergleich bedeutsam sind.
-
-
-## Laufzeit
-
-**Start:** 
-**Ende:** 
-
-
-## Kontakt
-
-Bei Interesse wenden Sie sich bitte an einen der Co-Chairs.

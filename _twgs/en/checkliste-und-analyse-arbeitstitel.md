@@ -6,19 +6,15 @@ title: 'Status quo of the material qualities of written artefacts in epigraphic 
   and services: checklist and analysis'
 identifier: TWG 2024.11
 status: active
-start_date: ''
-end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_portal_twg_2024_11_200px.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+start_date: 2024-11-22 16:13:00+00:00
+end_date: 2028-09-24 15:13:00+00:00
+cochairs:
 - name: ''
-  person_ref: person-christophklose
+  person_ref: christophklose
 - name: ''
-  person_ref: person-allard_mees
+  person_ref: allard_mees
 areas:
 - ta2
-permalink: /twgs/checkliste-und-analyse-arbeitstitel/
 ---
 
 ## Description
@@ -40,26 +36,3 @@ In accordance with the agreed objectives of the CC Objects as information Carrie
 3) Preparation of a checklist and examination of the compilation of tools and services on the basis of this.
 
 4) Catalogue of criteria for the digital publication of written artefacts with accompanying white paper, which classifies the criteria in the context of research into the material qualities of inscribed/writtenartefacts and outlines them by way of example. To this end, one or more data set excerpts from best practice examples will also be included as examples.
-
-## Focus
-
-The focus is on standardized metadata for instrument configurations in analytical methods such as:
-- Optical microscopy
-- X-ray fluorescence
-- Raman spectroscopy
-
-
-## Goals
-
-The goal is to develop a metadata profile for instrument parameters that are significant for data comparison.
-
-
-## Duration
-
-**Start:** 
-**End:** 
-
-
-## Contact
-
-If interested, please contact one of the coordinators.

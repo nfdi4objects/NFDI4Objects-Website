@@ -6,16 +6,13 @@ title: N4O Object Core Metadata Profile (OCMDP) & Material Cultural Heritage Cro
   Ontology (MaCHeCO)
 identifier: TWG 2024.1
 status: active
-start_date: ''
+start_date: 2024-10-23 21:55:00+00:00
 end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_portal_twg_2024_1_200px.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+cochairs:
 - name: ''
-  person_ref: person-anjagerber
+  person_ref: anjagerber
 - name: ''
-  person_ref: person-florian_thiery
+  person_ref: florian_thiery
 areas:
 - ta6
 - ta1
@@ -23,7 +20,6 @@ areas:
 - ta3
 - ta4
 - ta5
-permalink: /twgs/twg2024-1_omds_oo/
 ---
 
 ## Beschreibung
@@ -55,26 +51,3 @@ OSF: <https://osf.io/v6ncy/>
 Mailingliste: <https://www.listserv.dfn.de/sympa/admin/n4o_twg_ocmdp_macheco>
 
 [](https://www.listserv.dfn.de/sympa/info/n4o_twg_omds_oo)Rocket-Chat: [](https://n4o-chat.nfdi.de/channel/TWG_N4O_OMDS_OO)<https://n4o-chat.nfdi.de/channel/TWG_N4O_OCMDP_MaCHeCO>
-
-## Fokus
-
-Der Fokus liegt auf standardisierten Metadaten für Instrumentenkonfigurationen bei analytischen Verfahren wie:
-- Optische Mikroskopie
-- Röntgenfluoreszenz
-- Raman-Spektroskopie
-
-
-## Ziele
-
-Ziel ist die Entwicklung eines Metadatenprofils für Instrumentenparameter, die bei Datenvergleich bedeutsam sind.
-
-
-## Laufzeit
-
-**Start:** 
-**Ende:** 
-
-
-## Kontakt
-
-Bei Interesse wenden Sie sich bitte an einen der Co-Chairs.

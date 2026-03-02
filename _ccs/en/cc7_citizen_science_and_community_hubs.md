@@ -3,9 +3,9 @@ layout: cc
 lang: en
 translation_key: cc7_citizen_science_and_community_hubs
 title: Public Archaeology
-identifier: CC07
+identifier: CC7
 status: active
-start_date: ''
+start_date: 2026-01-30 12:00:00+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:

@@ -5,7 +5,7 @@ translation_key: cc-24-digitale-altdaten
 title: Digitale Altdaten
 identifier: CC24
 status: planned
-start_date: ''
+start_date: 2024-06-30 18:19:46.020000+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:

@@ -5,7 +5,7 @@ translation_key: cc-20-qualifikation-and-open-educational-ressources
 title: Qualification and Open Educational Ressources
 identifier: CC20
 status: active
-start_date: ''
+start_date: 2025-12-10 12:00:00+00:00
 proposal_url: https://community.nfdi4objects.net/assemblies/CC/f/5/proposals/20
 type: n4o:Organization
 cochairs:

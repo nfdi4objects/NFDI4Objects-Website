@@ -5,19 +5,15 @@ translation_key: twg1
 title: Environmental analysis of the RDM landscape in museums and collections
 identifier: TWG 2023.1
 status: active
-start_date: ''
+start_date: 2024-06-30 19:12:28.088000+00:00
 end_date: ''
-teaser_image: /assets/images/twgs/n4o_website_portal_twg_2023_1_200px.png
-teaser_image_alt: ''
-teaser_image_caption: ''
-coordinators:
+cochairs:
 - name: ''
-  person_ref: person-felix-fschäfer
+  person_ref: felix-fschäfer
 - name: ''
-  person_ref: person-johannesschäffer
+  person_ref: johannesschäffer
 areas:
 - ta2
-permalink: /twgs/twg1/
 ---
 
 ## Description
@@ -29,26 +25,3 @@ Among other things, these were related to the use of controlled vocabularies, th
 New surveys - in addition to the previous ones - can be designed and qualitative individual interviews conducted with representatives from the collection community if required. 
 
 Collected results will be analysed and requirements and fields of action derived from them. A list of standards, vocabularies and tools used will also be compiled for later integration into the NFDI4Objects commons.
-
-## Focus
-
-The focus is on standardized metadata for instrument configurations in analytical methods such as:
-- Optical microscopy
-- X-ray fluorescence
-- Raman spectroscopy
-
-
-## Goals
-
-The goal is to develop a metadata profile for instrument parameters that are significant for data comparison.
-
-
-## Duration
-
-**Start:** 
-**End:** 
-
-
-## Contact
-
-If interested, please contact one of the coordinators.
