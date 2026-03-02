@@ -253,6 +253,12 @@ Unterstützte Collections:
               {%- else -%}
                 <a href="{{ '/about/people/coordination/' | relative_url }}">Koordinationsbüro</a>
               {%- endif -%}
+            {%- when "staff" -%}
+              {%- if current_lang == "en" -%}
+                <a>Staff</a>
+              {%- else -%}
+                <a>Mitarbeitende</a>
+              {%- endif -%}
             {%- when "steering" -%}
               {%- if current_lang == "en" -%}
                 <a href="{{ '/en/about/organisation/steering/' | relative_url }}">Steering Committee</a>
@@ -411,4 +417,6 @@ Unterstützte Collections:
   {% include ttl-download-button.html %}
 
 {%- endif -%}
+
+
 
