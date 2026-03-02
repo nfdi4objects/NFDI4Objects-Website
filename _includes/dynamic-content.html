@@ -346,9 +346,9 @@ Unterstützte Collections:
   {%- assign relevant_trails = "" | split: "" -%}
   {%- assign trails_by_lang = site.trails | where: "lang", current_lang -%}
   {%- for trail in trails_by_lang -%}
-    {%- if trail.coordinators -%}
-      {%- for coordinator in trail.coordinators -%}
-        {%- if coordinator.person_ref == page.translation_key -%}
+    {%- if trail.cochairs -%}
+      {%- for cochair in trail.cochairs -%}
+        {%- if cochair.person_ref == page.translation_key -%}
           {%- assign relevant_trails = relevant_trails | push: trail -%}
           {%- break -%}
         {%- endif -%}
@@ -361,11 +361,11 @@ Unterstützte Collections:
     <h3>Trails</h3>
     <ul class="involvement-list">
       {%- for trail in relevant_trails -%}
-        {%- for coordinator in trail.coordinators -%}
-          {%- if coordinator.person_ref == page.translation_key -%}
+        {%- for cochair in trail.cochairs -%}
+          {%- if cochair.person_ref == page.translation_key -%}
           <li>
             <a href="{{ trail.url | relative_url }}" class="badge badge--trail">{{ trail.title }}</a>
-            <span class="role-label">({{ coordinator.role | default: "Coordinator" }})</span>
+            <span class="role-label">({{ cochair.role | default: "Co-Chair" }})</span>
           </li>
           {%- break -%}
           {%- endif -%}
@@ -379,9 +379,9 @@ Unterstützte Collections:
   {%- assign relevant_twgs = "" | split: "" -%}
   {%- assign twgs_by_lang = site.twgs | where: "lang", current_lang -%}
   {%- for twg in twgs_by_lang -%}
-    {%- if twg.coordinators -%}
-      {%- for coordinator in twg.coordinators -%}
-        {%- if coordinator.person_ref == page.translation_key -%}
+    {%- if twg.cochairs -%}
+      {%- for cochair in twg.cochairs -%}
+        {%- if cochair.person_ref == page.translation_key -%}
           {%- assign relevant_twgs = relevant_twgs | push: twg -%}
           {%- break -%}
         {%- endif -%}
@@ -394,11 +394,11 @@ Unterstützte Collections:
     <h3>{% if current_lang == "en" %}Temporary Working Groups{% else %}Temporäre Arbeitsgruppen{% endif %}</h3>
     <ul class="involvement-list">
       {%- for twg in relevant_twgs -%}
-        {%- for coordinator in twg.coordinators -%}
-          {%- if coordinator.person_ref == page.translation_key -%}
+        {%- for cochair in twg.cochairs -%}
+          {%- if cochair.person_ref == page.translation_key -%}
           <li>
             <a href="{{ twg.url | relative_url }}" class="badge badge--twg">{{ twg.title }}</a>
-            <span class="role-label">({{ coordinator.role | default: "Coordinator" }})</span>
+            <span class="role-label">({{ cochair.role | default: "Co-Chair" }})</span>
           </li>
           {%- break -%}
           {%- endif -%}
