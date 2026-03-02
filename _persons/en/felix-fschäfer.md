@@ -5,7 +5,7 @@ lang: en
 translation_key: felix-fschäfer
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
-- mitarbeitende
+- staff
 institution: stiftung-preußischer-kulturbesitz
 orcid: 0000-0002-9867-5588
 ---

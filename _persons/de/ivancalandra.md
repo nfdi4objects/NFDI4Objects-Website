@@ -5,7 +5,7 @@ lang: de
 translation_key: ivancalandra
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
-- mitarbeitende
+- staff
 institution: leiza
 orcid: 0000-0003-3816-6359
 ---

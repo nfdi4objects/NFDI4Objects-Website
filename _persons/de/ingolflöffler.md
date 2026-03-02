@@ -5,7 +5,7 @@ lang: de
 translation_key: ingolflöffler
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
-- mitarbeitende
+- staff
 institution: deutsches-bergbau-museum-bochum
 orcid: 0009-0003-5185-1307
 ---

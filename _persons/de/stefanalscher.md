@@ -5,7 +5,7 @@ lang: de
 translation_key: stefanalscher
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
-- mitarbeitende
+- staff
 institution: klassik-stiftung-weimar
 orcid: 0000-0001-8509-8171
 ---

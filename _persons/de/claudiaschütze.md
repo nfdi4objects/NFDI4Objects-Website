@@ -5,7 +5,7 @@ lang: de
 translation_key: claudiaschütze
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
-- mitarbeitende
+- staff
 institution: helmholtz-zentrum-fuer-umweltforschung-department-monitoring-und-erkundungstechnologien
 orcid: ''
 ---

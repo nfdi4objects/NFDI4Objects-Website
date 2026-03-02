@@ -5,7 +5,7 @@ lang: de
 translation_key: dennisjan
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
-- mitarbeitende
+- staff
 institution: generaldirektion-kulturelles-erbe-rheinland-pfalz
 orcid: ''
 ---

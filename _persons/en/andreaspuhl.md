@@ -5,7 +5,7 @@ lang: en
 translation_key: andreaspuhl
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
-- mitarbeitende
+- staff
 institution: generaldirektion-kulturelles-erbe-rheinland-pfalz
 orcid: 0000-0002-7387-7247
 ---

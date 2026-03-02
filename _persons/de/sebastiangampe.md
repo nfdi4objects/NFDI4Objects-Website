@@ -5,7 +5,7 @@ lang: de
 translation_key: sebastiangampe
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
-- mitarbeitende
+- staff
 institution: frankfurt-big-data-lab-goethe-universität-frankfurt
 orcid: ''
 ---

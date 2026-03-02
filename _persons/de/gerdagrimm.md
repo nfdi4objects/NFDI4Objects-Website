@@ -5,7 +5,7 @@ lang: de
 translation_key: gerdagrimm
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
-- mitarbeitende
+- staff
 institution: deutsches-archäologisches-institut-dai
 orcid: 0009-0009-7393-1803
 ---

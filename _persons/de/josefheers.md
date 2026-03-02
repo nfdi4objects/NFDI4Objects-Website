@@ -5,7 +5,7 @@ lang: de
 translation_key: josefheers
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
-- mitarbeitende
+- staff
 institution: verbundzentrale-des-gbv
 orcid: 0009-0005-3056-1778
 ---
