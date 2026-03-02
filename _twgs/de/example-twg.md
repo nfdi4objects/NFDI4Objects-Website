@@ -14,13 +14,11 @@ end_date: 2025-01-15
 proposal_url: ""
 
 # Koordinatoren
-coordinators:
-  - name: "Name Koordinator 1"
-    role: "CoChair1"
-    person_ref: ""
-  - name: "Name Koordinator 2"
-    role: "CoChair2"
-    person_ref: ""
+cochairs:
+- name: ''
+  person_ref: frankvon-hagel
+- name: ''
+  person_ref: martinstricker
 
 # Zugeordnete Task Areas
 areas:
@@ -53,3 +51,4 @@ Diese temporäre Arbeitsgruppe beschäftigt sich mit [Thema].
 ## Ergebnisse
 
 Die Ergebnisse werden hier dokumentiert.
+
