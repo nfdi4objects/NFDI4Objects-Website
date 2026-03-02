@@ -57,10 +57,10 @@ permalink: /twgs/
             <div class="card-body">
               <h3 class="h4"><a href="{{ twg.url | relative_url }}">{{ twg.title }}</a></h3>
 
-              {% if twg.coordinators %}
+              {% if twg.cochairs %}
                 <p class="smaller"><strong>Co-Chairs:</strong><br>
-                {% for coord in twg.coordinators %}
-                  {{ coord.name }}{% unless forloop.last %}, {% endunless %}
+                {% for cochair in twg.cochairs %}
+                  {{ cochair.name }}{% unless forloop.last %}, {% endunless %}
                 {% endfor %}
                 </p>
               {% endif %}
@@ -86,3 +86,4 @@ permalink: /twgs/
       <p><em>{% if lang == 'en' %}No TWGs found.{% else %}Keine TWGs gefunden.{% endif %}</em></p>
     {% endif %}
 </section>
+
