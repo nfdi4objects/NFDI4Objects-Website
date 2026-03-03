@@ -11,6 +11,14 @@ permalink: /community/groups-networks/community-clusters/
        subtitle="Die Governance-Struktur von NFDI4Objects gewährleistet eine transparente und partizipative Entscheidungsfindung."
  %}
 
+# Community Cluster
+
+## Austausch und Mitgestaltung
+
+NFDI4Objects ist in engem Austausch mit der Community entstanden und entwickelt sich gemeinsam mit ihr weiter. Wer sich einbringen möchte, kann dies vor allem über die Community Cluster tun. 
+
+Community Cluster sind offene Foren zu unterschiedlichen Themen des Forschungsdatenmanagements. Sie bieten eine Plattform für fachlichen Austausch, Vernetzung und gemeinsame Diskussionen. Hier können Bedarfe formuliert, Erfahrungen geteilt und neue Ideen entwickelt werden.
+
 {% include blocks/image-text-grid.html
    image="/assets/images/community-cluster.jpg"
    alt="Beschreibender Alt-Text"
@@ -19,13 +27,6 @@ permalink: /community/groups-networks/community-clusters/
    image_order="1"
    text_order="2"
 %}
-# Community Cluster
-
-## Austausch und Mitgestaltung
-
-NFDI4Objects ist in engem Austausch mit der Community entstanden und entwickelt sich gemeinsam mit ihr weiter. Wer sich einbringen möchte, kann dies vor allem über die Community Cluster tun. 
-
-Community Cluster sind offene Foren zu unterschiedlichen Themen des Forschungsdatenmanagements. Sie bieten eine Plattform für fachlichen Austausch, Vernetzung und gemeinsame Diskussionen. Hier können Bedarfe formuliert, Erfahrungen geteilt und neue Ideen entwickelt werden.
 
 Die Cluster begleiten die Arbeit des Konsortiums und tragen dazu bei, Impulse aus der Community frühzeitig zu erkennen und aufzugreifen. 
 
