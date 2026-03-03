@@ -18,16 +18,15 @@ permalink: /en/
     items=onboarding_en.items
 %}
 
-{% assign services_en = site.data.en.teaser-services %}
+{% assign services = site.data.de.teaser-services %}
 {% include sections/teaser-grid.html
-    title=services_en.title
-    subtitle=services_en.subtitle
-    bg=services_en.bg
-    focus=services_en.focus
-    centered=services_en.centered
-    columns=services_en.columns
-    items=services_en.items
-    section_button=services_en.section_button
+    title=services.title
+    subtitle=services.subtitle
+    bg=services.bg
+    focus=services.focus
+    columns=services.columns
+    items=services.items
+    section_button=services.section_button
 %}
 
 {% include sections/news-dynamic.html
