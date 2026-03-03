@@ -19,17 +19,23 @@ permalink: /community/groups-networks/community-clusters/
    image_order="1"
    text_order="2"
 %}
+# Community Cluster
 
+## Austausch und Mitgestaltung
 
-## Welche Ziele verfolgen Community Cluster?
+NFDI4Objects ist in engem Austausch mit der Community entstanden und entwickelt sich gemeinsam mit ihr weiter. Wer sich einbringen möchte, kann dies vor allem über die Community Cluster tun. 
 
-Community Cluster erleichtern den Wissenstransfer innerhalb der Community und schaffen Strukturen für eine thematisch-fokussierte Kommunikation, die für die Entwicklung von langfristig erfolgreichen und nachhaltigen FDM-Konzepten unverzichtbar ist.
+Community Cluster sind offene Foren zu unterschiedlichen Themen des Forschungsdatenmanagements. Sie bieten eine Plattform für fachlichen Austausch, Vernetzung und gemeinsame Diskussionen. Hier können Bedarfe formuliert, Erfahrungen geteilt und neue Ideen entwickelt werden.
 
-Sollte in einem Community Cluster eine konkrete Fragestellung oder Herausforderung zum Forschungsdatenmanagement aufkommen, besteht die Möglichkeit, sich zu einer Arbeitsgruppe zusammenzuschließen und das Anliegen im Rahmen einer Temporary Working Group zu bearbeiten.
+Die Cluster begleiten die Arbeit des Konsortiums und tragen dazu bei, Impulse aus der Community frühzeitig zu erkennen und aufzugreifen. 
 
-### Wie kann ich mitmachen?
+Alle Interessierten sind eingeladen, sich in den Community Clustern zu beteiligen. Die Treffen finden in der Regel digital statt. Man kann jederzeit einsteigen, Themen einbringen, Diskussionen mitgestalten und neue Kontakte knüpfen. 
 
-Alle Interessierten sind herzlich eingeladen, sich an den Community Clustern zu beteiligen. Bringen Sie Ihre Expertise ein, knüpfen Sie neue Kontakte und gestalten Sie die Zukunft des Forschungsdatenmanagements aktiv mit! Die Treffen finden zumeist in digitaler Form statt. Informationen, welche Themen bereits im Rahmen von Clustern diskutiert werden, sowie die Kontaktdaten der Ansprechpartner:innen finden Sie in im Portal. Um weiterhin auf dem Laufenden zu bleiben, bietet der Newsletter regelmäßig Informationen zu aktuellen Entwicklungen im Konsortium.  Gründen Sie selbst eins!
+## Ein Community Cluster gründen
+
+Wer ein neues Thema in der Community verankern möchte, kann gemeinsam mit anderen Interessierten eine Initiativgruppe bilden, um ein kurzes Konzept zu erarbeiten und das Vorhaben vorab im Konsortium vorzustellen. Die Einrichtung eines Community Clusters erfolgt dann durch einen Beschluss der Steuerungsgruppe. Nach der Gründung wird das neue Cluster öffentlich bekannt gemacht und die erste Sitzung kann stattfinden.
+
+Alle weiteren Informationen finden Sie hier: [Gründung eines Community Clusters](https://community.nfdi4objects.net/assemblies/CC).
 
 <section class="bg-sand full-width-content all-button">
       {% include blocks/button.html

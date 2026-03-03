@@ -26,5 +26,11 @@ cards:
        title="Fachgruppen & Netzwerke"
  %}
 
+# Unsere Community
+
+Die Community von NFDI4Objects vereint alle, die sich mit dem materiellen Erbe der Menschheit und den dazugehörigen Forschungsdaten beschäftigen. Willkommen sind Menschen aller Erfahrungsstufen – von Forschenden und Studierenden über Mitarbeitende in Museen, Archiven, Bibliotheken und Denkmalämtern bis hin zu Entwickler:innen oder spezialisierten Firmen und Institutionen. 
+
+Die fachliche Bandbreite ist groß. Sie reicht von verschiedenen archäologischen Disziplinen über Anthropologie, Bauforschung und naturwissenschaftliche Spezialgebiete bis hin zu Konservierung, Restaurierung und Provenienzforschung. Gemeinsam ist diesen Bereichen, dass sie mit Daten zu durch Menschen geschaffenen oder geformten Objekten arbeiten – etwa mit Artefakten, Bauwerken, Landschaften oder biologischen Überresten. Diese Daten entstehen beispielsweise bei Ausgrabungen, Sammlungsdokumentationen, Landschaftsvermessungen oder laborbasierten Analysen.
+
 {% include teaser-cards.html cards=page.cards bg_color="bg-sand" %}
 
