@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Temporäre Arbeitsgruppen (TWGs)"
+title: "Temporary Working Groups (TWGs)"
 lang: en
 translation_key: twgs_info
 permalink: /en/community/groups-networks/twgs/
 ---
 {% include page-header.html
        icon="/assets/icons/portal/Temporary-Working-Groups.svg"
-       title="Temporäre Arbeitsgruppen"
+       title="Temporary Working Groups"
        subtitle=" <strong>T</strong>emporary <strong>W</strong>orking <strong>G</strong>roups"
  %}
 

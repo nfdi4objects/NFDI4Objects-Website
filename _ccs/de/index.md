@@ -15,7 +15,7 @@ permalink: /ccs/
 {% include page-header.html
        icon="/assets/icons/portal/Community-Cluster.svg"
        title="Community Clusters"
-       subtitle="Community Clusters (CCs) sind thematische Arbeitsgruppen"
+       subtitle="Community Clusters (CCs) sind thematische Foren, die bestimmte Interessensgebiete innerhalb von NFDI4Objects abdecken."
  %}
 
 
