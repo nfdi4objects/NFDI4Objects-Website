@@ -18,7 +18,7 @@ permalink: /en/
     items=onboarding_en.items
 %}
 
-{% assign services = site.data.de.teaser-services %}
+{% assign services = site.data.en.teaser-services %}
 {% include sections/teaser-grid.html
     title=services.title
     subtitle=services.subtitle
