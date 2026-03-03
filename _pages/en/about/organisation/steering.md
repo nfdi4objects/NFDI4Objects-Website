@@ -8,9 +8,10 @@ permalink: /en/about/organisation/steering/
 
 {% include page-header.html
     icon="/assets/icons/portal/Lenkungskreis.svg"
-    title="Steering Committee"
-    subtitle="The Steering Committee is the strategic leadership body of NFDI4Objects. It is chaired by the spokesperson, with co-spokespersons from co-applicant institutions as additional members."
+    title="Steering Committee"    
 %}
+
+The Steering Committee is the strategic leadership body of NFDI4Objects. It is chaired by the spokesperson, with co-spokespersons from co-applicant institutions as additional members.
 
 ## Responsibilities
 
