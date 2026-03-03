@@ -222,6 +222,9 @@
   {% assign all_docs = all_docs | concat: site.events %}
   {% assign all_docs = all_docs | concat: site.persons %}
   {% assign all_docs = all_docs | concat: site.areas %}
+  {% assign all_docs = all_docs | concat: site.ccs %}
+  {% assign all_docs = all_docs | concat: site.twgs %}
+  {% assign all_docs = all_docs | concat: site.trails %}
 
   {% comment %}
   Passende Gegen-Seite finden (gleiche translation_key, andere Sprache)

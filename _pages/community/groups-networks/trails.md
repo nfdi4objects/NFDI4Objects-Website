@@ -10,27 +10,40 @@ permalink: /community/groups-networks/trails/
         
 {% include page-header.html
     icon="/assets/icons/portal/Trails.svg"
-    title="TRAILS"
+    title="Was sind TRAILs"
     subtitle="<strong>T</strong>ask <strong>R</strong>elated <strong>A</strong>ctivities for
         <strong>I</strong>mplementation and <strong>L</strong>aunch of <strong>S</strong>ervices"
 %}
 
-## Was sind TRAILS?
+TRAILs (Task Related Activities for Implementation and Launch of Services) sind ein zentrales Instrument innerhalb von NFDI4Objects. Sie dienen dazu, innovative und praxisnahe Vorhaben umzusetzen, die neue Lösungen für den Umgang mit objektbezogenen Forschungsdaten entwickeln und erproben. 
 
-TRAILS sind forschungsgetriebene Pilotprojekte von NFDI4Objects, die konkrete technische Lösungen,
-Standards und Werkzeuge für das Forschungsdatenmanagement entwickeln. Sie entstehen aus den Bedarfen
-der Community und arbeiten zielorientiert an definierten Ergebnissen.
+Ausgangspunkt sind die Bedarfe der Community. TRAILs greifen konkrete Herausforderungen auf und bearbeiten diese in zeitlich begrenzten Projekten. Ziel ist es, sowohl die wissenschaftliche Arbeit als auch die Infrastruktur von NFDI4Objects nachhaltig zu stärken.
 
-Die Entwicklung von NFDI4Objects wird von den Bedürfnissen der Forscher:innen an die Verwaltung von Forschungsdaten gemäß den FAIR-Grundsätzen bestimmt. NFDI4Objects nutzt TRAILs (Task Related Activities for Implementation and Launch of Services), um die Community einzubinden. TRAILs ermöglichen die Entwicklung und Umsetzung praxisnaher und innovativer Ideen, welche sowohl die wissenschaftliche Arbeit als auch die Infrastruktur des Konsortiums nachhaltig stärken.
+## Die erste TRAIL-Phase (seit 2023\)
 
-Für die seit 2023 laufende erste TRAIL-Phase haben wir 18 Projekte auf den Weg gebracht, die mit einer Laufzeit von sechs bis 24 Monaten gefördert wurden.
+Seit 2023 wurden in einer ersten Phase insgesamt 18 Projekte gefördert. Die Laufzeiten lagen zwischen sechs und 24 Monaten. 
 
-### Wir fördern dabei Projektideen,
+Gefördert wurden insbesondere Projekte, die
 
-die neue Ansätze und Werkzeuge erproben, um den Umgang mit Forschungsdaten zu verbessern und deren Austausch zu erleichtern.
+- neue Ansätze und Instrumente für den Umgang mit Forschungsdaten entwickeln,   
+- konkrete Lösungen für die Bedarfe der Fachcommunity erarbeiten,  
+- langfristig nutzbare Ergebnisse hervorbringen.
 
-die konkrete Lösungen für die Bedürfnisse der Fachcommunity entwickeln. Unsere Konsortialmitglieder arbeiten dabei fachübergreifend zusammen, um praxisnahe Ansätze für den Umgang mit objektbezogenen Forschungsdaten zu schaffen.
-die langfristig nutzbar sind. Die Ergebnisse der TRAILs fließen als Dienste in NFDI4Objects ein und stehen in den NFDI4Objects-Commons zur Verfügung.
+Die Ergebnisse dieser Projekte fließen als Dienste oder Beiträge in die [NFDI4Objects-Commons](https://commons.nfdi4objects.net) ein und stehen der Community dauerhaft zur Verfügung. 
+
+### Was haben wir gelernt?
+
+Eine Auswertung der ersten Phase hat gezeigt, dass die TRAILs wichtige Impulse gesetzt und fachliche Innovationen angestoßen haben. Gleichzeitig wurde deutlich, dass viele Projekte sehr spezifische Fragestellungen bearbeitet haben. 
+
+Für die nächste Phase werden die geförderten Vorhaben daher stärker auf gemeinsame, übergeordnete Ziele ausgerichtet, um noch besser zur Gesamtentwicklung von NFDI4Objects beizutragen.
+
+## Die zweite TRAIL-Phase (ab 2025\)
+
+Die zweite TRAIL-Phase begann im Herbst 2025\. Aufgrund reduzierter Fördermittel erfolgte die Ausschreibung ausschließlich innerhalb des Konsortiums. 
+
+Gefördert werden Projekte, die einen klaren Beitrag zu den strategischen Zielen der [Task Areas](/areas/) leisten und deren Ergebnisse unmittelbar in den Gesamtzusammenhang von NFDI4Objects eingebunden werden können.
+
+Eine Übersicht aller TRAILs und weitergehende Informationen finden Sie [hier](/trails/): 
 
 <section class="bg-sand full-width-content all-button">
       {% include blocks/button.html
