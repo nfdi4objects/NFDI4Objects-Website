@@ -11,8 +11,8 @@ permalink: /en/twgs/
 
 {% include page-header.html
        icon="/assets/icons/portal/Temporary-Working-Groups.svg"
-       title="Temporäre Arbeitsgruppen"
-       subtitle=" <strong>T</strong>emporary <strong>W</strong>orking <strong>G</strong>roups"
+       title="Temporary Working Groupy"
+       subtitle="All our <strong>T</strong>emporary <strong>W</strong>orking <strong>G</strong>roups"
  %}
 
 <section>
