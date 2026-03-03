@@ -9,9 +9,6 @@ permalink: /en/ccs/
 {% assign lang = page.lang | default: 'en' %}
 {% assign ccs = site.ccs | where: "lang", lang | where_exp: "item", "item.translation_key != 'ccs_overview'" | sort: "identifier" %}
 
-{% assign lang = page.lang | default: 'de' %}
-{% assign twgs = site.twgs | where: "lang", lang | where_exp: "item", "item.translation_key != 'twgs_overview'" | sort: "identifier" %}
-
 {% include page-header.html
        icon="/assets/icons/portal/Community-Cluster.svg"
        title="Community Clusters"

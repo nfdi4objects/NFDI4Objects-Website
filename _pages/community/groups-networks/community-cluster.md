@@ -11,8 +11,6 @@ permalink: /community/groups-networks/community-clusters/
        subtitle="Die Governance-Struktur von NFDI4Objects gewährleistet eine transparente und partizipative Entscheidungsfindung."
  %}
 
-# Community Cluster
-
 ## Austausch und Mitgestaltung
 
 NFDI4Objects ist in engem Austausch mit der Community entstanden und entwickelt sich gemeinsam mit ihr weiter. Wer sich einbringen möchte, kann dies vor allem über die Community Cluster tun. 
