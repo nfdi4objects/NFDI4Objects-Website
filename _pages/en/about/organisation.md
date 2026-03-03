@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Organisation & Gremien
+title: Organisation & Committees
 lang: en
 description: ""
 keywords: ""
 translation_key: organisation
-permalink: en/about/organisation/
+permalink: /en/about/organisation/
 cards:
-  - title: Lenkungskreis
+  - title: Steering Committee
     icon: /assets/icons/portal/Lenkungskreis.svg
     url: /en/about/organisation/steering/
-    description: Strategische Führung und Entscheidungsfindung des Konsortiums
-  - title: Wissenschaftlicher Beirat
+    description: Strategic management and decision-making of the consortium
+  - title: Advisory Board
     icon: /assets/icons/portal/Wissenschaftlicher-Beirat.svg
     url: /en/about/organisation/advisory/
-    description: Beratungsgremium für fachliche und strategische Fragen
+    description: Advisory board for technical and strategic issues
 ---
 {% include page-header.html
-    title="Organisation & Gremien "
-    subtitle="Die Governance-Struktur von NFDI4Objects gewährleistet eine transparente und partizipative Entscheidungsfindung."
+    title="Organisation & Committees "
+    subtitle="The governance structure of NFDI4Objects ensures transparent and participatory decision-making."
 %}
 
 {% include teaser-cards.html cards=page.cards bg_color="bg-sand" %}

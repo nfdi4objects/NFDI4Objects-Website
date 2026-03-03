@@ -7,15 +7,15 @@ permalink: /en/about/people/
 cards:
   - title: Consortium Members
     icon: /assets/icons/portal/Konsortialmitglieder.svg
-    url: /about/people/members/
+    url: /en/about/people/members/
     description: All participating institutions and research facilities of the consortium
   - title: Persons
     icon: /assets/icons/portal/Personen.svg
-    url: /about/people/persons/
+    url: /en/about/people/persons/
     description: Overview of all team members and their areas of expertise
   - title: Coordination Office
     icon: /assets/icons/portal/Koordinationsbuero.svg
-    url: /about/people/coordination/
+    url: /en/about/people/coordination/
     description: Central coordination and contact point for all inquiries
 ---
  
