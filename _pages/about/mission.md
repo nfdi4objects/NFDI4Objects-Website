@@ -7,9 +7,9 @@ lang: de
 translation_key: about_mission
 permalink: /about/mission/
 ---
+# Mission und Ziele
 
-# Mission & Ziele
-NFDI4Objects richtet sich an alle, die sich beruflich oder privat mit dem kulturellen Erbe von drei Millionen Jahren Menschheitsgeschichte beschäftigen und sich zugleich an der digitalen Transformation sowie an Lösungen für das Forschungsdatenmanagement beteiligen möchten. Die Gestaltung von Forschungsdaten nach den FAIR-Prinzipien ist uns ein zentrales Anliegen. Ziel ist es, dass Forschungsdaten besser gesammelt, geordnet, langfristig gesichert und für andere Forschende zugänglich gemacht werden. So können Daten mehrfach genutzt werden, was die Forschung verbessert und effizienter macht.
+NFDI4Objects richtet sich an alle, die sich mit dem kulturellen Erbe von mehr als drei Millionen Jahren Menschheitsgeschichte beschäftigen und den digitalen Wandel dieses Erbes sowie den nachhaltigen Umgang mit Forschungsdaten aktiv mitgestalten wollen. Unser Ziel ist es, diese Daten im Sinne von Open Science langfristig zugänglich, nachvollziehbar und wissenschaftlich nutzbar zu machen. 
 
 {% include blocks/image-centered.html
    image="/assets/images/content/Seepferdchen_Sammlungseingang_Foto_K.jpg"
@@ -19,50 +19,49 @@ NFDI4Objects richtet sich an alle, die sich beruflich oder privat mit dem kultur
    class="img-center"
 %}
 
-Gemeinsam wirken die Mitglieder im Konsortium für unsere wissenschaftliche Community am Aufbau der Nationalen Forschungsdateninfrastruktur. Zentrale Grundlagen unserer Arbeit sind die Konzepte des Datenlebenszyklus und der Objektbiographie, an denen wir uns strukturell orientieren. Die Objektbiographie dokumentiert die Lebensgeschichte eines Objekts von seiner Herstellung, über seinen Gebrauch, seine Besitzer:innen bis hin zu seinem derzeitigen Verbleib. Sie betrachtet das Objekt nicht nur als statischen Gegenstand, sondern als dynamischen Teil von sozialen und kulturellen Zusammenhängen in sich verändernden Kontexten, die sich in der Archäologie mit der Erstdokumentation und Bergung von Objekten, der systematischen Erschließung in Sammlungen bis zur naturwissenschaftlichen Analyse und Restaurierung fortsetzen. Wichtige Elemente bilden im Anschluss die Speicherung und integrierte Veröffentlichung (Linked Open Data) sowie die Vermittlung von Datenkompetenz.
+Wir arbeiten mit Forschenden, Studierenden, Entwickler:innen und Institutionen zusammen, die sich mit dem materiellen Erbe der Menschheit beschäftigen – von den frühesten archäologischen Funden bis hin zu historischen und musealen Sammlungen. Gemeinsam entwickeln wir Standards für objektbezogene Daten, stellen technische Dienste bereit und bieten praxisnahe Beratung und Schulungen an. So unterstützen wir die Community dabei, Forschungsdaten nach [FAIR](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/)\- und [CARE](https://www.gida-global.org/care)\-Prinzipien[^1] zu erfassen, zu sichern, zu veröffentlichen und effizient nutzbar zu machen. 
 
-## NFDI4Objects in der NFDI
+Unsere Arbeit orientiert sich am gesamten Lebenszyklus eines Objekts – von der ersten Dokumentation und Bergung über seine wissenschaftliche Erschließung, Analyse und Restaurierung bis hin zu Speicherung, Veröffentlichung (Linked Open Data) und langfristiger Sicherung. Ebenso wichtig ist die Vermittlung von Datenkompetenz, damit diese Prozesse von allen Beteiligten eigenständig und nachhaltig gestaltet werden können. Dabei beziehen wir die Perspektiven und Bedarfe unserer Community kontinuierlich ein. 
 
-### Über die Nationale Forschungsdateninfrastruktur
+Auf dieser Grundlage entsteht gemeinsam mit unseren Partnerinstitutionen eine nationale Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheit. Dazu entwickeln wir unter anderem Plattformen für freie Softwareanwendungen und digitale Archive, erarbeiten Konzepte zu normierten Datensätzen und erstellen Handreichungen für eine langfristige und nachhaltige Datenspeicherung. Die Ergebnisse dieser Arbeit stellen wir der Community in Form von [Commons](https://commons.nfdi4objects.net/) und vielfältigen Diensten zur Verfügung. 
 
-Die Nationale Forschungsdateninfrastruktur (NFDI) hat es sich zur Aufgabe gemacht, die Forschungsdatenbestände in Deutschland als gemeinsames Gut für zukünftige Forschungen systematisch zu erschließen, zu vernetzen und nachhaltig sowie qualitativ nutzbar zu machen.
-Relevante Daten sollen nach den FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) in einem dauerhaften Wissensspeicher gesichert und zur Verfügung gestellt werden. Dies schafft die Voraussetzung für zukünftige exzellente Forschung und maßgebliche Innovationen in Wissenschaft und Gesellschaft.
+So trägt NFDI4Objects dazu bei, dass Forschungsdaten zum materiellen Erbe nicht nur bewahrt, sondern heute und in Zukunft aktiv genutzt, vernetzt und weiterentwickelt werden können. 
 
-Zur Erreichung dieser Ziele beschloss die Gemeinsame Wissenschaftskonferenz, auf Anregung des Rats für Informationsinfrastrukturen, die Förderung der NFDI im Rahmen der Bund-Länder-Vereinbarung zu Aufbau und Förderung einer Nationalen Forschungsdateninfrastruktur (NFDI) vom 26. November 2018.
+## NFDI4Objects in der Nationalen Forschungsdateninfrastruktur (NFDI)
 
-Um die Aktivitäten des Aufbaus der NFDI zu koordinieren, wurde 2020 der gemeinnützige Verein Nationale Forschungsdateninfrastruktur (NFDI) e.V. mit Sitz in Karlsruhe gegründet. Der Verein verfügt über eigene Organe und Strukturen.
+### Was ist die NFDI?
 
-NFDI4Objects ist dabei einerseits ein über die Bund-Länder-Vereinbarung zur NFDI gefördertes Konsortium, andererseits eine Unterabteilung des Vereins NFDI e.V.
+Die Nationale Forschungsdateninfrastruktur (NFDI) ist eine bundesweite Initiative, die Forschungsdaten in Deutschland langfristig sichern, vernetzen und zugänglich machen soll. Ziel ist es, wissenschaftliche Daten aus unterschiedlichen Fachgebieten als gemeinsames Gut systematisch zu erschließen und so aufzubereiten, dass sie auffindbar, zugänglich, verknüpfbar und wiederverwendbar sind (FAIR-Prinzipien). 
 
-### Die Bund-Länder-Vereinbarung und NFDI4Objects
+Damit schafft die NFDI die Grundlage für eine transparente, qualitätsgesicherte und zukunftsfähige Forschung sowie einen nationalen Rahmen für das nachhaltige Management von Forschungsdaten in Deutschland. 
 
-Im Rahmen der Bund-Länder-Vereinbarung (BLV) stellen Bund und Länder im Zeitraum von 2019 bis 2028 bis zu 90 Millionen Euro pro Jahr für die Projektförderung zur Verfügung. Den Aufbau der NFDI sollen von der Community selbst organisierte Fachkonsortien leisten, um zielgerichtet auf die jeweiligen Bedürfnisse des disziplinspezifischen Forschungsdatenmanagements eingehen zu können.
+Die NFDI basiert auf einer Bund-Länder-Vereinbarung von 2018\. Bund und Länder stellen dafür von 2019 bis 2028 jährlich bis zu 90 Millionen Euro bereit. Die Umsetzung erfolgt durch wissenschaftsgeleitete Fachkonsortien, die aus der Community heraus organisiert sind. 
 
-Zur NFDI gehören nach dem Abschluss von drei Antragsrunden 26 Konsortien und der Verbund Base4NFDI. Diese Konsortien gemäß BLV wurden in einem wissenschaftsgeleiteten Verfahren, das die Deutsche Forschungsgemeinschaft (DFG) steuert, von der Gemeinsamen Wissenschaftskonferenz ausgewählt. Sie decken vielfältige Wissenschaftsdisziplinen von den Kultur-, Sozial-, Geistes- und Ingenieurwissenschaften bis hin zu den Lebens- und Naturwissenschaften ab.
+Derzeit gehören 26 Konsortien sowie der gemeinsame Verbund Base4NFDI zur Nationalen Forschungsdateninfrastruktur. Sie decken ein breites Spektrum an Disziplinen ab – von Kultur-, Sozial- und Geisteswissenschaften über Ingenieurswissenschaften bis hin zu Lebens- und Naturwissenschaften. Die Auswahl der Konsortien erfolgt in einem wissenschaftsgeleiteten Verfahren unter Koordination der Deutschen Forschungsgemeinschaft (DFG).
 
-NFDI4Objects ist ein Konsortium der dritten Antragsrunde und ist zum März 2023 in die Förderung gemäß der Bund-Länder-Vereinbarung aufgenommen worden.
+### Die Rolle von NFDI4Objects
 
-### Der Verein Nationale Forschungsdateninfrastruktur e.V.
+NFDI4Objects ist eines dieser Fachkonsortien. Es wurde in der dritten Auswahlrunde bewilligt und ist seit März 2023 Teil der NFDI-Förderung. 
 
-Der 2020 gegründete gemeinnützige Verein Nationale Forschungsdateninfrastruktur e.V. (NFDI e.V.) hat den Zweck, die Entwicklung und den Aufbau der NFDI zu koordinieren. Er verfügt über folgende eigene Organe: das Direktorat, die Konsortialversammlung, das Kuratorium, die Mitgliederversammlung und den Wissenschaftlichen Senat. Die Geschäftsstelle des Vereins befindet sich in Karlsruhe.
+Innerhalb der NFDI vertritt NFDI4Objects die materiellen Kultur- und Objektwissenschaften. Derzeit arbeiten mehr als 70 Einrichtungen in unserem Konsortium zusammen. Wir entwickeln gemeinsame Standards, digitale Dienste und Infrastrukturen für einen nachhaltigen Umgang mit objektbezogenen Forschungsdaten – etwa zu archäologischen Funden, historischen Objekten, Bauwerken oder Sammlungsbeständen – und bringen diese in die fachübergreifende Zusammenarbeit der NFDI ein. 
 
-Eine Mitgliedschaft im NFDI e.V. steht allen interessierten Organisationen und Institutionen grundsätzlich offen. Eingeladen sind insbesondere solche, die sich bereits in einem NFDI-Konsortium engagieren oder von denen ein Beitrag zur Verwirklichung des Vereinszwecks zu erwarten ist.
+### Wie ist die NFDI organisiert?
 
-Die Arbeit der einzelnen NFDI-Konsortien für das Forschungsdatenmanagement in den verschiedenen Fachdisziplinen berührt eine Reihe von Querschnittsthemen, die über die Grenzen der Konsortien hinweg behandelt werden müssen. Diese Arbeit wird in den Sektionen des NFDI e.V. verrichtet. In ihnen arbeiten die Vereinsmitglieder zusammen, um Standards, Metadatenstandards und Formate zu entwickeln.
+Zur Koordination der Gesamtinitiative wurde 2020 der gemeinnützige Verein Nationale Forschungsdateninfrastruktur (NFDI) e. V. mit Sitz in Karlsruhe gegründet. 
 
-Durch den Wissenschaftlichen Senat des NFDI-Vereins wurden bislang folgende Sektionen eingerichtet:
+Die geförderten Konsortien sind darin als Unterabteilungen organisiert. Institutionen, die an einem Konsortium beteiligt sind, können Mitglied im Verein werden. Der Verein übernimmt koordinierende Aufgaben, bündelt gemeinsame Themen und schafft einen organisatorischen Rahmen für die Zusammenarbeit. 
 
-- [Common Infrastructures](https://www.nfdi.de/section-infra/) (section-infra)
-- [Legal and Social Aspects](https://www.nfdi.de/section-elsa/Ethical/) (section-ELSA)
-- [(Meta)daten, Terminologien, Provenienz](https://www.nfdi.de/section-metadata/)  (section-metadata)
-- [Training & Education](https://www.nfdi.de/section-edutrain/)  (section-edutrain)
-- [Industry Engagement](https://www.nfdi.de/sektion-industry-engagement/)  (section-industry)
+Ein zentrales Element dieser Zusammenarbeit sind die sogenannten Sektionen. In ihnen arbeiten Vertreter:innen verschiedener Konsortien zusammen, um fachübergreifende Standards und Lösungen zu entwickeln. Dazu gehören aktuell:
 
-[Mehr Informationen zu den Sektionen finden Sie auf der Homepage des NFDI e.V.](https://www.nfdi.de/sektion-industry-engagement/)
+- [gemeinsame Infrastrukturen](https://www.nfdi.de/section-infra/)  
+- [ethische, rechtliche und gesellschaftliche Fragen](https://www.nfdi.de/section-elsa/)  
+- [Metadaten, Terminologien und Provenienz](https://www.nfdi.de/section-metadata/)  
+- [Training und Weiterbildung](https://www.nfdi.de/section-edutrain/)  
+- [Zusammenarbeit mit der Industrie](https://www.nfdi.de/section-industry/)
 
-Die Konsortien gemäß BLV bilden im NFDI e.V. als Konsortien gemäß Satzung rechtlich unselbständige Unterabteilungen. Die in NFDI e.V. vertretenen Konsortialmitglieder von NFDI4Objects bilden das gleichnamige Konsortium gemäß Satzung. Im NFDI e.V. wird NFDI4Objects durch den gewählten Sprecher des Konsortiums gemäß Satzung und seinen Stellvertreter vertreten. Darüber hinaus sind viele Vertreter:innen der im Konsortium verbundenen Institutionen in den Sektionen aktiv.
+Auch NFDI4Objects bringt sich aktiv in diese Sektionen ein. 
 
-### Zusammenarbeit von NFDI4Objects mit anderen NFDI-Konsortien
+## Zusammenarbeit von NFDI4Objects mit anderen NFDI-Konsortien
 
 {% include blocks/image-text-grid.html
    image="/assets/images/content/20210707_n4o_netzwerk_konsortien.png"
@@ -74,7 +73,11 @@ Die Konsortien gemäß BLV bilden im NFDI e.V. als Konsortien gemäß Satzung re
    text_order="1"
 %}
 
-### Humanities@NFDI (“Memorandumsgruppe”)
+NFDI4Objects arbeitet als multidisziplinäres Konsortium eng mit anderen Konsortien der [Nationalen Forschungsdateninfrastruktur](https://www.nfdi.de/konsortien/) zusammen. Schnittstellen bestehen sowohl mit natur- und lebenswissenschaftlichen als auch mit geistes- und kulturwissenschaftlichen Initiativen, etwa bei Daten aus der Landschaftsvermessung, der Auswertung von Bodenproben, genetischen Analysen oder der Untersuchung von Tierknochen und Pflanzenresten.
+
+In diesen Bereichen treffen unterschiedliche Fachgebiete auf vergleichbare Datentypen und technische Herausforderungen. Der Austausch mit Konsortien wie [NFDI4Earth](https://www.nfdi4earth.de/), [NFDI4Biodiversity](https://www.nfdi4biodiversity.org/) oder [FAIRagro](https://fairagro.net/) trägt dazu bei, gemeinsam nutzbare Lösungen und disziplinübergreifende Standards zu entwickeln.
+
+### Humanities@NFDI
 
 {% include blocks/image-text-grid.html
    image="/assets/images/content/memorandumsgruppe.jpg"
@@ -86,12 +89,18 @@ Die Konsortien gemäß BLV bilden im NFDI e.V. als Konsortien gemäß Satzung re
    text_order="2"
 %}
 
-Die vier Konsortien wollen sich in ihrer Arbeit konstruktiv unterstützen. Mit dem Memorandum haben sie sich außerdem verpflichtet, einen Kulturwandel im Umgang mit Forschungsdaten in ihren jeweiligen Communities voranzutreiben.
+Eine besonders enge Zusammenarbeit besteht mit den geistes- und kulturwissenschaftlichen Konsortien [NFDI4Culture](https://nfdi4culture.de/de/index.html), [NFDI4Memory](https://4memory.de/) und [Text+](https://text-plus.org/) im Rahmen von Humanities@NFDI.
 
-Daher bietet die Kooperation Humanities@NFDI eine Vielzahl von Workshops, Schulungen, Diensten und Veranstaltungen an und stimmt sich in den Sektionen, Arbeitsgruppen und Gremien des NFDI e.V. eng untereinander ab.
+Bereits 2019 haben die beteiligten Konsortien ein Memorandum of Understanding verabschiedet, um ihre Aktivitäten strategisch zu koordinieren und gemeinsam einen nachhaltigen Umgang mit Forschungsdaten in den stark differenzierten Geistes- und Kulturwissenschaften zu fördern. 
 
-Wenn Sie Kontakt mit der Kooperation Humanities@NFDI aufnehmen möchten, wenden Sie sich gerne an <a href="mailto:humanities@lists.nfdi.de">humanities@lists.nfdi.de</a>.
+Im Rahmen von Humanities@NFDI werden Workshops und Schulungen angeboten, gemeinsame Dienste entwickelt, Veranstaltungen organisiert sowie fachübergreifende Themen in den Sektionen und Gremien des NFDI e. V. koordiniert.
 
-### BASE4NFDI
+Der regelmäßige Austausch sorgt dafür, dass fachliche Themen und Entwicklungen frühzeitig abgestimmt und disziplinübergreifende Synergien genutzt werden können. Wenn Sie Kontakt mit der Kooperation Humanities@NFDI aufnehmen möchten, wenden Sie sich gerne an <a href="mailto:humanities@lists.nfdi.de">humanities@lists.nfdi.de</a>.
 
-Der Konsortialverbund [Base4NFDI](https://base4nfdi.de/) integriert und etabliert Basisdienste als gemeinsame, interoperable Lösungen für die gesamte NFDI. Zu diesem Zweck werden bereits bestehende Dienste angepasst oder (weiter-)entwickelt, um für Forscher:innen aus anderen Fachdisziplinen nutzbar zu sein. Auf diese Weise werden parallele Entwicklungen vermieden, da viele wissenschaftliche Bereiche ähnliche Anforderungen an eine Reihe von Forschungsdatenmanagement-Diensten stellen. NFDI4Objects beteiligt sich aktiv an der Entwicklung der Basisdienste und unterstützt die Integration dieser in das NFDI4Objects-Diensteportfolio.
+### Base4NFDI
+
+Da viele Disziplinen ähnliche Anforderungen an den Umgang mit Forschungsdaten stellen, entwickelt Base4NFDI fachübergreifende Basisdienste für die gesamte Nationale Forschungsdateninfrastruktur. Bestehende Dienste werden angepasst oder weiterentwickelt, sodass sie in unterschiedlichen Fachbereichen genutzt werden können. Dadurch werden parallele Entwicklungen vermieden und gemeinsame, interoperable Lösungen gestärkt. Hierfür wurde der Konsortialverbund [Base4NFDI](https://base4nfdi.de/) gebildet. Im Rahmen dieses Verbunds werden  Basisdienste als gemeinsame, interoperable Lösungen für die gesamte NFDI entwickelt.
+
+NFDI4Objects beteiligt sich aktiv an der Entwicklung und Implementierung dieser Dienste.
+
+[^1]:  Die FAIR- und CARE-Prinzipien sind Leitlinien für einen verantwortungsvollen Umfang mit Daten. FAIR steht für **F**indable (auffindbar), **A**ccessible (zugänglich), **I**nteroperable (verknüpfbar) und **R**eusable (wiederverwendbar). CARE steht für **C**ollective Benefit (Kollektiver Nutzen), **A**uthority to Control (Kontrollbefugnis), **R**esponsibility (Verantwortung) und **E**thics (Ethik).
