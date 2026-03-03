@@ -14,7 +14,7 @@ trails: []
 nfdi_category: web_applications
 nfdi_service_types:
 - sus
-permalink: /services/portal/
+permalink: /en/services/portal/
 ---
 
 ## Description

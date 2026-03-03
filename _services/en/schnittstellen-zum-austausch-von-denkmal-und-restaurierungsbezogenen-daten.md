@@ -15,7 +15,7 @@ trails:
 nfdi_category: libraries
 nfdi_service_types:
 - ints
-permalink: /services/schnittstellen-zum-austausch-von-denkmal-und-restaurierungsbezogenen-daten/
+permalink: /en/services/schnittstellen-zum-austausch-von-denkmal-und-restaurierungsbezogenen-daten/
 ---
 
 ## Description

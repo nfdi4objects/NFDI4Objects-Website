@@ -13,7 +13,7 @@ trails: []
 nfdi_category: storage
 nfdi_service_types:
 - stos
-permalink: /services/ianus-langzeitarchiv-und-forschungsdatenzentrum/
+permalink: /en/services/ianus-langzeitarchiv-und-forschungsdatenzentrum/
 ---
 
 ## Description

@@ -15,7 +15,7 @@ nfdi_category: databases
 nfdi_service_types:
 - dis
 - das
-permalink: /services/poseidon-2-0/
+permalink: /en/services/poseidon-2-0/
 ---
 
 ## Description

@@ -15,7 +15,7 @@ nfdi_category: web_applications
 nfdi_service_types:
 - das
 - sas
-permalink: /services/wikibase-graphdatabase-semantic-media-wiki-infrastructures/
+permalink: /en/services/wikibase-graphdatabase-semantic-media-wiki-infrastructures/
 ---
 
 ## Description

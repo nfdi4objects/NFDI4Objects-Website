@@ -13,7 +13,7 @@ trails: []
 nfdi_category: training
 nfdi_service_types:
 - quas
-permalink: /services/nfdi4objects-qualification/
+permalink: /en/services/nfdi4objects-qualification/
 ---
 
 ## Description

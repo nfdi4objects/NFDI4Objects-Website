@@ -14,7 +14,7 @@ nfdi_category: databases
 nfdi_service_types:
 - das
 - sas
-permalink: /services/kuniweb/
+permalink: /en/services/kuniweb/
 ---
 
 ## Description

@@ -15,7 +15,7 @@ nfdi_category: training
 nfdi_service_types:
 - sus
 - quas
-permalink: /services/commons-inkubator/
+permalink: /en/services/commons-inkubator/
 ---
 
 ## Description

@@ -14,7 +14,7 @@ nfdi_category: support_consulting
 nfdi_service_types:
 - sus
 - cres
-permalink: /services/commons/
+permalink: /en/services/commons/
 ---
 
 ## Description

@@ -15,7 +15,7 @@ trails:
 nfdi_category: web_applications
 nfdi_service_types:
 - dis
-permalink: /services/inspire-konformer-geodatendienst/
+permalink: /en/services/inspire-konformer-geodatendienst/
 ---
 
 ## Description

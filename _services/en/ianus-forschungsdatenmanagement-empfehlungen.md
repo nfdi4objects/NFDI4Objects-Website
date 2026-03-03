@@ -14,7 +14,7 @@ nfdi_category: support_consulting
 nfdi_service_types:
 - sus
 - quas
-permalink: /services/ianus-forschungsdatenmanagement-empfehlungen/
+permalink: /en/services/ianus-forschungsdatenmanagement-empfehlungen/
 ---
 
 ## Description

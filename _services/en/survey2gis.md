@@ -13,7 +13,7 @@ trails: []
 nfdi_category: tools_applications
 nfdi_service_types:
 - sas
-permalink: /services/survey2gis/
+permalink: /en/services/survey2gis/
 ---
 
 ## Description

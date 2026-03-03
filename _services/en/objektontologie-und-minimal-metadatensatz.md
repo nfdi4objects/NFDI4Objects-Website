@@ -16,7 +16,7 @@ trails: []
 nfdi_category: support_consulting
 nfdi_service_types:
 - ints
-permalink: /services/objektontologie-und-minimal-metadatensatz/
+permalink: /en/services/objektontologie-und-minimal-metadatensatz/
 ---
 
 ## Description

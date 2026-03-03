@@ -13,7 +13,7 @@ trails: []
 nfdi_category: databases
 nfdi_service_types:
 - stos
-permalink: /services/propylaeum-heidata/
+permalink: /en/services/propylaeum-heidata/
 ---
 
 ## Description

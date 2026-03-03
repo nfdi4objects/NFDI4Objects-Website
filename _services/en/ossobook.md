@@ -14,7 +14,7 @@ nfdi_category: tools_applications
 nfdi_service_types:
 - das
 - dis
-permalink: /services/ossobook/
+permalink: /en/services/ossobook/
 ---
 
 ## Description

@@ -13,7 +13,7 @@ trails: []
 nfdi_category: tools_applications
 nfdi_service_types:
 - das
-permalink: /services/idai-field/
+permalink: /en/services/idai-field/
 ---
 
 ## Description

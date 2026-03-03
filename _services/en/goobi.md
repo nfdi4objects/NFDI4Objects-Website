@@ -13,7 +13,7 @@ trails: []
 nfdi_category: tools_applications
 nfdi_service_types:
 - sas
-permalink: /services/goobi/
+permalink: /en/services/goobi/
 ---
 
 ## Description

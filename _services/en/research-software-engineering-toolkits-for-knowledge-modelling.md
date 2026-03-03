@@ -15,7 +15,7 @@ nfdi_category: tools_applications
 nfdi_service_types:
 - sas
 - ints
-permalink: /services/research-software-engineering-toolkits-for-knowledge-modelling/
+permalink: /en/services/research-software-engineering-toolkits-for-knowledge-modelling/
 ---
 
 ## Description

@@ -13,7 +13,7 @@ trails: []
 nfdi_category: web_applications
 nfdi_service_types:
 - dis
-permalink: /services/nfdi4objects-graph/
+permalink: /en/services/nfdi4objects-graph/
 ---
 
 ## Description

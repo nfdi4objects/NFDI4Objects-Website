@@ -15,7 +15,7 @@ nfdi_service_types:
 - avs
 - ints
 - sas
-permalink: /services/dante/
+permalink: /en/services/dante/
 ---
 
 ## Description

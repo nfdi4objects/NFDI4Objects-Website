@@ -18,7 +18,7 @@ nfdi_service_types:
 - sas
 - das
 - dis
-permalink: /services/workflow-tool-für-archäologische-experimente/
+permalink: /en/services/workflow-tool-für-archäologische-experimente/
 ---
 
 ## Description

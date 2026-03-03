@@ -17,7 +17,7 @@ nfdi_service_types:
 - sas
 - dis
 - cres
-permalink: /services/re3dragon/
+permalink: /en/services/re3dragon/
 ---
 
 ## Description

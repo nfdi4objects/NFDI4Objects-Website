@@ -15,7 +15,7 @@ nfdi_category: tools_applications
 nfdi_service_types:
 - ints
 - dis
-permalink: /services/fund-logbuch/
+permalink: /en/services/fund-logbuch/
 ---
 
 ## Description

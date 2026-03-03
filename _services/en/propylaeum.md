@@ -13,7 +13,7 @@ trails: []
 nfdi_category: storage
 nfdi_service_types:
 - stos
-permalink: /services/propylaeum/
+permalink: /en/services/propylaeum/
 ---
 
 ## Description

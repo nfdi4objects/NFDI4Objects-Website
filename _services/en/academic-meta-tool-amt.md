@@ -16,7 +16,7 @@ trails:
 nfdi_category: web_applications
 nfdi_service_types:
 - sas
-permalink: /services/academic-meta-tool-amt/
+permalink: /en/services/academic-meta-tool-amt/
 ---
 
 ## Description

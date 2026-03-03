@@ -14,7 +14,7 @@ nfdi_service_types:
 - ints
 - avs
 - sas
-permalink: /services/cocoda/
+permalink: /en/services/cocoda/
 ---
 
 ## Description

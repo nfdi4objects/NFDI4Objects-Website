@@ -14,7 +14,7 @@ nfdi_category: databases
 nfdi_service_types:
 - das
 - dis
-permalink: /services/geohist/
+permalink: /en/services/geohist/
 ---
 
 ## Description

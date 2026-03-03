@@ -15,7 +15,7 @@ nfdi_category: databases
 nfdi_service_types:
 - das
 - dis
-permalink: /services/arbodat/
+permalink: /en/services/arbodat/
 ---
 
 ## Description

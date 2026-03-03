@@ -19,7 +19,7 @@ nfdi_category: tools_applications
 nfdi_service_types:
 - das
 - sas
-permalink: /services/archaeology-link/
+permalink: /en/services/archaeology-link/
 ---
 
 ## Description

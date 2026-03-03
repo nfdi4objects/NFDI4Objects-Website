@@ -12,7 +12,7 @@ trails: []
 nfdi_category: databases
 nfdi_service_types:
 - cres
-permalink: /services/bartoc/
+permalink: /en/services/bartoc/
 ---
 
 ## Description
