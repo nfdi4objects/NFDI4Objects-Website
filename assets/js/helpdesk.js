@@ -1,5 +1,5 @@
 // Helpdesk Form Submission Logic
-const token = "VyuHSB9vj9TUeOPHWVO9iowUSMeHgV-6pNGiplcfSFSeJbxAsPfUuhO2ETvjxrVJ";
+const token = "zDneAUmVRBl9YFftgBaJMW79N1hW3a25umZXg3_y6CWmcVrvy9qnlmB-La1WZbnT";
 const confirm = {
   "de": ["Support Ticket mit Nummer #", " wurde erfolgreich angelegt!"],
   "en": ["Support Ticket with number #", " has been created successfully!"]
