@@ -266,7 +266,7 @@ Die Events-Übersichtsseite wird automatisch generiert:
 
 Auf allen News- und Event-Seiten wird automatisch eine Breadcrumb angezeigt:
 
-**News**: `Startseite > Aktuelles > [News-Titel]`
+**News**: `Startseite > News > [News-Titel]`
 **Events**: `Startseite > Community > Veranstaltungen > [Event-Titel]`
 
 ### 2. Prev/Next Navigation

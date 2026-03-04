@@ -1,6 +1,6 @@
 ---
 layout: n4o-base
-title: Aktuelles
+title: News
 permalink: /news/
 description: ""
 keywords: ""

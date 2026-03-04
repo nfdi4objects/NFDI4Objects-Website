@@ -22,8 +22,10 @@ navigation:
     url: "/community/groups-networks/"
   - title: "Services"
     url: "/services/all/"
-  - title: "Aktuelles"
+  - title: "News"
     url: "/news/"
+  - title: "Events"
+    url: "/events/"
   - title: "Hilfe"
     url: "/help/"
 

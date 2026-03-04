@@ -35,7 +35,7 @@ permalink: /
     lang="de"
     limit=3
     bg="bg-sand"
-    title="Aktuelles"
+    title="News"
     all_url="/news/"
 %}
 
