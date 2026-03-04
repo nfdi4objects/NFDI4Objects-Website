@@ -253,10 +253,10 @@ Die News-Übersichtsseite wird automatisch generiert:
 
 Die Events-Übersichtsseite wird automatisch generiert:
 
-- **Deutsch**: `/community/events/`
-- **Englisch**: `/en/community/events/`
+- **Deutsch**: `/events/`
+- **Englisch**: `/en/events/`
 
-**Datei**: `_pages/community/events/index.md`
+**Datei**: `_pages/events/index.md`
 
 ---
 

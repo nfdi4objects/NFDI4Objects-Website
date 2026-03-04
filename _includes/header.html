@@ -96,13 +96,11 @@
 
             {% comment %} Events Collection {% endcomment %}
             {% if page.collection == "events" %}
-              {% for child in item.children %}
-                {% if lang == "en" and child.url == "/en/community/events/" %}
-                  {% assign isParentActive = true %}
-                {% elsif lang != "en" and child.url == "/community/events/" %}
-                  {% assign isParentActive = true %}
-                {% endif %}
-              {% endfor %}
+              {% if lang == "en" and item.url == "/en/events/" %}
+                {% assign isActive = true %}
+              {% elsif lang != "en" and item.url == "/events/" %}
+                {% assign isActive = true %}
+              {% endif %}
             {% endif %}
 
             {% comment %} Trails, CCs, TWGs Collections {% endcomment %}

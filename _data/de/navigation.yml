@@ -70,10 +70,10 @@ main:
         url: "/community/standards/"
       - title: "Fachgruppen & Netzwerke"
         url: "/community/groups-networks/"
-      - title: "Veranstaltungen & Termine"
-        url: "/community/events/"
   - title: "Aktuelles"
     url: "/news/"
+  - title: "Veranstaltungen & Termine"
+    url: "/events/"
   - title: "Hilfe & Kontakt"
     url: "/help/"
 

@@ -51,6 +51,14 @@ Unterstützt:
       {% assign collection_label = "Aktuelles" %}
       {% assign collection_index = "/news/" %}
     {% endif %}
+    {% elsif page.collection == "events" %}
+    {% if lang == "en" %}
+      {% assign collection_label = "Events" %}
+      {% assign collection_index = "/en/events/" %}
+    {% else %}
+      {% assign collection_label = "Veranstaltungen" %}
+      {% assign collection_index = "/events/" %}
+    {% endif %}
   {% elsif page.collection == "persons" %}
     {% if lang == "en" %}
       {% assign collection_label = "People" %}
@@ -106,18 +114,6 @@ Unterstützt:
       {% assign collection_category_url = "#" %}
       {% assign collection_subcategory = "Fachgruppen & Netzwerke" %}
       {% assign collection_subcategory_url = "/community/groups-networks/" %}
-    {% endif %}
-  {% elsif page.collection == "events" %}
-    {% if lang == "en" %}
-      {% assign collection_label = "Events" %}
-      {% assign collection_index = "/en/community/events/" %}
-      {% assign collection_category = "Community" %}
-      {% assign collection_category_url = "#" %}
-    {% else %}
-      {% assign collection_label = "Veranstaltungen" %}
-      {% assign collection_index = "/community/events/" %}
-      {% assign collection_category = "Community" %}
-      {% assign collection_category_url = "#" %}
     {% endif %}
   {% elsif page.collection == "services" %}
     {% if lang == "en" %}
