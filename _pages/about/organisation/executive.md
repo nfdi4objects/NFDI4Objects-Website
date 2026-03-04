@@ -20,7 +20,7 @@ Die Geschäftsstelle verwaltet zentrale Aufgaben der Geschäftsführung, IT-Koor
 %}
 
 <div class="metadata-download">
-  <a class="metadata-link btn btn-primary" href="/about/organisation/steering/index.ttl" download="steering-committee.ttl">
+  <a class="metadata-link btn btn-primary" href="/about/organisation/executive/index.ttl" download="executive-office.ttl">
     Metadaten als .ttl herunterladen
   </a>
 </div>
