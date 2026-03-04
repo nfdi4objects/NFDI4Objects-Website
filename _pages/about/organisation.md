@@ -15,6 +15,10 @@ cards:
     icon: /assets/icons/portal/Wissenschaftlicher-Beirat.svg
     url: /about/organisation/advisory/
     description: Beratungsgremium für fachliche und strategische Fragen
+  - title: Geschäftsstelle
+    icon: /assets/icons/portal/Wissenschaftlicher-Beirat.svg
+    url: /about/organisation/executive/
+    description: Zentrale Arbeitseinheit beim Hauptantragssteller
 ---
 {% include page-header.html
     title="Organisation & Gremien "

@@ -15,6 +15,10 @@ cards:
     icon: /assets/icons/portal/Lenkungskreis.svg
     url: /en/about/organisation/steering/
     description: Strategic management and decision-making of the consortium
+  - title: Executive Office
+    icon: /assets/icons/portal/Wissenschaftlicher-Beirat.svg
+    url: /en/about/organisation/executive/
+    description: Central work unit at the main applicant
 ---
 {% include page-header.html
     title="Organisation & Committees"
