@@ -1,6 +1,6 @@
 ---
 layout: organisation-group-ttl
-permalink: /about/people/coordination/index.ttl
+permalink: /about/organisation/coordination/index.ttl
 group: coordination
 lang: de
 title_de: "Koordinationsbüro"

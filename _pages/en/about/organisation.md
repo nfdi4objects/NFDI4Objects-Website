@@ -23,6 +23,10 @@ cards:
     icon: /assets/icons/portal/Wissenschaftlicher-Beirat.svg
     url: /en/about/organisation/technical/
     description: Technical expertise supporting the consortium
+  - title: Coordination Office
+    icon: /assets/icons/portal/Koordinationsbuero.svg
+    url: /en/about/organisation/coordination/
+    description: Central coordination and contact point for all inquiries
 ---
 {% include page-header.html
     title="Organisation & Committees"

@@ -3,7 +3,7 @@ layout: page
 title: Coordination Office
 lang: en
 translation_key: coordination
-permalink: /en/about/people/coordination/
+permalink: /en/about/organisation/coordination/
 ---
 
 {% include page-header.html
@@ -28,7 +28,7 @@ permalink: /en/about/people/coordination/
 %}
 
 <div class="metadata-download">
-  <a class="metadata-link btn btn-primary" href="/about/people/coordination/index.ttl" download="coordination-office.ttl">
+  <a class="metadata-link btn btn-primary" href="/about/organisation/coordination/index.ttl" download="coordination-office.ttl">
     Download metadata as .ttl
   </a>
 </div>

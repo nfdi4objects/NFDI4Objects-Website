@@ -23,6 +23,10 @@ cards:
     icon: /assets/icons/portal/Wissenschaftlicher-Beirat.svg
     url: /about/organisation/technical/
     description: Technische Expertise zur Unterstützung des Konsortiums
+  - title: Konsortialmitglieder
+    icon: /assets/icons/portal/Konsortialmitglieder.svg
+    url: /about/people/members/
+    description: Alle beteiligten Institutionen und Forschungseinrichtungen des Konsortiums
 ---
 {% include page-header.html
     title="Organisation & Gremien "

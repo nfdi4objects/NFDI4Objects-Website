@@ -5,7 +5,7 @@ description: ""
 keywords: ""
 lang: de
 translation_key: coordination
-permalink: /about/people/coordination/
+permalink: /about/organisation/coordination/
 ---
 
 {% include page-header.html
@@ -30,7 +30,7 @@ permalink: /about/people/coordination/
 %}
 
 <div class="metadata-download">
-  <a class="metadata-link btn btn-primary" href="/about/people/coordination/index.ttl" download="coordination-office.ttl">
+  <a class="metadata-link btn btn-primary" href="/about/organisation/coordination/index.ttl" download="coordination-office.ttl">
     Metadaten als .ttl herunterladen
   </a>
 </div>

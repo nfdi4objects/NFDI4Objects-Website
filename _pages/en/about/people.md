@@ -13,10 +13,6 @@ cards:
     icon: /assets/icons/portal/Personen.svg
     url: /en/about/people/persons/
     description: Overview of all team members and their areas of expertise
-  - title: Coordination Office
-    icon: /assets/icons/portal/Koordinationsbuero.svg
-    url: /en/about/people/coordination/
-    description: Central coordination and contact point for all inquiries
 ---
  
 # NFDI4Objects

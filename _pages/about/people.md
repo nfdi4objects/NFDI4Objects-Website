@@ -13,12 +13,8 @@ cards:
     description: Übersicht aller Mitarbeitenden und ihrer Expertisebereiche
   - title: Koordinationsbüro
     icon: /assets/icons/portal/Koordinationsbuero.svg
-    url: /about/people/coordination/
+    url: /about/organisation/coordination/
     description: Zentrale Koordination und Ansprechpartner für alle Belange
-  - title: Konsortialmitglieder
-    icon: /assets/icons/portal/Konsortialmitglieder.svg
-    url: /about/people/members/
-    description: Alle beteiligten Institutionen und Forschungseinrichtungen des Konsortiums
 ---
  
 # NFDI4Objects

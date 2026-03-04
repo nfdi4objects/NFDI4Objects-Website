@@ -22,7 +22,7 @@ main:
           - title: "Personen"
             url: "/about/people/persons/"
           - title: "Koordinationsbüro"
-            url: "/about/people/coordination/"
+            url: "/about/organisation/coordination/"
           - title: "Hier finden Sie uns"
             url: "/about/people/locations/"
       - title: "Organisation & Gremien"
