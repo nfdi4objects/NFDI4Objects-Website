@@ -1,0 +1,16 @@
+---
+layout: n4o-base
+---
+
+<main id="main-content" class="page">
+  <div class="container">
+    {% include breadcrumb.html %}
+  </div>
+  <div class="container">
+    {{ content }}
+  </div>
+</main>
+
+<!-- Load jQuery and helpdesk.js at the end of the body -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="{{ '/assets/js/helpdesk.js' | relative_url }}"></script>

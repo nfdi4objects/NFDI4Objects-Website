@@ -8,9 +8,17 @@ const error = {
   "de": ["Support Ticket konnte nicht angelegt werden!"],
   "en": ["Support Ticket could not be created!"]
 };
-// Set language dynamically if your site supports multiple languages.
-// For now, default to German ("de").
+
+// Get the current language from the HTML lang attribute
 const hlang = document.documentElement.lang || "de";
+
+document.addEventListener("DOMContentLoaded", function() {
+  const form = document.getElementById("helpdeskform");
+  form.addEventListener("submit", function(event) {
+    event.preventDefault();
+    sendHelpdeskFormContents();
+  });
+});
 
 function sendHelpdeskFormContents() {
   const email = document.getElementById("email").value;

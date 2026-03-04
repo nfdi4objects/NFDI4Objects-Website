@@ -1,19 +1,17 @@
 ---
-layout: page
+layout: help
 title: Hilfe & Kontakt
 description: Kontaktformular für Support-Anfragen
 keywords: support, kontakt, hilfe, ticket
 lang: de
 translation_key: help
 permalink: /help/
-scripts:
-  - https://code.jquery.com/jquery-3.6.0.min.js
-  - /assets/js/helpdesk.js
 ---
 
 # Hilfe & Kontakt
 
-<form id="helpdeskform" onsubmit="event.preventDefault(); sendHelpdeskFormContents();">
+<form id="helpdeskform">
+  <!-- Form fields as before -->
   <label for="name">Name:</label><br>
   <input type="text" id="name" name="name" required><br><br>
 
