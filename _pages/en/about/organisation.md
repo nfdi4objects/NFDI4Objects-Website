@@ -19,6 +19,10 @@ cards:
     icon: /assets/icons/portal/Wissenschaftlicher-Beirat.svg
     url: /en/about/organisation/executive/
     description: Central work unit at the main applicant
+  - title: Technical Unit
+    icon: /assets/icons/portal/Wissenschaftlicher-Beirat.svg
+    url: /en/about/organisation/technical/
+    description: Technical expertise supporting the consortium
 ---
 {% include page-header.html
     title="Organisation & Committees"

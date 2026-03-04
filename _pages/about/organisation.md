@@ -19,6 +19,10 @@ cards:
     icon: /assets/icons/portal/Wissenschaftlicher-Beirat.svg
     url: /about/organisation/executive/
     description: Zentrale Arbeitseinheit beim Hauptantragssteller
+  - title: Technical Unit
+    icon: /assets/icons/portal/Wissenschaftlicher-Beirat.svg
+    url: /about/organisation/technical/
+    description: Technische Expertise zur Unterstützung des Konsortiums
 ---
 {% include page-header.html
     title="Organisation & Gremien "
