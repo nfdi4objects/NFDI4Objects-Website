@@ -1,44 +1,59 @@
 @use './variables' as *;
+
+// Helpdesk Form Container
 #helpdeskform {
     background-color: #ffffff;
     padding: 30px;
     border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Leichter Schatten */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     width: 100%;
-    max-width: 600px; /* Begrenzte Breite für bessere Lesbarkeit */
+    max-width: 600px;
     margin: 0 auto;
+    font-family: var(--font-family-base); // Ensure font consistency
 }
 
-/* Stil für alle Text-Inputs, Email-Input, Select und Textarea */
+// Inputs, Select, and Textarea
 #helpdeskform input[type="text"],
 #helpdeskform input[type="email"],
 #helpdeskform select,
 #helpdeskform textarea {
-    width: 100%; /* Volle Breite im Formular */
+    width: 100%;
     padding: 10px;
     margin-top: 5px;
     margin-bottom: 15px;
     display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
-    box-sizing: border-box; /* Stellt sicher, dass Padding und Border innerhalb der Breite sind */
+    box-sizing: border-box;
+    font-size: 16px;
+    transition: border-color 0.3s ease; // Smooth focus transition
 }
 
-/* Spezieller Stil für die Textarea, da sie größer sein sollte */
+#helpdeskform input[type="text"]:focus,
+#helpdeskform input[type="email"]:focus,
+#helpdeskform select:focus,
+#helpdeskform textarea:focus {
+    border-color: var(--color-blue);
+    outline: none;
+}
+
+// Textarea-specific styling
 #helpdeskform textarea {
-    resize: vertical; /* Nur vertikales Skalieren erlauben */
+    resize: vertical;
     min-height: 100px;
+    line-height: 1.5;
 }
 
-/* Stil für Checkbox-Beschriftung */
+// Checkbox and Label
 #helpdeskform label[for="readdataprotection"] {
     display: inline-block;
     margin-left: 5px;
     font-size: 0.9em;
+    cursor: pointer;
 }
 
 #helpdeskform a {
-    color: var(--color-blue); /* Hellerer Link-Farbe */
+    color: var(--color-blue);
     text-decoration: none;
 }
 
@@ -46,40 +61,83 @@
     text-decoration: underline;
 }
 
-/* Stil für Submit und Reset Buttons */
+// Buttons
 #helpdeskform input[type="submit"],
 #helpdeskform input[type="reset"] {
-    background-color: var(--color-blue); /* Eine angenehme blaue Farbe */
+    background-color: var(--color-blue);
     color: white;
     padding: 10px 15px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
     font-size: 16px;
-    margin-right: 10px; /* Abstand zwischen den Buttons */
-    transition: background-color 0.3s ease; /* Übergang für Hover-Effekt */
+    margin-right: 10px;
+    transition: background-color 0.3s ease;
 }
 
-#helpdeskform input[type="submit"]:hover,
-#helpdeskform input[type="reset"]:hover {
-    background-color: var(--color-blue-dark);/* Dunkleres Blau beim Hover */
+#helpdeskform input[type="submit"]:hover {
+    background-color: var(--color-blue-dark);
 }
 
 #helpdeskform input[type="reset"] {
-    background-color: var(--color-sand-dark); /* Graue Farbe für Reset */
+    background-color: var(--color-sand-dark);
 }
 
 #helpdeskform input[type="reset"]:hover {
-    background-color:  var(--color-beige-dark);
+    background-color: var(--color-beige-dark);
 }
 
+// Required Field Indicator
+#helpdeskform [required] {
+    border-left: 3px solid var(--color-blue);
+}
+
+// Switch (if used elsewhere)
 label.switch {
     span {
         margin-right: 10px;
     }
 }
+
+// Modal for Success/Error Messages
+dialog#sentdialog {
+    padding: 1.5em;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    background: white;
+    max-width: 500px;
+    width: 90%;
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+
+    &::backdrop {
+        background: rgba(0, 0, 0, 0.5);
+    }
+
+    button {
+        background: var(--color-blue);
+        color: white;
+        border: none;
+        padding: 0.5em 1em;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top: 1em;
+        transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+        background: var(--color-blue-dark);
+    }
+}
+
+// YASR Table Controls (unrelated to form)
 .yasr .tableControls .tableFilter {
     padding: 2px 8px;
-    border-width:  1px ;
+    border-width: 1px;
     border-radius: var(--border-radius-sm);
 }
