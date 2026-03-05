@@ -77,11 +77,11 @@ layout: n4o-base
       <h3 class="arrow arrow-left">
         {% if page.lang == "en" %}Related TRAILs{% else %}Zugeordnete TRAILs{% endif %}
       </h3>
-      <div class="cc-badges">
+      <div class="trail-badges">
         {% assign filtered_trails = site.trails | where: "lang", page.lang %}
         {% for trail_id in page.trails %}
           {% for trail in filtered_trails %}
-            {% if cc.translation_key == trail_id or trail.url contains trail_id %}
+            {% if trail.translation_key == trail_id or trail.url contains trail_id %}
             <a href="{{ trail.url | relative_url }}" class="badge badge--trail">{{ trail.identifier }} - {{ trail.title }}</a>
             {% endif %}
           {% endfor %}
