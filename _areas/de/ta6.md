@@ -8,7 +8,7 @@ type: ta
 permalink: /areas/ta6/
 icon: assets/icons/task-areas/Task-Area-06.svg
 zenodo_url: https://zenodo.org/records/10409228
-zenodo_pages: p. 98-103
+zenodo_pages: p. 93-98
 ---
 Task Area 6 Qualification, Integration and Harmonisation combines two central aspects of the consortium and takes up the results from the other task areas. On the one hand, the task area provides knowledge of research data management in the NFDI4Objects community and supports its integration into training and teaching (qualification part). On the other hand, we bring together the research and metadata developed in the community with the aim of integrated digital representation of object biographies (Harmonization & Integration part).
 
