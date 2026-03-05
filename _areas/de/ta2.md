@@ -8,10 +8,9 @@ type: ta
 permalink: /areas/ta2/
 icon: assets/icons/task-areas/Task-Area-02.svg
 zenodo_url: https://zenodo.org/records/10409228
-zenodo_pages: S. 61-67
+zenodo_pages: S. 67-74
 ---
-
-Die Task Area 2 „Collecting" (TA2) widmet sich allen Fragen des Forschungsdatenmanagements (FDM), die im Zusammenhang mit Objektsammlungen stehen. Ziel ist der Aufbau qualitätsorientierter Datenmanagementprozesse innerhalb einer integrierten Forschungsdateninfrastruktur, die den spezifischen Anforderungen von Objektsammlungen sowie deren wissenschaftlicher Kontextualisierung gerecht wird.
+Die Task Area 2 Collecting (TA2) widmet sich allen Fragen des Forschungsdatenmanagements (FDM), die im Zusammenhang mit Objektsammlungen stehen. Ziel ist der Aufbau qualitätsorientierter Datenmanagementprozesse innerhalb einer integrierten Forschungsdateninfrastruktur, die den spezifischen Anforderungen von Objektsammlungen sowie deren wissenschaftlicher Kontextualisierung gerecht wird.
           
   Im Zentrum stehen dabei fünf Themenbereiche:
   * Collection Management
