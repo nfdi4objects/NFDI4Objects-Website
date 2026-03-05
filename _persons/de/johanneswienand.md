@@ -8,6 +8,6 @@ groups:
 - participant
 institution: institut-fuer-geschichtswissenschaft-tu-braunschweig
 orcid: 0000-0002-5589-8634
-area:
+areas:
 - ta2
 ---

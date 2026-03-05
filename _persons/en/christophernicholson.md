@@ -8,5 +8,5 @@ groups:
 - advisory_board
 institution: arizona-state-university
 orcid: ''
-area: []
+areas: []
 ---

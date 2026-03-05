@@ -8,5 +8,5 @@ groups:
 - participant
 institution: stiftung-preußischer-kulturbesitz
 orcid: 0000-0003-3390-4404
-area: []
+areas: []
 ---

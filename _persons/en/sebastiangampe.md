@@ -8,6 +8,6 @@ groups:
 - staff
 institution: frankfurt-big-data-lab-goethe-universität-frankfurt
 orcid: ''
-area:
+areas:
 - ta2
 ---

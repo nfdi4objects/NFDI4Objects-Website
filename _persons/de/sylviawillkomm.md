@@ -8,5 +8,5 @@ groups:
 - participant
 institution: deutscher-museumsbund
 orcid: ''
-area: []
+areas: []
 ---

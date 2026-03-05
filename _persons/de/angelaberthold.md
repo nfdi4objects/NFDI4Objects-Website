@@ -9,6 +9,6 @@ groups:
 - staff
 institution: stiftung-preußischer-kulturbesitz
 orcid: 0009-0007-8926-5388
-area:
+areas:
 - ta2
 ---

@@ -8,5 +8,5 @@ groups:
 - participant
 institution: braunschweigiges-landesmuseum
 orcid: 0000-0001-9436-9949
-area: []
+areas: []
 ---

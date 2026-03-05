@@ -8,5 +8,5 @@ groups:
 - participant
 institution: archäologisches-museum-hamburg
 orcid: ''
-area: []
+areas: []
 ---

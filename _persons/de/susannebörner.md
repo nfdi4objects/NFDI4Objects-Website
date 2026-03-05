@@ -8,5 +8,5 @@ groups:
 - participant
 institution: zentrum-für-altertumswissenschaften-universität-heidelberg
 orcid: n.n.
-area: []
+areas: []
 ---

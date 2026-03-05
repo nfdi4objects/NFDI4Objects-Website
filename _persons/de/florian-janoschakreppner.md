@@ -8,5 +8,5 @@ groups:
 - participant
 institution: institut-für-altorientalistik-und-vorderasiatische-archäologie-universität-münster
 orcid: ''
-area: []
+areas: []
 ---

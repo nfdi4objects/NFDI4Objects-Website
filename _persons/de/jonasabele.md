@@ -8,6 +8,6 @@ groups:
 - staff
 institution: landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-baden-württemberg
 orcid: ''
-area:
+areas:
 - ta1
 ---

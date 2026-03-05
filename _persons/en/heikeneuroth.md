@@ -8,5 +8,5 @@ groups:
 - advisory_board
 institution: fachhochschule-potsdam
 orcid: 0000-0002-3637-3154
-area: []
+areas: []
 ---

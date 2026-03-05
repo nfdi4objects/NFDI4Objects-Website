@@ -8,5 +8,5 @@ groups:
 - participant
 institution: fiz-karlsruhe-leibniz-institut-fuer-informationsinfrastruktur
 orcid: ''
-area: []
+areas: []
 ---

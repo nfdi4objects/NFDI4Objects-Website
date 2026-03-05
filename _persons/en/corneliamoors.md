@@ -8,5 +8,5 @@ groups:
 - participant
 institution: lwl-museum-fuer-archaeologie-und-kultur-westfaelisches-landesmuseum
 orcid: ''
-area: []
+areas: []
 ---

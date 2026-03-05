@@ -8,5 +8,5 @@ groups:
 - advisory_board
 institution: universität-exeter
 orcid: 0000-0003-4027-1764
-area: []
+areas: []
 ---

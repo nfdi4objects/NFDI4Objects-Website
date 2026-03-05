@@ -8,6 +8,6 @@ groups:
 - participant
 institution: propylaeum-fid-altertumswissenschaften-universitaetsbibliothek-heidelberg
 orcid: 0000-0001-6396-4876
-area:
+areas:
 - ta5
 ---

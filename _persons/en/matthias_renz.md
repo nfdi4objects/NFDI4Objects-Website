@@ -8,6 +8,6 @@ groups:
 - steering
 institution: universität-kiel-cau
 orcid: 0000-0002-2024-7700
-area:
+areas:
 - ta3
 ---

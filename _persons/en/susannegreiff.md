@@ -8,5 +8,5 @@ groups:
 - staff
 institution: institut-für-ur-und-frühgeschichte-und-archäologie-des-mittelalters-eberhard-karls-universität-tübingen
 orcid: ''
-area: []
+areas: []
 ---

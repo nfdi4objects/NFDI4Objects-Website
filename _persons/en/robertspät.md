@@ -8,5 +8,5 @@ groups:
 - participant
 institution: berlin-brandenburgische-akademie-der-wissenschaften
 orcid: ''
-area: []
+areas: []
 ---

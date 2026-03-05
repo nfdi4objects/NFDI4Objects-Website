@@ -8,5 +8,5 @@ groups:
 - participant
 institution: deutsche-nationalbibliothek
 orcid: 0000-0003-3404-1452
-area: []
+areas: []
 ---

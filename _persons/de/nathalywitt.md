@@ -8,6 +8,6 @@ groups:
 - participant
 institution: hornemann-institut-der-hawk
 orcid: 0009-0003-1063-0727
-area:
+areas:
 - ta4
 ---

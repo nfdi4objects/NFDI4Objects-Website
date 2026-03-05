@@ -8,6 +8,6 @@ groups:
 - steering
 institution: deutsches-bergbau-museum-bochum
 orcid: ''
-area:
+areas:
 - ta3
 ---

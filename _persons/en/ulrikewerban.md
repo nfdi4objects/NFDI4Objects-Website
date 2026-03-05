@@ -8,6 +8,6 @@ groups:
 - participant
 institution: helmholtz-zentrum-fuer-umweltforschung-department-monitoring-und-erkundungstechnologien
 orcid: 0000-0003-4700-5258
-area:
+areas:
 - ta1
 ---

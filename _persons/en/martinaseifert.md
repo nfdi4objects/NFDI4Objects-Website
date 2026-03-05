@@ -8,5 +8,5 @@ groups:
 - participant
 institution: institut-fuer-archaeologie-und-kulturgeschichte-des-antiken-mittelmeerraumes-universitaet-hamburg
 orcid: ''
-area: []
+areas: []
 ---

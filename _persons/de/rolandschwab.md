@@ -8,6 +8,6 @@ groups:
 - steering
 institution: leiza
 orcid: 0000-0002-9115-0834
-area:
+areas:
 - ta4
 ---

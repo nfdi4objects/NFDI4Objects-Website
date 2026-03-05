@@ -9,6 +9,6 @@ groups:
 - staff
 institution: generaldirektion-kulturelles-erbe-rheinland-pfalz
 orcid: 0009-0004-4108-5247
-area:
+areas:
 - ta4
 ---

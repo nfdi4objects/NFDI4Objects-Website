@@ -8,5 +8,5 @@ groups:
 - participant
 institution: deutsches-schifffahrtsmuseum
 orcid: ''
-area: []
+areas: []
 ---

@@ -8,5 +8,5 @@ groups:
 - participant
 institution: archäologisches-institut-universtät-zu-köln
 orcid: ''
-area: []
+areas: []
 ---

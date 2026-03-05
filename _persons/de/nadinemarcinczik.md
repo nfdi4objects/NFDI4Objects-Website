@@ -8,5 +8,5 @@ groups:
 - participant
 institution: institut-fuer-stadt-und-regionalplanung-tu-berlin
 orcid: 0000-0002-0282-501X
-area: []
+areas: []
 ---

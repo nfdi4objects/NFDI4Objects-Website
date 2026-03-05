@@ -8,5 +8,5 @@ groups:
 - staff
 institution: leiza
 orcid: 0000-0003-3816-6359
-area: []
+areas: []
 ---

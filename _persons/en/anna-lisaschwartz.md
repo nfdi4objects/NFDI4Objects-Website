@@ -8,5 +8,5 @@ groups:
 - participant
 institution: staatliche-archive-bayern
 orcid: 0000-0003-0391-3879
-area: []
+areas: []
 ---

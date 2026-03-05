@@ -8,6 +8,6 @@ groups:
 - participant
 institution: frankfurt-big-data-lab-goethe-universität-frankfurt
 orcid: 0000-0002-9953-7638
-area:
+areas:
 - ta2
 ---

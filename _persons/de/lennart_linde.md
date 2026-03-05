@@ -8,6 +8,6 @@ groups:
 - staff
 institution: hochschule-mainz-university-of-applied-sciences
 orcid: null
-area:
+areas:
 - ta7
 ---

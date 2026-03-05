@@ -7,5 +7,5 @@ image: /assets/images/persons/n4o_website_person_grey.png
 groups: []
 institution: universität-bonn
 orcid: 0009-0002-4813-6372
-area: []
+areas: []
 ---

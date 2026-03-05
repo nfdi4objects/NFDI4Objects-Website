@@ -8,5 +8,5 @@ groups:
 - participant
 institution: computer-anwendungen-&-quantitative-methoden-in-der-archaeologie-sektion-deutschland
 orcid: ''
-area: []
+areas: []
 ---

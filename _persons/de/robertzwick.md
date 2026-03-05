@@ -8,6 +8,6 @@ groups:
 - staff
 institution: hochschule-mainz-university-of-applied-sciences
 orcid: 0000-0002-5839-8192
-area:
+areas:
 - ta6
 ---

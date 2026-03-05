@@ -8,5 +8,5 @@ groups:
 - participant
 institution: archäologische-staatssammlung-munchen
 orcid: 0000-0003-1446-1070
-area: []
+areas: []
 ---

@@ -7,5 +7,5 @@ image: assets/img/persons/n4o_website_person_grey.png
 groups: []
 institution: zentrum-für-altertumswissenschaften-universität-heidelberg
 orcid: n.n.
-area: []
+areas: []
 ---

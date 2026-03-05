@@ -8,6 +8,6 @@ groups:
 - staff
 institution: leiza
 orcid: 0009-0002-6126-5355
-area:
+areas:
 - ta2
 ---

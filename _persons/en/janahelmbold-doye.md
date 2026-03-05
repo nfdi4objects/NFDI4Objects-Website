@@ -8,5 +8,5 @@ groups:
 - participant
 institution: aegyptisches-museum-georg-steindorff-universitaet-leipzig
 orcid: ''
-area: []
+areas: []
 ---

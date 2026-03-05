@@ -8,5 +8,5 @@ groups:
 - participant
 institution: stiftung-schleswig-holsteinische-landesmuseen-schloss-gottorf
 orcid: ''
-area: []
+areas: []
 ---

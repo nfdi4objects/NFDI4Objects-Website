@@ -8,5 +8,5 @@ groups:
 - participant
 institution: staatliche-naturwissenschaftliche-sammlungen-bayerns
 orcid: ''
-area: []
+areas: []
 ---

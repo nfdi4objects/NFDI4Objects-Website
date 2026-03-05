@@ -8,5 +8,5 @@ groups:
 - participant
 institution: max-planck-institut-fuer-evolutionaere-anthropologie-abteilung-fuer-archaeogenetik
 orcid: 0000-0003-4702-9372
-area: []
+areas: []
 ---

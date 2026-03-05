@@ -8,5 +8,5 @@ groups:
 - participant
 institution: landesamt-für-denkmalpflege-und-archäologie-sachsen-anhalt-–-landesmuseum-für-vorgeschichte
 orcid: ''
-area: []
+areas: []
 ---

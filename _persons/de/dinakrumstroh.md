@@ -8,5 +8,5 @@ groups:
 - participant
 institution: landesmuseum-hannover-das-weltenmuseum
 orcid: ''
-area: []
+areas: []
 ---

@@ -8,5 +8,5 @@ groups:
 - participant
 institution: deutsche-nationalbibliothek
 orcid: 0009-0005-2828-5882
-area: []
+areas: []
 ---

@@ -8,5 +8,5 @@ groups:
 - staff
 institution: propylaeum-fid-altertumswissenschaften-universitaetsbibliothek-heidelberg
 orcid: 0000-0001-9020-3036
-area: []
+areas: []
 ---

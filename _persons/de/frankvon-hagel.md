@@ -8,6 +8,6 @@ groups:
 - participant
 institution: stiftung-preußischer-kulturbesitz
 orcid: 0000-0003-1349-2131
-area:
+areas:
 - ta2
 ---

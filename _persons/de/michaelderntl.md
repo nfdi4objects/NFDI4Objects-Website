@@ -8,5 +8,5 @@ groups:
 - participant
 institution: digital-humanities-center-universität-thübingen
 orcid: 0000-0002-9475-0093
-area: []
+areas: []
 ---

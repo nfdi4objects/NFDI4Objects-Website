@@ -8,5 +8,5 @@ groups:
 - participant
 institution: museum-fuer-naturkunde-leibniz-institut-fuer-evolutions-und-biodiversitaetsforschung
 orcid: ''
-area: []
+areas: []
 ---

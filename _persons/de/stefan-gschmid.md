@@ -8,5 +8,5 @@ groups:
 - participant
 institution: koordinierungsstelle-fuer-wissenschaftliche-Universitaetssammlungen-in-deutschland-am-hzk
 orcid: ''
-area: []
+areas: []
 ---

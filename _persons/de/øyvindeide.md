@@ -8,5 +8,5 @@ groups:
 - participant
 institution: institut-fuer-digital-humanities-universitaet-koeln
 orcid: 0000-0002-7766-6287
-area: []
+areas: []
 ---
