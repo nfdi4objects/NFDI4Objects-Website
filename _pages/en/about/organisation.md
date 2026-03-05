@@ -33,4 +33,4 @@ cards:
     subtitle="The governance structure of NFDI4Objects ensures transparent and participatory decision-making."
 %}
 
-{% include teaser-cards.html cards=page.cards bg_color="bg-sand" %}
+{% include teaser-cards.html cards=page.cards bg_color="bg-sand" columns=3 %}
