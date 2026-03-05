@@ -19,4 +19,4 @@ Task Area 2 Collecting (TA2) is dedicated to all questions of research data mana
     * Research software engineering
     * Semantic modelling and linked open data
 
-    TA2 brings the community together in various formats - especially in community clusters and temporary working groups. In these, domain-specific questions and requirements of RDM are identified, discussed and practically implemented. This results in recommendations and standards for the digital recording and description of objects in collections.
+TA2 brings the community together in various formats - especially in community clusters and temporary working groups. In these, domain-specific questions and requirements of RDM are identified, discussed and practically implemented. This results in recommendations and standards for the digital recording and description of objects in collections.
