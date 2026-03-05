@@ -8,4 +8,6 @@ groups:
 - staff
 institution: verbundzentrale-des-gbv
 orcid: 0009-0005-3056-1778
+area:
+- ta5
 ---

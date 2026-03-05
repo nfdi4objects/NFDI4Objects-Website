@@ -8,4 +8,5 @@ groups:
 - participant
 institution: herzog-anton-ulrich-museum
 orcid: ''
+area: []
 ---

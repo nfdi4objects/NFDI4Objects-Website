@@ -9,4 +9,6 @@ groups:
 - staff
 institution: klassik-stiftung-weimar
 orcid: 0000-0003-2576-1511
+area:
+- ta6
 ---

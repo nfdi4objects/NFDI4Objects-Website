@@ -8,4 +8,6 @@ groups:
 - participant
 institution: fau-competence-center-for-research-data-and-information-cdi
 orcid: 0000-0002-1352-129X
+area:
+- ta6
 ---

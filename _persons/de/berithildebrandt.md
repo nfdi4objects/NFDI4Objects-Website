@@ -8,4 +8,6 @@ groups:
 - coordination
 institution: verbundzentrale-des-gbv
 orcid: 0000-0002-8661-5676
+area:
+- ta5
 ---

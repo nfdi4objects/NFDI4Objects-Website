@@ -8,4 +8,6 @@ groups:
 - staff
 institution: helmholtz-zentrum-fuer-umweltforschung-department-monitoring-und-erkundungstechnologien
 orcid: ''
+area:
+- ta1
 ---

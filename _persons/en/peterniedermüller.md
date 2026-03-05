@@ -8,4 +8,5 @@ groups:
 - participant
 institution: institut-fuer-kunstgeschichte-und-musikwissenschaft-jgu-mainz
 orcid: ''
+area: []
 ---

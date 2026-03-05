@@ -8,4 +8,6 @@ groups:
 - steering
 institution: verbundzentrale-des-gbv
 orcid: 0000-0001-9895-8986
+area:
+- ta5
 ---

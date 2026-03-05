@@ -8,4 +8,5 @@ groups:
 - staff
 institution: deutsches-archäologisches-institut-dai
 orcid: 0000-0003-1763-3026
+area: []
 ---

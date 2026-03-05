@@ -8,4 +8,6 @@ groups:
 - staff
 institution: stiftung-preußischer-kulturbesitz
 orcid: ''
+area:
+- ta2
 ---

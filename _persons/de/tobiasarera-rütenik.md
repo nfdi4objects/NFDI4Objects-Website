@@ -8,4 +8,5 @@ groups:
 - participant
 institution: institut-für-archäologische-wissenschaften-denkmalwissenschaften-und-kunstgeschichte-universität-bamberg
 orcid: 0000-0002-4703-9573
+area: []
 ---

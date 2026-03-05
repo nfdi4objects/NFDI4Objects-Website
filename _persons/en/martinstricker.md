@@ -8,4 +8,6 @@ groups:
 - participant
 institution: koordinierungsstelle-fuer-wissenschaftliche-Universitaetssammlungen-in-deutschland-am-hzk
 orcid: 0009-0003-2395-5002
+area:
+- ta2
 ---

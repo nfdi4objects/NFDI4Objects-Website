@@ -8,4 +8,5 @@ groups:
 - participant
 institution: landesdenkmalamt-saarland
 orcid: ''
+area: []
 ---

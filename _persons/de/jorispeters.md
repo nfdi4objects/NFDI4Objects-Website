@@ -8,4 +8,5 @@ groups:
 - participant
 institution: staatssammlung-fuer-anthropologie-muenchen-der-snsb
 orcid: 0000-0003-0894-2628
+area: []
 ---

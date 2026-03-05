@@ -8,4 +8,5 @@ groups:
 - participant
 institution: hessenarchaeologie-landesamt-fuer-denkmalpflege-hessen
 orcid: 0000-0001-5352-6223
+area: []
 ---

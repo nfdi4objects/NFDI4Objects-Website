@@ -9,4 +9,6 @@ groups:
 - steering
 institution: landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-baden-württemberg
 orcid: 0000-0001-5676-0701
+area:
+- ta1
 ---

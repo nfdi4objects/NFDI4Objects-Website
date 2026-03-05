@@ -9,4 +9,6 @@ groups:
 - steering
 institution: deutsches-archäologisches-institut-dai
 orcid: 0000-0001-7545-2181
+area:
+- ta7
 ---

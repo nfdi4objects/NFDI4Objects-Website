@@ -8,4 +8,6 @@ groups:
 - staff
 institution: generaldirektion-kulturelles-erbe-rheinland-pfalz
 orcid: ''
+area:
+- ta4
 ---

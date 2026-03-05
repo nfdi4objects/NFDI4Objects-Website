@@ -9,4 +9,6 @@ groups:
 - deputy_speaker
 institution: hochschule-mainz-university-of-applied-sciences
 orcid: 0000-0001-8322-1260
+area:
+- ta6
 ---

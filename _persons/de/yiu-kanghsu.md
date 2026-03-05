@@ -8,4 +8,5 @@ groups:
 - staff
 institution: deutsches-bergbau-museum-bochum
 orcid: 0000-0002-2439-4863
+area: []
 ---

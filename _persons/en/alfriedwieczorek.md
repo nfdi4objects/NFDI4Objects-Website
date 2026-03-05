@@ -8,4 +8,5 @@ groups:
 - participant
 institution: deutscher-verband-fuer-archaeologie-e.V.-
 orcid: ''
+area: []
 ---

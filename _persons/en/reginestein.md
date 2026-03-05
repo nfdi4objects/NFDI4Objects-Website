@@ -8,4 +8,5 @@ groups:
 - participant
 institution: niedersaechsische-staats-und-universitaetsbibliothek-goettingen
 orcid: 0000-0003-3406-5104
+area: []
 ---

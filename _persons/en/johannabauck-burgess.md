@@ -8,4 +8,5 @@ groups:
 - staff
 institution: landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-baden-württemberg
 orcid: 0000-0002-9986-273X
+area: []
 ---

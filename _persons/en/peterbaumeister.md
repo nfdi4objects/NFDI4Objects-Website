@@ -8,4 +8,6 @@ groups:
 - steering
 institution: deutsches-archäologisches-institut-dai
 orcid: 0000-0001-5430-1456
+area:
+- ta5
 ---

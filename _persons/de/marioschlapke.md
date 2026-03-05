@@ -8,4 +8,5 @@ groups:
 - participant
 institution: thueringisches-landesamt-fuer-denkmalpflege-und-archaeologie-lda-thuringia
 orcid: ''
+area: []
 ---

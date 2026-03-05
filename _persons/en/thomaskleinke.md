@@ -8,4 +8,6 @@ groups:
 - staff
 institution: verbundzentrale-des-gbv
 orcid: ''
+area:
+- ta5
 ---

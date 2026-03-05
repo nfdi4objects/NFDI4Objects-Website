@@ -8,4 +8,5 @@ groups:
 - staff
 institution: deutsches-archäologisches-institut-dai
 orcid: 0009-0009-7393-1803
+area: []
 ---

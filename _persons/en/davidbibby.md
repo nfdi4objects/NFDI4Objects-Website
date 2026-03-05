@@ -8,4 +8,5 @@ groups:
 - coapplicant
 institution: landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-baden-württemberg
 orcid: 0000-0001-8524-0211
+area: []
 ---

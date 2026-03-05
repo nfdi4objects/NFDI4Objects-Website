@@ -46,7 +46,7 @@ Unterstützte Collections:
 
     {%- for person in persons_by_lang -%}
       {%- if person.areas contains ta_id -%}
-        {%- if person.groups contains "steering" or person.groups contains "coordination" or person.groups contains "co_applicants" -%}
+        {%- if person.groups contains "steering" -%}
           {%- assign co_applicants = co_applicants | push: person -%}
         {%- else -%}
           {%- assign staff = staff | push: person -%}

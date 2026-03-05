@@ -9,4 +9,6 @@ groups:
 - coordination
 institution: stiftung-preußischer-kulturbesitz
 orcid: ''
+area:
+- ta2
 ---

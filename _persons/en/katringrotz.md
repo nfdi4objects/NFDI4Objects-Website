@@ -8,4 +8,5 @@ groups:
 - participant
 institution: stiftung-preußischer-kulturbesitz
 orcid: ''
+area: []
 ---

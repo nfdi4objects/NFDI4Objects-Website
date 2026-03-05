@@ -8,4 +8,5 @@ groups:
 - participant
 institution: niedersaechsisches-landesamt-fuer-denkmalpflege-projekt-denkmal-atlas
 orcid: ''
+area: []
 ---

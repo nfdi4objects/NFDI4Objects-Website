@@ -8,4 +8,5 @@ groups:
 - participant
 institution: lvr-amt-fuer-bodendenkmalpflege-im-rheinland
 orcid: 0000-0002-3457-768X
+area: []
 ---

@@ -8,4 +8,6 @@ groups:
 - coordination
 institution: deutsches-archäologisches-institut-dai
 orcid: ''
+area:
+- ta7
 ---

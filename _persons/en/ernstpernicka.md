@@ -8,4 +8,5 @@ groups:
 - participant
 institution: curt-engelhorn-zentrum-archaeometrie
 orcid: 0000-0003-4746-9239
+area: []
 ---

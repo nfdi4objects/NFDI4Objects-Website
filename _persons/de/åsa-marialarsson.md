@@ -8,4 +8,5 @@ groups:
 - advisory_board
 institution: riksantikvarieämbetet-zentralamt-für-denkmalpflege-schweden
 orcid: 0000-0003-0707-0717
+area: []
 ---

@@ -8,4 +8,5 @@ groups:
 - participant
 institution: berlin-graduate-school-of-ancient-studies-fu-berlin
 orcid: ''
+area: []
 ---

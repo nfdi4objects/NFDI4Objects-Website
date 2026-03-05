@@ -8,4 +8,5 @@ groups:
 - participant
 institution: verband-der-landesarchaeologen-in-der-bundesrepublik-deutschland
 orcid: ''
+area: []
 ---

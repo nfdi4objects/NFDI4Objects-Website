@@ -8,4 +8,6 @@ groups:
 - staff
 institution: koordinierungsstelle-fuer-wissenschaftliche-Universitaetssammlungen-in-deutschland-am-hzk
 orcid: 0009-0007-6883-1483
+area:
+- ta2
 ---
