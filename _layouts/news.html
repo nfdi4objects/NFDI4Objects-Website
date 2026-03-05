@@ -71,6 +71,25 @@ layout: n4o-base
     </div>
     {% endif %}
 
+    {% comment %} TRAILs {% endcomment %}
+    {% if page.trails and page.trails.size > 0 %}
+    <div class="taxonomy-section">
+      <h3 class="arrow arrow-left">
+        {% if page.lang == "en" %}Related TRAILs{% else %}Zugeordnete TRAILs{% endif %}
+      </h3>
+      <div class="cc-badges">
+        {% assign filtered_trails = site.trails | where: "lang", page.lang %}
+        {% for trail_id in page.trails %}
+          {% for trail in filtered_trails %}
+            {% if cc.translation_key == trail_id or trail.url contains trail_id %}
+            <a href="{{ trail.url | relative_url }}" class="badge badge--trail">{{ trail.identifier }} - {{ trail.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
     {% comment %} TWGs {% endcomment %}
     {% if page.twgs and page.twgs.size > 0 %}
     <div class="taxonomy-section">
