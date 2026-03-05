@@ -1,17 +1,16 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: solving_vagueness_modelling_issues_in_numismatics_and_ceramology
-title: Strategien zur Problemlösung bei der Modellierung von Vagheiten in der Numismatik
-  und Keramologie
+title: Solving vagueness modelling issues in numismatics and ceramology
 start_date: 2024-09-25 07:56:31.688000+00:00
 end_date: ''
 proposal_url: https://osf.io/4rkpw
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
-- name: ''
+- name: Allard Mees
   person_ref: allard_mees
 areas:
 - ta2
@@ -23,7 +22,7 @@ institutions:
 - thueringisches-landesamt-fuer-denkmalpflege-und-archaeologie-lda-thuringia
 - akademie-der-wissenschaften-und-der-literatur-mainz
 focus_areas: ''
-permalink: /trails/solving_vagueness_modelling_issues_in_numismatics_and_ceramology/
+permalink: /en/trails/solving_vagueness_modelling_issues_in_numismatics_and_ceramology/
 ---
 
 ## Description

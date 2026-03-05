@@ -1,6 +1,6 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: a_workflow_for_enchancing_iconography_authority_data_in_the_wikimedia_universe
 title: A workflow for enhancing iconography authority data in the Wikimedia Universe
 start_date: 2023-03-01 22:55:00+00:00
@@ -8,9 +8,9 @@ end_date: 2028-02-29 22:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.5849809
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
-- name: ''
+- name: Allard Mees
   person_ref: allard_mees
 areas:
 - ta2
@@ -24,7 +24,7 @@ institutions:
 - museum-fuer-naturkunde-leibniz-institut-fuer-evolutions-und-biodiversitaetsforschung
 - computer-anwendungen-&-quantitative-methoden-in-der-archaeologie-sektion-deutschland
 focus_areas: ''
-permalink: /trails/a_workflow_for_enchancing_iconography_authority_data_in_the_wikimedia_universe/
+permalink: /en/trails/a_workflow_for_enchancing_iconography_authority_data_in_the_wikimedia_universe/
 ---
 
 ## Description

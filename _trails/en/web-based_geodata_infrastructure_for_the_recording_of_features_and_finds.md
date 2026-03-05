@@ -1,14 +1,14 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: web-based_geodata_infrastructure_for_the_recording_of_features_and_finds
-title: Webgebundene Geodateninfrastruktur zur Erfassung von Befunden und Funden
+title: Web-based geodata infrastructure for the recording of features and finds
 start_date: 2024-09-25 09:17:01.042000+00:00
 end_date: ''
-proposal_url: https://osf.io/2ugkx
+proposal_url: https://mfr.de-1.osf.io/render?url=https://osf.io/2ugkx/?direct%26mode=render%26action=download%26mode=render
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Jörg Räther
   person_ref: jörgräther
 - name: ''
   person_ref: ''
@@ -17,7 +17,7 @@ areas:
 institutions:
 - verbundzentrale-des-gbv
 focus_areas: ''
-permalink: /trails/web-based_geodata_infrastructure_for_the_recording_of_features_and_finds/
+permalink: /en/trails/web-based_geodata_infrastructure_for_the_recording_of_features_and_finds/
 ---
 
 ## Description

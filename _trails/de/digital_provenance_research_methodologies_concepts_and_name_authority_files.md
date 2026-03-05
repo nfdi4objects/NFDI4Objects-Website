@@ -8,9 +8,9 @@ end_date: 2028-02-20 22:55:00+00:00
 proposal_url: https://osf.io/kgqj5
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Bernhard Weisser
   person_ref: bernhard_weisser
-- name: ''
+- name: Meike Hopp
   person_ref: meikehopp
 areas:
 - ta2

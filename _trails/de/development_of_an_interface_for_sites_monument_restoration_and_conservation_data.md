@@ -9,7 +9,7 @@ end_date: ''
 proposal_url: https://osf.io/t6qgf
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Ulrich Himmelmann
   person_ref: ulrich_himmelmann
 - name: ''
   person_ref: ''

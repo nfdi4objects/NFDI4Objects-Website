@@ -8,7 +8,7 @@ end_date: ''
 proposal_url: https://osf.io/3kyja
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Markus Schmalzl
   person_ref: markusschmalzl
 - name: ''
   person_ref: ''

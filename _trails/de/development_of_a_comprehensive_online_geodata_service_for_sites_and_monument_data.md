@@ -8,9 +8,9 @@ end_date: ''
 proposal_url: https://osf.io/4t29e/files/xqk78
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Tobias Krenscher
   person_ref: tobiaskrenscher
-- name: ''
+- name: Ulrich Himmelmann
   person_ref: ulrich_himmelmann
 areas:
 - ta4

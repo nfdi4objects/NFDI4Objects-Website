@@ -8,9 +8,9 @@ end_date: 2024-05-31 21:55:00+00:00
 proposal_url: https://osf.io/qea4m
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Alexandra Busch
   person_ref: alexandra_busch
-- name: ''
+- name: Thomas Stöllner
   person_ref: thomas_stoellner
 areas:
 - ta3

@@ -1,6 +1,6 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: an_uri_lookup_and_resolve_service_for_lod_resources_related_to_collection_research
 title: An URI lookup and resolve service for LOD resources related to collection research
 start_date: 2026-01-01 11:36:00+00:00
@@ -8,9 +8,9 @@ end_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.5849671
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
-- name: ''
+- name: Allard Mees
   person_ref: allard_mees
 areas:
 - ta2
@@ -20,7 +20,7 @@ institutions:
 - akademie-der-wissenschaften-und-der-literatur-mainz
 - computer-anwendungen-&-quantitative-methoden-in-der-archaeologie-sektion-deutschland
 focus_areas: ''
-permalink: /trails/an_uri_lookup_and_resolve_service_for_lod_resources_related_to_collection_research/
+permalink: /en/trails/an_uri_lookup_and_resolve_service_for_lod_resources_related_to_collection_research/
 ---
 
 ## Description

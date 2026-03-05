@@ -8,7 +8,7 @@ end_date: ''
 proposal_url: https://osf.io/2ugkx
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Jörg Räther
   person_ref: jörgräther
 - name: ''
   person_ref: ''

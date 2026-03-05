@@ -1,16 +1,17 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: development_of_a_comprehensive_online_geodata_service_for_sites_and_monument_data
-title: Entwicklung übergreifender Online-Geodatendienste für Fundstellen und Denkmaldaten
+title: Development of comprehensive online geodata services for sites and monument
+  data
 start_date: 2024-09-25 10:08:07.219000+00:00
 end_date: ''
 proposal_url: https://osf.io/4t29e/files/xqk78
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Tobias Krenscher
   person_ref: tobiaskrenscher
-- name: ''
+- name: Ulrich Himmelmann
   person_ref: ulrich_himmelmann
 areas:
 - ta4
@@ -32,7 +33,7 @@ institutions:
 - lehrstuhl-digitale-provenienzforschung-am-institut-fuer-kunstgeschichte-tu-berlin
 - verband-der-landesarchaeologen-in-der-bundesrepublik-deutschland
 focus_areas: ''
-permalink: /trails/development_of_a_comprehensive_online_geodata_service_for_sites_and_monument_data/
+permalink: /en/trails/development_of_a_comprehensive_online_geodata_service_for_sites_and_monument_data/
 ---
 
 ## Description

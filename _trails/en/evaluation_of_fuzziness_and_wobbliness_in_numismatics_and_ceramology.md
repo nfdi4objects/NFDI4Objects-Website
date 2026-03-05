@@ -1,16 +1,16 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: evaluation_of_fuzziness_and_wobbliness_in_numismatics_and_ceramology
-title: Evaluation von fuzziness and wobbliness in der Numismatik und Keramologie
+title: Evaluation of fuzziness and wobbliness in numismatics and ceramology
 start_date: 2024-09-25 07:42:28.670000+00:00
 end_date: ''
-proposal_url: https://osf.io/h2b9e
+proposal_url: https://doi.org/10.5281/zenodo.5654897
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Allard Mees
   person_ref: allard_mees
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
 areas:
 - ta2
@@ -23,7 +23,7 @@ institutions:
 - frankfurt-big-data-lab-goethe-universität-frankfurt
 - leiza
 focus_areas: ''
-permalink: /trails/evaluation_of_fuzziness_and_wobbliness_in_numismatics_and_ceramology/
+permalink: /en/trails/evaluation_of_fuzziness_and_wobbliness_in_numismatics_and_ceramology/
 ---
 
 ## Description

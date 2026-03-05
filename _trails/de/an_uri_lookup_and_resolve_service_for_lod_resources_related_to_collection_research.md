@@ -8,9 +8,9 @@ end_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.5849671
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
-- name: ''
+- name: Allard Mees
   person_ref: allard_mees
 areas:
 - ta2

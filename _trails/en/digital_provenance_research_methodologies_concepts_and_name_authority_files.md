@@ -1,16 +1,16 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: digital_provenance_research_methodologies_concepts_and_name_authority_files
-title: 'Digitale Provenienzforschung: Methoden, Konzepte und Normdaten zu Personennamen'
+title: 'Digital provenance research: methodologies, concepts and name authority files'
 start_date: 2024-02-29 22:55:00+00:00
 end_date: 2028-02-20 22:55:00+00:00
 proposal_url: https://osf.io/kgqj5
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Bernhard Weisser
   person_ref: bernhard_weisser
-- name: ''
+- name: Meike Hopp
   person_ref: meikehopp
 areas:
 - ta2
@@ -20,7 +20,7 @@ institutions:
 - numismatischer-forschungs-und-digitalisierungsverbunds-numid
 - propylaeum-fid-altertumswissenschaften-universitaetsbibliothek-heidelberg
 focus_areas: ''
-permalink: /trails/digital_provenance_research_methodologies_concepts_and_name_authority_files/
+permalink: /en/trails/digital_provenance_research_methodologies_concepts_and_name_authority_files/
 ---
 
 ## Description

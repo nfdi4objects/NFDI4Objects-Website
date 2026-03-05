@@ -33,10 +33,10 @@ permalink: /en/trails/
             <div class="card-body">
               <h3 class="h4"><a href="{{ trail.url | relative_url }}">{{ trail.title }}</a></h3>
 
-              {% if trail.cochairs %}
+              {% if trail.coordinators %}
                 <p class="smaller"><strong>Co-Chairs:</strong><br>
-                {% for cochair in trail.cochairs %}
-                  {{ cochair.name }}{% unless forloop.last %}, {% endunless %}
+                {% for coord in trail.coordinators %}
+                  {{ coord.name }}{% unless forloop.last %}, {% endunless %}
                 {% endfor %}
                 </p>
               {% endif %}

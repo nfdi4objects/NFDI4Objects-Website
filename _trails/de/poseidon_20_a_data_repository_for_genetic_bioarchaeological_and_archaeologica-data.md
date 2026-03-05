@@ -9,9 +9,9 @@ end_date: ''
 proposal_url: https://osf.io/nsduc
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Matthias Renz
   person_ref: matthias_renz
-- name: ''
+- name: Stephan Schiffels
   person_ref: stephanschiffels
 areas:
 - ta3

@@ -1,16 +1,16 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: workflow_tool_for_achaeological_experiments_and_analytics
-title: Workflow-Tool für archäologische Experimente und Analytik
+title: Workflow Tool for archaeological experiments and analytics
 start_date: 2023-05-01 21:55:00+00:00
 end_date: 2024-05-31 21:55:00+00:00
 proposal_url: https://osf.io/qea4m
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Alexandra Busch
   person_ref: alexandra_busch
-- name: ''
+- name: Thomas Stöllner
   person_ref: thomas_stoellner
 areas:
 - ta3
@@ -19,7 +19,7 @@ institutions:
 - leiza
 - exarc
 focus_areas: ''
-permalink: /trails/workflow_tool_for_achaeological_experiments_and_analytics/
+permalink: /en/trails/workflow_tool_for_achaeological_experiments_and_analytics/
 ---
 
 ## Description

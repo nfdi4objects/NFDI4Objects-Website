@@ -71,6 +71,25 @@ layout: n4o-base
     </div>
     {% endif %}
 
+    {% comment %} TWGs {% endcomment %}
+    {% if page.twgs and page.twgs.size > 0 %}
+    <div class="taxonomy-section">
+      <h3 class="arrow arrow-left">
+        {% if page.lang == "en" %}Related Working Groups{% else %}Zugeordnete Arbeitsgruppen{% endif %}
+      </h3>
+      <div class="twg-badges">
+        {% assign filtered_twgs = site.twgs | where: "lang", page.lang %}
+        {% for twg_id in page.twgs %}
+          {% for twg in filtered_twgs %}
+            {% if twg.translation_key == twg_id or twg.url contains twg_id %}
+            <a href="{{ twg.url | relative_url }}" class="badge badge--twg">{{ twg.identifier }} - {{ twg.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
     {% comment %} TRAILs {% endcomment %}
     {% if page.trails and page.trails.size > 0 %}
     <div class="taxonomy-section">
@@ -90,24 +109,6 @@ layout: n4o-base
     </div>
     {% endif %}
 
-    {% comment %} TWGs {% endcomment %}
-    {% if page.twgs and page.twgs.size > 0 %}
-    <div class="taxonomy-section">
-      <h3 class="arrow arrow-left">
-        {% if page.lang == "en" %}Related Working Groups{% else %}Zugeordnete Arbeitsgruppen{% endif %}
-      </h3>
-      <div class="twg-badges">
-        {% assign filtered_twgs = site.twgs | where: "lang", page.lang %}
-        {% for twg_id in page.twgs %}
-          {% for twg in filtered_twgs %}
-            {% if twg.translation_key == twg_id or twg.url contains twg_id %}
-            <a href="{{ twg.url | relative_url }}" class="badge badge--twg">{{ twg.identifier }} - {{ twg.title }}</a>
-            {% endif %}
-          {% endfor %}
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
   </section>
   {% endif %}
 

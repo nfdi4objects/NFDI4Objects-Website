@@ -9,9 +9,9 @@ end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/38
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Ulrich Himmelmann
   person_ref: ulrich_himmelmann
-- name: ''
+- name: Frank Duehrkohp
   person_ref: frank_duehrkohp
 areas:
 - ta4

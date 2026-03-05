@@ -1,16 +1,16 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: exploring_the_rdm_landscape_in_museums_and_collections
-title: Umfeldanalyse zur FDM-Landschaft in Museen und Sammlungen
+title: 2.1. Exploring the RDM landscape in museums and collections
 start_date: 2023-05-10 21:55:00+00:00
 end_date: ''
 proposal_url: https://zenodo.org/records/5849867
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Felix Schäfer
   person_ref: felix-fschäfer
-- name: ''
+- name: Frank von Hagel
   person_ref: frankvon-hagel
 areas:
 - ta2
@@ -23,7 +23,7 @@ institutions:
 - deutsches-archäologisches-institut-dai
 - numismatischer-forschungs-und-digitalisierungsverbunds-numid
 focus_areas: ''
-permalink: /trails/exploring_the_rdm_landscape_in_museums_and_collections/
+permalink: /en/trails/exploring_the_rdm_landscape_in_museums_and_collections/
 ---
 
 ## Description

@@ -1,15 +1,15 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: development_of_an_interface_for_sites_monument_restoration_and_conservation_data
-title: Entwicklung einer Schnittstelle für Fundstellen, Denkmal- sowie Restaurierungs-
-  und Konservierungsdaten
+title: Development of an interface for sites, monument and restoration and conservation
+  data
 start_date: 2024-09-25 10:20:08.171000+00:00
 end_date: ''
-proposal_url: https://osf.io/t6qgf
+proposal_url: https://mfr.de-1.osf.io/render?url=https://osf.io/t6qgf/?direct%26mode=render%26action=download%26mode=render
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Ulrich Himmelmann
   person_ref: ulrich_himmelmann
 - name: ''
   person_ref: ''
@@ -23,7 +23,7 @@ institutions:
 - thueringisches-landesamt-fuer-denkmalpflege-und-archaeologie-lda-thuringia
 - lvr-amt-fuer-bodendenkmalpflege-im-rheinland
 focus_areas: ''
-permalink: /trails/development_of_an_interface_for_sites_monument_restoration_and_conservation_data/
+permalink: /en/trails/development_of_an_interface_for_sites_monument_restoration_and_conservation_data/
 ---
 
 ## Description

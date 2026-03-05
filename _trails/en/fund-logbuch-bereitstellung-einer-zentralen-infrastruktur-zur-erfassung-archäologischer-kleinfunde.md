@@ -1,17 +1,17 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: fund-logbuch-bereitstellung-einer-zentralen-infrastruktur-zur-erfassung-archäologischer-kleinfunde
-title: 'Fund-Logbuch: Bereitstellung einer zentralen Infrastruktur zur Erfassung archäologischer
-  Kleinfunde'
+title: 'Find Logbook: Provision of a Central Infrastructure for Recording Small rchaeological
+  finds'
 start_date: 01.01.2026
 end_date: ''
-proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/38
+proposal_url: ''
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Ulrich Himmelmann
   person_ref: ulrich_himmelmann
-- name: ''
+- name: Frank Duehrkohp
   person_ref: frank_duehrkohp
 areas:
 - ta4
@@ -26,7 +26,7 @@ institutions:
 - lvr-amt-fuer-bodendenkmalpflege-im-rheinland
 - landesmuseum-fuer-vorgeschichte-halle-saale-lda-sk-
 focus_areas: ''
-permalink: /trails/fund-logbuch-bereitstellung-einer-zentralen-infrastruktur-zur-erfassung-archäologischer-kleinfunde/
+permalink: /en/trails/fund-logbuch-bereitstellung-einer-zentralen-infrastruktur-zur-erfassung-archäologischer-kleinfunde/
 ---
 
 ## Description

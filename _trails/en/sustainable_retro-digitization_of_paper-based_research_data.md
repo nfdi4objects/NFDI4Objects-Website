@@ -1,14 +1,14 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: sustainable_retro-digitization_of_paper-based_research_data
-title: Nachhaltige Retrodigitalisierung papiergebundener Forschungsdaten
+title: Sustainable retro-digitization of paper-based research data.
 start_date: 2024-09-25 10:24:12.350000+00:00
 end_date: ''
-proposal_url: https://osf.io/3kyja
+proposal_url: https://mfr.de-1.osf.io/render?url=https://osf.io/3kyja/?direct%26mode=render%26action=download%26mode=render
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Markus Schmalzl
   person_ref: markusschmalzl
 - name: ''
   person_ref: ''
@@ -21,7 +21,7 @@ institutions:
 - staatliche-archive-bayern
 - verbundzentrale-des-gbv
 focus_areas: ''
-permalink: /trails/sustainable_retro-digitization_of_paper-based_research_data/
+permalink: /en/trails/sustainable_retro-digitization_of_paper-based_research_data/
 ---
 
 ## Description

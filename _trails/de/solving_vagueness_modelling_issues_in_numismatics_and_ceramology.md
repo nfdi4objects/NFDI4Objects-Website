@@ -9,9 +9,9 @@ end_date: ''
 proposal_url: https://osf.io/4rkpw
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Florian Thiery
   person_ref: florian_thiery
-- name: ''
+- name: Allard Mees
   person_ref: allard_mees
 areas:
 - ta2

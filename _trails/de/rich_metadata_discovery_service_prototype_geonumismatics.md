@@ -8,9 +8,9 @@ end_date: ''
 proposal_url: https://osf.io/xpnz2
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Gerald Steilen
   person_ref: geraldsteilen
-- name: ''
+- name: Susanne Börner
   person_ref: susannebörner
 areas:
 - ta5

@@ -8,9 +8,9 @@ end_date: ''
 proposal_url: https://zenodo.org/records/5849867
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Felix Schäfer
   person_ref: felix-fschäfer
-- name: ''
+- name: Frank von Hagel
   person_ref: frankvon-hagel
 areas:
 - ta2

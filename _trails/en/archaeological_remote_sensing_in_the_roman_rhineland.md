@@ -1,14 +1,14 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: archaeological_remote_sensing_in_the_roman_rhineland
-title: Archäologische Fernerkundung im römischen Rheinland
+title: Archaeological Remote Sensing in the Roman Rhineland
 start_date: 2023-03-01 08:00:00+00:00
 end_date: 2025-06-30 21:59:00+00:00
 proposal_url: https://osf.io/gf496
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Matthias Lang
   person_ref: matthias_lang
 - name: ''
   person_ref: ''
@@ -24,7 +24,7 @@ institutions:
 - digital-humanities-center-universität-thübingen
 - institut-für-archäologische-wissenschaften-denkmalwissenschaften-und-kunstgeschichte-universität-bamberg
 focus_areas: ''
-permalink: /trails/archaeological_remote_sensing_in_the_roman_rhineland/
+permalink: /en/trails/archaeological_remote_sensing_in_the_roman_rhineland/
 ---
 
 ## Description

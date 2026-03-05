@@ -8,9 +8,9 @@ end_date: 2024-02-09 16:02:38.090000+00:00
 proposal_url: https://osf.io/u6mbg
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Benjamin Höke
   person_ref: benjaminhöke
-- name: ''
+- name: Matthias Lang
   person_ref: matthias_lang
 areas:
 - ta1

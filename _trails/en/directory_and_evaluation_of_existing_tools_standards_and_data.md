@@ -1,16 +1,16 @@
 ---
 layout: trail
-lang: de
+lang: en
 translation_key: directory_and_evaluation_of_existing_tools_standards_and_data
-title: Verzeichnis und Evaluation vorhandener Tools, Standards und Daten
+title: Directory and evaluation of existing tools, standards and data
 start_date: 2024-02-09 16:02:38.088000+00:00
 end_date: 2024-02-09 16:02:38.090000+00:00
 proposal_url: https://osf.io/u6mbg
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Benjamin Höke
   person_ref: benjaminhöke
-- name: ''
+- name: Matthias Lang
   person_ref: matthias_lang
 areas:
 - ta1
@@ -23,7 +23,7 @@ institutions:
 - helmholtz-zentrum-fuer-umweltforschung-department-monitoring-und-erkundungstechnologien
 - landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-baden-württemberg
 focus_areas: ''
-permalink: /trails/directory_and_evaluation_of_existing_tools_standards_and_data/
+permalink: /en/trails/directory_and_evaluation_of_existing_tools_standards_and_data/
 ---
 
 ## Description

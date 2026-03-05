@@ -9,7 +9,7 @@ end_date: ''
 proposal_url: https://osf.io/7a3pz
 type: n4o:Project
 cochairs:
-- name: ''
+- name: Matthias Renz
   person_ref: matthias_renz
 - name: ''
   person_ref: ''
