@@ -1,11 +1,4 @@
-# NFDI4Objects Relaunch (lokal)
+# NFDI4Objects Relaunch
 
-Dieses Projekt ist eine vereinfachte, moderne Jekyll-Struktur für die lokale Entwicklung.
+Dieses Projekt ist eine vereinfachte, moderne Jekyll-Struktur für als Grundlage für den Relaunch der Website von NFDI4Objects.
 
-**Start:**
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-Dann öffnen: [http://localhost:4000](http://localhost:4000)
