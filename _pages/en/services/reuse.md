@@ -11,11 +11,11 @@ cards:
     description: "Tool for <strong>3D reconstruction</strong> of archaeological objects and structures."
   - title: "Workflow Tool for Experimental Archaeological Experiments"
     icon: "/assets/icons/dienste/Dienste-Icons-05.svg"
-    url: "#"
+    url: "/en/services/re3dragon/"
     description: "Supports <strong>structured documentation and analysis</strong> of experimental archaeological data."
   - title: "NFDI4Objects Open Educational Resources (OERs)"
     icon: "/assets/icons/dienste/Dienste-Icons-01.svg"
-    url: "#"
+    url: "/en/services/workflow-tool-für-archäologische-experimente/"
     description: "<strong>Open teaching and learning materials</strong> for reuse in education and research."
 ---
 

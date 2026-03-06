@@ -9,11 +9,11 @@ permalink: /services/learning-consulting/
 cards:
   - title: "Research Software Engineering - Entwickler-Toolkits for Knowledge Modelling"
     icon: "/assets/icons/dienste/Dienste-Icons-05.svg"
-    url: "#"
+    url: "/services/research-software-engineering-toolkits-for-knowledge-modelling/"
     description: "Werkzeugkästen und Anleitungen zur <strong>semantischen Wissensmodellierung</strong> und Ontologie-Entwicklung."
   - title: "Objektontologie und Minimal-Metadatensatz für Objekte"
     icon: "/assets/icons/dienste/Dienste-Icons-07.svg"
-    url: "#"
+    url: "/services/objektontologie-und-minimal-metadatensatz/"
     description: "Standards für die <strong>semantische Beschreibung von Objektdaten</strong>. Grundlage für Interoperabilität."
   - title: "IANUS FDM-Empfehlungen"
     icon: "/assets/images/services/ianus-logo.png"

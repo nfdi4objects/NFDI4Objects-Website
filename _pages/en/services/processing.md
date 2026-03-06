@@ -7,19 +7,19 @@ permalink: /en/services/processing/
 cards:
   - title: "Academic Meta Tool (AMT)"
     icon: "/assets/images/services/academic-meta-tool-logo.png"
-    url: "#"
+    url: "/en/services/academic-meta-tool-amt/"
     description: "Tool for <strong>metadata creation</strong> and graph-based modeling. Enables automatic reasoning from RDF graph data."
   - title: "Fund-Logbuch"
     icon: "/assets/images/services/fundlogbuch-logo.png"
-    url: "#"
+    url: "/en/services/fund-logbuch/"
     description: "Mobile application for <strong>find management and digital recording of find data</strong>. Reduces media breaks during excavation."
   - title: "ArboDat+"
     icon: "/assets/images/services/arbodat.png"
-    url: "/services/arbodat/"
+    url: "/en/services/arbodat/"
     description: "Specialized database for <strong>archaeobotanical finds</strong>. Structured storage and statistical analysis of plant data."
   - title: "OssoBook"
     icon: "/assets/images/services/n4o-website-symbolgraphiken_portal_services.png"
-    url: "#"
+    url: "/en/services/ossobook/"
     description: "Tool for <strong>archaeozoological finds</strong>. Standardized capture and analysis of osteological data."
 ---
 

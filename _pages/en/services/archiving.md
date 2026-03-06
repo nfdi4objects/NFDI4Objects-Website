@@ -7,15 +7,15 @@ permalink: /en/services/archiving/
 cards:
   - title: "IANUS Long-term Archive and Research Data Center"
     icon: "/assets/images/services/ianus-logo.png"
-    url: "#"
+    url: "/en/services/ianus-langzeitarchiv-und-forschungsdatenzentrum/"
     description: "Central service for <strong>long-term and secure archiving</strong> of archaeological research data with professional quality control workflows."
   - title: "Propylaeum@heiDATA"
     icon: "/assets/images/services/propylaeu-data.png"
-    url: "#"
+    url: "/en/services/propylaeum-heidata/"
     description: "Specialized repository for ancient studies. <strong>Archiving and publication</strong> of research data with persistent identifiers (DOI)."
   - title: "Goobi"
     icon: "/assets/images/services/goobi-quadrat.png"
-    url: "#"
+    url: "/en/services/goobi/"
     description: "Workflow management software for <strong>digitization workflows</strong>. Systematic and quality-controlled digitization of analog data sources."
 ---
 
