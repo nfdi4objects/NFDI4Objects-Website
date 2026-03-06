@@ -51,6 +51,6 @@ herunterladen und mit einem vollständigen SPARQL-Processor Ihrer Wahl verwenden
 
 - <a href="https://www.w3.org/TR/sparql11-query/" target="_blank" rel="noopener">SPARQL 1.1 Query Language Specification</a>
 - <a href="https://www.w3.org/TR/turtle/" target="_blank" rel="noopener">RDF 1.1 Turtle Format</a>
-- <a href="{{ site.baseurl }}/services/knowledge-graph/">NFDI4Objects Knowledge Graph Service</a>
+- <a href="{{ site.baseurl }}/services/nfdi4objects-graph/">NFDI4Objects Knowledge Graph Service</a>
 
 

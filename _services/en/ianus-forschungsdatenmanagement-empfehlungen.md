@@ -1,7 +1,7 @@
 ---
 layout: service
 lang: en
-translation_key: ianus-forschungsdatenmanagement-empfehlungen
+translation_key: /ianus-forschungsdatenmanagement-empfehlungen
 title: IANUS RDM recommendations
 short_title: ''
 logo: /assets/images/services/ianus_logo_500px.png
@@ -14,7 +14,7 @@ nfdi_category: support_consulting
 nfdi_service_types:
 - sus
 - quas
-permalink: /en/services/ianus-forschungsdatenmanagement-empfehlungen/
+permalink: /en/services//ianus-forschungsdatenmanagement-empfehlungen/
 ---
 
 ## Description

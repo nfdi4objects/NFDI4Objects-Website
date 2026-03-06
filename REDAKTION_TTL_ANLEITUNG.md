@@ -140,9 +140,9 @@ permalink: /services/DATEINAME/index.ttl
   - `source: trail-fuzziness-wobbliness`
 
 **Beispiel Service:**
-- Markdown: `_services/de/ianus-fdm.md`
+- Markdown: `_services/de/ianus-forschungsdatenmanagement-empfehlungen.md`
   - `translation_key: service-ianus-fdm`
-- TTL: `_ttl/services/ianus-fdm.ttl`
+- TTL: `_ttl/services/ianus-forschungsdatenmanagement-empfehlungen.ttl`
   - `source: service-ianus-fdm`
 
 

@@ -1,7 +1,7 @@
 ---
 layout: service
 lang: de
-translation_key: ianus-forschungsdatenmanagement-empfehlungen
+translation_key: /ianus-forschungsdatenmanagement-empfehlungen
 title: IANUS FDM-Empfehlungen
 short_title: ''
 logo: /assets/images/services/ianus_logo_500px.png
@@ -14,7 +14,7 @@ nfdi_category: support_consulting
 nfdi_service_types:
 - sus
 - quas
-permalink: /services/ianus-forschungsdatenmanagement-empfehlungen/
+permalink: /services//ianus-forschungsdatenmanagement-empfehlungen/
 ---
 
 ## Beschreibung

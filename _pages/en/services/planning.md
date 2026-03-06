@@ -7,7 +7,7 @@ permalink: /en/services/planning/
 cards:
   - title: "IANUS RDM Recommendations"
     icon: "/assets/images/services/ianus-logo.png"
-    url: "/en/services/ianus-fdm/"
+    url: "/en/services/ianus-forschungsdatenmanagement-empfehlungen/"
     description: "Comprehensive <strong>guidelines and best practices</strong> for research data management in archaeological sciences. Essential for creating data management plans."
   - title: "NFDI4Objects Knowledge Graph"
     icon: "/assets/images/services/n4o-knowledge-graph.png"
@@ -19,7 +19,7 @@ cards:
     description: "Central <strong>information portal</strong> for NFDI4Objects services and resources."
   - title: "NFDI4Objects Commons"
     icon: "/assets/images/services/n4o-commons-logo.png"
-    url: "/en/services/nfdi4objects-commons/"
+    url: "/en/services/commons/"
     description: "Platform providing an <strong>overview of available data, tools, and knowledge</strong>. Supports research into existing resources."
   - title: "NFDI4Objects Catalogues"
     icon: "/assets/icons/dienste/Dienste-Icons-02.svg"

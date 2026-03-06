@@ -134,12 +134,12 @@ lang: de
 
 ### 5. Service TTL
 
-**Datei:** `_ttl/services/ianus-fdm.ttl`
+**Datei:** `_ttl/services/ianus-forschungsdatenmanagement-empfehlungen.ttl`
 
 ```yaml
 ---
 layout: service-ttl
-permalink: /services/ianus-fdm/index.ttl
+permalink: /services/ianus-forschungsdatenmanagement-empfehlungen/index.ttl
 translation_key: service-ianus-fdm
 title: "IANUS FDM-Empfehlungen"
 short_title: "FDM-Empfehlungen"

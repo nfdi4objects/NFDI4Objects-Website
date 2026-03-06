@@ -54,6 +54,6 @@ TTL file and use it with a full-featured SPARQL processor of your choice.
       
 - <a href="https://www.w3.org/TR/sparql11-query/" target="_blank" rel="noopener">SPARQL 1.1 Query Language Specification</a>
 - <a href="https://www.w3.org/TR/turtle/" target="_blank" rel="noopener">RDF 1.1 Turtle Format</a>
-- <a href="{{ site.baseurl }}/en/services/knowledge-graph/">NFDI4Objects Knowledge Graph Service</a>
+- <a href="{{ site.baseurl }}/en/services/nfdi4objects-graph/">NFDI4Objects Knowledge Graph Service</a>
 
 

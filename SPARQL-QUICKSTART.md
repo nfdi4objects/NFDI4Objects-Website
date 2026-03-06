@@ -121,7 +121,7 @@ Nach dem Build:
 - **SPARQL-Seite (DE):** `/services/sparql/`
 - **SPARQL-Seite (EN):** `/en/services/sparql/`
 - **TTL-Download:** `/nfdi4objects.ttl`
-- **Knowledge Graph Service:** `/services/knowledge-graph/`
+- **Knowledge Graph Service:** `/services/nfdi4objects-graph/`
 
 ## Probleme?
 
