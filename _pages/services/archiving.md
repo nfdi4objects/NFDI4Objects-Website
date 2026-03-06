@@ -9,15 +9,15 @@ permalink: /services/archiving/
 cards:
   - title: "IANUS Langzeitarchiv und Forschungsdatenzentrum"
     icon: "/assets/images/services/ianus-logo.png"
-    url: "#"
+    url: "/services/ianus-langzeitarchiv-und-forschungsdatenzentrum/"
     description: "Zentraler Dienst für die <strong>langfristige und sichere Archivierung</strong> von archäologischen Forschungsdaten mit professionellen Workflows zur Qualitätskontrolle."
   - title: "Propylaeum@heiDATA"
     icon: "/assets/images/services/propylaeu-data.png"
-    url: "#"
+    url: "/services/propylaeum-heidata/"
     description: "Fachrepositorium für die Altertumswissenschaften. <strong>Archivierung und Publikation</strong> von Forschungsdaten mit persistenten Identifikatoren (DOI)."
   - title: "Goobi"
     icon: "/assets/images/services/goobi-quadrat.png"
-    url: "#"
+    url: "/services/goobi/"
     description: "Workflow-Management-Software für <strong>Digitalisierungs-Workflow</strong>. Systematische und qualitätskontrollierte Digitalisierung von analogen Datenquellen."
 ---
 

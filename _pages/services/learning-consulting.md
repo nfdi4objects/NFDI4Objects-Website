@@ -15,6 +15,13 @@ cards:
     icon: "/assets/icons/dienste/Dienste-Icons-07.svg"
     url: "#"
     description: "Standards für die <strong>semantische Beschreibung von Objektdaten</strong>. Grundlage für Interoperabilität."
+  - title: "IANUS FDM-Empfehlungen"
+    icon: "/assets/images/services/ianus-logo.png"
+    url: "/services/ianus-forschungsdatenmanagement-empfehlungen/"
+    description: "Umfassende <strong>Leitlinien und Best Practices</strong> für das Forschungsdatenmanagement in den archäologischen Wissenschaften. Unverzichtbar für die Erstellung von Datenmanagementplänen."
+  - title: "NFDI4Objects Commons"
+    icon: "/assets/images/services/n4o-commons-logo.png"
+    url: "/services/commons/"
 ---
 
 {% include page-header.html

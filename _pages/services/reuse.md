@@ -13,12 +13,8 @@ cards:
     description: "Werkzeug zur <strong>3D-Rekonstruktion</strong> von archäologischen Objekten und Strukturen."
   - title: "Workflow-Tool für experimentelle archäologische Experimente"
     icon: "/assets/icons/dienste/Dienste-Icons-05.svg"
-    url: "#"
+    url: "/services/workflow-tool-für-archäologische-experimente/"
     description: "Unterstützt die <strong>strukturierte Dokumentation und Auswertung</strong> von experimentellen archäologischen Daten."
-  - title: "NFDI4Objects Open Educational Resources (OERs)"
-    icon: "/assets/icons/dienste/Dienste-Icons-01.svg"
-    url: "#"
-    description: "<strong>Offene Lehr- und Lernmaterialien</strong> für die Nachnutzung in Bildung und Forschung."
 ---
 
 {% include page-header.html
