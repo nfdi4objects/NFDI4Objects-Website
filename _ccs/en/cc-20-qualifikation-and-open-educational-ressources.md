@@ -16,7 +16,7 @@ cochairs:
 areas:
 - ta6
 focus_areas: ''
-permalink: /ccs/cc-20-qualifikation-and-open-educational-ressources/
+permalink: /en/ccs/cc-20-qualifikation-and-open-educational-ressources/
 ---
 
 ## Description

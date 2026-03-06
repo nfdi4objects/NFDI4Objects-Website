@@ -18,7 +18,7 @@ areas:
 - ta6
 - ta5
 focus_areas: ''
-permalink: /ccs/cc7_citizen_science_and_community_hubs/
+permalink: /en/ccs/cc7_citizen_science_and_community_hubs/
 ---
 
 ## Description

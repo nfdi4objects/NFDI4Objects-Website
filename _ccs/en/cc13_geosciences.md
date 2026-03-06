@@ -17,7 +17,7 @@ areas:
 - ta1
 - ta3
 focus_areas: ''
-permalink: /ccs/cc13_geosciences/
+permalink: /en/ccs/cc13_geosciences/
 ---
 
 ## Description

@@ -16,7 +16,7 @@ cochairs:
 areas:
 - ta2
 focus_areas: ''
-permalink: /ccs/cc6_collection_management/
+permalink: /en/ccs/cc6_collection_management/
 ---
 
 ## Description

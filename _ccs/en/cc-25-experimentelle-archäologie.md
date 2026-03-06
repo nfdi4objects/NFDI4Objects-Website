@@ -17,7 +17,7 @@ areas:
 - ta3
 - ta6
 focus_areas: ''
-permalink: /ccs/cc-25-experimentelle-archäologie/
+permalink: /en/ccs/cc-25-experimentelle-archäologie/
 ---
 
 ## Description
