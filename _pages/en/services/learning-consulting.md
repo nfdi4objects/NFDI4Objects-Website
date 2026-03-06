@@ -20,7 +20,7 @@ cards:
   - title: "NFDI4Objects Commons"
     icon: "/assets/images/services/n4o-commons-logo.png"
     url: "/services/commons/"
-    description: "Plattform mit <strong>Übersicht über vorhandene Daten, Werkzeuge und Wissen</strong>. Unterstützt die Recherche nach existierenden Ressourcen."
+    description: "Platform providing an <strong>overview of available data, tools, and knowledge</strong>. Supports research into existing resources."
   - title: "NFDI4Objects Helpdesk"
     icon: "/assets/icons/dienste/Dienste-Icons-03.svg"
     url: "/help/"
