@@ -5,19 +5,6 @@ lang: de
 translation_key: home
 permalink: /
 ---
-{% include sections/hero.html lang="de" %}
-<main id="main-content" class="home">
-{% assign onboarding = site.data.de.teaser-onboarding %}
-{% include sections/teaser-grid.html
-    title=onboarding.title
-    subtitle=onboarding.subtitle
-    focus=onboarding.focus
-    bg=onboarding.bg
-    centered=onboarding.centered
-    columns=onboarding.columns
-    items=onboarding.items
-%}
-
 {% assign services = site.data.de.teaser-services %}
 {% include sections/teaser-grid.html
     title=services.title
