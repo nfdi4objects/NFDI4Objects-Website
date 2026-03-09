@@ -5,6 +5,9 @@ lang: de
 translation_key: home
 permalink: /
 ---
+{% include sections/hero.html lang="de" %}
+<main id="main-content" class="home">
+
 {% assign services = site.data.de.teaser-services %}
 {% include sections/teaser-grid.html
     title=services.title
