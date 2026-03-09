@@ -15,6 +15,7 @@ cochairs:
 areas:
 - ta6
 - ta2
+permalink: /en/twgs/besitznachweis-im-verlustfall-use-case-für-den-minimaldatensatz/
 ---
 
 ## Description

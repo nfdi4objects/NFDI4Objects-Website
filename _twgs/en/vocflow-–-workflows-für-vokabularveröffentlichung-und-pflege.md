@@ -3,7 +3,7 @@ layout: twg
 lang: en
 translation_key: vocflow-–-workflows-für-vokabularveröffentlichung-und-pflege
 title: VocFlow – Workflows for Vocabulary Publication and Maintenance
-identifier: ''
+identifier: TWG 2026.2
 status: active
 start_date: 2026-02-13 12:00:00+00:00
 end_date: ''
@@ -20,6 +20,7 @@ areas:
 - ta3
 - ta4
 - ta7
+permalink: /en/twgs/vocflow-–-workflows-für-vokabularveröffentlichung-und-pflege/
 ---
 
 ## Description

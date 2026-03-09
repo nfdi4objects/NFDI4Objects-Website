@@ -15,6 +15,7 @@ cochairs:
   person_ref: allard_mees
 areas:
 - ta2
+permalink: /en/twgs/integration-von-community-driven-vocabularies-in-das-wikiversum-am-beispiel-von-numismatik-und-keramologie-sowie-petroglyphen-und-monolithen/
 ---
 
 ## Description

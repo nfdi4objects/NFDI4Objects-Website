@@ -22,6 +22,7 @@ areas:
 - ta3
 - ta4
 - ta5
+permalink: /twgs/twg2024-1_omds_oo/
 ---
 
 ## Beschreibung

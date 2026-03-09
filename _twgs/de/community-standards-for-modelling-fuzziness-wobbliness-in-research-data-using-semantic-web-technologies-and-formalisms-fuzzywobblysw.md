@@ -22,6 +22,7 @@ areas:
 - ta4
 - ta5
 - ta6
+permalink: /twgs/community-standards-for-modelling-fuzziness-wobbliness-in-research-data-using-semantic-web-technologies-and-formalisms-fuzzywobblysw/
 ---
 
 ## Beschreibung

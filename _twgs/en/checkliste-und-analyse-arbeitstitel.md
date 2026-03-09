@@ -15,6 +15,7 @@ cochairs:
   person_ref: allard_mees
 areas:
 - ta2
+permalink: /en/twgs/checkliste-und-analyse-arbeitstitel/
 ---
 
 ## Description

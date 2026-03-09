@@ -11,7 +11,7 @@ areas:
 - ta7
 - ta6
 trails: []
-nfdi_category: web_applications
+nfdi_category: support_consulting
 nfdi_service_types:
 - sus
 permalink: /en/services/portal/

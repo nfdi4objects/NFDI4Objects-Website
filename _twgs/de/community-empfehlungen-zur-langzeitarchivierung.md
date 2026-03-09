@@ -19,6 +19,7 @@ areas:
 - ta1
 - ta4
 - ta6
+permalink: /twgs/community-empfehlungen-zur-langzeitarchivierung/
 ---
 
 ## Beschreibung

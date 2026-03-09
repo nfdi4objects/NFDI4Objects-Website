@@ -16,6 +16,7 @@ cochairs:
   person_ref: jansessing
 areas:
 - ta3
+permalink: /twgs/lab-standards/
 ---
 
 ## Beschreibung

@@ -16,6 +16,7 @@ cochairs:
   person_ref: johannesschäffer
 areas:
 - ta2
+permalink: /twgs/twg1/
 ---
 
 ## Beschreibung

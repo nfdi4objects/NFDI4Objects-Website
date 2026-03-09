@@ -17,6 +17,7 @@ cochairs:
   person_ref: timohomburg
 areas:
 - ta2
+permalink: /twgs/modellierung-von-community-driven-vocabularies-und-semantic-alignments-in-einer-wikibase-instanz/
 ---
 
 ## Beschreibung

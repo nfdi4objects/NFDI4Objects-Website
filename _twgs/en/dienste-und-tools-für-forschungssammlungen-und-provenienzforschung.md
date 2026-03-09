@@ -14,6 +14,7 @@ cochairs:
   person_ref: angelaberthold
 areas:
 - ta2
+permalink: /en/twgs/dienste-und-tools-für-forschungssammlungen-und-provenienzforschung/
 ---
 
 ## Description

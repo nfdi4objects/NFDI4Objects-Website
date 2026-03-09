@@ -17,6 +17,7 @@ cochairs:
   person_ref: andreaspuhl
 areas:
 - ta4
+permalink: /twgs/community-standards-für-kontrollierte-vokabulare-und-austauschformate-im-bereich-der-erhaltung-und-pflege-des-kulturellen-erbes/
 ---
 
 ## Beschreibung

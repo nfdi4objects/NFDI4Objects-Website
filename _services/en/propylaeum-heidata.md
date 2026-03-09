@@ -10,7 +10,7 @@ access_url: https://heidata.uni-heidelberg.de/dataverse/propylaeum
 areas:
 - ta5
 trails: []
-nfdi_category: databases
+nfdi_category: storage
 nfdi_service_types:
 - stos
 permalink: /en/services/propylaeum-heidata/

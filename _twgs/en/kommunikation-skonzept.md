@@ -13,6 +13,7 @@ cochairs:
 - name: Bernhard Weisser
   person_ref: bernhard_weisser
 areas: []
+permalink: /en/twgs/kommunikation-skonzept/
 ---
 
 ## Description

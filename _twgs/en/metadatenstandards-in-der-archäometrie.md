@@ -14,6 +14,7 @@ cochairs:
   person_ref: jansessing
 areas:
 - ta3
+permalink: /en/twgs/metadatenstandards-in-der-archäometrie/
 ---
 
 ## Description

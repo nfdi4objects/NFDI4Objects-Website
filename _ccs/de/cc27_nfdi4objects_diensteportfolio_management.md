@@ -9,10 +9,10 @@ start_date: 2025-07-04 09:01:11.387000+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:
+- name: Benjamin Höke
+  person_ref: benjaminhöke
 - name: Fabian Fricke
   person_ref: fabianfricke
-- name: ''
-  person_ref: ''
 areas:
 - ta7
 focus_areas: ''

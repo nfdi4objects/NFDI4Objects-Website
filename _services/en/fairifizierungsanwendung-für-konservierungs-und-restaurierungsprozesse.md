@@ -13,7 +13,7 @@ trails: []
 nfdi_category: web_applications
 nfdi_service_types:
 - sas
-permalink: /en/services/fairifizierungsanwendung-für-konservierungs-und-restaurierungsprozessesanwendung-für-konservierungs-und-restaurierungsprozesse/
+permalink: /en/services/fairifizierungsanwendung-für-konservierungs-und-restaurierungsprozesse/
 ---
 
 ## Description

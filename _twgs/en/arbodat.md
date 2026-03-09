@@ -14,6 +14,7 @@ cochairs:
   person_ref: ''
 areas:
 - ta3
+permalink: /en/twgs/arbodat/
 ---
 
 ## Description

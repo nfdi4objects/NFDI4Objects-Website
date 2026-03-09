@@ -14,6 +14,7 @@ cochairs:
   person_ref: angelaberthold
 areas:
 - ta2
+permalink: /en/twgs/ableitung-eines-personen-körperschaftengazeteers-in-wikibase-am-beispiel-von-vorbesitzenden-in-den-jahren-1933-1945/
 ---
 
 ## Description

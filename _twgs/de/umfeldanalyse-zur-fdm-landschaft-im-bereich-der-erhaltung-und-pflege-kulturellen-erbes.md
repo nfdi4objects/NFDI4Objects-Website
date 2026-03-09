@@ -17,6 +17,7 @@ cochairs:
   person_ref: nathalywitt
 areas:
 - ta4
+permalink: /twgs/umfeldanalyse-zur-fdm-landschaft-im-bereich-der-erhaltung-und-pflege-kulturellen-erbes/
 ---
 
 ## Beschreibung

@@ -16,6 +16,7 @@ cochairs:
   person_ref: florian_thiery
 areas:
 - ta2
+permalink: /twgs/integration-vorhandener-kontrollierter-vokabulare-in-den-vokabularkatalog-museumsvokabular-de/
 ---
 
 ## Beschreibung

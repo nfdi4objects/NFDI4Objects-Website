@@ -14,6 +14,7 @@ cochairs:
 - name: ''
   person_ref: ''
 areas: []
+permalink: /en/twgs/ableitung-eines-“meta-index”-und-von-semantic-alignments-am-beispiel-numismatischer-keramologischer-beschreibender-metadaten/
 ---
 
 ## Description

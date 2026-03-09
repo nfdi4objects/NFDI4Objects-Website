@@ -10,7 +10,7 @@ access_url: https://www.gbv.de/informationen/Verbundzentrale/serviceangebote/kun
 areas:
 - ta5
 trails: []
-nfdi_category: databases
+nfdi_category: storage
 nfdi_service_types:
 - das
 - sas

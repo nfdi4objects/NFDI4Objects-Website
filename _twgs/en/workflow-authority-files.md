@@ -15,6 +15,7 @@ cochairs:
 areas:
 - ta1
 - ta6
+permalink: /en/twgs/workflow-authority-files/
 ---
 
 ## Description

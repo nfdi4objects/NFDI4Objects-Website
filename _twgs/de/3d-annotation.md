@@ -17,6 +17,7 @@ cochairs:
 areas:
 - ta6
 - ta1
+permalink: /twgs/3d-annotation/
 ---
 
 ## Beschreibung

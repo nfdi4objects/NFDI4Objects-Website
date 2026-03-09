@@ -3,7 +3,7 @@ layout: twg
 lang: de
 translation_key: care-principles
 title: CARE Principles
-identifier: ''
+identifier: TWG 2026.1
 status: active
 start_date: 2026-01-16 12:00:00+00:00
 end_date: ''
@@ -16,6 +16,7 @@ cochairs:
   person_ref: romyköhler
 areas:
 - ta7
+permalink: /twgs/care-principles/
 ---
 
 ## Beschreibung

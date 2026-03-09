@@ -15,6 +15,7 @@ cochairs:
 - name: Jennifer Moldenhauer
   person_ref: jennifermoldenhauer-1
 areas: []
+permalink: /twgs/provenienzforschung-im-bereich-textilarchäologie/
 ---
 
 ## Beschreibung

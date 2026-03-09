@@ -17,6 +17,7 @@ cochairs:
 areas:
 - ta1
 - ta5
+permalink: /twgs/sach-und-geodaten-in-der-primärdokumentation/
 ---
 
 ## Beschreibung
