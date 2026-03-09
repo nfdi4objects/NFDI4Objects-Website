@@ -11,5 +11,5 @@ institution: deutsches-archäologisches-institut-dai
 orcid: 0000-0001-7545-2181
 areas:
 - ta7
-permalink: /news/philipp_von_rummel/
+permalink: /persons/philipp_von_rummel/
 ---

@@ -9,5 +9,5 @@ groups:
 institution: niedersaechsisches-institut-fuer-historische-kuestenforschung
 orcid: 0000-0002-9618-2798
 areas: []
-permalink: /en/news/felixbittmann/
+permalink: /en/persons/felixbittmann/
 ---

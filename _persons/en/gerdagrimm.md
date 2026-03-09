@@ -9,5 +9,5 @@ groups:
 institution: deutsches-archäologisches-institut-dai
 orcid: 0009-0009-7393-1803
 areas: []
-permalink: /en/news/gerdagrimm/
+permalink: /en/persons/gerdagrimm/
 ---

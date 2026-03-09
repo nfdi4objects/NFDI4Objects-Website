@@ -9,5 +9,5 @@ groups:
 institution: koordinierungsstelle-fuer-wissenschaftliche-Universitaetssammlungen-in-deutschland-am-hzk
 orcid: 0000-0001-6704-2772
 areas: []
-permalink: /news/oliverzauzig/
+permalink: /persons/oliverzauzig/
 ---

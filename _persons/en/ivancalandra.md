@@ -9,5 +9,5 @@ groups:
 institution: leiza
 orcid: 0000-0003-3816-6359
 areas: []
-permalink: /en/news/ivancalandra/
+permalink: /en/persons/ivancalandra/
 ---

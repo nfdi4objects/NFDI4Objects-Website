@@ -11,5 +11,5 @@ institution: landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-bade
 orcid: 0000-0001-5676-0701
 areas:
 - ta1
-permalink: /en/news/benjaminhöke/
+permalink: /en/persons/benjaminhöke/
 ---

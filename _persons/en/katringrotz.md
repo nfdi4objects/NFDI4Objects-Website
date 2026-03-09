@@ -9,5 +9,5 @@ groups:
 institution: stiftung-preußischer-kulturbesitz
 orcid: ''
 areas: []
-permalink: /en/news/katringrotz/
+permalink: /en/persons/katringrotz/
 ---

@@ -9,5 +9,5 @@ groups:
 institution: niedersaechsisches-institut-fuer-historische-kuestenforschung
 orcid: 0000-0003-1521-8929
 areas: []
-permalink: /en/news/moritzmennenga/
+permalink: /en/persons/moritzmennenga/
 ---

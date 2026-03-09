@@ -9,5 +9,5 @@ groups:
 institution: fiz-karlsruhe-leibniz-institut-fuer-informationsinfrastruktur
 orcid: ''
 areas: []
-permalink: /en/news/wolframhorstmann/
+permalink: /en/persons/wolframhorstmann/
 ---

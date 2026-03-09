@@ -9,5 +9,5 @@ groups:
 institution: stiftung-preußischer-kulturbesitz
 orcid: ''
 areas: []
-permalink: /news/cäciliafluck/
+permalink: /persons/cäciliafluck/
 ---

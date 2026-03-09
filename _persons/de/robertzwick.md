@@ -10,5 +10,5 @@ institution: hochschule-mainz-university-of-applied-sciences
 orcid: 0000-0002-5839-8192
 areas:
 - ta6
-permalink: /news/robertzwick/
+permalink: /persons/robertzwick/
 ---

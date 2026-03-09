@@ -10,5 +10,5 @@ institution: verbundzentrale-des-gbv
 orcid: 0000-0001-9895-8986
 areas:
 - ta5
-permalink: /news/frank_duehrkohp/
+permalink: /persons/frank_duehrkohp/
 ---

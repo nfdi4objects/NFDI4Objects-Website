@@ -10,5 +10,5 @@ institution: deutsches-archäologisches-institut-dai
 orcid: ''
 areas:
 - ta7
-permalink: /en/news/tolinjojo/
+permalink: /en/persons/tolinjojo/
 ---

@@ -9,5 +9,5 @@ groups:
 institution: lvr-amt-fuer-bodendenkmalpflege-im-rheinland
 orcid: 0000-0003-0860-7205
 areas: []
-permalink: /news/erichclaßen/
+permalink: /persons/erichclaßen/
 ---

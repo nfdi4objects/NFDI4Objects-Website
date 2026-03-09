@@ -10,5 +10,5 @@ institution: deutsches-archäologisches-institut-dai
 orcid: 0000-0002-4087-4023
 areas:
 - ta5
-permalink: /en/news/julianewatson/
+permalink: /en/persons/julianewatson/
 ---

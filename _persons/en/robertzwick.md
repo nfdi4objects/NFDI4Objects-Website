@@ -9,5 +9,5 @@ institution: ''
 orcid: 0000-0002-5839-8192
 areas:
 - ta6
-permalink: /en/news/robertzwick/
+permalink: /en/persons/robertzwick/
 ---

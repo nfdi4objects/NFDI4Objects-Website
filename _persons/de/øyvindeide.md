@@ -9,5 +9,5 @@ groups:
 institution: institut-fuer-digital-humanities-universitaet-koeln
 orcid: 0000-0002-7766-6287
 areas: []
-permalink: /news/øyvindeide/
+permalink: /persons/øyvindeide/
 ---

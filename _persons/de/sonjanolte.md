@@ -9,5 +9,5 @@ groups:
 institution: verbundzentrale-des-gbv
 orcid: ''
 areas: []
-permalink: /news/sonjanolte/
+permalink: /persons/sonjanolte/
 ---

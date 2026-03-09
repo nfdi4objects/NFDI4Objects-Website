@@ -10,5 +10,5 @@ institution: leiza
 orcid: 0009-0002-6126-5355
 areas:
 - ta2
-permalink: /en/news/matthiasheiduk/
+permalink: /en/persons/matthiasheiduk/
 ---

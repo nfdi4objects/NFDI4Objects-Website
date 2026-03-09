@@ -9,5 +9,5 @@ groups:
 institution: rwth-aachen-lehrstuhl-fuer-architekturgeschichte
 orcid: 0000-0003-1687-8419
 areas: []
-permalink: /news/ankenaujakot/
+permalink: /persons/ankenaujakot/
 ---

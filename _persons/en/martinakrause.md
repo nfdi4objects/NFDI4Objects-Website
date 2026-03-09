@@ -11,5 +11,5 @@ institution: deutsches-archäologisches-institut-dai
 orcid: ''
 areas:
 - ta7
-permalink: /en/news/martinakrause/
+permalink: /en/persons/martinakrause/
 ---

@@ -8,5 +8,5 @@ groups: []
 institution: bundesamt-für-kartographie-und-geodäsie
 orcid: 0000-0002-9499-5840
 areas: []
-permalink: /news/timohomburg/
+permalink: /persons/timohomburg/
 ---

@@ -9,5 +9,5 @@ groups:
 institution: digital-humanities-center-universität-thübingen
 orcid: 0000-0003-0337-3024
 areas: []
-permalink: /en/news/karstenschmidt/
+permalink: /en/persons/karstenschmidt/
 ---

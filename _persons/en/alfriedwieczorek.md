@@ -9,5 +9,5 @@ groups:
 institution: deutscher-verband-fuer-archaeologie-e.V.-
 orcid: ''
 areas: []
-permalink: /en/news/alfriedwieczorek/
+permalink: /en/persons/alfriedwieczorek/
 ---

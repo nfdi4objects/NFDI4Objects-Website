@@ -10,5 +10,5 @@ institution: verbundzentrale-des-gbv
 orcid: 0000-0002-7613-4123
 areas:
 - ta5
-permalink: /en/news/jakobvoss/
+permalink: /en/persons/jakobvoss/
 ---

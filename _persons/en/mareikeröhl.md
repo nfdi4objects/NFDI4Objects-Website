@@ -9,5 +9,5 @@ groups:
 institution: deutsches-archäologisches-institut-dai
 orcid: 0000-0003-1763-3026
 areas: []
-permalink: /en/news/mareikeröhl/
+permalink: /en/persons/mareikeröhl/
 ---

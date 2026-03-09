@@ -9,5 +9,5 @@ groups:
 institution: staatliche-naturwissenschaftliche-sammlungen-bayerns
 orcid: ''
 areas: []
-permalink: /en/news/elisabethschepers/
+permalink: /en/persons/elisabethschepers/
 ---

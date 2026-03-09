@@ -10,5 +10,5 @@ institution: stiftung-preußischer-kulturbesitz
 orcid: 0000-0002-9867-5588
 areas:
 - ta2
-permalink: /en/news/felix-fschäfer/
+permalink: /en/persons/felix-fschäfer/
 ---

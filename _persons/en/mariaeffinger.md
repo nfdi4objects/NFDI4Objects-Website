@@ -10,5 +10,5 @@ institution: propylaeum-fid-altertumswissenschaften-universitaetsbibliothek-heid
 orcid: 0000-0001-6396-4876
 areas:
 - ta5
-permalink: /en/news/mariaeffinger/
+permalink: /en/persons/mariaeffinger/
 ---

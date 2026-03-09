@@ -9,5 +9,5 @@ groups:
 institution: institut-für-altorientalistik-und-vorderasiatische-archäologie-universität-münster
 orcid: ''
 areas: []
-permalink: /news/florian-janoschakreppner/
+permalink: /persons/florian-janoschakreppner/
 ---

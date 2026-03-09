@@ -10,5 +10,5 @@ institution: klassik-stiftung-weimar
 orcid: 0000-0003-4319-6595
 areas:
 - ta6
-permalink: /en/news/dirkwintergruen/
+permalink: /en/persons/dirkwintergruen/
 ---

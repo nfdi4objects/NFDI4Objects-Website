@@ -9,5 +9,5 @@ groups:
 institution: institut-für-ur-und-frühgeschichte-und-archäologie-des-mittelalters-eberhard-karls-universität-tübingen
 orcid: ''
 areas: []
-permalink: /news/susannegreiff/
+permalink: /persons/susannegreiff/
 ---

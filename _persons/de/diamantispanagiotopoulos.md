@@ -9,5 +9,5 @@ groups:
 institution: zentrum-für-altertumswissenschaften-universität-heidelberg
 orcid: 0000-0002-9232-1797
 areas: []
-permalink: /news/diamantispanagiotopoulos/
+permalink: /persons/diamantispanagiotopoulos/
 ---

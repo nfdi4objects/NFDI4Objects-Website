@@ -10,5 +10,5 @@ institution: leiza
 orcid: 0000-0002-9115-0834
 areas:
 - ta4
-permalink: /en/news/rolandschwab/
+permalink: /en/persons/rolandschwab/
 ---

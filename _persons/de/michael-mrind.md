@@ -9,5 +9,5 @@ groups:
 institution: verband-der-landesarchaeologen-in-der-bundesrepublik-deutschland
 orcid: ''
 areas: []
-permalink: /news/michael-mrind/
+permalink: /persons/michael-mrind/
 ---

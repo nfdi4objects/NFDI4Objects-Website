@@ -9,5 +9,5 @@ groups:
 institution: deutsche-nationalbibliothek
 orcid: 0000-0001-9421-1447
 areas: []
-permalink: /en/news/jürgenklett/
+permalink: /en/persons/jürgenklett/
 ---

@@ -10,5 +10,5 @@ institution: bonn-center-for-digital-humanites-universität-bonn
 orcid: 0000-0003-3047-2722
 areas:
 - ta1
-permalink: /en/news/matthias_lang/
+permalink: /en/persons/matthias_lang/
 ---

@@ -9,5 +9,5 @@ groups:
 institution: institut-fuer-archaeologie-und-kulturgeschichte-des-antiken-mittelmeerraumes-universitaet-hamburg
 orcid: ''
 areas: []
-permalink: /en/news/martinaseifert/
+permalink: /en/persons/martinaseifert/
 ---

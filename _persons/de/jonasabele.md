@@ -10,5 +10,5 @@ institution: landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-bade
 orcid: ''
 areas:
 - ta1
-permalink: /news/jonasabele/
+permalink: /persons/jonasabele/
 ---

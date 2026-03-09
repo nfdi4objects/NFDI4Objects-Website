@@ -9,5 +9,5 @@ groups:
 institution: braunschweigiges-landesmuseum
 orcid: 0000-0001-9436-9949
 areas: []
-permalink: /en/news/bettinagierke/
+permalink: /en/persons/bettinagierke/
 ---

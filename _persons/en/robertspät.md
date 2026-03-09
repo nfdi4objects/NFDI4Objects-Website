@@ -9,5 +9,5 @@ groups:
 institution: berlin-brandenburgische-akademie-der-wissenschaften
 orcid: ''
 areas: []
-permalink: /en/news/robertspät/
+permalink: /en/persons/robertspät/
 ---

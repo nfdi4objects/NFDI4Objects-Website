@@ -9,5 +9,5 @@ groups:
 institution: museum-fuer-naturkunde-leibniz-institut-fuer-evolutions-und-biodiversitaetsforschung
 orcid: ''
 areas: []
-permalink: /en/news/christianbölling/
+permalink: /en/persons/christianbölling/
 ---

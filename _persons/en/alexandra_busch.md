@@ -10,5 +10,5 @@ institution: leiza
 orcid: 0000-0002-7248-2227
 areas:
 - ta2
-permalink: /en/news/alexandra_busch/
+permalink: /en/persons/alexandra_busch/
 ---

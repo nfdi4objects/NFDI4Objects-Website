@@ -9,5 +9,5 @@ groups:
 institution: deutsches-archäologisches-institut-dai
 orcid: 0000-0002-5269-8848
 areas: []
-permalink: /en/news/eleakoenigsaecker/
+permalink: /en/persons/eleakoenigsaecker/
 ---

@@ -9,5 +9,5 @@ groups:
 institution: landesmuseum-hannover-das-weltenmuseum
 orcid: ''
 areas: []
-permalink: /en/news/dinakrumstroh/
+permalink: /en/persons/dinakrumstroh/
 ---

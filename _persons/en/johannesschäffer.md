@@ -10,5 +10,5 @@ institution: koordinierungsstelle-fuer-wissenschaftliche-Universitaetssammlungen
 orcid: 0009-0007-6883-1483
 areas:
 - ta2
-permalink: /en/news/johannesschäffer/
+permalink: /en/persons/johannesschäffer/
 ---

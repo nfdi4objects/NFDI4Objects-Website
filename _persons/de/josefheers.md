@@ -10,5 +10,5 @@ institution: verbundzentrale-des-gbv
 orcid: 0009-0005-3056-1778
 areas:
 - ta5
-permalink: /news/josefheers/
+permalink: /persons/josefheers/
 ---

@@ -8,5 +8,5 @@ groups: []
 institution: fau-competence-center-for-research-data-and-information-cdi
 orcid: 0000-0001-7769-3050
 areas: []
-permalink: /en/news/güntergörz/
+permalink: /en/persons/güntergörz/
 ---

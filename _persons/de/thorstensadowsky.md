@@ -9,5 +9,5 @@ groups:
 institution: stiftung-schleswig-holsteinische-landesmuseen-schloss-gottorf
 orcid: ''
 areas: []
-permalink: /news/thorstensadowsky/
+permalink: /persons/thorstensadowsky/
 ---

@@ -10,5 +10,5 @@ institution: stiftung-preußischer-kulturbesitz
 orcid: 0009-0006-1339-8232
 areas:
 - ta2
-permalink: /en/news/janpeuckert/
+permalink: /en/persons/janpeuckert/
 ---

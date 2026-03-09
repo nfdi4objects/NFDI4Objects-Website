@@ -11,5 +11,5 @@ institution: stiftung-preußischer-kulturbesitz
 orcid: ''
 areas:
 - ta2
-permalink: /en/news/christophklose/
+permalink: /en/persons/christophklose/
 ---

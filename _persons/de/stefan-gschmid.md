@@ -9,5 +9,5 @@ groups:
 institution: koordinierungsstelle-fuer-wissenschaftliche-Universitaetssammlungen-in-deutschland-am-hzk
 orcid: ''
 areas: []
-permalink: /news/stefan-gschmid/
+permalink: /persons/stefan-gschmid/
 ---

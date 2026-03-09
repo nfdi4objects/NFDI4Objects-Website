@@ -9,5 +9,5 @@ groups:
 institution: niedersaechsisches-landesamt-fuer-denkmalpflege-projekt-denkmal-atlas
 orcid: ''
 areas: []
-permalink: /news/utzböhner/
+permalink: /persons/utzböhner/
 ---

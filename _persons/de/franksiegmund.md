@@ -9,5 +9,5 @@ groups:
 institution: deutsche-gesellschaft-fuer-ur-und-fruehgeschichte-e.V.-
 orcid: 0000-0002-0555-3451
 areas: []
-permalink: /news/franksiegmund/
+permalink: /persons/franksiegmund/
 ---

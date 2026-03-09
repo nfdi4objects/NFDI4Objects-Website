@@ -9,5 +9,5 @@ groups:
 institution: institut-fuer-stadt-und-regionalplanung-tu-berlin
 orcid: https://d-nb.info/gnd/135746809
 areas: []
-permalink: /news/meikehopp/
+permalink: /persons/meikehopp/
 ---

@@ -10,5 +10,5 @@ institution: universität-kiel-cau
 orcid: 0000-0002-2024-7700
 areas:
 - ta3
-permalink: /en/news/matthias_renz/
+permalink: /en/persons/matthias_renz/
 ---

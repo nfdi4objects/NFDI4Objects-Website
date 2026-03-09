@@ -9,5 +9,5 @@ groups:
 institution: computer-anwendungen-&-quantitative-methoden-in-der-archaeologie-sektion-deutschland
 orcid: ''
 areas: []
-permalink: /en/news/jürgenlandauer/
+permalink: /en/persons/jürgenlandauer/
 ---

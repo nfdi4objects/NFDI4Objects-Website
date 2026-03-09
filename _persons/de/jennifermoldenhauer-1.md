@@ -8,5 +8,5 @@ groups: []
 institution: universität-heidelberg
 orcid: ''
 areas: []
-permalink: /news/jennifermoldenhauer-1/
+permalink: /persons/jennifermoldenhauer-1/
 ---

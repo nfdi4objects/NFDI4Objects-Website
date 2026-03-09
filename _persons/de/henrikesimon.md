@@ -9,5 +9,5 @@ groups:
 institution: berlin-graduate-school-of-ancient-studies-fu-berlin
 orcid: ''
 areas: []
-permalink: /news/henrikesimon/
+permalink: /persons/henrikesimon/
 ---

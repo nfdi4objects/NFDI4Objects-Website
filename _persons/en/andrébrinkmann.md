@@ -9,5 +9,5 @@ groups:
 institution: efficient-computing-and-storage-group-jgu-mainz
 orcid: 0000-0003-3083-2775
 areas: []
-permalink: /en/news/andrébrinkmann/
+permalink: /en/persons/andrébrinkmann/
 ---

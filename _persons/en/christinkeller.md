@@ -12,5 +12,5 @@ institution: deutsches-archäologisches-institut-dai
 orcid: 0000-0002-5727-0226
 areas:
 - ta7
-permalink: /en/news/christinkeller/
+permalink: /en/persons/christinkeller/
 ---

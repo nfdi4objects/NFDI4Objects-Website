@@ -9,5 +9,5 @@ groups:
 institution: deutsche-nationalbibliothek
 orcid: 0000-0003-3404-1452
 areas: []
-permalink: /en/news/frankscholze/
+permalink: /en/persons/frankscholze/
 ---

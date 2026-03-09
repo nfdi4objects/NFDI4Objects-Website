@@ -10,5 +10,5 @@ institution: leiza
 orcid: 0000-0002-7634-5342
 areas:
 - ta2
-permalink: /news/allard_mees/
+permalink: /persons/allard_mees/
 ---

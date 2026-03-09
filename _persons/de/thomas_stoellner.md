@@ -10,5 +10,5 @@ institution: deutsches-bergbau-museum-bochum
 orcid: ''
 areas:
 - ta3
-permalink: /news/thomas_stoellner/
+permalink: /persons/thomas_stoellner/
 ---

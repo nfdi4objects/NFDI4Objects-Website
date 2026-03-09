@@ -10,5 +10,5 @@ institution: verband-der-landesarchaeologen-in-der-bundesrepublik-deutschland
 orcid: 0000-0001-7143-8630
 areas:
 - ta4
-permalink: /news/ulrich_himmelmann/
+permalink: /persons/ulrich_himmelmann/
 ---

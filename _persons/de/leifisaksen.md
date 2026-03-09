@@ -9,5 +9,5 @@ groups:
 institution: universität-exeter
 orcid: 0000-0003-4027-1764
 areas: []
-permalink: /news/leifisaksen/
+permalink: /persons/leifisaksen/
 ---

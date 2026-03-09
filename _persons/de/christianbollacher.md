@@ -8,5 +8,5 @@ groups: []
 institution: landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-baden-württemberg
 orcid: ''
 areas: []
-permalink: /news/christianbollacher/
+permalink: /persons/christianbollacher/
 ---

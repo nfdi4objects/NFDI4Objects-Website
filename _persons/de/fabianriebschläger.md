@@ -10,5 +10,5 @@ institution: deutsches-archäologisches-institut-dai
 orcid: 0000-0002-5818-264X
 areas:
 - ta5
-permalink: /news/fabianriebschläger/
+permalink: /persons/fabianriebschläger/
 ---

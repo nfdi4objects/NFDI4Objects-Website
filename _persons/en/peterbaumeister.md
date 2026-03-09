@@ -10,5 +10,5 @@ institution: deutsches-archäologisches-institut-dai
 orcid: 0000-0001-5430-1456
 areas:
 - ta5
-permalink: /en/news/peterbaumeister/
+permalink: /en/persons/peterbaumeister/
 ---

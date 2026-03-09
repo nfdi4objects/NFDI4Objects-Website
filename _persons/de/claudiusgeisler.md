@@ -9,5 +9,5 @@ groups:
 institution: akademie-der-wissenschaften-und-der-literatur-mainz
 orcid: ''
 areas: []
-permalink: /news/claudiusgeisler/
+permalink: /persons/claudiusgeisler/
 ---

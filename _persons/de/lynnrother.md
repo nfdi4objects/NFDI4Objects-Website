@@ -9,5 +9,5 @@ groups:
 institution: leuphana-universität-lüneburg
 orcid: 0000-0003-0993-3985
 areas: []
-permalink: /news/lynnrother/
+permalink: /persons/lynnrother/
 ---

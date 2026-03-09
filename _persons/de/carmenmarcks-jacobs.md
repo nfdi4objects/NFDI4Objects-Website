@@ -9,5 +9,5 @@ groups:
 institution: humboldt-universität-zu-berlin
 orcid: ''
 areas: []
-permalink: /news/carmenmarcks-jacobs/
+permalink: /persons/carmenmarcks-jacobs/
 ---

@@ -9,5 +9,5 @@ groups:
 institution: ruhr-universität-bochum
 orcid: 0000-0002-2515-7747
 areas: []
-permalink: /en/news/tahaninadim/
+permalink: /en/persons/tahaninadim/
 ---

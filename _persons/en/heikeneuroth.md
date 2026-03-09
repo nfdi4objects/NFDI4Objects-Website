@@ -9,5 +9,5 @@ groups:
 institution: fachhochschule-potsdam
 orcid: 0000-0002-3637-3154
 areas: []
-permalink: /en/news/heikeneuroth/
+permalink: /en/persons/heikeneuroth/
 ---

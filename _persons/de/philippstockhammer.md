@@ -9,5 +9,5 @@ groups:
 institution: max-planck-institut-fuer-evolutionaere-anthropologie-abteilung-fuer-archaeogenetik
 orcid: 0000-0003-4702-9372
 areas: []
-permalink: /news/philippstockhammer/
+permalink: /persons/philippstockhammer/
 ---

@@ -9,5 +9,5 @@ groups:
 institution: propylaeum-fid-altertumswissenschaften-universitaetsbibliothek-heidelberg
 orcid: 0000-0001-9020-3036
 areas: []
-permalink: /news/stephanierenger-1/
+permalink: /persons/stephanierenger-1/
 ---

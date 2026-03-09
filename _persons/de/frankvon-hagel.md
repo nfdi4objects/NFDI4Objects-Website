@@ -10,5 +10,5 @@ institution: stiftung-preußischer-kulturbesitz
 orcid: 0000-0003-1349-2131
 areas:
 - ta2
-permalink: /news/frankvon-hagel/
+permalink: /persons/frankvon-hagel/
 ---

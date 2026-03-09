@@ -10,5 +10,5 @@ institution: propylaeum-fid-altertumswissenschaften-universitaetsbibliothek-heid
 orcid: 0000-0001-9020-3036
 areas:
 - ta5
-permalink: /en/news/stephanierenger/
+permalink: /en/persons/stephanierenger/
 ---

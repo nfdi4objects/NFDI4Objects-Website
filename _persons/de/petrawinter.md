@@ -9,5 +9,5 @@ groups:
 institution: stiftung-preußischer-kulturbesitz
 orcid: ''
 areas: []
-permalink: /news/petrawinter/
+permalink: /persons/petrawinter/
 ---

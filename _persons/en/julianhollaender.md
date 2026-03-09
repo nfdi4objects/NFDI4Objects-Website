@@ -11,5 +11,5 @@ institution: landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-bade
 orcid: 0000-0001-7933-3518
 areas:
 - ta1
-permalink: /en/news/julianhollaender/
+permalink: /en/persons/julianhollaender/
 ---

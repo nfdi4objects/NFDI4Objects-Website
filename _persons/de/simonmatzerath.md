@@ -9,5 +9,5 @@ groups:
 institution: landesdenkmalamt-saarland
 orcid: ''
 areas: []
-permalink: /news/simonmatzerath/
+permalink: /persons/simonmatzerath/
 ---

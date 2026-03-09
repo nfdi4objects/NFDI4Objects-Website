@@ -9,5 +9,5 @@ groups:
 institution: arizona-state-university
 orcid: ''
 areas: []
-permalink: /news/christophernicholson/
+permalink: /persons/christophernicholson/
 ---

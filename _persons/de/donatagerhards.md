@@ -10,5 +10,5 @@ institution: hochschule-mainz-university-of-applied-sciences
 orcid: 0009-0005-6915-6294
 areas:
 - ta6
-permalink: /news/donatagerhards/
+permalink: /persons/donatagerhards/
 ---

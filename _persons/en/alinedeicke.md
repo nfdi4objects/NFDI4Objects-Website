@@ -9,5 +9,5 @@ groups:
 institution: akademie-der-wissenschaften-und-der-literatur-mainz
 orcid: 0000-0001-7347-7625
 areas: []
-permalink: /en/news/alinedeicke/
+permalink: /en/persons/alinedeicke/
 ---

@@ -9,5 +9,5 @@ groups:
 institution: max-planck-institut-fuer-evolutionaere-anthropologie-abteilung-fuer-archaeogenetik
 orcid: 0000-0002-1017-9150
 areas: []
-permalink: /en/news/stephanschiffels/
+permalink: /en/persons/stephanschiffels/
 ---

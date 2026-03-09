@@ -10,5 +10,5 @@ institution: leiza
 orcid: 0009-0001-5183-1635
 areas:
 - ta4
-permalink: /en/news/lassemempel-länger/
+permalink: /en/persons/lassemempel-länger/
 ---

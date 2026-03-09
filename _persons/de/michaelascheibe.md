@@ -9,5 +9,5 @@ groups:
 institution: deutsche-nationalbibliothek
 orcid: 0009-0005-2828-5882
 areas: []
-permalink: /news/michaelascheibe/
+permalink: /persons/michaelascheibe/
 ---

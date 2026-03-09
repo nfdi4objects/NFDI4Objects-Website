@@ -8,5 +8,5 @@ groups: []
 institution: deutsches-schifffahrtsmuseum
 orcid: 0000-0002-0619-9466
 areas: []
-permalink: /en/news/romyköhler/
+permalink: /en/persons/romyköhler/
 ---

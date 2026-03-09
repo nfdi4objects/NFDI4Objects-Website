@@ -9,5 +9,5 @@ groups:
 institution: herzog-anton-ulrich-museum
 orcid: ''
 areas: []
-permalink: /news/thomasrichter/
+permalink: /persons/thomasrichter/
 ---

@@ -9,5 +9,5 @@ groups:
 institution: landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-baden-württemberg
 orcid: 0000-0002-9986-273X
 areas: []
-permalink: /en/news/johannabauck-burgess/
+permalink: /en/persons/johannabauck-burgess/
 ---

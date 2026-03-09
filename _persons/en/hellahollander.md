@@ -9,5 +9,5 @@ groups:
 institution: königlich-niederländische-akademie-der-wissenschaften-knaw
 orcid: 0000-0002-4079-7451
 areas: []
-permalink: /en/news/hellahollander/
+permalink: /en/persons/hellahollander/
 ---

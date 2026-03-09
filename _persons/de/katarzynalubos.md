@@ -8,5 +8,5 @@ groups: []
 institution: universität-bonn
 orcid: 0009-0002-4813-6372
 areas: []
-permalink: /news/katarzynalubos/
+permalink: /persons/katarzynalubos/
 ---

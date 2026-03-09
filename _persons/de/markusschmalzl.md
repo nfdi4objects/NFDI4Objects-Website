@@ -9,5 +9,5 @@ groups:
 institution: staatliche-archive-bayern
 orcid: 0009-0005-7547-2699
 areas: []
-permalink: /news/markusschmalzl/
+permalink: /persons/markusschmalzl/
 ---

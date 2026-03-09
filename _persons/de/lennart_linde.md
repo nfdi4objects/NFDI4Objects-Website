@@ -10,5 +10,5 @@ institution: hochschule-mainz-university-of-applied-sciences
 orcid: null
 areas:
 - ta7
-permalink: /news/lennart_linde/
+permalink: /persons/lennart_linde/
 ---

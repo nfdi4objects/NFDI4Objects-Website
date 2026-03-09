@@ -10,5 +10,5 @@ institution: leiza
 orcid: 0000-0002-3246-3531
 areas:
 - ta2
-permalink: /en/news/florian_thiery/
+permalink: /en/persons/florian_thiery/
 ---

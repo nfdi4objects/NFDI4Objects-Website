@@ -9,5 +9,5 @@ groups:
 institution: stiftung-preußischer-kulturbesitz
 orcid: 0000-0003-3390-4404
 areas: []
-permalink: /en/news/patriciarahemipour/
+permalink: /en/persons/patriciarahemipour/
 ---

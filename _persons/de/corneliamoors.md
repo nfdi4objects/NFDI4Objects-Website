@@ -9,5 +9,5 @@ groups:
 institution: lwl-museum-fuer-archaeologie-und-kultur-westfaelisches-landesmuseum
 orcid: ''
 areas: []
-permalink: /news/corneliamoors/
+permalink: /persons/corneliamoors/
 ---

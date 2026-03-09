@@ -9,5 +9,5 @@ groups:
 institution: thueringisches-landesamt-fuer-denkmalpflege-und-archaeologie-lda-thuringia
 orcid: ''
 areas: []
-permalink: /news/marioschlapke/
+permalink: /persons/marioschlapke/
 ---

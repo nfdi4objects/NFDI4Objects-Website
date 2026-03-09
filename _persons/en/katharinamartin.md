@@ -10,5 +10,5 @@ institution: stiftung-preußischer-kulturbesitz
 orcid: ''
 areas:
 - ta2
-permalink: /en/news/katharinamartin/
+permalink: /en/persons/katharinamartin/
 ---

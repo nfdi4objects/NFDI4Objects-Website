@@ -10,5 +10,5 @@ institution: leiza
 orcid: 0009-0005-3991-1025
 areas:
 - ta4
-permalink: /news/kristinafella/
+permalink: /persons/kristinafella/
 ---

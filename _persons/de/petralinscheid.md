@@ -8,5 +8,5 @@ groups: []
 institution: universität-bonn
 orcid: ''
 areas: []
-permalink: /news/petralinscheid/
+permalink: /persons/petralinscheid/
 ---

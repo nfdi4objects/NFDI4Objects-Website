@@ -11,5 +11,5 @@ institution: hochschule-mainz-university-of-applied-sciences
 orcid: 0000-0001-8322-1260
 areas:
 - ta6
-permalink: /en/news/kai-christian_bruhn/
+permalink: /en/persons/kai-christian_bruhn/
 ---
