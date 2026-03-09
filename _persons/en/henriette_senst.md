@@ -9,4 +9,5 @@ groups:
 institution: bundesministerium-für-gesundheit-nfdi4health
 orcid: 0000-0003-2255-7478
 areas: []
+permalink: /en/news/henriette_senst/
 ---

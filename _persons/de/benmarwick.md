@@ -9,4 +9,5 @@ groups:
 institution: university-of-washington
 orcid: 0000-0001-7879-4531
 areas: []
+permalink: /news/benmarwick/
 ---

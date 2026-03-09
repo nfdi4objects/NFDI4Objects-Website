@@ -9,4 +9,5 @@ groups:
 institution: berlin-graduate-school-of-ancient-studies-fu-berlin
 orcid: 0000-0003-4524-6242
 areas: []
+permalink: /news/monikatrümper/
 ---

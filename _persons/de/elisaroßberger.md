@@ -9,4 +9,5 @@ groups:
 institution: freie-universität-berlin-institut-für-vorderasiatische-archäologie
 orcid: 0000-0002-5788-0497
 areas: []
+permalink: /news/elisaroßberger/
 ---

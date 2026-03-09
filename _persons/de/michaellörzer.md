@@ -9,4 +9,5 @@ groups:
 institution: thueringer-universitaets-und-landesbibliothek
 orcid: 0000-0002-0143-755X
 areas: []
+permalink: /news/michaellörzer/
 ---

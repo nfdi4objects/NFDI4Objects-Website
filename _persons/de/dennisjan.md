@@ -10,4 +10,5 @@ institution: generaldirektion-kulturelles-erbe-rheinland-pfalz
 orcid: ''
 areas:
 - ta4
+permalink: /news/dennisjan/
 ---

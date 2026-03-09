@@ -9,4 +9,5 @@ groups:
 institution: staatliche-naturwissenschaftliche-sammlungen-bayerns
 orcid: 0000-0002-7111-9530
 areas: []
+permalink: /news/amaryllisvidalis/
 ---

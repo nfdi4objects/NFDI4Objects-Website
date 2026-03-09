@@ -9,4 +9,5 @@ groups:
 institution: klassik-stiftung-weimar
 orcid: 0000-0001-8509-8171
 areas: []
+permalink: /en/news/stefanalscher/
 ---

@@ -9,4 +9,5 @@ groups:
 institution: deutscher-museumsbund
 orcid: ''
 areas: []
+permalink: /en/news/sylviawillkomm/
 ---

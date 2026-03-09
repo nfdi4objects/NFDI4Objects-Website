@@ -9,4 +9,5 @@ groups:
 institution: commonwealth-scientific-and-industrial-research-organisation-csiro
 orcid: 0000-0001-5911-6022
 areas: []
+permalink: /news/jensklump/
 ---

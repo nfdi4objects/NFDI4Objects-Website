@@ -10,4 +10,5 @@ institution: frankfurt-big-data-lab-goethe-universität-frankfurt
 orcid: ''
 areas:
 - ta2
+permalink: /news/sebastiangampe/
 ---

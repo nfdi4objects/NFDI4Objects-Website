@@ -10,4 +10,5 @@ institution: fau-competence-center-for-research-data-and-information-cdi
 orcid: 0000-0002-1352-129X
 areas:
 - ta6
+permalink: /news/sarahwagner/
 ---

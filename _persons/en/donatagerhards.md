@@ -9,4 +9,5 @@ institution: ''
 orcid: 0009-0005-6915-6294
 areas:
 - ta6
+permalink: /en/news/donatagerhards/
 ---

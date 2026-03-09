@@ -9,4 +9,5 @@ groups:
 institution: staatliche-archive-bayern
 orcid: 0000-0003-0391-3879
 areas: []
+permalink: /news/anna-lisaschwartz/
 ---

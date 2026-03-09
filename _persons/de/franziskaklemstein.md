@@ -8,4 +8,5 @@ groups: []
 institution: hochschule-für-technik-wirtschaft-und-kultur-htwk
 orcid: 0000-0003-3137-6732
 areas: []
+permalink: /news/franziskaklemstein/
 ---

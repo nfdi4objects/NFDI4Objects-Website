@@ -11,4 +11,5 @@ institution: deutsches-archäologisches-institut-dai
 orcid: 0000-0003-4411-7035
 areas:
 - ta7
+permalink: /en/news/heikemessemer/
 ---

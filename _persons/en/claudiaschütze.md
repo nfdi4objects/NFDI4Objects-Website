@@ -10,4 +10,5 @@ institution: helmholtz-zentrum-fuer-umweltforschung-department-monitoring-und-er
 orcid: ''
 areas:
 - ta1
+permalink: /en/news/claudiaschütze/
 ---

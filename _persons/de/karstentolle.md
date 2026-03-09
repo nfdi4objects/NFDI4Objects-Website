@@ -10,4 +10,5 @@ institution: frankfurt-big-data-lab-goethe-universität-frankfurt
 orcid: 0000-0002-9953-7638
 areas:
 - ta2
+permalink: /news/karstentolle/
 ---

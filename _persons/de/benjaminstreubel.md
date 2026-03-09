@@ -9,4 +9,5 @@ groups:
 institution: leiza
 orcid: 0000-0002-5474-5572
 areas: []
+permalink: /news/benjaminstreubel/
 ---

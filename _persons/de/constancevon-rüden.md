@@ -9,4 +9,5 @@ groups:
 institution: ruhr-universität-bochum
 orcid: 0000-0003-0552-8202
 areas: []
+permalink: /news/constancevon-rüden/
 ---

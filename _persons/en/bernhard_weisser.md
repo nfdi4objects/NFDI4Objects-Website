@@ -10,4 +10,5 @@ institution: stiftung-preußischer-kulturbesitz
 orcid: 0000-0001-5262-2731
 areas:
 - ta2
+permalink: /en/news/bernhard_weisser/
 ---

@@ -8,4 +8,5 @@ groups: []
 institution: verbundzentrale-des-gbv
 orcid: 0000-0002-8943-4870
 areas: []
+permalink: /news/michaelmarkert/
 ---

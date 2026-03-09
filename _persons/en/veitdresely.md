@@ -9,4 +9,5 @@ groups:
 institution: landesamt-für-denkmalpflege-und-archäologie-sachsen-anhalt-–-landesmuseum-für-vorgeschichte
 orcid: ''
 areas: []
+permalink: /en/news/veitdresely/
 ---

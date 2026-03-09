@@ -9,4 +9,5 @@ groups:
 institution: deutsches-schifffahrtsmuseum
 orcid: ''
 areas: []
+permalink: /en/news/antjeschmidt/
 ---

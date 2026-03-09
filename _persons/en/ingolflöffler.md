@@ -9,4 +9,5 @@ groups:
 institution: deutsches-bergbau-museum-bochum
 orcid: 0009-0003-5185-1307
 areas: []
+permalink: /en/news/ingolflöffler/
 ---

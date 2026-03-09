@@ -9,4 +9,5 @@ groups:
 institution: institut-für-altertumswissenschaften-jgu-mainz
 orcid: 0000-0001-7293-5444
 areas: []
+permalink: /en/news/johanneslipps/
 ---

@@ -9,4 +9,5 @@ groups:
 institution: cologne-center-for-ehumanities-universitaet-koeln
 orcid: 0000-0002-7263-1405
 areas: []
+permalink: /en/news/andreasspeer/
 ---

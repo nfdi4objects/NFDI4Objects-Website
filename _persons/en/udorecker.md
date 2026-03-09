@@ -9,4 +9,5 @@ groups:
 institution: hessenarchaeologie-landesamt-fuer-denkmalpflege-hessen
 orcid: 0000-0001-5352-6223
 areas: []
+permalink: /en/news/udorecker/
 ---

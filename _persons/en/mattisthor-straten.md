@@ -9,4 +9,5 @@ groups:
 institution: universität-kiel-cau
 orcid: 0009-0005-1140-3352
 areas: []
+permalink: /en/news/mattisthor-straten/
 ---

@@ -10,4 +10,5 @@ institution: verbundzentrale-des-gbv
 orcid: 0000-0002-9407-4208
 areas:
 - ta5
+permalink: /news/geraldsteilen/
 ---

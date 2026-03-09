@@ -8,4 +8,5 @@ groups: []
 institution: zentrum-für-altertumswissenschaften-universität-heidelberg
 orcid: n.n.
 areas: []
+permalink: /en/news/susannebörner/
 ---

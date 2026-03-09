@@ -9,4 +9,5 @@ groups:
 institution: deutsches-bergbau-museum-bochum
 orcid: 0000-0002-2439-4863
 areas: []
+permalink: /en/news/yiu-kanghsu/
 ---

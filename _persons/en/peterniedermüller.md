@@ -9,4 +9,5 @@ groups:
 institution: institut-fuer-kunstgeschichte-und-musikwissenschaft-jgu-mainz
 orcid: ''
 areas: []
+permalink: /en/news/peterniedermüller/
 ---

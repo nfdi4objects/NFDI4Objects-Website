@@ -11,4 +11,5 @@ institution: generaldirektion-kulturelles-erbe-rheinland-pfalz
 orcid: 0009-0004-4108-5247
 areas:
 - ta4
+permalink: /news/johannelehfeldt/
 ---

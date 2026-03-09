@@ -10,4 +10,5 @@ institution: koordinierungsstelle-fuer-wissenschaftliche-Universitaetssammlungen
 orcid: 0009-0003-2395-5002
 areas:
 - ta2
+permalink: /en/news/martinstricker/
 ---

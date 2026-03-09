@@ -10,4 +10,5 @@ institution: helmholtz-zentrum-fuer-umweltforschung-department-monitoring-und-er
 orcid: 0000-0003-4700-5258
 areas:
 - ta1
+permalink: /en/news/ulrikewerban/
 ---

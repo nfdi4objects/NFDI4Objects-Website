@@ -9,4 +9,5 @@ groups:
 institution: riksantikvarieämbetet-zentralamt-für-denkmalpflege-schweden
 orcid: 0000-0003-0707-0717
 areas: []
+permalink: /en/news/åsa-marialarsson/
 ---

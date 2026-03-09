@@ -9,4 +9,5 @@ groups:
 institution: heidelberger-akademie-der-wissenschaften
 orcid: 0000-0002-4923-7880
 areas: []
+permalink: /en/news/miriam-noëlhaidle/
 ---

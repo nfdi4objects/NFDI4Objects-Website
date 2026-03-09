@@ -9,4 +9,5 @@ groups:
 institution: archäologisches-institut-universtät-zu-köln
 orcid: ''
 areas: []
+permalink: /en/news/eleftheriapaliou/
 ---

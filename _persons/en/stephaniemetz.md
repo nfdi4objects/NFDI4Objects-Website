@@ -10,4 +10,5 @@ institution: generaldirektion-kulturelles-erbe-rheinland-pfalz
 orcid: 0000-0001-5759-6640
 areas:
 - ta4
+permalink: /en/news/stephaniemetz/
 ---

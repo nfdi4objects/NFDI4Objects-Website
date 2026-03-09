@@ -8,4 +8,5 @@ groups: []
 institution: niedersaechsisches-institut-fuer-historische-kuestenforschung
 orcid: 0000-0002-0655-8094
 areas: []
+permalink: /en/news/christinapeek/
 ---

@@ -9,4 +9,5 @@ groups:
 institution: universität-zu-köln
 orcid: 0000-0003-4889-9353
 areas: []
+permalink: /news/lutzschubert/
 ---

@@ -10,4 +10,5 @@ institution: hornemann-institut-der-hawk
 orcid: 0009-0003-1063-0727
 areas:
 - ta4
+permalink: /news/nathalywitt/
 ---

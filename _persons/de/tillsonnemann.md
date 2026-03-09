@@ -10,4 +10,5 @@ institution: universität-bonn
 orcid: 0000-0003-2632-7282
 areas:
 - ta1
+permalink: /news/tillsonnemann/
 ---

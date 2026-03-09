@@ -9,4 +9,5 @@ groups:
 institution: institut-für-archäologische-wissenschaften-denkmalwissenschaften-und-kunstgeschichte-universität-bamberg
 orcid: 0000-0002-3882-3956
 areas: []
+permalink: /en/news/stefanbreitling/
 ---

@@ -9,4 +9,5 @@ groups:
 institution: thueringisches-landesamt-fuer-denkmalpflege-und-archaeologie-lda-thuringia
 orcid: ''
 areas: []
+permalink: /en/news/svenostritz/
 ---

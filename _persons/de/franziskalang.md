@@ -9,4 +9,5 @@ groups:
 institution: klassische-archaeologie-fb-architektur-tu-darmstadt
 orcid: 0000-0002-4239-041X
 areas: []
+permalink: /news/franziskalang/
 ---

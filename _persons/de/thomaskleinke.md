@@ -10,4 +10,5 @@ institution: verbundzentrale-des-gbv
 orcid: ''
 areas:
 - ta5
+permalink: /news/thomaskleinke/
 ---

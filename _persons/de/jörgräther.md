@@ -9,4 +9,5 @@ groups:
 institution: archäologisches-museum-hamburg
 orcid: ''
 areas: []
+permalink: /news/jörgräther/
 ---

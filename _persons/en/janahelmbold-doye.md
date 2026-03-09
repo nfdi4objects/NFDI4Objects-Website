@@ -9,4 +9,5 @@ groups:
 institution: aegyptisches-museum-georg-steindorff-universitaet-leipzig
 orcid: ''
 areas: []
+permalink: /en/news/janahelmbold-doye/
 ---
