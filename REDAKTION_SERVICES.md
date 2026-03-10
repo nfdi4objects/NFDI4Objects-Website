@@ -1,4 +1,4 @@
-# Anleitung: Services mit TTL-Metadaten erstellen (ist automatisiert)
+# Anleitung: Services mit TTL-Metadaten erstellen 
 
 ## Übersicht
 
