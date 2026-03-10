@@ -1,5 +1,7 @@
+#!/usr/bin/env python3
 import os
 import frontmatter
+import subprocess
 from pathlib import Path
 
 # Define collections and their corresponding TTL layouts
@@ -19,9 +21,8 @@ def extract_translation_key(filepath):
     """Extract the translation_key from the front matter of a markdown file."""
     try:
         with open(filepath, "r", encoding="utf-8") as f:
-            content = f.read()
-        post = frontmatter.loads(content)
-        return post.get("translation_key")
+            post = frontmatter.load(f)
+            return post.get("translation_key")
     except Exception as e:
         print(f"Error reading {filepath}: {str(e)}")
         return None
@@ -71,6 +72,46 @@ def process_collection(collection):
             else:
                 print(f"No translation_key in {filename}")
 
+def commit_and_push():
+    """Commit and push the generated TTL files to Git using a fine-grained PAT."""
+    try:
+        os.chdir(BASE_DIR)
+
+        # Add TTL files to Git
+        subprocess.run(["git", "add", "_ttl/"], check=True)
+
+        # Commit changes
+        result = subprocess.run(
+            ["git", "commit", "-m", "Update TTL files [automated]"],
+            check=False,
+            capture_output=True,
+            text=True
+        )
+        if result.returncode != 0 and "nothing to commit" not in result.stderr:
+            print(f"Error committing: {result.stderr}")
+            return
+
+        # Push using the fine-grained PAT in the remote URL
+        pat = os.getenv("GITHUB_PAT")
+        if not pat:
+            raise ValueError("GITHUB_PAT environment variable not set.")
+
+        remote_url = f"https://oauth2:{pat}@github.com/nfdi4objects/NFDI4Objects-Website.git"
+        push_result = subprocess.run(
+            ["git", "push", remote_url],
+            check=False,
+            capture_output=True,
+            text=True
+        )
+        if push_result.returncode != 0:
+            print(f"Error pushing: {push_result.stderr}")
+        else:
+            print("Committed and pushed TTL files to Git.")
+    except ValueError as e:
+        print(f"Error: {str(e)}")
+    except Exception as e:
+        print(f"Unexpected error: {str(e)}")
+
 def main():
     # Create _ttl directory if it doesn't exist
     os.makedirs(TTL_DIR, exist_ok=True)
@@ -80,6 +121,8 @@ def main():
     for collection in COLLECTIONS:
         process_collection(collection)
 
+    # Commit and push the changes
+    commit_and_push()
+
 if __name__ == "__main__":
     main()
-
