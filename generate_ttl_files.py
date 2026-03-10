@@ -31,7 +31,7 @@ def generate_ttl_file(collection, translation_key):
     """Generate a TTL file for a given collection and translation_key."""
     if not translation_key:
         print(f"Skipping: No translation_key found.")
-        return
+        return True  # Indicate that processing continued
 
     layout = COLLECTIONS[collection]
     collection_name = collection.lstrip("_")  # Remove leading underscore
@@ -50,17 +50,34 @@ source: {translation_key}
 
     # Write the TTL file
     ttl_path = os.path.join(collection_ttl_dir, f"{translation_key}.ttl")
-    with open(ttl_path, "w", encoding="utf-8") as f:
-        f.write(ttl_content)
-    print(f"Generated: {ttl_path}")
+
+    # Check if the content has changed
+    content_changed = False
+    if os.path.exists(ttl_path):
+        with open(ttl_path, "r", encoding="utf-8") as f:
+            existing_content = f.read()
+        if existing_content != ttl_content:
+            content_changed = True
+    else:
+        content_changed = True
+
+    if content_changed:
+        with open(ttl_path, "w", encoding="utf-8") as f:
+            f.write(ttl_content)
+        print(f"Generated/Updated: {ttl_path}")
+        return True
+    else:
+        print(f"No changes needed: {ttl_path}")
+        return False
 
 def process_collection(collection):
     """Process all markdown files in the 'de/' subdirectory of a collection."""
     de_dir = os.path.join(BASE_DIR, collection, "de")
     if not os.path.exists(de_dir):
         print(f"Directory not found: {de_dir}")
-        return
+        return False
 
+    changes_made = False
     print(f"Processing collection: {collection}/de/")
     for filename in os.listdir(de_dir):
         if filename.endswith(".md"):
@@ -68,28 +85,43 @@ def process_collection(collection):
             translation_key = extract_translation_key(filepath)
             if translation_key:
                 print(f"Found translation_key: {translation_key} in {filename}")
-                generate_ttl_file(collection, translation_key)
+                if generate_ttl_file(collection, translation_key):
+                    changes_made = True
             else:
                 print(f"No translation_key in {filename}")
+    return changes_made
 
 def commit_and_push():
     """Commit and push the generated TTL files to Git using a fine-grained PAT."""
     try:
         os.chdir(BASE_DIR)
 
+        # Check if there are any changes to commit
+        result = subprocess.run(
+            ["git", "status", "--porcelain", "_ttl/"],
+            capture_output=True,
+            text=True
+        )
+        if not result.stdout.strip():
+            print("No changes in TTL files to commit.")
+            return
+
         # Add TTL files to Git
         subprocess.run(["git", "add", "_ttl/"], check=True)
 
         # Commit changes
-        result = subprocess.run(
+        commit_result = subprocess.run(
             ["git", "commit", "-m", "Update TTL files [automated]"],
-            check=False,
             capture_output=True,
             text=True
         )
-        if result.returncode != 0 and "nothing to commit" not in result.stderr:
-            print(f"Error committing: {result.stderr}")
-            return
+        if commit_result.returncode != 0:
+            if "nothing to commit" in commit_result.stderr:
+                print("No changes to commit.")
+                return
+            else:
+                print(f"Error committing: {commit_result.stderr}")
+                return
 
         # Push using the fine-grained PAT in the remote URL
         pat = os.getenv("GITHUB_PAT")
@@ -99,14 +131,13 @@ def commit_and_push():
         remote_url = f"https://oauth2:{pat}@github.com/nfdi4objects/NFDI4Objects-Website.git"
         push_result = subprocess.run(
             ["git", "push", remote_url],
-            check=False,
             capture_output=True,
             text=True
         )
         if push_result.returncode != 0:
             print(f"Error pushing: {push_result.stderr}")
         else:
-            print("Committed and pushed TTL files to Git.")
+            print("Successfully pushed TTL files to Git.")
     except ValueError as e:
         print(f"Error: {str(e)}")
     except Exception as e:
@@ -118,11 +149,15 @@ def main():
     print(f"TTL files will be saved to: {TTL_DIR}")
 
     # Process each collection
+    changes_made = False
     for collection in COLLECTIONS:
-        process_collection(collection)
+        if process_collection(collection):
+            changes_made = True
 
-    # Commit and push the changes
-    commit_and_push()
+    if changes_made:
+        commit_and_push()
+    else:
+        print("No changes detected in any TTL files.")
 
 if __name__ == "__main__":
     main()
