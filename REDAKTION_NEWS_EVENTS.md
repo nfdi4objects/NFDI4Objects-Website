@@ -1,7 +1,6 @@
 # Dokumentation: News & Events
 
 Diese Dokumentation erklärt, wie News-Beiträge und Veranstaltungen im NFDI4Objects-System angelegt und verwaltet werden.
-Ich schreib hier mal was rein.
 ---
 
 ##  News-Beiträge
