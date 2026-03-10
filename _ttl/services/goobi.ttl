@@ -1,0 +1,5 @@
+---
+layout: service-ttl
+permalink: /services/goobi/index.ttl
+source: goobi
+---

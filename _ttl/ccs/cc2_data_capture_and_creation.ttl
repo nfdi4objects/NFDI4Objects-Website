@@ -1,0 +1,5 @@
+---
+layout: cc-ttl
+permalink: /ccs/cc2_data_capture_and_creation/index.ttl
+source: cc2_data_capture_and_creation
+---

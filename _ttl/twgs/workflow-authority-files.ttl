@@ -1,0 +1,5 @@
+---
+layout: twg-ttl
+permalink: /twgs/workflow-authority-files/index.ttl
+source: workflow-authority-files
+---

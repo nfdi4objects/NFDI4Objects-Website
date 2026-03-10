@@ -1,0 +1,11 @@
+---
+# ============================================
+# POINTER-TTL für Task Area 1
+# ============================================
+# Alle Daten werden automatisch aus der Markdown-Datei gelesen.
+# Siehe: _areas/de/ta1.md
+
+layout: ta-ttl
+permalink: /areas/ta2/index.ttl
+source: ta2  # Muss mit translation_key der MD-Datei übereinstimmen!
+---

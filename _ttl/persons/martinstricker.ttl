@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/martinstricker/index.ttl
+source: martinstricker
+---

@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/lassemempel-länger/index.ttl
+source: lassemempel-länger
+---

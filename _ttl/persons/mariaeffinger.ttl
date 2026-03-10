@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/mariaeffinger/index.ttl
+source: mariaeffinger
+---

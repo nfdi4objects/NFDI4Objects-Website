@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/frank_duehrkohp/index.ttl
+source: frank_duehrkohp
+---

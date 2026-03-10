@@ -1,0 +1,5 @@
+---
+layout: trail-ttl
+permalink: /trails/rich_metadata_discovery_service_prototype_geonumismatics/index.ttl
+source: rich_metadata_discovery_service_prototype_geonumismatics
+---

@@ -1,0 +1,5 @@
+---
+layout: service-ttl
+permalink: /services/ianus-forschungsdatenmanagement-empfehlungen/index.ttl
+source: ianus-forschungsdatenmanagement-empfehlungen
+---

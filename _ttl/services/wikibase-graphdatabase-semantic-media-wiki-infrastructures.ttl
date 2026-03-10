@@ -1,0 +1,5 @@
+---
+layout: service-ttl
+permalink: /services/wikibase-graphdatabase-semantic-media-wiki-infrastructures/index.ttl
+source: wikibase-graphdatabase-semantic-media-wiki-infrastructures
+---

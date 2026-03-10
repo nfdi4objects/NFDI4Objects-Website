@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/christianbölling/index.ttl
+source: christianbölling
+---

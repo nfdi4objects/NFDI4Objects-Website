@@ -1,0 +1,5 @@
+---
+layout: trail-ttl
+permalink: /trails/an_uri_lookup_and_resolve_service_for_lod_resources_related_to_collection_research/index.ttl
+source: an_uri_lookup_and_resolve_service_for_lod_resources_related_to_collection_research
+---

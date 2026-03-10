@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/christophklose/index.ttl
+source: christophklose
+---

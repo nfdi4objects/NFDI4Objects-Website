@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/thomasrichter/index.ttl
+source: thomasrichter
+---

@@ -1,0 +1,5 @@
+---
+layout: service-ttl
+permalink: /services/academic-meta-tool-amt/index.ttl
+source: academic-meta-tool-amt
+---

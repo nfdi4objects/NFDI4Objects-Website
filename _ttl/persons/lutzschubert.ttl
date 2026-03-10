@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/lutzschubert/index.ttl
+source: lutzschubert
+---

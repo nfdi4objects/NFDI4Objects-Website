@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/florian_thiery/index.ttl
+source: florian_thiery
+---

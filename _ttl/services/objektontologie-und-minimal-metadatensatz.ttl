@@ -1,0 +1,5 @@
+---
+layout: service-ttl
+permalink: /services/objektontologie-und-minimal-metadatensatz/index.ttl
+source: objektontologie-und-minimal-metadatensatz
+---

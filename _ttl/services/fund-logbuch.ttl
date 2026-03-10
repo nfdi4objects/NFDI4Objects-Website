@@ -1,0 +1,5 @@
+---
+layout: service-ttl
+permalink: /services/fund-logbuch/index.ttl
+source: fund-logbuch
+---

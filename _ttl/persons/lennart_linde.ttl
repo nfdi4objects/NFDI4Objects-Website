@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/lennart_linde/index.ttl
+source: lennart_linde
+---

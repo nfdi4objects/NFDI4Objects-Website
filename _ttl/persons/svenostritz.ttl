@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/svenostritz/index.ttl
+source: svenostritz
+---

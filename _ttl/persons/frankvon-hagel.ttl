@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/frankvon-hagel/index.ttl
+source: frankvon-hagel
+---

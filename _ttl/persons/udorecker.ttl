@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/udorecker/index.ttl
+source: udorecker
+---

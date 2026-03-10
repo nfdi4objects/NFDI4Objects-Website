@@ -1,0 +1,5 @@
+---
+layout: service-ttl
+permalink: /services/bartoc/index.ttl
+source: bartoc
+---

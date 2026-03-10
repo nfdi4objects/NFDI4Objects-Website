@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/johanneslipps/index.ttl
+source: johanneslipps
+---

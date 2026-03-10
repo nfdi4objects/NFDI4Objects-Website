@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/reginestein/index.ttl
+source: reginestein
+---

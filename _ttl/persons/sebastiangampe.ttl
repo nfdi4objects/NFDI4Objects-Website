@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/sebastiangampe/index.ttl
+source: sebastiangampe
+---

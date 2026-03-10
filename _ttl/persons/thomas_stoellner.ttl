@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/thomas_stoellner/index.ttl
+source: thomas_stoellner
+---

@@ -1,0 +1,5 @@
+---
+layout: service-ttl
+permalink: /services/nfdi4objects-graph/index.ttl
+source: nfdi4objects-graph
+---

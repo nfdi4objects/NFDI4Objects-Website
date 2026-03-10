@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/stephanschiffels/index.ttl
+source: stephanschiffels
+---

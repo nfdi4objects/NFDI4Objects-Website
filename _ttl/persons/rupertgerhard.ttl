@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/rupertgerhard/index.ttl
+source: rupertgerhard
+---

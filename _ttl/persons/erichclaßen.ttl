@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/erichclaßen/index.ttl
+source: erichclaßen
+---

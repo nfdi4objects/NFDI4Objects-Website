@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/ulrich_himmelmann/index.ttl
+source: ulrich_himmelmann
+---

@@ -1,0 +1,5 @@
+---
+layout: cc-ttl
+permalink: /ccs/cc3_authority_and_norm_data/index.ttl
+source: cc3_authority_and_norm_data
+---

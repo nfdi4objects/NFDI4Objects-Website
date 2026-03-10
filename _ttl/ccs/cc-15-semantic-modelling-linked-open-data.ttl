@@ -1,0 +1,5 @@
+---
+layout: cc-ttl
+permalink: /ccs/cc-15-semantic-modelling-linked-open-data/index.ttl
+source: cc-15-semantic-modelling-linked-open-data
+---

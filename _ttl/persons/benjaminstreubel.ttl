@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/benjaminstreubel/index.ttl
+source: benjaminstreubel
+---

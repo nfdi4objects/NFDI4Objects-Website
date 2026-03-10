@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/christophernicholson/index.ttl
+source: christophernicholson
+---

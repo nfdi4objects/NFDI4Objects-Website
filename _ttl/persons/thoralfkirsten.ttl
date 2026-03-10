@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/thoralfkirsten/index.ttl
+source: thoralfkirsten
+---

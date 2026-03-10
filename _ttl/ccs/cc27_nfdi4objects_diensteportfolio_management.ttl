@@ -1,0 +1,5 @@
+---
+layout: cc-ttl
+permalink: /ccs/cc27_nfdi4objects_diensteportfolio_management/index.ttl
+source: cc27_nfdi4objects_diensteportfolio_management
+---

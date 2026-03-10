@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/nadinemarcinczik/index.ttl
+source: nadinemarcinczik
+---

@@ -1,0 +1,5 @@
+---
+layout: cc-ttl
+permalink: /ccs/cc1_knowledge_modeling_and_interoperability/index.ttl
+source: cc1_knowledge_modeling_and_interoperability
+---

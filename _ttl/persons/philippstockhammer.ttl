@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/philippstockhammer/index.ttl
+source: philippstockhammer
+---

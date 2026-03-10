@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/henriette_senst/index.ttl
+source: henriette_senst
+---

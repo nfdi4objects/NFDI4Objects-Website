@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/fabianriebschläger/index.ttl
+source: fabianriebschläger
+---

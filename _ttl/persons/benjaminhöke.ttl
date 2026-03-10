@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/benjaminhöke/index.ttl
+source: benjaminhöke
+---

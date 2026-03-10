@@ -1,0 +1,5 @@
+---
+layout: service-ttl
+permalink: /services/schnittstellen-zum-austausch-von-denkmal-und-restaurierungsbezogenen-daten/index.ttl
+source: schnittstellen-zum-austausch-von-denkmal-und-restaurierungsbezogenen-daten
+---

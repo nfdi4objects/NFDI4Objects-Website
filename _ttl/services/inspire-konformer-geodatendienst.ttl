@@ -1,0 +1,5 @@
+---
+layout: service-ttl
+permalink: /services/inspire-konformer-geodatendienst/index.ttl
+source: inspire-konformer-geodatendienst
+---

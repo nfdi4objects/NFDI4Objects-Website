@@ -1,0 +1,5 @@
+---
+layout: service-ttl
+permalink: /services/survey2gis/index.ttl
+source: survey2gis
+---

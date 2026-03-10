@@ -1,0 +1,5 @@
+---
+layout: cc-ttl
+permalink: /ccs/cc12_building_history/index.ttl
+source: cc12_building_history
+---

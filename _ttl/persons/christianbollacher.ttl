@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/christianbollacher/index.ttl
+source: christianbollacher
+---

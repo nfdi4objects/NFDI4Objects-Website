@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/thorstensadowsky/index.ttl
+source: thorstensadowsky
+---

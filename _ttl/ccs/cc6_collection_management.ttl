@@ -1,0 +1,5 @@
+---
+layout: cc-ttl
+permalink: /ccs/cc6_collection_management/index.ttl
+source: cc6_collection_management
+---
