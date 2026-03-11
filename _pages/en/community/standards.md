@@ -11,40 +11,48 @@ permalink: /en/community/standards/
 {% include page-header.html
        icon="/assets/icons/infografik/Community.svg"
        title="Community Standards"
-       subtitle="Standards stehen im Zentrum der Bedürfnisse, welche die Community dem Konsortium NFDI4Objects mit auf den Weg gegeben hat."
+       subtitle="Standards are at the core of the needs that the community has entrusted to the NFDI4Objects consortium."
  %}
 
 {% include blocks/image-centered.html
    image="/assets/images/content/menschengruppe-treppe.jpg"
    srcset="/assets/images/content/menschengruppe-treppe@2x.jpg 2x, /assets/images/content/menschengruppe-treppe.jpg 1x"
-   alt="Menschebgruppe auf Treppe"  
+   alt="Group of people on stairs"
    width="600"
    class="img-center"
 %}
 “The basic irony of standards is the simple fact that there is no standard way to create a standard, nor is there even a standard definition of ‘standard’.”
 
-„The Joy of Standards“, [The New York Times, 16.2.2019](https://www.nytimes.com/2019/02/16/opinion/sunday/standardization.html)
+[The Joy of Standards, *The New York Times*, 16.2.2019](https://www.nytimes.com/2019/02/16/opinion/sunday/standardization.html)
 
-Daher begreift NFDI4Objects die (Weiter-)Entwicklung von Standards als partizipativen Prozess. Zusammen mit der Community suchen wir gezielt gemeinsame Lösungen, die verschiedene Ebenen von Standardisierung abdecken. Die konkreten Ergebnisse reichen dabei von Anregungen über Empfehlungen und konkrete Vorschläge bis hin zu normativen Vorgaben. 
+We understand the development of standards as a participatory process. Together with the community, we seek common solutions that cover different levels of standardization. The concrete results range from suggestions and recommendations to specific proposals and normative guidelines. In NFDI4Objects, these shared results are designed as open standards and developed and maintained through a collaborative and consensus-oriented process. We call these shared standards the NFDI4Objects Commons.
 
-## Entwicklung von offenen Standards
+## What Are the Commons?
 
-In NFDI4Objects werden die gemeinsamen Ergebnisse als offene Standards angelegt und in einem kollaborativen und konsensorientierten Prozess entwickelt und gepflegt. Diese Struktur schafft die Grundlage für eine wettbewerbsoffene Entwicklung einer Vielzahl von interoperablen [Anwendungen und Diensten](https://www.nfdi4objects.net/services/all/). Zugleich sichern wir somit die Qualität der erarbeiteten Ergebnisse. Die fortschreitende Nutzung solcher Standards in der Community ermöglicht ein zunehmendes Maß an Harmonisierung innerhalb der wissenschaftlichen  Datenlandschaft.
+The Commons compile the subject-specific results of NFDI4Objects. Here, we publish recommendations and standards developed through a transparent and collaborative process within the community.
 
-## Ein erster Schritt in Richtung Standards: Der NFDI4Objects Inkubator
+The Commons are designed as “living documents.” This means they are continuously evolved, adapted, and updated. The goal is to provide open and jointly usable solutions for the sustainable management of research data on material cultural heritage.
 
-Die Entstehung der NFDI4Objects-Commons wird durch den [NFDI4Objects-Inkubator](https://commons.nfdi4objects.net/incubatormain/) unterstützt. Der Inkubator ist ein von der Community kuratierter Katalog, in dem Ressourcen aus dem Themenfeld Forschungsdatenmanagement zusammengetragen werden. Im Inkubator sammeln wir eine wachsende Zahl von Handreichungen, Anleitungen, Spezifikationen, bestehenden Standards sowie Lehr- und Lernmaterialien, auf denen die NFDI4Objects-Commons aufbauen können.  
+In doing so, the Commons contribute to improving the quality, comparability, and interoperability of research data in accordance with the FAIR and CARE principles.
 
-Als Knowledge Base bietet der Inkubator darüber hinaus dem gesamten Konsortium Orientierung in Diskussionen und ist somit eine praktische Hilfe bei der Informationssuche. Alle Einträge werden über Schlagworte erschlossen. Diese sind konform zur [NFDI CoreOntology](https://ise-fizkarlsruhe.github.io/nfdicore/) modelliert.
+## Why Shared Standards Are Important
 
-NFDI4Objects unterstützt aktiv die Selbstorganisation der Community bei der Entwicklung offener Standards. Sie möchten selbst mitwirken? Informieren Sie sich gerne in dem gleichnamigen Bereich auf unserer [Webseite](https://www.nfdi4objects.net/participate/)\!
+In many disciplines, the handling of research data is still characterized by project- or institution-specific solutions. While this diversity is valuable, it complicates data exchange, comparability, and long-term usability.
 
-## Unsere Commons-Prozesse 
+The Commons therefore consolidate the knowledge of the specialist community, collect collaboratively developed recommendations, and document best practices. This creates a common reference framework that provides orientation and support, which can be directly integrated into individual practice.
 
-In unserem Konsortium folgt die Entwicklung offener Standards einem transparenten  Verfahren: Kernelement ist die Einbindung der Community, sodass Entscheidungen transparent und konsensorientiert getroffen werden. Die Resultate dieses Prozesses werden als Beiträge in den [NFDI4Objects-Commons](https://www.nfdi4objects.net/portal/services/commons/) nachgewiesen.
+The Commons deliberately understand standards as open and evolvable documents. They range from initial conceptual proposals to concrete recommendations that can be applied and adapted in different contexts.
 
-## Unsere Commons - Von der Community, für die Community!
+## Our Commons Process
 
-Die NFDI4Objects-Commons durchlaufen eine öffentliche Kommentierungsphase. Interessierte aus der Community können während dieser Phase über einen Zeitraum von vier Wochen hinweg Anmerkungen und Anregungen zum Thema beitragen. Die Autor:innen eines Beitrages greifen danach die Anmerkungen der Community auf und können diese in ihren finalen Entwurf einarbeiten. Die so entstehenden Empfehlungen spiegeln nicht die Meinung einzelner Autoren oder geschlossener Gruppen wider, sondern sind Ergebnis eines offenen Prozesses. Dieser finale Entwurf wird der Vollversammlung zur Aufnahme in die Commons vorgelegt.
-Um am Commons-Prozess teilnehmen zu können und für weitere Informationen, nutzen Sie unseren Community-Hub. Nach Annahme des Beitrags wird dieser in das NFDI4Objects Commons Layout überführt und der Öffentlichkeit zugänglich gemacht.
-Commons-Beiträge können durch eine Temporary Working Group (TWG), ein Community Cluster (CC) oder direkt aus einem TRAIL oder einer Task Area (TA) eingereicht werden.
+The NFDI4Objects Commons are created through a transparent process in which content is published and further developed.
+
+Contributions to the Commons originate in the [Community Clusters](/community/groups-networks/community-clusters/), [Temporary Working Groups](/community/groups-networks/twgs/), or within the framework of the [Task Areas](/areas/). On the path to official acceptance as Commons, proposals undergo a participatory and transparent quality assurance process. Drafts are publicly discussed and commented on before being adopted as Commons contributions.
+
+All Commons contributions are published under a CC-BY-4.0 license and are freely accessible. They are discoverable through a central catalog that is readable by both humans and machines and are permanently stored in digital archives with persistent URLs. Additionally, all Commons contributions are published in the NFDI4Objects community on [Zenodo](https://zenodo.org/communities/nfdi4objects/).
+
+The Commons can be revised, updated, and further developed at any time if new requirements, technical developments, or academic impulses make this necessary.
+
+The NFDI4Objects newsletter provides information on new publications and ongoing comment periods.
+
+Those who wish to contribute substantively can participate in [Community Clusters](/community/groups-networks/community-clusters/) or [Temporary Working Groups](/community/groups-networks/twgs/), or even found their own group and actively contribute to the further development of the Commons.
