@@ -5,9 +5,6 @@ lang: en
 translation_key: about_mission
 permalink: /en/about/mission/
 ---
-Here is your translation into academic English, with the Markdown layout preserved:
-
----
 
 # Mission and Objectives
 
