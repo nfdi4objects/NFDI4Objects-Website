@@ -15,9 +15,7 @@ Task Area 6 Qualification, Integration and Harmonisation vereint zwei zentrale A
 **Qualifikation**
 * Wir erarbeiten einen Kompetenzrahmen für Forschungsdatenmanagement im Themenbereich von NFDI4Objects, der in Lehrpläne integriert werden soll und aus dem Qualifikationsprofile für FDM-Mitarbeitende abgeleitet werden.
 * Gemeinsam mit den anderen Task Areas entwickeln wir [FAIRe Open Educational Resources (OER)](https://zenodo.org/records/8114314) für unsere Community und gemeinsam mit der Community entwickeln wir Standards für OER im Themenbereich von NFDI4Objects. [Bestehende Lehrmaterialien zu FDM](https://commons.nfdi4objects.net/incubator/?incubator=true&category=open-educational-resource) werden als Vorbereitung im [Inkubator](https://commons.nfdi4objects.net/incubatormain/) von NFDI4Objects gesammelt.
-* Regelmäßig bieten wir Workshops, Schulungen und 
-    
-Lehrformate an und fördern den Austausch zu Qualifizierungsmaßnahmen im Forschungsdatenmanagement.
+* Regelmäßig bieten wir Workshops, Schulungen und Lehrformate an und fördern den Austausch zu Qualifizierungsmaßnahmen im Forschungsdatenmanagement.
 Hier geht es zu unserem [Qualifikationservice](https://www.nfdi4objects.net/portal/services/nfdi4objects-qualification/)
 
 **Harmonisierung & Integration**
