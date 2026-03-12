@@ -21,6 +21,7 @@ exclude_from_localizations:
 exclude:
   - nul
   - "**/nul"
+  - venv/
 
 
 sass:
