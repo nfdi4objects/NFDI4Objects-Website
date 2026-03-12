@@ -1,5 +1,4 @@
 # Block Vorlagen - Verwendung
-Das ist ein Test.
 Dieses Verzeichnis enthält wiederverwendbare Block-Vorlagen für die NFDI4Objects Website.
 
 Alle Blocks werden direkt im Markdown-Content eingebunden und können frei positioniert werden.
