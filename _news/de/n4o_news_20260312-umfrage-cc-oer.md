@@ -9,7 +9,7 @@ areas: -ta6
 trails: []
 ccs: cc-20-qualifikation-and-open-educational-ressources
 twgs: []
-permalink: /news/n4o_news_20260312_umfrage
+permalink: /news/n4o_news_20260312_umfrage/
 ---
 Im Rahmen des Community Clusters **„Qualifikation & Open Educational Resources“** von NFDI4Objects wird derzeit eine Umfrage bis zum 31. März 2026 durchgeführt.
 Ziel der Umfrage ist es zu untersuchen, wie weit verbreitet die Erstellung von Open Educational Resources (OER) innerhalb der materiellen Kultur- und Objektwissenschaften ist und welche Infrastrukturen derzeit für die Erstellung, Bereitstellung und Verbreitung von OER genutzt werden.
