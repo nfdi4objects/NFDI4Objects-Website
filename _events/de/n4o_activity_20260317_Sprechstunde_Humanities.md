@@ -1,3 +1,4 @@
+---
 layout: event
 lang: de
 translation_key: n4o_activity_20260317_Sprechstunde_Humanities
