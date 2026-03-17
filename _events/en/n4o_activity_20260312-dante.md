@@ -2,7 +2,7 @@
 layout: event
 lang: en
 translation_key: n4o_activity_20260312-dante
-title: Trainigs in DANTE for NFDI4Obejcts
+title: Trainigs in DANTE for NFDI4Objects
 excerpt: First training April 22, 2026, from 9 a.m. to 12 p.m.
 date: 2026-03-12
 event_date: 2026-04-22
@@ -18,7 +18,7 @@ trails: []
 ccs: 
 - cc3_authority_and_norm_data
 twgs: []
-permalink: en/events/n4o_activity_20260312-dante
+permalink: en/events/n4o_activity_20260312-dante/
 ---
 
 Due to increasing demand from the NFDI4O context, the VZG has decided to offer training courses on the [DANTE web service](https://www.nfdi4objects.net/services/dante/) for maintaining and publishing all types of controlled vocabularies at regular intervals, approximately every three months.
