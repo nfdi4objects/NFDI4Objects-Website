@@ -26,7 +26,7 @@ Zukünftig stehen einmal im Monat Expert:innen aus den geisteswissenschaftlichen
 
 Die Terminübersicht ist [hier](https://www.nfdi.de/humanitiesnfdi/) zu finden. 
 
-**Zoom:** (https://uni-goettingen.zoom-x.de/j/67331197843?pwd=84wTp1UjPbjtvGpOUaNyHpWmk4ny8C.1)
+**Zoom:** [Zoomlink](https://uni-goettingen.zoom-x.de/j/67331197843?pwd=84wTp1UjPbjtvGpOUaNyHpWmk4ny8C.1)
 
 **Dringende Fragen?**  
 
@@ -36,7 +36,7 @@ Die Terminübersicht ist [hier](https://www.nfdi.de/humanitiesnfdi/) zu finden.
 
  **NFDI4Memory** [Helpdesk](https://4memory.de/unterstuetzung/offene-sprechstunde)       
 
- ***NFDI4Objects:** [Helpdesk](https://www.nfdi4objects.net/portal/helpdesk/)       
+ **NFDI4Objects:** [Helpdesk](https://www.nfdi4objects.net/portal/helpdesk/)       
 
  **Text+:** [Helpdesk](https://text-plus.org/helpdesk/)
 
