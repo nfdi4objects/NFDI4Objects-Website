@@ -9,7 +9,7 @@ areas: -ta6
 trails: []
 ccs: cc-20-qualifikation-and-open-educational-ressources
 twgs: []
-permalink: /news/n4o_news_20260312_umfrage/
+permalink: en/news/n4o_news_20260312_umfrage/
 ---
 As part of the NFDI4Objects community cluster “Qualification & Open Educational Resources,” a survey is currently being conducted through March 31, 2026.
 
