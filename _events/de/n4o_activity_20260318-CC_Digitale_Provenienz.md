@@ -21,7 +21,7 @@ Es werden folgende Themen besprochen:
 - NFDI4Objects: Stand zur Halbzeit der 1. Förderphase > Neuausrichtung des Programms und Auswirkungen 
 - Jahresplanung: Themen der CC-Treffen, Workshop zur archäologischen Provenienzen
 - Neues aus den TWGs  
-    
+  
   Online-Meeting: [Link](https://spk-berlin.webex.com/meet/a.berthold)
 
 **Wie immer sind auch Berichte aus eigenen Projekten oder Forschungen herzlich willkommen!**

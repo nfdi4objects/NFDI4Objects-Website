@@ -18,9 +18,9 @@ The next Meeting will take place **online on Thursday, March 26 2026 at 1:00 pm.
 
 The following topics will be discussed:
 
-NFDI4Objects: Status at the halfway point of the first funding phase > Reorientation of the program and implications
-Annual planning: Topics for CC meetings, workshop on archaeological provenance
-News from the TWGs
+- NFDI4Objects: Status at the halfway point of the first funding phase > Reorientation of the program and implications
+- Annual planning: Topics for CC meetings, workshop on archaeological provenance
+- News from the TWGs
 
 Online meeting: [Link](https://spk-berlin.webex.com/meet/a.berthold)
 
