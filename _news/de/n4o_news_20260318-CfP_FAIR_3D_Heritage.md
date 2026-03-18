@@ -2,8 +2,8 @@
 layout: news
 lang: de
 translation_key: n4o_news_20260318-CfP_FAIR_3D_Heritage
-title: 
-excerpt: 
+title: Call for Papers für FAIR 3D HERITAGE Konferenz 
+excerpt: 14.–16. September 2026, Mainz
 date: 18.03.2026
 areas: 
 trails: []
