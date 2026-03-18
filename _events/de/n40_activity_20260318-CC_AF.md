@@ -22,9 +22,8 @@ Bringt gern Beispieldaten aus dem Bereich Personen, Körperschaften, Orte und Sa
 
 Es wäre schön, wenn auch erfahrene DANTE-Nutzer:innen zur Unterstützung bei Fragen dabei sein könnten.
 
-**Hier sind die Zoom-Zugangsdaten:** 
-
-(https://dainst-org.zoom.us/j/93752320746?pwd=HTwLEQw0aUraauAoZbx8hpnKnse6PD.1)
+**Hier sind die Zoom-Zugangsdaten:**  
+[Zoom-Link](https://dainst-org.zoom.us/j/93752320746?pwd=HTwLEQw0aUraauAoZbx8hpnKnse6PD.1)
 
 Meeting-ID: 937 5232 0746   
 Kenncode: 673534 

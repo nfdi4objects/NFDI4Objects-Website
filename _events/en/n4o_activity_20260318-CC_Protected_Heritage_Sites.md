@@ -23,7 +23,7 @@ If you are unable to attend, you have the option to submit your comments in adva
 
 **Zoom:** [Link](https://zoom.us/j/91094521138?pwd=zJLwXZetdBcpMpssA9RpZPVCRFUWDP.1)
 
-The transcript of the March 12 meeting is already available via OSF:(https://osf.io/pwzg4/)
+The transcript of the March 12 meeting is already available via OSF:[https://osf.io/pwzg4/](https://osf.io/pwzg4/)
 
 
 You will also find the current drafts of the data models there.

@@ -24,7 +24,7 @@ It would be great if experienced DANTE users could also join us to help answer q
 
 **Here are the Zoom access details:**
 
-(https://dainst-org.zoom.us/j/93752320746?pwd=HTwLEQw0aUraauAoZbx8hpnKnse6PD.1) 
+[Zoomlink](https://dainst-org.zoom.us/j/93752320746?pwd=HTwLEQw0aUraauAoZbx8hpnKnse6PD.1) 
 
 Meeting ID: 937 5232 0746   
 Passcode: 673534 
