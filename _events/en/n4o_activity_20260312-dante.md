@@ -2,7 +2,7 @@
 layout: event
 lang: en
 translation_key: n4o_activity_20260312-dante
-title: Trainigs in DANTE for NFDI4Objects
+title: Trainings in DANTE for NFDI4Objects
 excerpt: First training April 22, 2026, from 9 a.m. to 12 p.m.
 date: 2026-03-12
 event_date: 2026-04-22
