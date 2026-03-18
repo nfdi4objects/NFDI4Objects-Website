@@ -2,8 +2,8 @@
 layout: news
 lang: en
 translation_key: n4o_news_20260312_umfrage
-title: Umfrage des CC Qualifikation & Open Educational Ressources
-excerpt: bis zum 31. März 2026
+title: Survey of the CC Qualifikation & Open Educational Ressources
+excerpt: until March 31 2026
 date: 12.03.2026
 areas: -ta6
 trails: []
