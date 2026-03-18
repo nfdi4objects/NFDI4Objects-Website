@@ -22,7 +22,8 @@ The SCRE consists of:
 - Hanza Diman (University of the Federal Armed Forces, Munich)
 - Petra Gehring (Technical University of Darmstadt)
 - Sabine Imeri (University Library of Humboldt University of Berlin)
-- Dirk Wintergrün (Weimar Classical Foundation | NFDI4Objects) as well as, - ex officio, John Wood (NFDI4Memory).
+- Dirk Wintergrün (Weimar Classical Foundation, NFDI4Objects) as well as, 
+- ex officio, John Wood (NFDI4Memory).
 
 
 Click here for the paper: [https://zenodo.org/records/18850303](https://zenodo.org/records/18850303)
