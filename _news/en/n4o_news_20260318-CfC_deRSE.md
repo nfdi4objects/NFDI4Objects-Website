@@ -9,7 +9,7 @@ areas:
 trails: []
 ccs: 
 twgs: []
-permalink: en/news/n4o_news_20260318-CfC_deRSE
+permalink: en/news/n4o_news_20260318-CfC_deRSE/
 ---
 The **de-RSE Collaboration Workshop 2026** is currently seeking submissions for interactive sessions, lightning talks, and collaborative formats centered on **research software engineering.** The workshop focuses on working together, problem-solving, and tangible results—ideas that often emerge only during coffee breaks are meant to be put into practice here.
 
