@@ -5,7 +5,7 @@ translation_key: n4o_activity_20260318-CC_AF
 title: Clustertreffen des CC Authority Files & Community - driven Vocabularies
 excerpt: Einladung zum Treffen von 13 - 14:30 Uhr
 date: 2026-03-18
-event_date: 2026-03-28
+event_date: 2026-04-29
 location: online
 areas:
 - ta 6
