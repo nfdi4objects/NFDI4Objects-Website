@@ -22,6 +22,7 @@ The following topics will be discussed:
 - Annual planning: Topics for CC meetings, workshop on archaeological provenance
 - News from the TWGs
 
+
 Online meeting: [Link](https://spk-berlin.webex.com/meet/a.berthold)
 
 **As always, reports on your own projects or research are very welcome!**
