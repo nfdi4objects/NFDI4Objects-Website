@@ -22,6 +22,6 @@ Es werden folgende Themen besprochen:
 - Jahresplanung: Themen der CC-Treffen, Workshop zur archäologischen Provenienzen
 - Neues aus den TWGs   
 
-  Online-Meeting: [Link](https://spk-berlin.webex.com/meet/a.berthold)
+Online-Meeting: [Link](https://spk-berlin.webex.com/meet/a.berthold)
 
 **Wie immer sind auch Berichte aus eigenen Projekten oder Forschungen herzlich willkommen!**
