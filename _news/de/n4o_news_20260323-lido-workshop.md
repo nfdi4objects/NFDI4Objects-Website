@@ -2,7 +2,7 @@
 layout: news
 lang: de
 translation_key: n4o_news_20260323-lido-workshop
-title: Workhop der LIDO-Servicesstelle
+title: Workhop der LIDO-Servicesstelle in NFDI4Culture
 excerpt: am 30. April 2026, 13:00 Uhr, online
 date: 23.03.2026
 areas: []
@@ -11,7 +11,7 @@ ccs: []]
 twgs: []
 permalink: /news/n4o_news_20260323-lido-workshop/
 ---
-Die LIDO-Servicestelle in NFDI4Culture lädt herzlich zu ihrem ersten Online-Workshop zum Thema „Vom Sammlungsobjekt zum Objektdatensatz. Das LIDO-Format als Standard für die Beschreibung von Kulturobjekten“ ein. Im Workshop werden die Teilnehmenden die Grundlagen von LIDO (Lightweight Information Describing Objects) kennenlernen.
+Die LIDO-Servicestelle in NFDI4Culture lädt herzlich zu ihrem ersten Online-Workshop zum Thema **„Vom Sammlungsobjekt zum Objektdatensatz. Das LIDO-Format als Standard für die Beschreibung von Kulturobjekten“** ein. Im Workshop werden die Teilnehmenden die Grundlagen von LIDO (Lightweight Information Describing Objects) kennenlernen.
 
 🗓 Termin: 30.04.2026
 

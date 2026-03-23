@@ -2,7 +2,7 @@
 layout: news
 lang: en
 translation_key: n4o_news_20260323-lido-workshop
-title: Workhop of the LIDO Service Center
+title: Workhop of the LIDO Service Center in NFDI4Culture
 excerpt: April 30, 2026, 13:00 CET, online
 date: 23.03.2026
 areas: []
