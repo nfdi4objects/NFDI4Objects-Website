@@ -2,7 +2,7 @@
 layout: news
 lang: de
 translation_key: n4o_news_20260318-MMDS_Sprechstunde
-title: Minimaldatensatzsprechstunde der AG Minimaldatensatz
+title: Sprechstunde der AG Minimaldatensatz
 excerpt: Aus unserem Netzwerk 
 date: 18.03.2026
 areas: 
