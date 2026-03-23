@@ -16,6 +16,6 @@ Ziel der Umfrage ist es zu untersuchen, wie weit verbreitet die Erstellung von O
 
 Sie umfasst **9 Fragen und dauert etwa 10 Minuten.**
 
-Hier gehts zur Umfrage: https://survey.nfdi4objects.net/index.php/769299?lang=de 
+Hier gehts zur Umfrage: [Umfrage](https://survey.nfdi4objects.net/index.php/769299?lang=de) 
 
 Vielen Dank für die Teilnahme im Voraus!
