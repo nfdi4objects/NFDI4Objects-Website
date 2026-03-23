@@ -7,7 +7,7 @@ excerpt: April 30, 2026, 13:00 CET, online
 date: 23.03.2026
 areas: []
 trails: []
-ccs: []]
+ccs: []
 twgs: []
 permalink: /en/news/n4o_news_20260323-lido-workshop/
 ---
