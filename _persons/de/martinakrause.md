@@ -6,6 +6,7 @@ translation_key: martinakrause
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
 - staff
+- executive
 - coordination
 institution: deutsches-archäologisches-institut-dai
 orcid: ''
