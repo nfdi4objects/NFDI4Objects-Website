@@ -1,13 +1,13 @@
 ---
 layout: person
-title: Dina Krumstroh
+title: Annika Thielen
 lang: de
-translation_key: dinakrumstroh
+translation_key: annikathielen
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
 - participant
 institution: landesmuseum-hannover-das-weltenmuseum
 orcid: ''
 areas: []
-permalink: /persons/dinakrumstroh/
+permalink: /persons/annikathielen/
 ---
