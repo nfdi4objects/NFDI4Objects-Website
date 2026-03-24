@@ -11,16 +11,16 @@ ccs: []
 twgs: []
 permalink: /en/news/n4o_news_20260323-lido-workshop/
 ---
-The LIDO Service Centre at NFDI4Culture cordially invites you to its first online workshop on the topic: “From collection object to object record: The LIDO format as a standard for describing cultural objects”. During the workshop, participants will learn the basics of LIDO (Lightweight Information Describing Objects).
+The [LIDO Service Centre at NFDI4Culture](https://doi.org/10.5281/zenodo.17530715) cordially invites you to its first online workshop on the topic: “From collection object to object record: The LIDO format as a standard for describing cultural objects”. During the workshop, participants will learn the basics of LIDO (Lightweight Information Describing Objects).
 
 🗓 Date: 30 April 2026
 🕒 Time: 13:00–16:00
 💻 Format: Online
 
-The structure and content of the workshop are based on the first chapters of the NFDI4Culture LIDO training course and offer a concise introduction to the LIDO data exchange format as well as practical hands-on exercises.
+The structure and content of the workshop are based on the first chapters of the [NFDI4Culture LIDO training course](https://nfdi4culture.de/id/E5247) and offer a concise introduction to the LIDO data exchange format as well as practical hands-on exercises.
 
 The event is free of charge and will be held in German.
 
-Further information: https://nfdi4culture.de/id/E6761 
+Further information: [https://nfdi4culture.de/id/E6761](https://nfdi4culture.de/id/E6761) 
 
-Registration: https://events.nfdi4culture.de/event/53/ 
+Registration: [https://events.nfdi4culture.de/event/53/](https://events.nfdi4culture.de/event/53/)
