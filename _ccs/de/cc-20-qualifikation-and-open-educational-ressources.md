@@ -26,3 +26,5 @@ Im Cluster **Qualifikation und OER** tauschen wir uns zu Lehr- und Lernmateria
 Das geplante Cluster richtet sich an alle, die sich in ihrem beruflichen Alltag mit der Vermittlung von FDM-Kompetenzen im Bereich der materiellen Hinterlassenschaften der Menschheitsgeschichte beschäftigen oder planen, dies zu tun – sei es in Lehre, Weiterbildung oder Praxis.
 
 Haben Sie Interesse, sich am Austausch zu beteiligen? Dann freuen wir uns, wenn Sie sich in unserer [Mailingliste](https://www.listserv.dfn.de/sympa/subscribe/n4o_cc_oer) eintragen und Teil des Netzwerks werden.
+
+Weitere Informationen finden Sie im Portal: [https://community.nfdi4objects.net/assemblies/OER](https://community.nfdi4objects.net/assemblies/OER)
