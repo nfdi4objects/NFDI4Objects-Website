@@ -6,6 +6,7 @@ translation_key: tolinjojo
 image: /assets/images/persons/n4o_website_person_grey.png
 groups:
 - coordination
+- executive
 institution: deutsches-archäologisches-institut-dai
 orcid: ''
 areas:
