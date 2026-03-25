@@ -15,6 +15,6 @@ The **3rd SODa Barcamp** will take place from **May 20–22, 2026,** at the Germ
 
 Participation is free, and a limited number of travel grants are available.
 
-We are already collecting topics and ideas for the Barcamp: [https://ishtar.iwus.org/p/soda-barcamp-26](https://ishtar.iwus.org/p/soda-barcamp-26) – Interested parties can sign up there, even if they do not wish to contribute their own presentation.
+**We are already collecting topics and ideas for the Barcamp:** [https://ishtar.iwus.org/p/soda-barcamp-26](https://ishtar.iwus.org/p/soda-barcamp-26) – Interested parties can sign up there, even if they do not wish to contribute their own presentation.
 
-If you have any questions, please contact  [Louise Tharandt](louise.tharandt@hu-berlin.de) or [Johannes Schäffer](johannes.schaeffer@hu-berlin.de).
+If you have any questions, please contact Louise Tharandt (louise.tharandt@hu-berlin.de) or Johannes Schäffer (johannes.schaeffer@hu-berlin.de).

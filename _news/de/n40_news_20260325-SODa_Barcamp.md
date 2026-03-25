@@ -15,6 +15,6 @@ Das **3. SODa Barcamp** findet vom **20.–22. Mai 2026 in Nürnberg** im German
 
 Die Teilnahme ist kostenlos, und es gibt eine begrenzte Anzahl an Reisekostenzuschüssen.
 
-Schon jetzt werden Themen und Ideen für das Barcamp gesammelt: [https://ishtar.iwus.org/p/soda-barcamp-26](https://ishtar.iwus.org/p/soda-barcamp-26) – Interessierte können sich dort eintragen, auch wenn sie keinen eigenen Beitrag einbringen möchten.
+**Schon jetzt werden Themen und Ideen für das Barcamp gesammelt:** [https://ishtar.iwus.org/p/soda-barcamp-26](https://ishtar.iwus.org/p/soda-barcamp-26) – Interessierte können sich dort eintragen, auch wenn sie keinen eigenen Beitrag einbringen möchten.
 
-Bei Fragen stehen [Louise Tharandt](louise.tharandt@hu-berlin.de) und [Johannes Schäffer](johannes.schaeffer@hu-berlin.de) zur Verfügung.
+Bei Fragen stehen Louise Tharandt (louise.tharandt@hu-berlin.de) und Johannes Schäffer (johannes.schaeffer@hu-berlin.de) zur Verfügung.
