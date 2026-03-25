@@ -25,4 +25,4 @@ permalink: /trails/poseidon_20_a_data_repository_for_genetic_bioarchaeological_a
 
 ## Beschreibung
 
-Dieser TRAIL befasst sich mit der Herausforderung, genetische Daten aus menschlichen Überresten mit archäologischen Kontextdaten und anderen analytischen Daten zu verknüpfen. Aufbauend auf das bestehende Poseidon-Framework soll das Projekt eine erweiterte Beschreibungsform und ein erweitertes Softwarepaket hervorbringen.
+Dieser TRAIL befasst sich mit der Herausforderung, genetische Daten aus menschlichen Überresten mit archäologischen Kontextdaten und anderen analytischen Daten zu verknüpfen. Aufbauend auf das bestehende Poseidon-Framework soll das Projekt eine erweiterte Beschreibungsform und ein erweitertes Softwarepaket hervorbringen. Das ist ein Test.
