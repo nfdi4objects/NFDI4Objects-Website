@@ -16,7 +16,7 @@ areas:
 trails: []
 ccs: []
 twgs: []
-permalink: /news/n4o_news_20260325-Save_the_Date_CM26/
+permalink: en/news/n4o_news_20260325-Save_the_Date_CM26/
 ---
 The fourth NFDI4Objects Community Meeting of 2026 will take place **virtually**! The event is aimed at newcomers and anyone interested and offers exciting insights into the consortium’s work. Look forward to interactive sessions, opportunities for discussion, and decentralized online workshops. 
 
