@@ -11,7 +11,8 @@ areas:
 - ta1
 - ta4
 trails: []
-ccs: cc-26-denkmalflächen-maßnahmenflächen-schutzflächen
+ccs: 
+- cc-26-denkmalflächen-maßnahmenflächen-schutzflächen
 twgs: []
 permalink: /events/n4o_activity_20260318-CC_Protected_Heritage_Sites/
 ---

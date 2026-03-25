@@ -10,7 +10,8 @@ location: online
 areas:
 - ta 6
 trails: []
-ccs: cc3_authority_and_norm_data
+ccs: 
+- cc3_authority_and_norm_data
 twgs: []
 permalink: en/events/n4o_activity_20260318-CC_AF/
 ---
