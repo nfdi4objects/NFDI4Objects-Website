@@ -2,7 +2,7 @@
 layout: news
 lang: en
 translation_key: n4o_news_20260325-Save_the_Date_CM26
-title: Save the Date: 4th Community Meeting in NFDI4Objects
+title: Save the Date &#58 4th Community Meeting in NFDI4Objects
 excerpt: June 12 2026
 date: 25.03.2026
 areas:
