@@ -14,5 +14,11 @@ areas:
 trails: []
 ccs:
 twgs: community-standards-for-modelling-fuzziness-wobbliness-in-research-data-using-semantic-web-technologies-and-formalisms-fuzzywobblysw
-permalink: en/events/n4o_activity_20260319-TWG_CARE_Meeting/
+permalink: en/events/n4o_activity_20260319-TWGTreffen_Fuzzy_Wobbly_SW/
 ---
+The next meeting of the TWG Community Standards for Modeling Fuzziness & Wobbliness in Research Data Using Semantic Web Technologies and Formalisms, or FuzzyWobblySW for short, will take place **on Wednesday, April 22, from 10:00 a.m. to 11:30 a.m.**
+
+Use cases will be presented and discussed. 
+
+
+Zoom:[https://uni-frankfurt.zoom-x.de/j/91655933093?pwd=aEM4YmtFV1g1SmNDVzRaTU4yaThOZz09](https://uni-frankfurt.zoom-x.de/j/91655933093?pwd=aEM4YmtFV1g1SmNDVzRaTU4yaThOZz09)
