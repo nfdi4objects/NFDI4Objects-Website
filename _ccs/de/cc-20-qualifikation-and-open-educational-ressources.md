@@ -1,11 +1,10 @@
 ---
 layout: cc
 lang: de
-translation_key: cc-20-qualifikation-and-open-educational-ressources
+translation_key: cc-qualifikation-and-open-educational-ressources
 title: Qualifikation and Open Educational Ressources
-identifier: CC20
 status: active
-start_date: 2025-12-10 12:00:00+00:00
+start_date: 2025-12-10 
 proposal_url: https://community.nfdi4objects.net/assemblies/CC/f/5/proposals/20
 type: n4o:Organization
 cochairs:
@@ -16,7 +15,7 @@ cochairs:
 areas:
 - ta6
 focus_areas: ''
-permalink: /ccs/cc-20-qualifikation-and-open-educational-ressources/
+permalink: /ccs/cc-qualifikation-and-open-educational-ressources/
 ---
 
 ## Beschreibung
@@ -27,4 +26,4 @@ Das geplante Cluster richtet sich an alle, die sich in ihrem beruflichen Alltag 
 
 Haben Sie Interesse, sich am Austausch zu beteiligen? Dann freuen wir uns, wenn Sie sich in unserer [Mailingliste](https://www.listserv.dfn.de/sympa/subscribe/n4o_cc_oer) eintragen und Teil des Netzwerks werden.
 
-Weitere Informationen finden Sie im Portal: [https://community.nfdi4objects.net/assemblies/OER](https://community.nfdi4objects.net/assemblies/OER)
+Weitere Informationen finden Sie im Community Hub: [https://community.nfdi4objects.net/assemblies/OER](https://community.nfdi4objects.net/assemblies/OER)
