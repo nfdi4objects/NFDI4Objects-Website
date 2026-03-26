@@ -8,7 +8,7 @@ date: 12.03.2026
 areas: -ta6
 trails: []
 ccs: 
-- cc-20-qualifikation-and-open-educational-ressources
+- cc-qualifikation-and-open-educational-ressources
 twgs: []
 permalink: en/news/n4o_news_20260312_umfrage/
 ---
