@@ -6,7 +6,7 @@ lang: en
 translation_key: ta4
 type: ta
 permalink: /en/areas/ta4/
-icon: assets/icons/task-areas/Task-Area-03.svg
+icon: assets/icons/task-areas/Task-Area-04.svg
 zenodo_url: https://zenodo.org/records/10409228
 zenodo_pages: p. 80-86
 ---
