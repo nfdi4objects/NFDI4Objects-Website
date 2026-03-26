@@ -1,11 +1,10 @@
 ---
 layout: cc
 lang: de
-translation_key: cc-26-denkmalflächen-maßnahmenflächen-schutzflächen
+translation_key: cc-denkmalflächen-maßnahmenflächen-schutzflächen
 title: Denkmal-, Maßnahmen- und Schutzflächen
-identifier: CC26
 status: active
-start_date: 2025-03-17 22:55:00+00:00
+start_date: 2025-03-17
 proposal_url: https://doi.org/10.5281/zenodo.14887612
 type: n4o:Organization
 cochairs:
@@ -17,7 +16,7 @@ areas:
 - ta4
 - ta1
 focus_areas: ''
-permalink: /ccs/cc-26-denkmalflächen-maßnahmenflächen-schutzflächen/
+permalink: /ccs/cc-denkmalflächen-maßnahmenflächen-schutzflächen/
 ---
 
 ## Beschreibung

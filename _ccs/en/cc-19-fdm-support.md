@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-19-fdm-support
+translation_key: cc-fdm-support
 title: RDM Support
-identifier: CC19
 status: active
 start_date: 2025-10-20 12:00:00+00:00
 proposal_url: ''
@@ -17,7 +16,7 @@ areas:
 - ta6
 - ta5
 focus_areas: ''
-permalink: /en/ccs/cc-19-fdm-support/
+permalink: /en/ccs/cc-fdm-support/
 ---
 
 ## Description

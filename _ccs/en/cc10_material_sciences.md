@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc10_material_sciences
+translation_key: cc_material_sciences
 title: Material-Sciences
-identifier: CC10
 status: planned
 start_date: 2024-06-24 16:28:05.166000+00:00
 proposal_url: ''
@@ -16,7 +15,7 @@ cochairs:
 areas:
 - ta3
 focus_areas: ''
-permalink: /en/ccs/cc10_material_sciences/
+permalink: /en/ccs/cc_material_sciences/
 ---
 
 ## Description

@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-23-grabungsdokumentation
+translation_key: cc-grabungsdokumentation
 title: On-site Documentation
-identifier: CC23
 status: active
 start_date: 2024-07-03 21:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.11550132
@@ -16,7 +15,7 @@ cochairs:
 areas:
 - ta1
 focus_areas: ''
-permalink: /en/ccs/cc-23-grabungsdokumentation/
+permalink: /en/ccs/cc-grabungsdokumentation/
 ---
 
 ## Description

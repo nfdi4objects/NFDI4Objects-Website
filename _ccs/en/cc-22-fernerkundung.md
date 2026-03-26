@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-22-fernerkundung
+translation_key: cc-fernerkundung
 title: Remote Sensing
-identifier: CC22
 status: active
 start_date: 2025-04-03 13:20:57+00:00
 proposal_url: ''
@@ -16,7 +15,7 @@ cochairs:
 areas:
 - ta1
 focus_areas: ''
-permalink: /en/ccs/cc-22-fernerkundung/
+permalink: /en/ccs/cc-fernerkundung/
 ---
 
 ## Description

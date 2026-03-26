@@ -1,11 +1,10 @@
 ---
 layout: cc
 lang: de
-translation_key: cc9_biosciences
+translation_key: cc_biosciences
 title: Biowissenschaften
-identifier: CC09
 status: planned
-start_date: 2024-06-24 15:44:20.954000+00:00
+start_date: 2024-06-24 
 proposal_url: ''
 type: n4o:Organization
 cochairs:
@@ -16,7 +15,7 @@ cochairs:
 areas:
 - ta3
 focus_areas: ''
-permalink: /ccs/cc9_biosciences/
+permalink: /ccs/cc_biosciences/
 ---
 
 ## Beschreibung

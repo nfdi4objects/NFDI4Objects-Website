@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: de
-translation_key: cc14_conservation_sciences
+translation_key: cc_conservation_sciences
 title: Konservierung / Restaurierung
-identifier: CC14
 status: active
 start_date: 2024-06-04 09:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.11370864
@@ -16,7 +15,7 @@ cochairs:
 areas:
 - ta4
 focus_areas: ''
-permalink: /ccs/cc14_conservation_sciences/
+permalink: /ccs/cc_conservation_sciences/
 ---
 
 ## Beschreibung

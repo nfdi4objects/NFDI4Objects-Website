@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc27_nfdi4objects_diensteportfolio_management
+translation_key: cc_nfdi4objects_diensteportfolio_management
 title: NFDI4Objects Service Portfolio Development
-identifier: CC27
 status: active
 start_date: 2025-07-04 09:01:11.387000+00:00
 proposal_url: ''
@@ -16,7 +15,7 @@ cochairs:
 areas:
 - ta7
 focus_areas: ''
-permalink: /en/ccs/cc27_nfdi4objects_diensteportfolio_management/
+permalink: /en/ccs/cc_nfdi4objects_diensteportfolio_management/
 ---
 
 ## Description

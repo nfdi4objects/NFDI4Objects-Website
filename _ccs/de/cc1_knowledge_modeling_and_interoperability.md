@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: de
-translation_key: cc1_knowledge_modeling_and_interoperability
+translation_key: cc_knowledge_modeling_and_interoperability
 title: Knowledge Modelling and Interoperability
-identifier: CC01
 status: completed
 start_date: 2023-09-21 13:43:57.062000+00:00
 proposal_url: Proposal
@@ -16,7 +15,7 @@ cochairs:
 areas:
 - ta2
 focus_areas: ''
-permalink: /ccs/cc1_knowledge_modeling_and_interoperability/
+permalink: /ccs/cc_knowledge_modeling_and_interoperability/
 ---
 
 ## Beschreibung

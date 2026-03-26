@@ -11,7 +11,7 @@ areas:
 - ta2
 trails: []
 ccs: 
-- cc5_provenance_research
+- cc_provenance_research
 twgs: []
 permalink: /events/n4o_activity_20260318-CC_Digitale_Provenienz/
 ---

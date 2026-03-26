@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: de
-translation_key: cc12_building_history
+translation_key: cc_building_history
 title: Bauforschung und Bauerhalt
-identifier: CC12
 status: active
 start_date: 2023-12-01 22:55:00+00:00
 proposal_url: ''
@@ -16,7 +15,7 @@ cochairs:
 areas:
 - ta1
 focus_areas: ''
-permalink: /ccs/cc12_building_history/
+permalink: /ccs/cc_building_history/
 ---
 
 ## Beschreibung

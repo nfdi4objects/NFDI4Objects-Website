@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc11_cultural_anthropology
+translation_key: cc_cultural_anthropology
 title: Cultural Anthropology
-identifier: CC11
 status: planned
 start_date: 2024-06-30 14:21:36.452000+00:00
 proposal_url: ''
@@ -16,7 +15,7 @@ cochairs:
 areas:
 - ta7
 focus_areas: ''
-permalink: /en/ccs/cc11_cultural_anthropology/
+permalink: /en/ccs/cc_cultural_anthropology/
 ---
 
 ## Description

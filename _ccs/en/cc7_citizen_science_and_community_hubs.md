@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc7_citizen_science_and_community_hubs
+translation_key: cc_citizen_science_and_community_hubs
 title: Public Archaeology
-identifier: CC07
 status: active
 start_date: 2026-01-30 12:00:00+00:00
 proposal_url: ''
@@ -18,7 +17,7 @@ areas:
 - ta6
 - ta5
 focus_areas: ''
-permalink: /en/ccs/cc7_citizen_science_and_community_hubs/
+permalink: /en/ccs/cc_citizen_science_and_community_hubs/
 ---
 
 ## Description

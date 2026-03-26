@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-18-data-exchange-formats
+translation_key: cc-data-exchange-formats
 title: Data Exchange Formats
-identifier: CC18
 status: planned
 start_date: 2024-06-30 16:51:45.766000+00:00
 proposal_url: ''
@@ -17,7 +16,7 @@ areas:
 - ta1
 - ta5
 focus_areas: ''
-permalink: /en/ccs/cc-18-data-exchange-formats/
+permalink: /en/ccs/cc-data-exchange-formats/
 ---
 
 ## Description

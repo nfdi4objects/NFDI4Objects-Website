@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-26-denkmalflächen-maßnahmenflächen-schutzflächen
+translation_key: cc-denkmalflächen-maßnahmenflächen-schutzflächen
 title: Protected Heritage Sites
-identifier: CC26
 status: active
 start_date: 2025-03-17 22:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.14887612
@@ -17,7 +16,7 @@ areas:
 - ta4
 - ta1
 focus_areas: ''
-permalink: /en/ccs/cc-26-denkmalflächen-maßnahmenflächen-schutzflächen/
+permalink: /en/ccs/cc-denkmalflächen-maßnahmenflächen-schutzflächen/
 ---
 
 ## Description

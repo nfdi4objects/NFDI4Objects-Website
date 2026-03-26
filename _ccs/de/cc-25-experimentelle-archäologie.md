@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: de
-translation_key: cc-25-experimentelle-archäologie
+translation_key: cc-experimentelle-archäologie
 title: Experimentelle Archäologie
-identifier: CC25
 status: active
 start_date: 2024-06-27 21:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.12077718
@@ -17,7 +16,7 @@ areas:
 - ta3
 - ta6
 focus_areas: ''
-permalink: /ccs/cc-25-experimentelle-archäologie/
+permalink: /ccs/cc-experimentelle-archäologie/
 ---
 
 ## Beschreibung

@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-24-digitale-altdaten
+translation_key: cc-digitale-altdaten
 title: Legacy Data
-identifier: CC24
 status: planned
 start_date: 2024-06-30 18:19:46.020000+00:00
 proposal_url: ''
@@ -16,7 +15,7 @@ cochairs:
 areas:
 - ta1
 focus_areas: ''
-permalink: /en/ccs/cc-24-digitale-altdaten/
+permalink: /en/ccs/cc-digitale-altdaten/
 ---
 
 ## Description

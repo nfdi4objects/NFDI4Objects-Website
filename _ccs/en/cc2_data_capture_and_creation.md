@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc2_data_capture_and_creation
+translation_key: cc_data_capture_and_creation
 title: Data Capture and Creation
-identifier: CC02
 status: active
 start_date: 2024-05-24 09:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.11655935
@@ -22,7 +21,7 @@ areas:
 - ta4
 - ta7
 focus_areas: ''
-permalink: /en/ccs/cc2_data_capture_and_creation/
+permalink: /en/ccs/cc_data_capture_and_creation/
 ---
 
 ## Description

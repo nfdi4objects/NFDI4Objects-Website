@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: de
-translation_key: cc-17-archäologische-textilien
+translation_key: cc-archäologische-textilien
 title: Archäologische Textilien
-identifier: CC17
 status: active
 start_date: 2023-10-06 21:55:00+00:00
 proposal_url: ''
@@ -16,7 +15,7 @@ cochairs:
 areas:
 - ta4
 focus_areas: ''
-permalink: /ccs/cc-17-archäologische-textilien/
+permalink: /ccs/cc-archäologische-textilien/
 ---
 
 ## Beschreibung

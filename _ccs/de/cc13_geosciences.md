@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: de
-translation_key: cc13_geosciences
+translation_key: cc_geosciences
 title: Geoarchäologie / Geowissenschaften
-identifier: CC13
 status: planned
 start_date: 2024-06-30 15:30:10.557000+00:00
 proposal_url: ''
@@ -17,7 +16,7 @@ areas:
 - ta1
 - ta3
 focus_areas: ''
-permalink: /ccs/cc13_geosciences/
+permalink: /ccs/cc_geosciences/
 ---
 
 ## Beschreibung

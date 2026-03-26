@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc-15-semantic-modelling-linked-open-data
+translation_key: cc-semantic-modelling-linked-open-data
 title: Semantic Modelling & Linked Open Data
-identifier: CC15
 status: active
 start_date: 2024-01-24 10:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.10512531
@@ -17,7 +16,7 @@ areas:
 - ta2
 - ta6
 focus_areas: ''
-permalink: /en/ccs/cc-15-semantic-modelling-linked-open-data/
+permalink: /en/ccs/cc-semantic-modelling-linked-open-data/
 ---
 
 ## Description

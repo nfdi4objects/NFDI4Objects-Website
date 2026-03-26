@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: de
-translation_key: cc21_geophysikalische_prospektion
+translation_key: cc_geophysikalische_prospektion
 title: Geophysikalische Prospektion
-identifier: CC21
 status: active
 start_date: 2024-04-12 09:55:00+00:00
 proposal_url: ''
@@ -15,7 +14,7 @@ cochairs:
   person_ref: ''
 areas: []
 focus_areas: ''
-permalink: /ccs/cc21_geophysikalische_prospektion/
+permalink: /ccs/cc_geophysikalische_prospektion/
 ---
 
 ## Beschreibung

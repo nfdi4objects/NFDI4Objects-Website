@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc6_collection_management
+translation_key: cc_collection_management
 title: Collection Management
-identifier: CC06
 status: active
 start_date: 2024-04-12 09:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.10998703
@@ -16,7 +15,7 @@ cochairs:
 areas:
 - ta2
 focus_areas: ''
-permalink: /en/ccs/cc6_collection_management/
+permalink: /en/ccs/cc_collection_management/
 ---
 
 ## Description

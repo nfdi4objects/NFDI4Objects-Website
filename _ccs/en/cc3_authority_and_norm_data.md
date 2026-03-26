@@ -1,9 +1,8 @@
 ---
 layout: cc
 lang: en
-translation_key: cc3_authority_and_norm_data
+translation_key: cc_authority_and_norm_data
 title: Authority Files and Community-driven Vocabularies
-identifier: CC03
 status: active
 start_date: 2025-02-14 11:00:00+00:00
 proposal_url: https://zenodo.org/records/14872038
@@ -21,7 +20,7 @@ areas:
 - ta4
 - ta5
 focus_areas: ''
-permalink: /en/ccs/cc3_authority_and_norm_data/
+permalink: /en/ccs/cc_authority_and_norm_data/
 ---
 
 ## Description
