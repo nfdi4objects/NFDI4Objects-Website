@@ -1,0 +1,5 @@
+---
+layout: cc-ttl
+permalink: /ccs/cc_provenance_research/index.ttl
+source: cc_provenance_research
+---
