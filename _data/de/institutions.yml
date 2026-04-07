@@ -470,7 +470,7 @@
 
 - id: verbundzentrale-des-gbv
   name: Verbundzentrale (VZG) des Gemeinsamen Bibliotheksverbundes (GBV)
-  logo: /assets/img/institutions/gbv-vzg-logo.jpg
+  logo: /assets/img/institutions/gbv.vzg-logo.jpg
   url: https://www.gbv.de/
   type: coapplicant
   short: VZG
