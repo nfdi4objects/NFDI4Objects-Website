@@ -17,7 +17,7 @@ permalink: /events/n4o_activity_20260407-CC_Q&OER_Meeting/
 ---
 Das nächste Treffen des Clusters findet **am Mittwoch, den 15. April, von 11:00 bis 12:00 Uhr online** statt.
 
-Im Rahmen des Treffens wird Prof. Dr. Kai-Christian Bruhn (Hochschule Mainz | NFDI4Objects) die in *Task Area 6* entwickelten Open Educational Resources (OER) in einem kurzen Beitrag vorstellen.
+Im Rahmen des Treffens wird Prof. Dr. Kai-Christian Bruhn (Hochschule Mainz `|` NFDI4Objects) die in *Task Area 6* entwickelten Open Educational Resources (OER) in einem kurzen Beitrag vorstellen.
 
 Im Anschluss präsentieren wir erste Ergebnisse unserer Umfrage und diskutieren gemeinsam das weitere Vorgehen.
 
