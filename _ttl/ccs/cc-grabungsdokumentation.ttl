@@ -1,0 +1,5 @@
+---
+layout: cc-ttl
+permalink: /ccs/cc-grabungsdokumentation/index.ttl
+source: cc-grabungsdokumentation
+---

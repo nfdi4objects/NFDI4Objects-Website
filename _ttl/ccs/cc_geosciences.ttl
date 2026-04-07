@@ -1,0 +1,5 @@
+---
+layout: cc-ttl
+permalink: /ccs/cc_geosciences/index.ttl
+source: cc_geosciences
+---

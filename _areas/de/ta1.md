@@ -10,4 +10,12 @@ icon: assets/icons/task-areas/Task-Area-01.svg
 zenodo_url: https://zenodo.org/records/10409228
 zenodo_pages: S. 61-67
 ---
-TA 1 Documentation deckt alle Bedürfnisse ab, die sich aus der Erfassung, Erforschung und Dokumentation von Primärdatenquellen (Dokumentation von Ausgrabungen, Artefakten, archäologischen Stätten und Denkmälern usw.) vor Ort, in Depots und Sammlungen ergeben.
+Die TA 1 Documentation widmet sich den Anforderungen an ein nachhaltiges Forschungsdatenmanagement, die bei der Primärdokumentation von archäologischen Stätten und Objekten des kulturellen Erbes entstehen.
+ 
+  Im Zentrum stehen dabei folgende Schwerpunkte:
+  * Digitale Grabungsdokumentation und -vermessung
+  * 3D-Dokumentation von Objekten und Befunden
+  * Geophysikalische Prospektion
+  * Fernerkundung und Luftbildarchäologie
+
+In enger Zusammenarbeit mit unserer Community entwickeln wir in Formaten wie Community Clustern, Temporary Working Groups und Workshops qualitätsgesicherte, übertragbare Datenmanagementprozesse. Auf Basis fachspezifischer Bedarfe werden unsere Empfehlungen und Standards diskursiv geprüft und direkt in der Praxis erprobt.
