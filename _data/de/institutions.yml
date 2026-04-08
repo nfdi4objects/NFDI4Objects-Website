@@ -33,7 +33,7 @@
 
 - id: universität-zu-köln
   name: Universität zu Köln
-  logo: https://commons.wikimedia.org/wiki/File:Siegel_Uni_K%C3%B6ln_(hellblau).svg#/media/File:Siegel_Uni_K%C3%B6ln_(hellblau).svg
+  logo: https://upload.wikimedia.org/wikipedia/commons/3/3c/Siegel_Uni_K%C3%B6ln_%28hellblau%29.svg
   url: https://www.uni-koeln.de/
   type: participant
 
@@ -183,7 +183,7 @@
 
 - id: numismatischer-verbund-in-baden-württemberg
   name: Numismatischer Verbund in Baden-Württemberg
-  logo: https://nvbw.zaw.uni-heidelberg.de/static/img/logonvbw.png
+  logo: https://nvbw.zaw.uni-heidelberg.de/wp-content/uploads/nvbw16_logo-numismatischer-verbund-bw_Bild-1.svg
   url: https://nvbw.zaw.uni-heidelberg.de/
   type: supporter
 
@@ -548,7 +548,7 @@
 
 - id: verband-der-restauratoren-e-v
   name: Verband der Restauratoren e. V.
-  logo: /assets/images/institutions/logo_Verband_der_Restauratoren.png
+  logo: \assets\images\institutions\logo_Verband_der_Restauratoren.png
   url: https://www.restauratoren.de/
   type: supporter
 
