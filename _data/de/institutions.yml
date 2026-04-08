@@ -155,14 +155,14 @@
 
 - id: aegyptisches-museum-georg-steindorff-universitaet-leipzig
   name: Ägyptisches Museum - Georg Steindorff (Universität Leipzig)
-  logo: /assets/images/institutions/logo_Aegyptisches_Museum_uni_Leipzig
+  logo: /assets/images/institutions/logo_Aegyptisches_Museum_Uni_Leipzig.jpg
   url: https://www.gkr.uni-leipzig.de/aegyptisches-museum
   type: participant
   short: UL
 
 - id: stiftung-preußischer-kulturbesitz
   name: Stiftung Preußischer Kulturbesitz
-  logo: /assets/images/institutions/logo_SPK.jpg
+  logo: /assets/images/institutions/logo_SPK.jpg.jpg
   url: https://www.preussischer-kulturbesitz.de/
   type: coapplicant
   short: SPK
