@@ -548,7 +548,7 @@
 
 - id: verband-der-restauratoren-e-v
   name: Verband der Restauratoren e. V.
-  logo: https://www.restauratoren.de/wp-content/uploads/2025/11/VDR_Bild_Wortmarke_white-scaled.png
+  logo: https://www.restauratoren.de/wp-content/uploads/bb-plugin/cache/Veranstaltungsspecial_Mitglied-werden_CMYK_a-1024x416-panorama.png
   url: https://www.restauratoren.de/
   type: supporter
 
@@ -598,7 +598,7 @@
 
 - id: institut-fuer-archaeologische-wissenschaften-ruhr-uni-bochum
   name: Institut für Archäologische Wissenschaften Ruhr-Universität Bochum
-  logo: assets\images\institutions\logo_RUB.jpg
+  logo: https://www.archwiss.ruhr-uni-bochum.de/aw/mam/images/logo.png
   url: https://www.ruhr-uni-bochum.de/archaeologie/
   type: participant
   short: RUB
@@ -757,5 +757,5 @@
   name: Bundesamt für Kartographie und Geodäsie
   logo: 
   url: https://www.bkg.bund.de/DE/Home/home.html
-  type: no-connection 
+  type: no-connection
   short: BKG
