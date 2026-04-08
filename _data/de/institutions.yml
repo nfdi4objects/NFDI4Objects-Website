@@ -548,7 +548,7 @@
 
 - id: verband-der-restauratoren-e-v
   name: Verband der Restauratoren e. V.
-  logo: \assets\images\institutions\logo_Verband_der_Restauratoren.png
+  logo: assets\images\institutions\logo_Verband_der_Restauratoren.png
   url: https://www.restauratoren.de/
   type: supporter
 
@@ -598,7 +598,7 @@
 
 - id: institut-fuer-archaeologische-wissenschaften-ruhr-uni-bochum
   name: Institut für Archäologische Wissenschaften Ruhr-Universität Bochum
-  logo: assets/images/institutions/logo_RUB.jpg
+  logo: assets\images\institutions\logo_RUB.jpg
   url: https://www.ruhr-uni-bochum.de/archaeologie/
   type: participant
   short: RUB
@@ -695,7 +695,8 @@
 
 - id: deutscher-museumsbund
   name: Deutscher Museumsbund
-  logo: https://upload.wikimedia.org/wikipedia/commons/5/56/DMB_Logo_schwarz_400x400px.jpg?uselang=de  url: https://www.museumsbund.de/
+  logo: https://upload.wikimedia.org/wikipedia/de/8/84/Deutscher_Museumsbund_logo.svg 
+  url: https://www.museumsbund.de/
   type: participant
   short: DMB
 
