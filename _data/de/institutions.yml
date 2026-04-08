@@ -20,20 +20,20 @@
 
 - id: fiz-karlsruhe-leibniz-institut-fuer-informationsinfrastruktur
   name: FIZ Karlsruhe-Leibniz Institut für Informationsinfrastruktur
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/FIZ_Karlsruhe_%E2%80%93_Leibniz_Institute_for_Information_Infrastructure.png/640px-FIZ_Karlsruhe_%E2%80%93_Leibniz_Institute_for_Information_Infrastructure.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/e/e6/FIZ_Karlsruhe_%E2%80%93_Leibniz_Institute_for_Information_Infrastructure.png
   url: https://www.fiz-karlsruhe.de/
   type: participant
   short: FIZK
 
 - id: institut-für-altertumswissenschaften-jgu-mainz
   name: Institut für Altertumswissenschaften (JGU Mainz)
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg/640px-Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg
   url: https://www.altertumswissenschaften.uni-mainz.de/
   type: participant
 
 - id: universität-zu-köln
   name: Universität zu Köln
-  logo: https://kommunikation-marketing.uni-koeln.de/e135228/e48647/e48706/UniversitaetzuKoelnLogo_ger.jpg
+  logo: https://commons.wikimedia.org/wiki/File:Siegel_Uni_K%C3%B6ln_(hellblau).svg#/media/File:Siegel_Uni_K%C3%B6ln_(hellblau).svg
   url: https://www.uni-koeln.de/
   type: participant
 
@@ -104,7 +104,7 @@
 - id: osiris-offene-sammlungs-informations-und-rechercheinfrastruktur-museum-für-naturkunde-berlin
   name: OSIRIS - Offene Sammlungs-, Informations- und Rechercheinfrastruktur, Museum
     für Naturkunde Berlin
-  logo: https://www.museumfuernaturkunde.berlin/sites/default/files/styles/mfn_default/public/osiris_logo.jpg?itok=VjFHMldY
+  logo: https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Forschung/Projekte/Institut-fuer-Museumsforschung-Osiris.png
   url: https://www.museumfuernaturkunde.berlin/de/forschung/osiris-offene-sammlungs-informations-und-rechercheinfrastruktur
   type: supporter
 
@@ -117,7 +117,7 @@
 
 - id: archäologische-staatssammlung-munchen
   name: Archäologische Staatssammlung München
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Arch%C3%A4ologische_staatssammlung_logo_2024.svg/640px-Arch%C3%A4ologische_staatssammlung_logo_2024.svg.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/2/21/Arch%C3%A4ologische_staatssammlung_logo_2024.svg
   url: https://www.archaeologie.bayern/
   type: participant
   short: ASM
@@ -131,7 +131,7 @@
 
 - id: archäologisches-institut-universtät-zu-köln
   name: Archäologisches Institut (Universtät zu Köln)
-  logo: https://kommunikation-marketing.uni-koeln.de/e135228/e48647/e48706/UniversitaetzuKoelnLogo_ger.jpg
+  logo: https://upload.wikimedia.org/wikipedia/commons/3/3c/Siegel_Uni_K%C3%B6ln_%28hellblau%29.svg
   url: https://archaeologie.phil-fak.uni-koeln.de/institut/profil
   type: participant
 
@@ -150,20 +150,19 @@
 
 - id: mommsen-gesellschaft
   name: Mommsen-Gesellschaft
-  logo: https://www.mommsen-gesellschaft.de/images/logos/logo-mommsen-gesellschaft.jpg#joomlaImage://local-images/logos/logo-mommsen-gesellschaft.jpg?width=1494&height=317
-  url: https://www.mommsen-gesellschaft.de/
+  logo: https://mommsen-gesellschaft.de/wp-content/uploads/2025/08/mg-header-logo-768x163.png
   type: supporter
 
 - id: aegyptisches-museum-georg-steindorff-universitaet-leipzig
   name: Ägyptisches Museum - Georg Steindorff (Universität Leipzig)
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Universit%C3%A4t_Leipzig_logo.svg/640px-Universit%C3%A4t_Leipzig_logo.svg.png
+  logo: /assets/images/institutions/logo_Aegyptisches_Museum_uni_Leipzig
   url: https://www.gkr.uni-leipzig.de/aegyptisches-museum
   type: participant
   short: UL
 
 - id: stiftung-preußischer-kulturbesitz
   name: Stiftung Preußischer Kulturbesitz
-  logo: https://upload.wikimedia.org/wikipedia/de/thumb/1/1a/StiftungPreussischerKulturbesitz.svg/640px-StiftungPreussischerKulturbesitz.svg.png
+  logo: /assets/images/institutions/logo_SPK.jpg
   url: https://www.preussischer-kulturbesitz.de/
   type: coapplicant
   short: SPK
