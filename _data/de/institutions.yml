@@ -203,7 +203,7 @@
 - id: lehrstuhl-digitale-provenienzforschung-am-institut-fuer-kunstgeschichte-tu-berlin
   name: Lehrstuhl Digitale Provenienzforschung am Institut für Kunstgeschichte (TU
     Berlin)
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_der_Technischen_Universit%C3%A4t_Berlin.svg/640px-Logo_der_Technischen_Universit%C3%A4t_Berlin.svg.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/c/c6/LogoDerTechnischenUniversit%C3%A4tBerlin2020.svg
   url: https://www.tu.berlin/kwhistu
   type: participant
   short: TUB-DP
@@ -229,7 +229,7 @@
 
 - id: hochschule-mittweida-fakultaet-angewandte-computer-und-biowissenschaften
   name: Hochschule Mittweida Fakultät Angewandte Computer- und Biowissenschaften
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Logo-hsmw.svg/640px-Logo-hsmw.svg.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/f/fe/Logo-hsmw.svg
   url: https://www.hs-mittweida.de/
   type: participant
   short: UAS-MW
@@ -249,7 +249,7 @@
 
 - id: archäoinformatik-im-fachbereich-geschichts-und-kulturwissenschaften-fu-berlin
   name: Archäoinformatik im Fachbereich Geschichts- und Kulturwissenschaften (FU Berlin)
-  logo: https://upload.wikimedia.org/wikipedia/de/thumb/7/71/Fub-logo.svg/640px-Fub-logo.svg.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/6/6d/Freie_Universit%C3%A4t_Berlin_Logo_05.2024.svg
   url: https://www.geschkult.fu-berlin.de/fachbereich/index.html
   type: supporter
 
@@ -273,7 +273,7 @@
 
 - id: deutsche-nationalbibliothek
   name: Deutsche Nationalbibliothek
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/DNB.svg/640px-DNB.svg.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/5/5f/DNB.svg
   url: https://www.dnb.de/
   type: participant
   short: DNB
@@ -287,7 +287,7 @@
 
 - id: deutsches-archäologisches-institut-dai
   name: Deutsches Archäologisches Institut (DAI)
-  logo: https://upload.wikimedia.org/wikipedia/de/thumb/8/82/Deutsches_Arch%C3%A4ologisches_Institut_Logo.svg/446px-Deutsches_Arch%C3%A4ologisches_Institut_Logo.svg.png
+  logo: assets/images/institutions/dai-logo.png
   url: https://www.dainst.org/
   type: mainapplicant
 
@@ -306,7 +306,7 @@
 
 - id: staatliche-archive-bayern
   name: Staatliche Archive Bayerns
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Staatliche_Archive_Bayerns_Logo.svg/430px-Staatliche_Archive_Bayerns_Logo.svg.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/d/d3/Staatliche_Archive_Bayerns_Logo.svg
   url: https://www.gda.bayern.de/die-staatlichen-archive-bayerns
   type: participant
   short: GDA
@@ -351,13 +351,12 @@
 
 - id: klassik-stiftung-weimar
   name: Klassik Stiftung Weimar
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Klassik_Stiftung_Weimar_Logo_SW.svg/640px-Klassik_Stiftung_Weimar_Logo_SW.svg.png
-  url: https://www.klassik-stiftung.de/
+  logo: assets/images/institutions/logo_KSW.png
   type: coapplicant
 
 - id: humboldt-universität-zu-berlin
   name: Humboldt-Universität zu Berlin
-  logo: https://www.hu-berlin.de/++resource++humboldt.logo.Logo.svg
+  logo: https://www.hu-berlin.de/_assets/3434b65bcd82b8523edd2faff33a8c0c/Images/HU_Berlin_Logo_Siegel.svg
   url: https://www.hu-berlin.de/
   type: supporter
 
@@ -395,8 +394,7 @@
 
 - id: universität-bonn
   name: Universität Bonn
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Universit%C3%A4t_Bonn.svg/640px-Universit%C3%A4t_Bonn.svg.png
-  url: https://www.uni-bonn.de/de
+  logo: assets/images/institutions/logo_uni_Bonn.png
   type: coapplicant
   short: UBN
 
@@ -429,7 +427,7 @@
 
 - id: freie-universität-berlin-institut-für-vorderasiatische-archäologie
   name: Freie Universität Berlin, Institut für Vorderasiatische Archäologie
-  logo: https://upload.wikimedia.org/wikipedia/de/thumb/7/71/Fub-logo.svg/640px-Fub-logo.svg.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/6/6d/Freie_Universit%C3%A4t_Berlin_Logo_05.2024.svg
   url: https://www.geschkult.fu-berlin.de/e/vaa/index.html
   type: supporter
 
