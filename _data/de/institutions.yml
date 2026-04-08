@@ -82,7 +82,7 @@
 - id: institut-fuer-archaeologie-und-kulturgeschichte-des-antiken-mittelmeerraumes-universitaet-hamburg
   name: Institut für Archäologie und Kulturgeschichte des antiken Mittelmeerraumes
     (Universität Hamburg)
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/UHH_Universit%C3%A4t_Hamburg_Logo.svg/481px-UHH_Universit%C3%A4t_Hamburg_Logo.svg.png
+  logo: https://assets.rrz.uni-hamburg.de/assets/uhh-logo-16dab7756eecc70a7649a242498868c6bb37872e5eae6023b38026faeef923c3.svg
   url: https://www.kulturwissenschaften.uni-hamburg.de/ka.html
   type: participant
   short: UHA
@@ -548,7 +548,7 @@
 
 - id: verband-der-restauratoren-e-v
   name: Verband der Restauratoren e. V.
-  logo: assets/images/institutions/logo_Verband_der_Restauratoren.png
+  logo: /assets/images/institutions/logo_Verband_der_Restauratoren.png
   url: https://www.restauratoren.de/
   type: supporter
 
