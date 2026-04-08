@@ -475,7 +475,7 @@
 - id: institut-für-ur-und-frühgeschichte-und-archäologie-des-mittelalters-eberhard-karls-universität-tübingen
   name: Institut für Ur- und Frühgeschichte und Archäologie des Mittelalters (Eberhard
     Karls Universität Tübingen)
-  logo: ''
+  logo: https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg
   url: https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/altertums-und-kunstwissenschaften/ur-und-fruehgeschichte-und-archaeologie-des-mittelalters/institut/
   type: participant
 
@@ -521,7 +521,7 @@
 
 - id: deutscher-bibliotheksverband-e.V.-
   name: Deutscher Bibliotheksverband e.V.
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Deutscher_Bibliotheksverband_Logo_10.2019.svg/640px-Deutscher_Bibliotheksverband_Logo_10.2019.svg.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/6/64/Deutscher_Bibliotheksverband_Logo_10.2019.svg
   url: https://www.bibliotheksverband.de/
   type: participant
   short: DBV
@@ -548,7 +548,7 @@
 
 - id: verband-der-restauratoren-e-v
   name: Verband der Restauratoren e. V.
-  logo: https://kommunaltopinform.de/wp-content/uploads/2020/02/Verband-der-Restauratoren_VDR-Logo_335px.png
+  logo: assets/images/institutions/logo_Verband_der_Restauratoren.png
   url: https://www.restauratoren.de/
   type: supporter
 
@@ -573,7 +573,7 @@
 
 - id: archäologisches-museum-hamburg
   name: Archäologisches Museum Hamburg
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/AMH_SHHM_Logo.svg/566px-AMH_SHHM_Logo.svg.png
+  logo: https://amh.de/wp-content/uploads/amh_logo_digital2.svg
   url: https://amh.de/
   type: participant
   short: AMH
@@ -598,7 +598,7 @@
 
 - id: institut-fuer-archaeologische-wissenschaften-ruhr-uni-bochum
   name: Institut für Archäologische Wissenschaften Ruhr-Universität Bochum
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ruhr-Universit%C3%A4t_Bochum_logo.svg/480px-Ruhr-Universit%C3%A4t_Bochum_logo.svg.png
+  logo: assets/images/institutions/logo_RUB.jpg
   url: https://www.ruhr-uni-bochum.de/archaeologie/
   type: participant
   short: RUB
@@ -612,7 +612,7 @@
 
 - id: heidelberger-akademie-der-wissenschaften
   name: Heidelberger Akademie der Wissenschaften
-  logo: https://www.hadw-bw.de/themes/custom/hadw/images/hadw_logo_blau.svg
+  logo: https://www.hadw-bw.de/themes/custom/b5nova/logo.svg
   url: https://www.hadw-bw.de/
   type: participant
   short: HAdW
@@ -628,7 +628,7 @@
   name: Hochschule für Technik, Wirtschaft und Kultur (HTWK)
   logo: ''
   url: https://www.htwk-leipzig.de/
-  type: participant
+  type: 
 
 - id: generaldirektion-kulturelles-erbe-rheinland-pfalz
   name: Generaldirektion Kulturelles Erbe Rheinland-Pfalz
@@ -646,7 +646,7 @@
 
 - id: lvr-amt-fuer-bodendenkmalpflege-im-rheinland
   name: Landschaftsverband Rheinland-Amt für Bodendenkmalpflege im Rheinland
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LVR-Logo-2009.svg/640px-LVR-Logo-2009.svg.png
+  logo: https://denkmalpflege.lvr.de/media/globale_medien_master/logos/logo_lvr.gif
   url: https://bodendenkmalpflege.lvr.de/de/startseite.html
   type: participant
   short: LVR-ABR
@@ -654,14 +654,14 @@
 - id: institut-für-archäologische-wissenschaften-denkmalwissenschaften-und-kunstgeschichte-universität-bamberg
   name: ' Institut für Archäologische Wissenschaften, Denkmalwissenschaften und Kunstgeschichte
     (Universität Bamberg)'
-  logo: ''
+  logo: https://upload.wikimedia.org/wikipedia/de/1/1f/Otto-Friedrich-Universit%C3%A4t_Bamberg_logo.svg
   url: https://www.uni-bamberg.de/iadk/
   type: participant
 
 - id: lab-nicht-textuelle-materialien-am-tib
   name: Lab Nicht-Textuelle Materialien am TIB - Leibniz-Informationszentrum Technik
     und Naturwissenschaften
-  logo: https://www.tib.eu/_assets/95710fb0dfc9d1275dd70f8177c8864a/gfx/logos/tib-full.svg
+  logo: https://www.tib.eu/_assets/95710fb0dfc9d1275dd70f8177c8864a/gfx/logos/tib-full.svg?1732515211
   url: https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/nicht-textuelle-materialien
   type: participant
   short: NTM
@@ -669,7 +669,7 @@
 - id: institut-für-altorientalistik-und-vorderasiatische-archäologie-universität-münster
   name: Institut für Altorientalistik und Vorderasiatische Archäologie (Universität
     Münster)
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_Universit%C3%A4t_M%C3%BCnster.svg/640px-Logo_Universit%C3%A4t_M%C3%BCnster.svg.png
+  logo: https://www.uni-muenster.de/imperia/md/images/allgemein/farbunabhaengig/unims.svg
   url: https://www.uni-muenster.de/Altoriental/
   type: participant
 
@@ -682,7 +682,7 @@
 
 - id: zentrum-für-altertumswissenschaften-universität-heidelberg
   name: Zentrum für Altertumswissenschaften (Universität Heidelberg)
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ruprecht-Karls-Universit%C3%A4t_Heidelberg_Logo.svg/640px-Ruprecht-Karls-Universit%C3%A4t_Heidelberg_Logo.svg.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/e/ea/Ruprecht-Karls-Universit%C3%A4t_Heidelberg_Logo.svg
   url: https://www.phil.uni-heidelberg.de/de/ueber-uns/seminare-institute-und-weitere-einrichtungen
   type: participant
 
@@ -695,20 +695,19 @@
 
 - id: deutscher-museumsbund
   name: Deutscher Museumsbund
-  logo: https://upload.wikimedia.org/wikipedia/de/thumb/8/84/Deutscher_Museumsbund_logo.svg/518px-Deutscher_Museumsbund_logo.svg.png
-  url: https://www.museumsbund.de/
+  logo: https://upload.wikimedia.org/wikipedia/commons/5/56/DMB_Logo_schwarz_400x400px.jpg?uselang=de  url: https://www.museumsbund.de/
   type: participant
   short: DMB
 
 - id: universität-heidelberg
   name: Universität Heidelberg
-  logo: ''
+  logo: https://upload.wikimedia.org/wikipedia/commons/e/ea/Ruprecht-Karls-Universit%C3%A4t_Heidelberg_Logo.svg
   url: https://www.uni-heidelberg.de
   type: participant
 
 - id: helmholtz-zentrum-fuer-umweltforschung-department-monitoring-und-erkundungstechnologien
   name: Helmholtz Zentrum für Umweltforschung-Department Monitoring- und Erkundungstechnologien
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/UFZ_Logo_RGB_DE.png/640px-UFZ_Logo_RGB_DE.png
+  logo: https://www.ufz.de/static/custom/weblayout/DefaultInternetLayout/img/logos/ufz_transparent_de_blue.png
   url: https://www.ufz.de/index.php?de=34217
   type: participant
   short: UFZ
@@ -722,7 +721,7 @@
 
 - id: frankfurt-big-data-lab-goethe-universität-frankfurt
   name: Frankfurt Big Data Lab (Goethe Universität Frankfurt)
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg/640px-Logo-Goethe-University-Frankfurt-am-Main.svg.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg?uselang=de
   url: http://www.bigdata.uni-frankfurt.de/
   type: participant
 
