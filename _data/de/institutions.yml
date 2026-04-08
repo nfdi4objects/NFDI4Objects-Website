@@ -39,7 +39,7 @@
 
 - id: niedersaechsische-staats-und-universitaetsbibliothek-goettingen
   name: Niedersächsische Staats- und Universitätsbibliothek Göttingen
-  logo: /assets/img/institutions/logo_sub_goettingen.png
+  logo: /assets/images/institutions/logo_sub_goettingen.png
   url: https://www.sub.uni-goettingen.de
   type: participant
   short: SUB
@@ -53,14 +53,14 @@
 
 - id: rwth-aachen-lehrstuhl-fuer-architekturgeschichte
   name: RWTH Aachen Lehrstuhl für Architekturgeschichte
-  logo: /assets/img/institutions/logo_rwth_aachen.png
+  logo: /assets/images/institutions/logo_rwth_aachen.png
   url: https://ages.rwth-aachen.de/cms/~pska/
   type: participant
   short: RWTH
 
 - id: thueringisches-landesamt-fuer-denkmalpflege-und-archaeologie-lda-thuringia
   name: Thüringisches Landesamt für Denkmalpflege und Archäologie (LDA Thuringia)
-  logo: /assets/img/institutions/lda_thueringen.jpg
+  logo: /assets/images/institutions/lda_thueringen.jpg
   url: https://www.archive-in-thueringen.de/de/archiv/view/id/161
   type: participant
   short: LDA Th
@@ -74,7 +74,7 @@
 - id: koordinierungsstelle-fuer-wissenschaftliche-Universitaetssammlungen-in-deutschland-am-hzk
   name: Koordinierungsstelle für wissenschaftliche Universitätssammlungen in Deutschland
     am HZK (HU Berlin)
-  logo: /assets/img/institutions/koordinierungsstelle_180px.svg
+  logo: /assets/images/institutions/koordinierungsstelle_180px.svg
   url: https://www.kulturtechnik.hu-berlin.de/forschung/koordinierungsstelle/
   type: participant
   short: HZK-HU
@@ -96,7 +96,7 @@
 
 - id: herzog-anton-ulrich-museum
   name: Herzog Anton Ulrich-Museum Braunschweig
-  logo: /assets/img/institutions/logo_herzog_anton_ulrich-museum.svg.png
+  logo: /assets/images/institutions/logo_herzog_anton_ulrich-museum.svg.png
   url: https://3landesmuseen-braunschweig.de/herzog-anton-ulrich-museum
   type: participant
   short: HAUM
@@ -170,7 +170,7 @@
 
 - id: curt-engelhorn-zentrum-archaeometrie
   name: Curt-Engelhorn-Zentrum Archäometrie gGmbH
-  logo: /assets/img/institutions/logo_ceza.png
+  logo: /assets/images/institutions/logo_ceza.png
   url: https://ceza.de/
   type: participant
   short: CEZA
@@ -217,7 +217,7 @@
 
 - id: cologne-center-for-ehumanities-universitaet-koeln
   name: Cologne Center for eHumanities (Universität Köln)
-  logo: /assets/img/institutions/logo_cceh.png
+  logo: /assets/images/institutions/logo_cceh.png
   url: https://cceh.uni-koeln.de/
   type: participant
   short: UzK - CCeH
@@ -256,7 +256,7 @@
 
 - id: schleswig-holsteinische-landesbibliothek
   name: Schleswig-Holsteinische Landesbibliothek
-  logo: /assets/img/institutions/logo_.svg
+  logo: /assets/images/institutions/logo_.svg
   url: https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/LBSH/lbsh_node
   type: participant
 
@@ -268,7 +268,7 @@
 
 - id: gesellschaft-für-anthropologie
   name: Gesellschaft für Anthropologie
-  logo: /assets/img/institutions/gfa-logo.png
+  logo: /assets/images/institutions/gfa-logo.png
   url: https://gfa-anthropologie.de/
   type: supporter
 
@@ -281,7 +281,7 @@
 
 - id: computer-anwendungen-&-quantitative-methoden-in-der-archaeologie-sektion-deutschland
   name: Computer Anwendungen & Quantitative Methoden in der Archäologie e.V.
-  logo: assets/img/institutions/caa_germany-black.png
+  logo: assets/images/institutions/caa_germany-black.png
   url: https://ag-caa.de/
   type: participant
   short: CAA-DE
@@ -294,7 +294,7 @@
 
 - id: thueringer-universitaets-und-landesbibliothek
   name: Thüringer Universitäts und Landesbibliothek (Universität Jena)
-  logo: /assets/img/institutions/thulb_604x270.png
+  logo: /assets/images/institutions/thulb_604x270.png
   url: https://www.thulb.uni-jena.de/home
   type: participant
   short: ThULB
@@ -314,14 +314,14 @@
 
 - id: museum-fuer-naturkunde-leibniz-institut-fuer-evolutions-und-biodiversitaetsforschung
   name: Museum für Naturkunde - Leibniz Institut für Evolutions- und Biodiversitätsforschung
-  logo: /assets/img/institutions/logo_mfnk_berlin.jpg
+  logo: /assets/images/institutions/logo_mfnk_berlin.jpg
   url: https://www.museumfuernaturkunde.berlin/de
   type: participant
   short: MfN
 
 - id: deutsche-gesellschaft-fuer-ur-und-fruehgeschichte-e.V.-
   name: Deutsche Gesellschaft für Ur- und Frühgeschichte e. V.
-  logo: /assets/img/institutions/dguf_logo_4c_kurz.jpg
+  logo: /assets/images/institutions/dguf_logo_4c_kurz.jpg
   url: https://dguf.de/
   type: participant
   short: DGUF
@@ -334,7 +334,7 @@
 
 - id: deutsches-schifffahrtsmuseum
   name: Deutsches Schifffahrtsmuseum
-  logo: /assets/img/institutions/dsm_rz_logo_srgb_d.png
+  logo: /assets/images/institutions/dsm_rz_logo_srgb_d.png
   url: https://www.dsm.museum/
   type: participant
 
@@ -370,7 +370,7 @@
 
 - id: braunschweigiges-landesmuseum
   name: Braunschweigisches Landesmuseum
-  logo: /assets/img/institutions/blm_logo_4c_regular.svg
+  logo: /assets/images/institutions/blm_logo_4c_regular.svg
   url: https://3landesmuseen-braunschweig.de/braunschweigisches-landesmuseum
   type: participant
 
@@ -389,7 +389,7 @@
 
 - id: institut-fuer-kunstgeschichte-und-musikwissenschaft-jgu-mainz
   name: Institut für Kunstgeschichte und Musikwissenschaft (JGU Mainz)
-  logo: /assets/img/institutions/logo_ikm_jgu.png
+  logo: /assets/images/institutions/logo_ikm_jgu.png
   url: https://www.ikm.uni-mainz.de/
   type: participant
   short: JGU-IKM
@@ -436,7 +436,7 @@
 
 - id: institut-fuer-stadt-und-regionalplanung-tu-berlin
   name: Institut für Stadt- und Regionalplanung (TU Berlin)
-  logo: /assets/img/institutions/logo_tu_berlin_isr.png
+  logo: /assets/images/institutions/logo_tu_berlin_isr.png
   url: https://www.tu.berlin/isr/
   type: participant
   short: TUB-IURP
@@ -449,14 +449,14 @@
 
 - id: hessenarchaeologie-landesamt-fuer-denkmalpflege-hessen
   name: hessenARCHÄOLOGIE Landesamt für Denkmalpflege Hessen
-  logo: /assets/img/institutions/lfdh_signet_ha_vorlage_cmyk_500px_150dpi.png
+  logo: /assets/images/institutions/lfdh_signet_ha_vorlage_cmyk_500px_150dpi.png
   url: https://denkmal.hessen.de/hessenarchaeologie
   type: participant
   short: hA
 
 - id: hochschule-mainz-university-of-applied-sciences
   name: Hochschule Mainz University of Applied Sciences
-  logo: /assets/img/institutions/hochschule_mainz_logo_blau_4c.svg
+  logo: /assets/images/institutions/hochschule_mainz_logo_blau_4c.svg
   url: https://www.hs-mainz.de/
   type: coapplicant
   short: HS Mainz
@@ -497,7 +497,7 @@
 - id: cologne-digital-archaeology-laboratory-am-institut-fuer-archaeologie-universitaet-koeln
   name: Cologne Digital Archaeology Laboratory am Institut für Archäologie (Universität
     Köln)
-  logo: /assets/img/institutions/logo_codarchlab.png
+  logo: /assets/images/institutions/logo_codarchlab.png
   url: https://archaeologie.phil-fak.uni-koeln.de/institut/fachgebiete/archaeoinformatik/codarchlab
   type: participant
   short: UzK -CoDArchLab
@@ -532,7 +532,7 @@
 - id: berlin-graduate-school-of-ancient-studies-fu-berlin
   name: Berlin Graduate School of Ancient Studies (Freie Universität Berlin/Humboldt
     Universität zu Berlin)
-  logo: /assets/img/institutions/bergsas-logo-rgb.svg
+  logo: /assets/images/institutions/bergsas-logo-rgb.svg
   url: https://www.berliner-antike-kolleg.org/bergsas/
   type: participant
   short: BerGSAS
@@ -744,7 +744,7 @@
 
 - id: niedersaechsisches-landesamt-fuer-denkmalpflege-projekt-denkmal-atlas
   name: Niedersächsisches Landesamt für Denkmalpflege Projekt Denkmalatlas
-  logo: /assets/img/institutions/logo_lad_niedersachsen.png
+  logo: /assets/images/institutions/logo_lad_niedersachsen.png
   url: https://denkmalpflege.niedersachsen.de/
   type: participant
   short: NLD
