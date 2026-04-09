@@ -374,7 +374,7 @@
 
 - id: efficient-computing-and-storage-group-jgu-mainz
   name: Efficient Computing and Storage Group (JGU Mainz)
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg/640px-Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg
   url: https://research.zdv.uni-mainz.de/
   type: participant
   short: JGU-ECSG
@@ -490,6 +490,7 @@
   logo: https://snsb.de/wp-content/uploads/2021/06/b29cbfe5.png
   url: https://snsb.de/
   type: participant
+  short: SNSB
 
 - id: cologne-digital-archaeology-laboratory-am-institut-fuer-archaeologie-universitaet-koeln
   name: Cologne Digital Archaeology Laboratory am Institut für Archäologie (Universität
