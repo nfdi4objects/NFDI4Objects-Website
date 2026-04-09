@@ -21,10 +21,10 @@ permalink: en/events/n4o_activity_20260512-CC_Data_Capture/
 ### Our presenters, **Niels Cederstrom (Dataport AöR)** and **Johanne Lefeldt (GDKE),** look forward to exchanging ideas with you.
 
 
- > ### **Zoom:** [https://dainst-org.zoom.us/j/93071809817?pwd=YVscWm2i20FHyG8hgVhcO712Wya9Vv.1](https://dainst-org.zoom.us/j/93071809817?pwd=YVscWm2i20FHyG8hgVhcO712Wya9Vv.1) 
- > 
- > ### Meeting-ID: 930 7180 9817   
- > ### Access Code: 032259 
+**Zoom:** [https://dainst-org.zoom.us/j/93071809817?pwd=YVscWm2i20FHyG8hgVhcO712Wya9Vv.1](https://dainst-org.zoom.us/j/93071809817?pwd=YVscWm2i20FHyG8hgVhcO712Wya9Vv.1) 
+
+Meeting-ID: 930 7180 9817   
+Access Code: 032259 
 
 
 ### Registration is not required.
