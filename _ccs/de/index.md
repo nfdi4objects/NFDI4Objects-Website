@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Community Clusters"
+title: "Community Cluster"
 lang: de
 translation_key: ccs_overview
 permalink: /ccs/
@@ -14,8 +14,8 @@ permalink: /ccs/
 
 {% include page-header.html
        icon="/assets/icons/portal/Community-Cluster.svg"
-       title="Community Clusters"
-       subtitle="Community Clusters (CCs) sind thematische Arbeitsgruppen"
+       title="Community Cluster"
+       subtitle="Community Cluster (CCs) sind thematische Arbeitsgruppen"
  %}
 
 
@@ -87,6 +87,6 @@ permalink: /ccs/
         {% endfor %}
       </div>
     {% else %}
-      <p><em>Keine Community Clusters gefunden.</em></p>
+      <p><em>Keine Community Cluster gefunden.</em></p>
     {% endif %}
 </section>

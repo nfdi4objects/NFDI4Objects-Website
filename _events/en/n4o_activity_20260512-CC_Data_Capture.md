@@ -8,7 +8,7 @@ date: 2026-04-09
 event_date: 2026-05-12
 location: online
 areas:
-- ta 4
+- ta4
 - ta5
 trails: []
 ccs: 

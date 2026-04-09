@@ -11,11 +11,11 @@ permalink: /en/ccs/
 
 <section class="bg-sand-light-img">
     <header class="text-center">
-      <h2>Community Clusters</h2>
+      <h2>Community Cluster</h2>
     </header>
 
     <p>
-      Community Clusters (CCs) are thematic working groups that cover specific
+      Community Cluster (CCs) are thematic working groups that cover specific
       subject areas within NFDI4Objects. They bring together experts from various
       disciplines to work jointly on standardization, tool development, and best practices.
     </p>
@@ -60,6 +60,6 @@ permalink: /en/ccs/
         {% endfor %}
       </div>
     {% else %}
-      <p><em>No community clusters found.</em></p>
+      <p><em>No community cluster found.</em></p>
     {% endif %}
 </section>
