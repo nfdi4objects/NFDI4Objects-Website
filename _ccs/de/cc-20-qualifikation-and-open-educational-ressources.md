@@ -1,8 +1,8 @@
 ---
 layout: cc
 lang: de
-translation_key: cc-qualifikation-and-open-educational-ressources
-title: Qualifikation and Open Educational Ressources
+translation_key: cc-qualifikation-and-open-educational-resources
+title: Qualifikation and Open Educational Resources
 status: active
 start_date: 2025-12-10 
 proposal_url: https://community.nfdi4objects.net/assemblies/CC/f/5/proposals/20
@@ -15,7 +15,7 @@ cochairs:
 areas:
 - ta6
 focus_areas: ''
-permalink: /ccs/cc-qualifikation-and-open-educational-ressources/
+permalink: /ccs/cc-qualifikation-and-open-educational-resources/
 ---
 
 ## Beschreibung

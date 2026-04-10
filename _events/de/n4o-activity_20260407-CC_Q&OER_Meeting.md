@@ -2,7 +2,7 @@
 layout: event
 lang: de
 translation_key: n4o_activity_20260407-CC_Q&OER_Meeting
-title: Clustertreffen des CC Qualifikation & Open Educational Ressources
+title: Clustertreffen des CC Qualifikation & Open Educational Resources
 excerpt: Einladung zum Treffen von 11 - 12 Uhr
 date: 2026-04-07
 event_date: 2026-04-15
@@ -11,7 +11,7 @@ areas:
 - ta 6
 trails: []
 ccs: 
-- cc-qualifikation-and-open-educational-ressources
+- cc-qualifikation-and-open-educational-resources
 twgs: []
 permalink: /events/n4o_activity_20260407-CC_Q&OER_Meeting/
 ---
