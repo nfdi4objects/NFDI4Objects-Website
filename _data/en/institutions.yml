@@ -156,7 +156,7 @@
 
 - id: aegyptisches-museum-georg-steindorff-universitaet-leipzig
   name: Ägyptisches Museum - Georg Steindorff (Universität Leipzig)
-  logo: \assets\images\institutions\logo_Aegyptisches_Museum_Uni_Leipzig.jpg
+  logo: /assets/images/institutions/logo_Aegyptisches_Museum_Uni_Leipzig.jpg
   url: ''
   type: participant
   short: UL
@@ -344,7 +344,7 @@
 
 - id: klassik-stiftung-weimar
   name: Klassik Stiftung Weimar
-  logo: \assets\images\institutions\logo_KSW.png
+  logo: /assets/images/institutions/logo_KSW.png
   url: https://www.klassik-stiftung.de/en/
   type: coapplicant
 
@@ -388,7 +388,7 @@
 
 - id: universität-bonn
   name: Universität Bonn
-  logo: \assets\images\institutions\logo_uni_Bonn.png
+  logo: /assets/images/institutions/logo_uni_Bonn.png
   url: https://www.uni-bonn.de/en
   type: coapplicant
   short: UBN
@@ -754,3 +754,9 @@
   url: https://www.bkg.bund.de/DE/Home/home.html
   type: no-connection
   short: BKG
+
+- id: freie_universität_berlin_institut_für_prähistorische_archäologie
+  name: Freie Universität Berlin, Institute of Prehistoric Archeology
+  logo: https://upload.wikimedia.org/wikipedia/commons/6/6d/Freie_Universit%C3%A4t_Berlin_Logo_05.2024.svg
+  url: https://www.geschkult.fu-berlin.de/en/e/praehist/index.html
+  type: no-connection

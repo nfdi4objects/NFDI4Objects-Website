@@ -345,9 +345,9 @@
 
 - id: bundesamt-für-kartographie-und-geodäsie
   name: Bundesamt für Kartographie und Geodäsie
-  logo: ''
+  logo: https://www.bkg.bund.de/SiteGlobals/Frontend/Images/logo.svg;jsessionid=5FA9CD6DCDE36F114CBA4C6891E5DC58.live12?__blob=normal&v=2
   url: https://www.bkg.bund.de/DE/Home/home.html
-  type: participant
+  type: no-connection
 
 - id: klassik-stiftung-weimar
   name: Klassik Stiftung Weimar
@@ -754,8 +754,8 @@
   type: no-connection
   short: LDA Sachsen-Anhalt 
 
-- id: bundesamt-für-kartographie-und-geodäsie
-  name: Bundesamt für Kartographie und Geodäsie
-  logo: https://www.bkg.bund.de/SiteGlobals/Frontend/Images/logo.svg;jsessionid=C05D4773F4E8D8A5A3F0C8E298160E80.live12?__blob=normal&v=2
-  url: https://www.bkg.bund.de/DE/Home/home.html
+- id: freie_universität_berlin_institut_für_prähistorische_archäologie
+  name: Freie Universität Berlin, Institut für Prähistorische Archäologie
+  logo: https://upload.wikimedia.org/wikipedia/commons/6/6d/Freie_Universit%C3%A4t_Berlin_Logo_05.2024.svg
+  url: https://www.geschkult.fu-berlin.de/en/e/praehist/index.html
   type: no-connection
