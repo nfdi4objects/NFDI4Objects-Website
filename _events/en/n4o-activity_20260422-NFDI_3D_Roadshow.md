@@ -14,7 +14,7 @@ ccs:
 twgs: []
 permalink: en/events/n4o_activity_20260422-NFDI_3D_Roadshow/
 ---
-### [NFDI4Ing](https://nfdi4ing.de/), [NFDI4Culture](https://nfdi4culture.de/index.html) and[NFDI4Objects](https://www.nfdi4objects.net/) will be presenting their activities and results to date in the field of 3D **on April 22 from 9:30 a.m. to 12:30 p.m.** ###
+### [NFDI4Ing](https://nfdi4ing.de/), [NFDI4Culture](https://nfdi4culture.de/index.html) and [NFDI4Objects](https://www.nfdi4objects.net/) will be presenting their activities and results to date in the field of 3D **on April 22 from 9:30 a.m. to 12:30 p.m.** ###
 
 - for the fields of archaeology, architecture, and civil engineering, as well as cultural heritage objects and collections
 - including the provided workflows, tools, services, and guidelines
@@ -33,3 +33,5 @@ The event is free of charge. The presentations will be held in German. Questions
 **Please register by April 20, 6:00 PM: [Register here](https://events.nfdi4culture.de/event/54/)** 
 
 Further information: [https://nfdi4culture.de/de/veranstaltungen/details/3dnfdi-roadshow-2026.html](https://nfdi4culture.de/de/veranstaltungen/details/3dnfdi-roadshow-2026.html)
+
+![3D@NFDI Roadshow 2026](\assets\images\content\1024-576.png)

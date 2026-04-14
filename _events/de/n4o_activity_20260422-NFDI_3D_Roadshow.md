@@ -14,7 +14,7 @@ ccs:
 twgs: []
 permalink: /events/n4o_activity_20260422-NFDI_3D_Roadshow/
 ---
-### [NFDI4Ing](https://nfdi4ing.de/), [NFDI4Culture](https://nfdi4culture.de/index.html) und[NFDI4Objects](https://www.nfdi4objects.net/) werden Euch gemeinsam **am 22. April von 09:30 bis 12:30 Uhr** Ihre Aktivitäten und ihre bisherigen Ergebnisse im Bereich 3D vorstellen ### 
+### [NFDI4Ing](https://nfdi4ing.de/), [NFDI4Culture](https://nfdi4culture.de/index.html) und [NFDI4Objects](https://www.nfdi4objects.net/) werden Euch gemeinsam **am 22. April von 09:30 bis 12:30 Uhr** Ihre Aktivitäten und ihre bisherigen Ergebnisse im Bereich 3D vorstellen ### 
 
 - für die Domänen Archäologie, Architektur und Bauingenieurwesen sowie Kulturerbeobjekte und Sammlungen
 - inklusive der bereitgestellten Workflows, Tools, Services und Handreichungen
@@ -33,3 +33,5 @@ Die Veranstaltung ist kostenfrei. Die Präsentationen finden in deutscher Sprach
 **Um Anmeldung wird bis zum 20. April, 18:00 gebeten: [Zur Registrierung](https://events.nfdi4culture.de/event/54/)** 
 
 Weitere Informationen: [https://nfdi4culture.de/de/veranstaltungen/details/3dnfdi-roadshow-2026.html](https://nfdi4culture.de/de/veranstaltungen/details/3dnfdi-roadshow-2026.html)
+
+![3D@NFDI Roadshow 2026](\assets\images\content\1024-576.png)
