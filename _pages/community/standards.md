@@ -14,6 +14,12 @@ permalink: /community/standards/
        subtitle="Standards stehen im Zentrum der Bedürfnisse, welche die Community dem Konsortium NFDI4Objects mit auf den Weg gegeben hat."
  %}
 
+“The basic irony of standards is the simple fact that there is no standard way to create a standard, nor is there even a standard definition of ‘standard’.”
+
+„The Joy of Standards“, [The New York Times, 16.2.2019](https://www.nytimes.com/2019/02/16/opinion/sunday/standardization.html)
+
+Wir begreifen die Entwicklung von Standards als partizipativen Prozess. Zusammen mit der Community suchen wir gemeinsame Lösungen, die verschiedene Ebenen von Standardisierung abdecken. Die konkreten Ergebnisse reichen dabei von Anregungen über Empfehlungen und konkrete Vorschläge bis hin zu normativen Vorgaben. In NFDI4Objects werden die gemeinsamen Ergebnisse als offene Standards angelegt und in einem kollaborativen und konsensorientierten Prozess entwickelt und gepflegt. Diese gemeinsamen Standards nennen wir die NFDI4Objects-Commons.
+
 {% include blocks/image-centered.html
    image="/assets/images/content/menschengruppe-treppe.jpg"
    srcset="/assets/images/content/menschengruppe-treppe@2x.jpg 2x, /assets/images/content/menschengruppe-treppe.jpg 1x"
@@ -21,11 +27,6 @@ permalink: /community/standards/
    width="600"
    class="img-center"
 %}
-“The basic irony of standards is the simple fact that there is no standard way to create a standard, nor is there even a standard definition of ‘standard’.”
-
-„The Joy of Standards“, [The New York Times, 16.2.2019](https://www.nytimes.com/2019/02/16/opinion/sunday/standardization.html)
-
-Wir begreifen die Entwicklung von Standards als partizipativen Prozess. Zusammen mit der Community suchen wir gemeinsame Lösungen, die verschiedene Ebenen von Standardisierung abdecken. Die konkreten Ergebnisse reichen dabei von Anregungen über Empfehlungen und konkrete Vorschläge bis hin zu normativen Vorgaben. In NFDI4Objects werden die gemeinsamen Ergebnisse als offene Standards angelegt und in einem kollaborativen und konsensorientierten Prozess entwickelt und gepflegt. Diese gemeinsamen Standards nennen wir die NFDI4Objects-Commons.
 
 ## Was sind Commons?
 

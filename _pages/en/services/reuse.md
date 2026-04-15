@@ -9,7 +9,7 @@ cards:
     icon: "/assets/images/services/re3dragon-logo.png"
     url: "/en/services/re3dragon/"
     description: "Tool for <strong>3D reconstruction</strong> of archaeological objects and structures."
-  - title: "Workflow Tool for Experimental Archaeological Experiments"
+  - title: "Workflow Tool for Archaeological Experiments"
     icon: "/assets/icons/dienste/Dienste-Icons-05.svg"
     url: "/en/services/re3dragon/"
     description: "Supports <strong>structured documentation and analysis</strong> of experimental archaeological data."

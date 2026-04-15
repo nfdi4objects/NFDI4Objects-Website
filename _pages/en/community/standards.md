@@ -14,6 +14,13 @@ permalink: /en/community/standards/
        subtitle="Standards are at the core of the needs that the community has entrusted to the NFDI4Objects consortium."
  %}
 
+
+“The basic irony of standards is the simple fact that there is no standard way to create a standard, nor is there even a standard definition of ‘standard’.”
+
+[The Joy of Standards, *The New York Times*, 16.2.2019](https://www.nytimes.com/2019/02/16/opinion/sunday/standardization.html)
+
+We understand the development of standards as a participatory process. Together with the community, we seek common solutions that cover different levels of standardization. The concrete results range from suggestions and recommendations to specific proposals and normative guidelines. In NFDI4Objects, these shared results are designed as open standards and developed and maintained through a collaborative and consensus-oriented process. We call these shared standards the NFDI4Objects Commons.
+
 {% include blocks/image-centered.html
    image="/assets/images/content/menschengruppe-treppe.jpg"
    srcset="/assets/images/content/menschengruppe-treppe@2x.jpg 2x, /assets/images/content/menschengruppe-treppe.jpg 1x"
@@ -21,11 +28,6 @@ permalink: /en/community/standards/
    width="600"
    class="img-center"
 %}
-“The basic irony of standards is the simple fact that there is no standard way to create a standard, nor is there even a standard definition of ‘standard’.”
-
-[The Joy of Standards, *The New York Times*, 16.2.2019](https://www.nytimes.com/2019/02/16/opinion/sunday/standardization.html)
-
-We understand the development of standards as a participatory process. Together with the community, we seek common solutions that cover different levels of standardization. The concrete results range from suggestions and recommendations to specific proposals and normative guidelines. In NFDI4Objects, these shared results are designed as open standards and developed and maintained through a collaborative and consensus-oriented process. We call these shared standards the NFDI4Objects Commons.
 
 ## What Are the Commons?
 
