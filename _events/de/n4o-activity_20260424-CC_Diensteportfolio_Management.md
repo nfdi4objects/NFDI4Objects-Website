@@ -28,9 +28,10 @@ Seit unserer letzten Sitzung haben wir mithilfe des Erfassungsbogens **Informati
 1. **Bildung von zwei Kleingruppen** innerhalb des CC, die sich jeweils mit der Entwicklung von Qualitätskriterien für:
    - Technische Dienste
    - Community-bezogene Dienste  
-     beschäftigen.
+ beschäftigen.
 
-2. **Erarbeitung von Entwürfen** für zwei Whitepaper, die anschließend im gesamten CC diskutiert und in den NFDI4Objects Commons-Prozess eingereicht werden.
+2. **Erarbeitung von Entwürfen** für zwei Whitepaper, die anschließend im gesamten CC diskutiert und in den NFDI4Objects Commons-Prozess 
+eingereicht werden.
 
 3. **Zeitplan:** Unser Ziel ist es, bis Ende des 2. Quartals die ersten Zertifizierungen durchzuführen.
 

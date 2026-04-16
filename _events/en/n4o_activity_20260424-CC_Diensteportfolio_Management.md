@@ -29,7 +29,9 @@ Since our last meeting, we have collected information on a total of 37 services 
    - Technical services
    - Community-related services  
     
-2. **Drafting** two white papers, which will then be discussed by the entire CC and submitted to the NFDI4Objects Commons process.
+2. **Drafting** two white papers, which will then be discussed by the entire CC and 
+submitted to the NFDI4Objects 
+Commons process.
 
 3. **Timeline**: Our goal is to conduct the first certifications by the end of the second quarter.
 
