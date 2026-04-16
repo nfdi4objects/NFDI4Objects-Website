@@ -25,15 +25,14 @@ Since our last meeting, we have collected information on a total of 37 services 
 
 **Goals of the meeting:**
 
-1. **Forming two small groups** within the CC, each of which will focus on developing quality criteria for:
+**1. Forming two small groups** within the CC, each of which will focus on developing quality criteria for:
    - Technical services
    - Community-related services  
     
-2. **Drafting** two white papers, which will then be discussed by the entire CC and 
-submitted to the NFDI4Objects 
-Commons process.
+**2. Drafting** two white papers, which will then be discussed by the entire CC and submitted to the NFDI4Objects Commons process.
 
-3. **Timeline**: Our goal is to conduct the first certifications by the end of the second quarter.
+**3. Timeline**: Our goal is to conduct the first certifications by the end of the second quarter.
+
 
 **Note:** We will make the evaluation of the information on the services already recorded available to you at the meeting, or if you contact us briefly in advance via email (fabian.fricke@dainst.de). 
 
