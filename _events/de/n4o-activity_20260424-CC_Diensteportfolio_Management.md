@@ -18,7 +18,7 @@ permalink: /events/n4o_activity_20260424-CC_Diensteportfolio_Management/
 
 📅 **Datum:** 24. April 2026  
 ⏰ **Uhrzeit:** 14:00 Uhr  
-📍 **Ort:** https://dainst-org.zoom.us/j/96187802595?pwd=ffa2i1PHiuWaCudFyG2phhwXb4G3UC.1 
+📍 **Ort:** [https://dainst-org.zoom.us/j/96187802595?pwd=ffa2i1PHiuWaCudFyG2phhwXb4G3UC.1](https://dainst-org.zoom.us/j/96187802595?pwd=ffa2i1PHiuWaCudFyG2phhwXb4G3UC.1)
 
 **Aktueller Stand:**  
 Seit unserer letzten Sitzung haben wir mithilfe des Erfassungsbogens **Informationen zu insgesamt 37 Diensten** erhoben (davon 23 technische und 14 community-bezogene Dienste). Diese Daten wurden als Diskussionsgrundlage aufbereitet.

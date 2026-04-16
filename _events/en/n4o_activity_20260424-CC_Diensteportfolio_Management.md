@@ -18,7 +18,7 @@ The next CC Service Portfolio Management meeting will take place online **on Fri
 
 📅 **Date:** April 24, 2026  
 ⏰ **Time:** 2:00 p.m.  
-📍 **Location:** https://dainst-org.zoom.us/j/96187802595?pwd=ffa2i1PHiuWaCudFyG2phhwXb4G3UC.1 
+📍 **Location:** [https://dainst-org.zoom.us/j/96187802595?pwd=ffa2i1PHiuWaCudFyG2phhwXb4G3UC.1](https://dainst-org.zoom.us/j/96187802595?pwd=ffa2i1PHiuWaCudFyG2phhwXb4G3UC.1)
 
 **Current Status:** 
 Since our last meeting, we have collected information on a total of 37 services (23 technical and 14 community-related services) using the survey form. This data has been prepared as a basis for discussion.
