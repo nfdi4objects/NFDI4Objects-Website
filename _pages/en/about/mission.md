@@ -109,5 +109,5 @@ Since many disciplines have similar requirements for research data management, B
 NFDI4Objects actively participates in the development and implementation of these services.
 
 ---
-x<sup>[^1]: The FAIR and CARE principles are guidelines for the responsible management of data. FAIR stands for **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable. CARE stands for **C**ollective Benefit, **A**uthority to Control, **R**esponsibility, and **E**thics. </sup>
+[^1]: The FAIR and CARE principles are guidelines for the responsible management of data. FAIR stands for **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable. CARE stands for **C**ollective Benefit, **A**uthority to Control, **R**esponsibility, and **E**thics.
 

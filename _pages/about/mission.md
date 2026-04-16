@@ -105,4 +105,4 @@ NFDI4Objects beteiligt sich aktiv an der Entwicklung und Implementierung dieser 
 
 --- 
 
-x<sup>[^1]:  Die FAIR- und CARE-Prinzipien sind Leitlinien für einen verantwortungsvollen Umfang mit Daten. FAIR steht für **F**indable (auffindbar), **A**ccessible (zugänglich), **I**nteroperable (verknüpfbar) und **R**eusable (wiederverwendbar). CARE steht für **C**ollective Benefit (Kollektiver Nutzen), **A**uthority to Control (Kontrollbefugnis), **R**esponsibility (Verantwortung) und **E**thics (Ethik).</sup>
+[^1]:  Die FAIR- und CARE-Prinzipien sind Leitlinien für einen verantwortungsvollen Umfang mit Daten. FAIR steht für **F**indable (auffindbar), **A**ccessible (zugänglich), **I**nteroperable (verknüpfbar) und **R**eusable (wiederverwendbar). CARE steht für **C**ollective Benefit (Kollektiver Nutzen), **A**uthority to Control (Kontrollbefugnis), **R**esponsibility (Verantwortung) und **E**thics (Ethik).
