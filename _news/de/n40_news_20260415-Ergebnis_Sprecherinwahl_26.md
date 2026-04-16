@@ -4,7 +4,7 @@ lang: de
 translation_key: n4o_news_20260415-Ergebnis_Sprecherinwahl_26
 title:  Ergebnisse der Wahl
 excerpt: Neue Sprecherin für NFDI4Objects gewählt
-date: 15.03.2026
+date: 15.04.2026
 areas: []
 trails: []
 ccs: []
