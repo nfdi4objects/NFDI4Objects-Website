@@ -25,14 +25,15 @@ Seit unserer letzten Sitzung haben wir mithilfe des Erfassungsbogens **Informati
 
 **Ziele der Sitzung:**
 
-1. **Bildung von zwei Kleingruppen** innerhalb des CCs, die sich jeweils mit der Entwicklung von Qualitätskriterien für:
+**1. Bildung von zwei Kleingruppen** innerhalb des CCs, die sich jeweils mit der Entwicklung von Qualitätskriterien für:
     - Technische Dienste
     - Community-bezogene Dienste
 beschäftigen
 
-2. **Erarbeitung von Entwürfen** für zwei Whitepaper, die anschließend im gesamten CC diskutiert und in den NFDI4Objects Common-Prozesse eingereicht werden.
+**2. Erarbeitung von Entwürfen** für zwei Whitepaper, die anschließend im gesamten CC diskutiert und in den NFDI4Objects Common-Prozesse eingereicht werden.
 
-3. **Zeitplan:** Unser Ziel ist es, bis Ende des 2. Quartals die ersten Zertifizierungen durchzuführen.
+**3. Zeitplan** Unser Ziel ist es, bis Ende des 2. Quartals die ersten Zertifizierungen durchzuführen.
+
 
 **Hinweis:** Die Auswertung der Informationen über die bereits erfassten Dienste machen wir euch bei der Sitzung zugänglich, oder wenn ihr euch im Vorfeld kurz per Email bei uns meldet (fabian.fricke@dainst.de). 
 
