@@ -2,7 +2,7 @@
 layout: event
 lang: de
 translation_key: n4o_activity_20260318-CC_Protected_Heritage_Sites
-title: Clustertreffen des CC Denkmal- Maßnhamen- und Schutzflächen/ Protected Heritage Sites
+title: Clustertreffen des CC Denkmal- Maßnahmen- und Schutzflächen/ Protected Heritage Sites
 excerpt: Einladung zum Treffen von 9 - 11 Uhr
 date: 2026-03-18
 event_date: 2026-04-28
