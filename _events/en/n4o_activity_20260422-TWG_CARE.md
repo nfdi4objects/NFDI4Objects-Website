@@ -1,6 +1,6 @@
 ---
 layout: event
-lang: de
+lang: en
 translation_key: n4o_activity_20260422-TWG_CARE
 title: Next Meeting of the TWG CARE Principles
 excerpt: 1. Expert Talk
