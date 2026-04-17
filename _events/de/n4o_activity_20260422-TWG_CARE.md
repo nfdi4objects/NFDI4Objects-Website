@@ -4,7 +4,7 @@ lang: de
 translation_key: n4o_activity_20260422-TWG_CARE
 title: Nächstes Treffen der TWG CARE Principles
 excerpt: 1. Expert Talk
-date: 2026-04-017
+date: 2026-04-17
 event_date: 2026-04-22
 location: online
 areas:
