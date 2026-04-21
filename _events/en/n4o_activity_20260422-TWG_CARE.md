@@ -21,6 +21,8 @@ The **Expert Talks** are a new format introduced by the TWG: publicly accessible
 
 The upcoming session will be opened by [**Prof. Dr. Wiebke Ahrndt**](https://www.uni-bremen.de/kunst/personen/prof-dr-wiebke-ahrndt) with an Expert Talk on the topic: “Development of guidelines for handling collection items from colonial contexts, as well as previous experiences with indigenous cooperation projects in German cultural heritage institutions, for example [at the Überseemuseum.”](https://www.uebersee-museum.de/)
 
+Hosting: Romy Köhler, [German Maritime Museum](https://www.dsm.museum/en/)
+
 Participation in the session will take place online via Zoom: [https://dainst-org.zoom.us/j/99854437005?pwd=rtFhZInsdruQrG115k6bJxuK33C7HP.1](https://dainst-org.zoom.us/j/99854437005?pwd=rtFhZInsdruQrG115k6bJxuK33C7HP.1)   
 Meeting ID: 998 5443 7005  
 Passcode: 814698
