@@ -4,7 +4,7 @@ lang: en
 translation_key: n4o_news_20260421-BBAW-Workshop
 title:  Forschungsdaten im Zentrum: Ewig währt am längsten
 excerpt: Workshop of the BBAW on June 25 and 26
-date: 15.04.2026
+date: 21.04.2026
 areas: []
 trails: []
 ccs: []
