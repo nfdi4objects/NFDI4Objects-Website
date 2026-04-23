@@ -29,7 +29,7 @@ Ein weiterer Fokus liegt auf der Frage, wie bereits entstandene Synergien rund u
 
 Das Forum bietet damit eine wichtige Plattform, um gemeinsame Strategien zu entwickeln und die GND als zentrale Referenz für die geisteswissenschaftliche Forschungsdatenlandschaft weiter auszubauen. 
 
-Besonders möchten wir Sie auf den Programmpunkt: *Das Zukunftspotenzial der GND als Lingua Franca in der Zusammenarbeit der vier geisteswissenschaftlichen Konsortien (Offene Strategiedebatte)* am 24.06.2026 aufmerksam machen. [Dirk Wintergrün](https://www.nfdi4objects.net/persons/dirkwintergruen/) (Klassik Stiftung Weimar \| NFDI4Objects) wird NFDI4Objects in der Diskussion vertreten.
+Besonders möchten wir Sie auf den Programmpunkt: *Das Zukunftspotenzial der GND als Lingua Franca in der Zusammenarbeit der vier geisteswissenschaftlichen Konsortien (Offene Strategiedebatte)* am 24.06.2026 aufmerksam machen. [Dirk Wintergrün](https://www.nfdi4objects.net/persons/dirkwintergruen/)(KSW\|NFDI4Objects) wird unser Konsortium in der Diskussion vertreten.
 
 **Weitere Informationen:** [https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html](https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html)
 
