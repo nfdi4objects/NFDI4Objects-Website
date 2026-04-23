@@ -2,7 +2,7 @@
 layout: service
 lang: de
 translation_key: propylaeum
-title: Propylaeum E-Publishing
+title: Propylaeum Publishing
 short_title: ''
 logo: /assets/images/services/design-ohne-titel-2.png
 homepage: https://www.propylaeum.de/
@@ -20,7 +20,7 @@ permalink: /services/propylaeum/
 
 [Propylaeum](https://www.propylaeum.de/) ist ein Fachinformationsdienst (FID) für die Altertumswissenschaften und ein von der Deutschen Forschungsgemeinschaft (DFG) gefördertes Gemeinschaftsprojekt der Universitätsbibliothek Heidelberg sowie der Bayerischen Staatsbibliothek München. Seit 2016 unterstützt der FID mit seinen Services Forschende und Studierende aller altertumswissenschaftlichen Fachrichtungen und ist seit 2023 Participant von NFDI4Objects. Die fachspezifischen und interdisziplinären Angebote von Propylaeum ergänzen sich im Rahmen des Fach- und Erwerbungsprofils: Zeitlich erstreckt sich das Profil des Fachinformationsdienstes von der Altsteinzeit bis in die Frühe Neuzeit, der regionale Fokus liegt auf den Gebieten der Alten Welt, insbesondere im Mittelmeerraum sowie Mitteleuropa.
 
-[Propylaeum E-Publishing](https://www.propylaeum.de/publizieren) ist das Angebot von Propylaeum, Publikationen im Open Access sowohl als Erstpublikationen (“goldener Weg”) als auch als Zweitpublikationen (“grüner Weg”) zu veröffentlichen. Die Publikationen sind mit standardisierten Adressen (URN, DOI) und Metadaten dauerhaft sowie zitierfähig archiviert und in verschiedenen Bibliothekskatalogen und Suchmaschinen weltweit recherchierbar.
+[Propylaeum Publishing](https://www.propylaeum.de/publizieren) ist das Angebot von Propylaeum, Publikationen im Open Access sowohl als Erstpublikationen (“goldener Weg”) als auch als Zweitpublikationen (“grüner Weg”) zu veröffentlichen. Die Publikationen sind mit standardisierten Adressen (URN, DOI) und Metadaten dauerhaft sowie zitierfähig archiviert und in verschiedenen Bibliothekskatalogen und Suchmaschinen weltweit recherchierbar.
 
 Folgende Publikationsmöglichkeiten stehen für Altertumswissenschaftler*innen weltweit zur Verfügung:
 

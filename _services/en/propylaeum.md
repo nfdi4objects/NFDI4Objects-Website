@@ -20,7 +20,7 @@ permalink: /en/services/propylaeum/
 
 [Propylaeum](https://www.propylaeum.de/en/home) is a specialized information service (FID) for ancient studies and a joint project of Heidelberg University Library and the Bavarian State Library in Munich, funded by the German Research Foundation (DFG). Since 2016, the FID has been supporting researchers and students from all fields of ancient studies with its services and has been a participant in NFDI4Objects since 2023. Propylaeum's subject-specific and interdisciplinary services complement each other within the framework of the subject and acquisition profile: In terms of time, the profile of the specialized information service extends from the Palaeolithic period to the early modern period, while the regional focus is on the areas of the ancient world, particularly in the Mediterranean region and Central Europe.
 
-[Propylaeum E-Publishing](https://www.propylaeum.de/en/publishing) is Propylaeum's offer to publish publications in Open Access both as first publications (“golden path”) and as second publications (“green path”). The publications are archived with standardized addresses (URN, DOI) and metadata in a permanent and citable manner and can be searched worldwide in various library catalogs and search engines.
+[Propylaeum Publishing](https://www.propylaeum.de/en/publishing) is Propylaeum's offer to publish publications in Open Access both as first publications (“golden path”) and as second publications (“green path”). The publications are archived with standardized addresses (URN, DOI) and metadata in a permanent and citable manner and can be searched worldwide in various library catalogs and search engines.
 
 The following publication options are available to classical scholars worldwide:
 
