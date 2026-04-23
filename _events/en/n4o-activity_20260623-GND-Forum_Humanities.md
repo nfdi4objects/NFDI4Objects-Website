@@ -3,7 +3,7 @@ layout: event
 lang: en
 translation_key: n4o_activity_20260623-GND-Forum_Humanities.md
 title: GND-Forum Humanities@NFDI
-excerpt: 
+excerpt: The GND as a shared infrastructure for cooperation and synergies within the NFDI
 date: 2026-04-21
 event_date: 2026-06-23
 event_end_date: 2026-04-24
@@ -15,7 +15,7 @@ ccs:
 twgs: []
 permalink: en/events/n4o_activity_20260623-GND-Forum_Humanities/
 ---
-### Contributors of the four humanities consortia of the National Research Data Infrastructure—NFDI4Culture, NFDI4Memory, NFDI4Objects, and Text+—will meet on June 23 and 24 for the GND Forum Humanities@NFDI in Göttingen.
+ ## Contributors of the four humanities consortia of the National Research Data Infrastructure—NFDI4Culture, NFDI4Memory, NFDI4Objects, and Text+—will meet on June 23 and 24 for the GND Forum Humanities@NFDI in Göttingen.
 
 The working meeting will focus on the Gemeinsame Normdatei (GND) as a unifying infrastructure for research data. Discussions will center on how the GND can further develop its role as a data resource and a cooperative organizational structure to strengthen collaboration among the consortia. Against the backdrop of the planned further development of the NFDI starting in 2028, the focus will be particularly on sustainable cooperation and development prospects.
 
