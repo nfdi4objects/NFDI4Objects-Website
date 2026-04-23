@@ -2,7 +2,7 @@
 layout: service
 lang: en
 translation_key: propylaeum
-title: Propylaeum
+title: Propylaeum Publishing
 short_title: ''
 logo: /assets/images/services/design-ohne-titel-2.png
 homepage: https://www.propylaeum.de/
