@@ -2,14 +2,14 @@
 layout: news
 lang: en
 translation_key: n4o_news_20260421-BBAW-Workshop
-title:  Focus on Research Data: Forever lasts the longest
+title: Focus on Research Data: Forever lasts the longest
 excerpt: Workshop of the BBAW on June 25 and 26
 date: 21.04.2026
 areas: []
 trails: []
 ccs: []
 twgs: []
-permalink: /en/news/n4o_news_20260421-BBAW-Workshop/
+permalink: en/news/n4o_news_20260421-BBAW-Workshop/
 ---
 **From our network**, we would like to highlight the participatory workshop organized by the initiative “Data Center – Scientific Concept and Design” of the Berlin-Brandenburg Academy of Sciences and Humanities, which will take place **on June 25 and 26, 2026, in Berlin**. 
 
