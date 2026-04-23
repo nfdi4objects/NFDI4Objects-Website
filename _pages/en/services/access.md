@@ -21,7 +21,7 @@ cards:
     icon: "/assets/images/services/poseidon-logo.png"
     url: "/en/services/poseidon-2-0/"
     description: "Framework for <strong>paleogenetic data</strong>. Standardized publication and analysis of aDNA data."
-  - title: "Propylaeum E-Publishing"
+  - title: "Propylaeum Publishing"
     icon: "/assets/images/services/propylaeu3.png"
     url: "/en/services/propylaeum/"
     description: "Service for <strong>electronic publication</strong> of research in ancient studies."
