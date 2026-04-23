@@ -393,10 +393,10 @@
   type: coapplicant
   short: UBN
 
-- id: universität-leiden
-  name: Leiden University
+- id: universität-augsburg
+  name: Augsburg University
   logo: ''
-  url: https://www.universiteitleiden.nl/en
+  url: https://www.uni-augsburg.de/en/
   type: advisoryboard_inst
 
 - id: varusschlacht-im-osnabruecker-land-gGmbH-museum-und-park-kalkriese
