@@ -6,7 +6,7 @@ title: GND-Forum Humanities@NFDI
 excerpt: Die GND als gemeinsame Infrastruktur für Kooperation und Synergien in der NFDI
 date: 2026-04-21
 event_date: 2026-06-23
-event_end_date: 2026-04-24
+event_end_date: 2026-06-24
 location: Göttingen
 event_type: Forum
 areas:
@@ -27,7 +27,9 @@ Ein weiterer Fokus liegt auf der Frage, wie bereits entstandene Synergien rund u
 -  unterschiedliche Perspektiven auf zentrale Entitätstypen der GND, 
 -  sowie das Potenzial einer vertieften Zusammenarbeit auf Basis der GND. 
 
-Das Forum bietet damit eine wichtige Plattform, um gemeinsame Strategien zu entwickeln und die GND als zentrale Referenz für die geisteswissenschaftliche Forschungsdatenlandschaft weiter auszubauen.
+Das Forum bietet damit eine wichtige Plattform, um gemeinsame Strategien zu entwickeln und die GND als zentrale Referenz für die geisteswissenschaftliche Forschungsdatenlandschaft weiter auszubauen. 
+
+Besonders möchten wir Sie auf den Programmpunkt: *Das Zukunftspotenzial der GND als Lingua Franca in der Zusammenarbeit der vier geisteswissenschaftlichen Konsortien (Offene Strategiedebatte)* am 24.06.2026 aufmerksam machen. [Dirk Wintergrün](https://www.nfdi4objects.net/persons/dirkwintergruen/) (Klassik Stiftung Weimar \| NFDI4Objects) wird NFDI4Objects in der Diskussion vertreten.
 
 **Weitere Informationen:** [https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html](https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html)
 

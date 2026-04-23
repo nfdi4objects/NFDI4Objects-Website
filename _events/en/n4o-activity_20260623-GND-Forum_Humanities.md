@@ -29,6 +29,8 @@ Another focus will be on the question of how synergies that have already emerged
 
 The forum thus offers an important platform for developing joint strategies and further expanding the GND as a central reference for the humanities research data landscape.
 
+We would particularly like to draw your attention to the program item *“The Future Potential of GND as a Lingua Franca in the Collaboration Among the Four Humanities Consortia (Open Strategy Debate)”* on June 24, 2026. [Dirk Wintergrün](https://www.nfdi4objects.net/persons/dirkwintergruen/) (Klassik Stiftung Weimar /| NFDI4Objects) will represent NFDI4Objects in the discussion.
+
 Further Information: [https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html](https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html)
 
 ![Grafik der Humanities in der NFDI](\assets\images\1024-1024.png)
