@@ -35,4 +35,4 @@ Besonders möchten wir Sie auf den Programmpunkt: *Das Zukunftspotenzial der GND
 
 **Weitere Informationen:** [https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html](https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html)
 
-![Grafik der Humanities in der NFDI](\assets\images\1024-1024.png)
+<img src="/assets/images/1024-1024.png" alt="Grafik der Humanities in der NFDI" width="50%">

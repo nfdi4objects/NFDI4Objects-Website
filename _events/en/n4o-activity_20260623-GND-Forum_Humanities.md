@@ -31,6 +31,8 @@ The forum thus offers an important platform for developing joint strategies and 
 
 We would particularly like to draw your attention to the program item *“The Future Potential of GND as a Lingua Franca in the Collaboration Among the Four Humanities Consortia (Open Strategy Debate)”* on June 24, 2026. [Dirk Wintergrün](https://www.nfdi4objects.net/persons/dirkwintergruen/) (Klassik Stiftung Weimar \| NFDI4Objects) will represent our consortium in the discussion.
 
-Further Information: [https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html](https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html)
+**Registration:** [https://events.gwdg.de/event/1407/registrations/1200/](https://events.gwdg.de/event/1407/registrations/1200/)
 
-![Grafik der Humanities in der NFDI](\assets\images\1024-1024.png)
+**Further Information:** [https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html](https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html)
+
+<img src="/assets/images/1024-1024.png" alt="Grafik der Humanities in der NFDI" width="50%">
