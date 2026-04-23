@@ -35,6 +35,6 @@ We would particularly like to draw your attention to the program item *“The Fu
 
 **Further Information:** [https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html](https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html)
 
-<img src="/assets/images/1024-1024.png" 
-    alt="Grafik der Humanities in der NFDI"   
-    style= "width:50%>;display:block; margin:auto;">
+<img src="/assets/images/1024-1024.png"
+     alt="Grafik der Humanities in der NFDI"
+     style="width:50%; display:block; margin:auto;">
