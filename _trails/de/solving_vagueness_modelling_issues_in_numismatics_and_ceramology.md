@@ -8,6 +8,7 @@ start_date: 2024-09-25 07:56:31.688000+00:00
 end_date: ''
 proposal_url: https://osf.io/4rkpw
 type: n4o:Project
+round: second
 cochairs:
 - name: Florian Thiery
   person_ref: florian_thiery

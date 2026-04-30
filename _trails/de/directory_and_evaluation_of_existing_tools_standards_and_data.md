@@ -7,6 +7,7 @@ start_date: 2024-02-09 16:02:38.088000+00:00
 end_date: 2024-02-09 16:02:38.090000+00:00
 proposal_url: https://osf.io/u6mbg
 type: n4o:Project
+round: first
 cochairs:
 - name: Benjamin Höke
   person_ref: benjaminhöke

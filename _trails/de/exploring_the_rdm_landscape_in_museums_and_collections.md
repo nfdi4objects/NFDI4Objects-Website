@@ -7,6 +7,7 @@ start_date: 2023-05-10 21:55:00+00:00
 end_date: ''
 proposal_url: https://zenodo.org/records/5849867
 type: n4o:Project
+round: first
 cochairs:
 - name: Felix Schäfer
   person_ref: felix-fschäfer

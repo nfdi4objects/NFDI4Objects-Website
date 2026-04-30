@@ -7,6 +7,7 @@ start_date: 2023-03-01 22:55:00+00:00
 end_date: 2028-02-29 22:55:00+00:00
 proposal_url: https://doi.org/10.5281/zenodo.5849809
 type: n4o:Project
+round: first
 cochairs:
 - name: Florian Thiery
   person_ref: florian_thiery

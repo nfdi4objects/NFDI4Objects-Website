@@ -7,6 +7,7 @@ start_date: 2023-03-01 08:00:00+00:00
 end_date: 2025-06-30 21:59:00+00:00
 proposal_url: https://osf.io/gf496
 type: n4o:Project
+round: first
 cochairs:
 - name: Matthias Lang
   person_ref: matthias_lang
