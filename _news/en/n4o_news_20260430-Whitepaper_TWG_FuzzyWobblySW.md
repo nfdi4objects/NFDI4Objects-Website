@@ -8,8 +8,8 @@ date: 30.04.2026
 areas: []
 trails: []
 ccs: []
-twgs: []
-- community-standards-for-modelling-fuzziness-wobbliness-in-research-data-using-semantic-web-technologies-and-formalisms-fuzzywobblysw
+twgs: 
+- community-standards-for-modelling-fuzziness-wobbliness-in-research-data-using-semantic-web-technologies-and-formalisms-fuzzywobblysw 
 permalink: en/news/n4o_news_20260430-Whitepaper_TWG_FuzzyWobblySW/
 ---
 #### The NFDI4Objects TWG [Community Standards for Modeling Fuzziness & Wobbliness in Research Data Using Semantic Web Technologies and Formalisms (FuzzyWobblySW)](https://community.nfdi4objects.net/link?external_url=https%3A%2F%2Fzenodo.org%2Frecords%2F14893827) has published a new white paper that defines the terms uncertainty, vagueness, and “fuzziness & wobbliness” from the TWG’s perspective. 

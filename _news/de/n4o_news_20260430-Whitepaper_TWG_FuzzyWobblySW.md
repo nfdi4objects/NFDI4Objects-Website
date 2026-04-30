@@ -8,7 +8,7 @@ date: 30.04.2026
 areas: []
 trails: []
 ccs: []
-twgs: []
+twgs: 
 - community-standards-for-modelling-fuzziness-wobbliness-in-research-data-using-semantic-web-technologies-and-formalisms-fuzzywobblysw
 permalink: /news/n4o_news_20260430-Whitepaper_TWG_FuzzyWobblySW/
 ---
