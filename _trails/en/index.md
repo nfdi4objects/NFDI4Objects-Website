@@ -11,11 +11,11 @@ permalink: /en/trails/
 
 <section class="bg-sand-light-img">
     <header class="text-center">
-      <h2>Trails</h2>
+      <h2>TRAILs</h2>
     </header>
 
     <p>
-      Trails are research-driven projects that address specific challenges
+      TRAILs are research-driven projects that address specific challenges
       and questions in the field of research data management. They develop
       standards, tools, and best practices for different phases of the
       research data lifecycle.
