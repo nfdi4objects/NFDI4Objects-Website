@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Trails"
+title: "TRAILs"
 lang: de
 translation_key: trails_overview
 permalink: /trails/
