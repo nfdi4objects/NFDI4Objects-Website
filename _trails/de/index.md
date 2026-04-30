@@ -7,6 +7,12 @@ permalink: /trails/
 ---
 
 {% include page-header.html
+       icon="/assets/icons/portal/Trails.svg"
+       title="TRAILs"
+       subtitle="Trails sind forschungsgetriebene Projekte, die spezifische Herausforderungen und Fragestellungen im Bereich des Forschungsdatenmanagements adressieren. Sie entwickeln Standards, Werkzeuge und Best Practices für verschiedene Phasen des Forschungsdaten-Lebenszyklus."
+ %}
+
+{% include page-header.html
      title="1. Runde"
      class="focus-white"
      subtitle="Die TRAILs der ersten Runde"
@@ -16,17 +22,6 @@ permalink: /trails/
 {% assign trails = site.trails | where: "lang", lang | where: "round", "first" | where_exp: "item", "item.translation_key != 'trails_overview'" | sort: "start_date" | reverse %}
 
 <section class="bg-sand-light-img">
-    <header class="text-center">
-      <h2>TRAILs</h2>
-    </header>
-
-    <p>
-      Trails sind forschungsgetriebene Projekte, die spezifische Herausforderungen
-      und Fragestellungen im Bereich des Forschungsdatenmanagements adressieren.
-      Sie entwickeln Standards, Werkzeuge und Best Practices für verschiedene
-      Phasen des Forschungsdaten-Lebenszyklus.
-    </p>
-
     {% if trails.size > 0 %}
       <div class="grid-12 cols-3">
         {% for trail in trails %}
@@ -101,18 +96,6 @@ permalink: /trails/
 
 {% assign lang = page.lang | default: 'de' %}
 {% assign trails = site.trails | where: "lang", lang | where: "round", "second" | where_exp: "item", "item.translation_key != 'trails_overview'" | sort: "start_date" | reverse %}
-
-<section class="bg-sand-light-img">
-    <header class="text-center">
-      <h2>TRAILs</h2>
-    </header>
-
-    <p>
-      Trails sind forschungsgetriebene Projekte, die spezifische Herausforderungen
-      und Fragestellungen im Bereich des Forschungsdatenmanagements adressieren.
-      Sie entwickeln Standards, Werkzeuge und Best Practices für verschiedene
-      Phasen des Forschungsdaten-Lebenszyklus.
-    </p>
 
     {% if trails.size > 0 %}
       <div class="grid-12 cols-3">
