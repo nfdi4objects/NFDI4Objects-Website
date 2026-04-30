@@ -11,7 +11,7 @@ permalink: /trails/
 
 <section class="bg-sand-light-img">
     <header class="text-center">
-      <h2>Trails</h2>
+      <h2>TRAILs</h2>
     </header>
 
     <p>
