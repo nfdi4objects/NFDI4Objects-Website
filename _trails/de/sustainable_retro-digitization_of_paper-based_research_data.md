@@ -7,6 +7,7 @@ start_date: 2024-09-25 10:24:12.350000+00:00
 end_date: ''
 proposal_url: https://osf.io/3kyja
 type: n4o:Project
+round: second
 cochairs:
 - name: Markus Schmalzl
   person_ref: markusschmalzl

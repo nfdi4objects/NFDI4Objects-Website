@@ -8,6 +8,7 @@ start_date: 2024-09-25 08:09:32.543000+00:00
 end_date: ''
 proposal_url: https://osf.io/7a3pz
 type: n4o:Project
+round: first
 cochairs:
 - name: Matthias Renz
   person_ref: matthias_renz

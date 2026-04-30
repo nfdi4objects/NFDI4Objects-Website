@@ -8,6 +8,7 @@ start_date: 01.01.2026
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/38
 type: n4o:Project
+round: first
 cochairs:
 - name: Ulrich Himmelmann
   person_ref: ulrich_himmelmann

@@ -7,6 +7,7 @@ start_date: 2023-05-01 21:55:00+00:00
 end_date: 2024-05-31 21:55:00+00:00
 proposal_url: https://osf.io/qea4m
 type: n4o:Project
+round: second
 cochairs:
 - name: Alexandra Busch
   person_ref: alexandra_busch
