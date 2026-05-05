@@ -8,7 +8,7 @@ start_date: 01.01.2026
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/38
 type: n4o:Project
-round: first
+round: second
 cochairs:
 - name: Ulrich Himmelmann
   person_ref: ulrich_himmelmann
@@ -29,7 +29,6 @@ institutions:
 focus_areas: ''
 permalink: /trails/find-logbook-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds/
 ---
-
 ## Beschreibung
 
 Eine Vielzahl archäologischer Kleinfunde wird von Sondengänger:innen und Ehrenamtlichen gemeldet. Sie stellen wichtige Informationen für die gesetzlich verankerte Bodendenkmalpflege dar. Gleichzeitig handelt es sich dabei um eine bedeutsame, aber bislang zu wenig beachtete wissenschaftliche Quelle für die archäologische Forschung.

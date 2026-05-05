@@ -2,11 +2,10 @@
 layout: trail
 lang: en
 translation_key: find-logbook-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds
-title: 'Find Logbook: Provision of a Central Infrastructure for Recording Small rchaeological
-  finds'
+title: Find Logbook: Provision of a Central Infrastructure for Recording Small rchaeological finds
 start_date: 01.01.2026
 end_date: ''
-proposal_url: ''
+proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/38
 type: n4o:Project
 cochairs:
 - name: Ulrich Himmelmann

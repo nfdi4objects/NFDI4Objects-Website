@@ -18,7 +18,7 @@ permalink: /events/n4o_activity_20260630-Hackathon_RWTH_Aachen/
 
 **Ort:** Aachen, Seffenterweg 23 / Kopernikusstr. 6 (IT Center) 
 
-Die Arbeitsgrundlage für diesen Hackathon bildet die iDAI.bibliography mit rund 1,4 Millionen Einträgen. Alle Tools und Technologien sind willkommen - wenn die Arbeit dokumentiert und reproduzierbar ist.
+Die Arbeitsgrundlage für diesen Hackathon bildet die [iDAI.bibliography](https://zenon.dainst.org/) mit rund 1,4 Millionen Einträgen. Alle Tools und Technologien sind willkommen - wenn die Arbeit dokumentiert und reproduzierbar ist.
 
 ### Fokus des Hackathons: ####
 
@@ -30,9 +30,9 @@ Die Arbeitsgrundlage für diesen Hackathon bildet die iDAI.bibliography mit rund
 
 **Für Verpflegung ist gesorgt \| Eigener Laptop notwendig**
 
-### Weitere Informationen: https://www.dkz2r.de/events/2026-06-30_archaeoanalysis_hackathon/
+### Weitere Informationen: [https://www.dkz2r.de/events/2026-06-30_archaeoanalysis_hackathon/](https://www.dkz2r.de/events/2026-06-30_archaeoanalysis_hackathon/)
 
-### Anmeldung: https://fz-juelich.sciebo.de/apps/forms/s/nGZrMG4asH7LQjCXQtsiwyDE
+### Anmeldung: [https://fz-juelich.sciebo.de/apps/forms/s/nGZrMG4asH7LQjCXQtsiwyDE](https://fz-juelich.sciebo.de/apps/forms/s/nGZrMG4asH7LQjCXQtsiwyDE)
 
 <img src="/assets/images/724-1024.png"
      alt="Grafik mit Hinweisen zur Veranstaltung"

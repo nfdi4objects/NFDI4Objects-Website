@@ -30,9 +30,9 @@ The workingground for this Hackathon is the [**iDAI.bibliography**](https://zeno
 
 **Catering provided \| Bring your own device**
 
-### Further Information: https://www.dkz2r.de/events/2026-06-30_archaeoanalysis_hackathon/
+### Further Information: [https://www.dkz2r.de/events/2026-06-30_archaeoanalysis_hackathon/](https://www.dkz2r.de/events/2026-06-30_archaeoanalysis_hackathon/)
 
-### Registration: https://fz-juelich.sciebo.de/apps/forms/s/nGZrMG4asH7LQjCXQtsiwyDE
+### Registration: [https://fz-juelich.sciebo.de/apps/forms/s/nGZrMG4asH7LQjCXQtsiwyDE](https://fz-juelich.sciebo.de/apps/forms/s/nGZrMG4asH7LQjCXQtsiwyDE)
 
 <img src="/assets/images/724-1024.png"
      alt="Grafik mit Hinweisen zur Veranstaltung"
