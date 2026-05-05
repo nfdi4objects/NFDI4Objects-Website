@@ -7,7 +7,7 @@ start_date: 2024-09-25 09:17:01.042000+00:00
 end_date: ''
 proposal_url: https://osf.io/2ugkx
 type: n4o:Project
-round: second
+round: first
 cochairs:
 - name: Jörg Räther
   person_ref: jörgräther
