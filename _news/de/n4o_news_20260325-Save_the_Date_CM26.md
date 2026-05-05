@@ -22,6 +22,7 @@ Das vierte Community Meeting 2026 von NFDI4Objects findet **virtuell** statt! Di
 
 <img src="/assets/images/4 . Community Meeting.png"
      alt="Grafik mit dem vorläufigen Programm im NFDI4Objects Corporate Design"
-     style="width:50%; display:block; margin:auto;">
+     style="width:75%; display:block; margin:auto;">
 
-**Weitere Informationen folgen in Kürze – merkt euch den Termin schon jetzt vor!**
+
+ <p style="text-align:center; font-weight: bold">Weitere Informationen folgen in Kürze – merkt euch den Termin schon jetzt vor!</p> 
