@@ -20,4 +20,8 @@ permalink: /news/n4o_news_20260325-Save_the_Date_CM26/
 ---
 Das vierte Community Meeting 2026 von NFDI4Objects findet **virtuell** statt! Die Veranstaltung richtet sich an Einsteiger:innen und Interessierte und bietet spannende Einblicke in die Arbeit des Konsortiums. Freut euch auf interaktive Formate, Austauschmöglichkeiten und dezentrale Online-Workshops. 
 
-**Programm und Workshop-Termine folgen in Kürze – merkt euch den Termin schon jetzt vor!**
+<img src="/assets/images/4 . Community Meeting.png"
+     alt="Grafik mit dem vorläufigen Programm im NFDI4Objects Corporate Design"
+     style="width:50%; display:block; margin:auto;">
+
+**Weitere Informationen folgen in Kürze – merkt euch den Termin schon jetzt vor!**
