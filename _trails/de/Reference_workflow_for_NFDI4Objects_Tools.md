@@ -2,7 +2,7 @@
 layout: trail
 lang: de
 translation_key: 1.4_second_TRAILs
-title: Vom Feld in die Datenbank, Referenzworkflows für Einsatz und Integration der NFDI4Objects Tools 
+title: 'Vom Feld in die Datenbank: Referenzworkflows für Einsatz und Integration der NFDI4Objects Tools'
 start_date: 01.01.2026
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/30

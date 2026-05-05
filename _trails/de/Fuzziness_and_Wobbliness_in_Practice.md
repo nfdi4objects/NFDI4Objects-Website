@@ -2,7 +2,7 @@
 layout: trail
 lang: de
 translation_key: 2.8_second_TRAILs
-title: Fuzziness and Wobbliness in Practice: How to FAIRify Cultural Heritage Artefacts?
+title: 'Fuzziness and Wobbliness in Practice: How to FAIRify Cultural Heritage Artefacts?'
 start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/18

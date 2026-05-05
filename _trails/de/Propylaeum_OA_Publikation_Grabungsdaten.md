@@ -2,7 +2,7 @@
 layout: trail
 lang: de
 translation_key: propylaeum_second_TRAILs
-title: Archäologische Daten sichtbar machen, Open-Access-Publikation von Grabungsdaten bei Propylaeum
+title: 'Archäologische Daten sichtbar machen: Open-Access-Publikation von Grabungsdaten bei Propylaeum'
 start_date: 01.01.2026
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/28

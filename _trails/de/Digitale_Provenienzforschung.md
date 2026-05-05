@@ -2,7 +2,7 @@
 layout: trail
 lang: de
 translation_key: 2.4_second_TRAILs
-title: Digitale Provenienzforschung: Methoden, Konzepte und Normdaten zu Personennamen
+title: 'Digitale Provenienzforschung: Methoden, Konzepte und Normdaten zu Personennamen'
 start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/27
