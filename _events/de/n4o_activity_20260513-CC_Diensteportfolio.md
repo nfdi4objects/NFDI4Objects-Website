@@ -2,12 +2,12 @@
 layout: event
 lang: de
 translation_key: n4o_activity_20260513-CC_Diensteportfolio.md
-title: Clustertreffen des CC Diensteportfolio Management
+title: 'Clustertreffen des CC Diensteportfolio Management'
 excerpt: Einladung zum Treffen ab 15 Uhr
 date: 2026-05-07
 event_date: 2026-05-13
 location: online
-areas:
+areas: []
 trails: []
 ccs: 
 - cc_nfdi4objects_diensteportfolio_management
