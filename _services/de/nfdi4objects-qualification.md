@@ -9,7 +9,8 @@ homepage: ''
 access_url: ''
 areas:
 - ta6
-trails: []
+trails:
+- 4.6_second_TRAILs
 nfdi_category: training
 nfdi_service_types:
 - quas
