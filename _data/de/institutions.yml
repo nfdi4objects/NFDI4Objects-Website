@@ -353,6 +353,7 @@
 - id: klassik-stiftung-weimar
   name: Klassik Stiftung Weimar
   logo: assets/images/institutions/logo_KSW.png
+  url: https://www.klassik-stiftung.de/
   type: coapplicant
   short: KSW
 
@@ -361,6 +362,7 @@
   logo: https://www.hu-berlin.de/_assets/3434b65bcd82b8523edd2faff33a8c0c/Images/HU_Berlin_Logo_Siegel.svg
   url: https://www.hu-berlin.de/
   type: supporter
+  short: HU
 
 - id: digital-humanities-center-universität-thübingen
   name: ' Digital Humanities Center (Universität Tübingen)'

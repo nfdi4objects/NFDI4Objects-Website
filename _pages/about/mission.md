@@ -12,7 +12,7 @@ permalink: /about/mission/
 NFDI4Objects richtet sich an alle, die sich mit dem kulturellen Erbe von mehr als drei Millionen Jahren Menschheitsgeschichte beschäftigen und den digitalen Wandel dieses Erbes sowie den nachhaltigen Umgang mit Forschungsdaten aktiv mitgestalten wollen. Unser Ziel ist es, diese Daten im Sinne von Open Science langfristig zugänglich, nachvollziehbar und wissenschaftlich nutzbar zu machen. 
 
 {% include blocks/image-centered.html
-   image="/assets/images/content/e_2016-0100_08717.jpg"
+   image="/assets/images/e_2016-0100_08717.jpg"
    alt="Personen knien über einer Fundgrube indem sich ein Skelett befindet."
    caption="© Laura Bauer; © GDKE Landesarchäologie Speyer"
    width="600"
