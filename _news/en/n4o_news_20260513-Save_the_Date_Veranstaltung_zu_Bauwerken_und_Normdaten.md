@@ -1,6 +1,6 @@
 ---
 layout: news
-lang: de
+lang: en
 translation_key: n4o_news_20260513-Save_the_Date_Veranstaltung_zu_Bauwerksreferenz_und_Normdaten
 title: 'Save the date: Event on Building reference- and Norm Data'
 excerpt: at Hannover
