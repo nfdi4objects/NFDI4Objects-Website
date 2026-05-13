@@ -10,6 +10,7 @@
   logo: https://upload.wikimedia.org/wikipedia/commons/7/70/Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg_logo.svg
   url: https://www.cdi.fau.de/
   type: participant
+  short: FAU CDI
 
 - id: berlin-brandenburgische-akademie-der-wissenschaften
   name: Berlin-Brandenburgische Akademie der Wissenschaften
@@ -353,6 +354,7 @@
   name: Klassik Stiftung Weimar
   logo: assets/images/institutions/logo_KSW.png
   type: coapplicant
+  short: KSW
 
 - id: humboldt-universität-zu-berlin
   name: Humboldt-Universität zu Berlin
