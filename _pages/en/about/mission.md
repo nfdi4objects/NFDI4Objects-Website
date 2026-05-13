@@ -12,7 +12,7 @@ NFDI4Objects addresses everyone engaged with the cultural heritage of over three
 
 {% include blocks/image-centered.html
    image="/assets/images/e_2016-0100_08717.jpg"
-   alt="People are kneeling over a treasure trove containing a skeleton."
+   alt="Personen knien über einer Fundgrube indem sich ein Skelett befindet."
    caption="© Laura Bauer; © GDKE Landesarchäologie Speyer"
    width="600"
    class="img-center"
