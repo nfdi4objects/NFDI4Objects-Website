@@ -1,7 +1,7 @@
 ---
 layout: news
 lang: de
-translation_key: n4o_news_20260513-Save_the_Date_Veranstaltung_zu_Bauwerksreferenz_und_Normdaten
+translation_key: n4o_news_20260513-Save_the_Date_Veranstaltung_zu_Bauwerksreferenz_und_Normdaten.md
 title: 'Save the date: Veranstaltung zu Bauwerksreferenz- und Normdaten' 
 excerpt: in Hannover
 date: 13.05.2026

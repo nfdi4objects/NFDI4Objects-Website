@@ -2,7 +2,7 @@
 layout: news
 lang: en
 translation_key: n4o_news_20260430-WissKI_Anwendertreffen.md
-title: WissKI-
+title: WissKI- user meeting
 excerpt: on october 20/21, 2026 at Nürnberg
 date: 30.04.2026
 areas: []
