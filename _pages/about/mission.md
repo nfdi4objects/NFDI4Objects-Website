@@ -24,7 +24,7 @@ Wir arbeiten mit Forschenden, Studierenden, Entwickler:innen und Institutionen z
 Unsere Arbeit orientiert sich am gesamten Lebenszyklus eines Objekts – von der ersten Dokumentation und Bergung über seine wissenschaftliche Erschließung, Analyse und Restaurierung bis hin zu Speicherung, Veröffentlichung (Linked Open Data) und langfristiger Sicherung. Ebenso wichtig ist die Vermittlung von Datenkompetenz, damit diese Prozesse von allen Beteiligten eigenständig und nachhaltig gestaltet werden können. Dabei beziehen wir die Perspektiven und Bedarfe unserer Community kontinuierlich ein. 
 
 {% include blocks/image-text-grid.html
-   image="/assets/images/content/Bild_beprobung1.jpg""
+   image="/assets/images/bild-beprobung1.jpg"
    alt="Beprobung einer Münzimitation des 3. Jhs. n. Chr. im Rahmen eines Heidelberger Forschungsprojekts"
    caption="© Seminar für Alte Geschichte und Epigraphik, Universität Heidelberg CC-BY-SA 4.0"
    text= 

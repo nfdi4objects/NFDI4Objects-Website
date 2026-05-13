@@ -23,7 +23,7 @@ We collaborate with researchers, students, developers, and institutions involved
 Our work is oriented toward the entire lifecycle of an object—from initial documentation and recovery to scientific analysis, restoration, storage, publication (Linked Open Data), and long-term preservation. Equally important is the promotion of data literacy, enabling all stakeholders to independently and sustainably manage these processes. We continuously incorporate the perspectives and needs of our community.
 
 {% include blocks/image-text-grid.html
-   image="/assets/images/content/Bild_beprobung1.jpg""
+   image="/assets/images/bild-beprobung1.jpg"
    alt="Analysis of a 3rd-century AD coin imitation as part of a Heidelberg research project"
    caption="© Department of Ancient History and Epigraphy, University Heidelberg CC-BY-SA 4.0"
    text= 
