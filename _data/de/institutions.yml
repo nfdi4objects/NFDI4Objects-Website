@@ -10,6 +10,7 @@
   logo: https://upload.wikimedia.org/wikipedia/commons/7/70/Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg_logo.svg
   url: https://www.cdi.fau.de/
   type: participant
+  short: FAU CDI
 
 - id: berlin-brandenburgische-akademie-der-wissenschaften
   name: Berlin-Brandenburgische Akademie der Wissenschaften
@@ -352,13 +353,16 @@
 - id: klassik-stiftung-weimar
   name: Klassik Stiftung Weimar
   logo: assets/images/institutions/logo_KSW.png
+  url: https://www.klassik-stiftung.de/
   type: coapplicant
+  short: KSW
 
 - id: humboldt-universität-zu-berlin
   name: Humboldt-Universität zu Berlin
   logo: https://www.hu-berlin.de/_assets/3434b65bcd82b8523edd2faff33a8c0c/Images/HU_Berlin_Logo_Siegel.svg
   url: https://www.hu-berlin.de/
   type: supporter
+  short: HU
 
 - id: digital-humanities-center-universität-thübingen
   name: ' Digital Humanities Center (Universität Tübingen)'

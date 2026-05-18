@@ -14,9 +14,9 @@ cochairs:
 - name: Sarah Wagner
   person_ref: sarahwagner
 areas:
-- ta2
-- ta1
 - ta6
+- ta1
+- ta2
 - ta4
 institutions:
 - klassik-stiftung-weimar
@@ -24,7 +24,6 @@ institutions:
 - leiza
 - stiftung-preußischer-kulturbesitz
 - berlin-brandenburgische-akademie-der-wissenschaften
-- akademie-der-wissenschaften-und-der-literatur-mainz
 - museum-fuer-naturkunde-leibniz-institut-fuer-evolutions-und-biodiversitaetsforschung
 - humboldt-universität-zu-berlin
 
