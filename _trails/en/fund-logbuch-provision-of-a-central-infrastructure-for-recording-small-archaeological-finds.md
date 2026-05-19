@@ -1,8 +1,8 @@
 ---
 layout: trail
 lang: en
-translation_key: find-logbook-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds
-title: 'Find Logbook: Providing a Centralized Infrastructure for Recording Small rchaeological finds'
+translation_key: fund-logbuch-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds
+title: 'Fund-Logbuch: Providing a Centralized Infrastructure for Recording Small rchaeological finds'
 start_date: 01.01.2026
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/38
@@ -26,7 +26,7 @@ institutions:
 - verbundzentrale-des-gbv
 - landesamt-für-denkmalpflege-und-archäologie-sachsen-anhalt-–-landesmuseum-für-vorgeschichte
 focus_areas: ''
-permalink: /en/trails/find-logbook-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds/
+permalink: /en/trails/fund-logbuch-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds/
 ---
 
 ## Description
