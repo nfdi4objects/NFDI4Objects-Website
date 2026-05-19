@@ -2,8 +2,7 @@
 layout: service
 lang: en
 translation_key: schnittstellen-zum-austausch-von-denkmal-und-restaurierungsbezogenen-daten
-title: Definition of interfaces for data exchange between governmental and university
-  systems including citizen science/volunteers’ data
+title: Interfaces for the exchange of heritage-related data
 short_title: ''
 logo: /assets/images/services/logo_schnittstelle_500px.png
 homepage: ''
@@ -11,7 +10,7 @@ access_url: ''
 areas:
 - ta4
 trails:
-- development_of_an_interface_for_sites_monument_restoration_and_conservation_data
+- 4.7_second_TRAILs
 nfdi_category: libraries
 nfdi_service_types:
 - ints
@@ -20,12 +19,12 @@ permalink: /en/services/schnittstellen-zum-austausch-von-denkmal-und-restaurieru
 
 ## Description
 
-Task Area 4 creates opportunities to FAIRify the heterogeneous and decentralised research data landscape that arises in the context of protective measures on movable and immovable tangible cultural heritage, and to provide interoperable data.
+[ ] NFDI4Objects creates opportunities to make the heterogeneous and decentralized research data landscape - which arises in the context of conservation measures for movable and immovable tangible cultural heritage - FAIR and to provide interoperable data.
 
-To this end, technical exchange interfaces and formats are being developed that can be used to exchange research data across repositories (e.g. collection databases, web portals, topic-related specialist databases). This includes data on cultural monuments, protected areas, citizen science activities, heritage preservation measures in specific areas, restoration/conservation science, etc.
+To this end, interfaces and community standards are being developed, based in part on the ADeX standard of the Association of the State Archaeologists of the Federal Republic of Germany, which enable the exchange of research data across repositories (e.g., collection databases, web portals, and subject-specific databases). They define core and optional data fields, their types, and contents to enable interoperability and automated data exchange between systems.
 
-In this way, data from a wide range of data holders can be made interoperable for research, official use and collaboration with archaeological companies in a way that is easier to find, reuse and access.
+In this way, data from different data holders can be made more discoverable, reusable, and accessible in an interoperable manner for research, official use, and collaboration with specialized archaeological firms.
 
-The definition of multi-level access rights will ensure that data holders can protect their interests and rights in a differentiated way.
+The definition of access levels will ensure that data holders can protect their interests and rights in a differentiated manner.
 
-In addition, an interface should also cover legal consequences, such as those arising from the different heritage protection laws in the federal states.
+Furthermore, an interface should also address legal implications, such as those arising from the various state laws on the protection of cultural heritage.
