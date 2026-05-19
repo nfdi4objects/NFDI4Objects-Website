@@ -4,7 +4,7 @@ lang: en
 translation_key: conservation-data-framework
 title: Conservation Data Framework
 short_title: ''
-logo: https://seafile.rlp.net/f/6eb59f5ec1174f9386ea/
+logo: \assets\images\CDF_logo.png
 homepage: 
 access_url: https://nfdi4objects.github.io/n4o_conservation_data_framework/
 areas:

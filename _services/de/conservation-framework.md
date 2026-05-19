@@ -4,7 +4,7 @@ lang: de
 translation_key: conservation-data-framework
 title: Conservation Data Framework
 short_title: ''
-logo: https://seafile.rlp.net/f/6eb59f5ec1174f9386ea/
+logo: \assets\images\CDF_logo.png
 homepage: 
 access_url: https://nfdi4objects.github.io/n4o_conservation_data_framework/
 areas:
@@ -20,7 +20,7 @@ permalink: /services/conservation-data-framework/
 
 ## Beschreibung
 
-[ ] Das Conservation Data Framework (kurz: CDF) ist ein offenes Referenzrahmenwerk für die standardisierte Datenerfassung und -kuratierung konservatorisch-restauratorischer Daten. Es verbindet ein Metadatenschema mit einem kontrollierten Metadatenvokabular und einer formalen Anwendungs-Ontologie. Diese überführt die konservatorischen Prozesse, Materialien, Methoden und Akteur:innen in ein konsistentes semantisches Modell. Als flexibel anpassbares Grundgerüst unterstützt das Conservation Data Framework Fachwissenschaftler:innen dabei, ihre Daten langfristig nutzbar, interoperabel und zitierfähig zu machen.
+Das Conservation Data Framework (kurz: CDF) ist ein offenes Referenzrahmenwerk für die standardisierte Datenerfassung und -kuratierung konservatorisch-restauratorischer Daten. Es verbindet ein Metadatenschema mit einem kontrollierten Metadatenvokabular und einer formalen Anwendungs-Ontologie. Diese überführt die konservatorischen Prozesse, Materialien, Methoden und Akteur:innen in ein konsistentes semantisches Modell. Als flexibel anpassbares Grundgerüst unterstützt das Conservation Data Framework Fachwissenschaftler:innen dabei, ihre Daten langfristig nutzbar, interoperabel und zitierfähig zu machen.
 
 Der Referenzrahmen unterstützt die Modellierung unterschiedlicher konservatorischer Informationsarten unabhängig vom Fachbereich (Archäologie, Gemälde, Textil, Baudenkmalpflegen/Architektur, Leder, etc.), darunter Zustandsbeschreibungen, analytische Untersuchungen, Maßnahmenprotokolle, Material- und Werkzeugangaben sowie Entscheidungsprozesse. Diese Informationen liegen in der Praxis häufig fragmentiert in Freitextberichten, Tabellen oder proprietären Dateien vor. Das Conservation Data Framework bietet ein gemeinsames Bezugssystem, mit welchem solche Daten systematisch strukturiert, eindeutig referenziert und miteinander verknüpfbar werden können. Technisch basiert das Framework auf offenen Standards und etablierten Repräsentationsformaten des Semantic Web.
 
