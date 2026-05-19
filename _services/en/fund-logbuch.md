@@ -2,7 +2,7 @@
 layout: service
 lang: en
 translation_key: fund-logbuch
-title: Fund-Logbuch: Infrastructure for Recording Small Archaeological Findings
+title: 'Fund-Logbuch: Infrastructure for Recording Small Archaeological Findings'
 short_title: ''
 logo: /assets/images/services/fundlogbuch_logo_500px.png
 homepage: ''
@@ -16,7 +16,7 @@ nfdi_category: tools_applications
 nfdi_service_types:
 - ints
 - dis
-permalink: /en/services/fund-logbuch/
+permalink: en/services/fund-logbuch/
 ---
 
 ## Description
