@@ -13,9 +13,9 @@ permalink: /trails/
  %}
 
 {% include page-header.html
-     title="1. Runde"
+     title="2. Runde"
      class="focus-white"
-     subtitle="Die TRAILs der ersten Runde"
+     subtitle="Die TRAILs der zweiten Runde"
 %}
 
 {% assign lang = page.lang | default: 'de' %}
@@ -89,9 +89,9 @@ permalink: /trails/
 </section>
 
 {% include page-header.html
-     title="2. Runde"
+     title="1. Runde"
      class="focus-white"
-     subtitle="Die TRAILs der zweiten Runde"
+     subtitle="Die TRAILs der ersten Runde"
 %}
 
 {% assign lang = page.lang | default: 'de' %}
