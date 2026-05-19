@@ -33,7 +33,7 @@ Besonders möchten wir Sie auf den Programmpunkt: *Das Zukunftspotenzial der GND
 
 **Anmeldung:** [https://events.gwdg.de/event/1407/registrations/1200/](https://events.gwdg.de/event/1407/registrations/1200/)
 
-**Weitere Informationen:** [https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html](https://gnd.network/Webs/gnd/SharedDocs/Veranstaltungen/DE/GndForumHumanities/20260623_gndForumHumanities_node.html)
+**Programm und weitere Informationen:** [https://events.gwdg.de/event/1407/](https://events.gwdg.de/event/1407/)
 
 <img src="/assets/images/1024-1024.png"
      alt="Grafik der Humanities in der NFDI"
