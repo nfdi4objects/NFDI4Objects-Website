@@ -12,9 +12,9 @@ permalink: /about/mission/
 NFDI4Objects richtet sich an alle, die sich mit dem kulturellen Erbe von mehr als drei Millionen Jahren Menschheitsgeschichte beschäftigen und den digitalen Wandel dieses Erbes sowie den nachhaltigen Umgang mit Forschungsdaten aktiv mitgestalten wollen. Unser Ziel ist es, diese Daten im Sinne von Open Science langfristig zugänglich, nachvollziehbar und wissenschaftlich nutzbar zu machen. 
 
 {% include blocks/image-centered.html
-   image="/assets/images/content/Seepferdchen_Sammlungseingang_Foto_K.jpg"
-   alt="Seepferdchen wird im Sammlungseingang vermerkt"
-   caption="© Kay Fuhrmann, Landesmuseum Natur und Mensch Oldenburg"
+   image="/assets/images/e_2016-0100_08717.jpg"
+   alt="Personen knien über einer Fundgrube indem sich ein Skelett befindet."
+   caption="© Laura Bauer; © GDKE Landesarchäologie Speyer"
    width="600"
    class="img-center"
 %}
@@ -23,9 +23,17 @@ Wir arbeiten mit Forschenden, Studierenden, Entwickler:innen und Institutionen z
 
 Unsere Arbeit orientiert sich am gesamten Lebenszyklus eines Objekts – von der ersten Dokumentation und Bergung über seine wissenschaftliche Erschließung, Analyse und Restaurierung bis hin zu Speicherung, Veröffentlichung (Linked Open Data) und langfristiger Sicherung. Ebenso wichtig ist die Vermittlung von Datenkompetenz, damit diese Prozesse von allen Beteiligten eigenständig und nachhaltig gestaltet werden können. Dabei beziehen wir die Perspektiven und Bedarfe unserer Community kontinuierlich ein. 
 
-Auf dieser Grundlage entsteht gemeinsam mit unseren Partnerinstitutionen eine nationale Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheit. Dazu entwickeln wir unter anderem Plattformen für freie Softwareanwendungen und digitale Archive, erarbeiten Konzepte zu normierten Datensätzen und erstellen Handreichungen für eine langfristige und nachhaltige Datenspeicherung. Die Ergebnisse dieser Arbeit stellen wir der Community in Form von [Commons](https://commons.nfdi4objects.net/) und vielfältigen Diensten zur Verfügung. 
-
-So trägt NFDI4Objects dazu bei, dass Forschungsdaten zum materiellen Erbe nicht nur bewahrt, sondern heute und in Zukunft aktiv genutzt, vernetzt und weiterentwickelt werden können. 
+{% include blocks/image-text-grid.html
+   image="/assets/images/bild-beprobung1.jpg"
+   alt="Beprobung einer Münzimitation des 3. Jhs. n. Chr. im Rahmen eines Heidelberger Forschungsprojekts"
+   caption="© Seminar für Alte Geschichte und Epigraphik, Universität Heidelberg CC-BY-SA 4.0"
+   text= 
+   "Auf dieser Grundlage entsteht gemeinsam mit unseren Partnerinstitutionen eine nationale Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheit. Dazu entwickeln wir unter anderem Plattformen für freie Softwareanwendungen und digitale Archive, erarbeiten Konzepte zu normierten Datensätzen und erstellen Handreichungen für eine langfristige und nachhaltige Datenspeicherung. Die Ergebnisse dieser Arbeit stellen wir der Community in Form von [Commons](https://commons.nfdi4objects.net/) und vielfältigen Diensten zur Verfügung. 
+   
+   So trägt NFDI4Objects dazu bei, dass Forschungsdaten zum materiellen Erbe nicht nur bewahrt, sondern heute und in Zukunft aktiv genutzt, vernetzt und weiterentwickelt werden können. "
+   image_order="2"
+   text_order="1"
+%}
 
 ## NFDI4Objects in der Nationalen Forschungsdateninfrastruktur (NFDI)
 

@@ -11,9 +11,9 @@ permalink: /en/about/mission/
 NFDI4Objects addresses everyone engaged with the cultural heritage of over three million years of human history, seeking to actively shape the digital transformation of this heritage and the sustainable management of research data. Our goal is to make these data available, traceable, and scientifically usable in the long term, in the spirit of Open Science.
 
 {% include blocks/image-centered.html
-   image="/assets/images/content/Seepferdchen_Sammlungseingang_Foto_K.jpg"
-   alt="A seahorse is recorded in the collection intake"
-   caption="© Kay Fuhrmann, Landesmuseum Natur und Mensch Oldenburg"
+   image="/assets/images/e_2016-0100_08717.jpg"
+   alt="Personen knien über einer Fundgrube indem sich ein Skelett befindet."
+   caption="© Laura Bauer; © GDKE Landesarchäologie Speyer"
    width="600"
    class="img-center"
 %}
@@ -22,10 +22,17 @@ We collaborate with researchers, students, developers, and institutions involved
 
 Our work is oriented toward the entire lifecycle of an object—from initial documentation and recovery to scientific analysis, restoration, storage, publication (Linked Open Data), and long-term preservation. Equally important is the promotion of data literacy, enabling all stakeholders to independently and sustainably manage these processes. We continuously incorporate the perspectives and needs of our community.
 
-In collaboration with our partner institutions, we are building a national research data infrastructure for the material legacy of humanity. This includes developing platforms for free software applications and digital archives, creating concepts for standardized datasets, and producing guidelines for long-term, sustainable data storage. We make the results of this work available to the community through [Commons](https://commons.nfdi4objects.net/) and a variety of services.
-
-Thus, NFDI4Objects contributes to ensuring that research data on material heritage are not only preserved but can also be actively used, networked, and further developed today and in the future.
-
+{% include blocks/image-text-grid.html
+   image="/assets/images/bild-beprobung1.jpg"
+   alt="Analysis of a 3rd-century AD coin imitation as part of a Heidelberg research project"
+   caption="© Department of Ancient History and Epigraphy, University Heidelberg CC-BY-SA 4.0"
+   text= 
+   "In collaboration with our partner institutions, we are building a national research data infrastructure for the material legacy of humanity. This includes developing platforms for free software applications and digital archives, creating concepts for standardized datasets, and producing guidelines for long-term, sustainable data storage. We make the results of this work available to the community through [Commons](https://commons.nfdi4objects.net/) and a variety of services.
+   
+   Thus, NFDI4Objects contributes to ensuring that research data on material heritage are not only preserved but can also be actively used, networked, and further developed today and in the future."
+   image_order="2"
+   text_order="1"
+%}
 ---
 
 ## NFDI4Objects within the National Research Data Infrastructure (NFDI)

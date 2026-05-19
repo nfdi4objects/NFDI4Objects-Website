@@ -4,7 +4,7 @@ lang: de
 translation_key: implementing_mapping_processes_for_site_and_object_protection_related_vocabularies
 title: Einführung von Zuordnungsprozessen für standort- und objektschutzbezogene Vokabulare
 start_date: 2024-09-25 10:19:19.769000+00:00
-end_date: ''
+end_date: 2026-12-31
 proposal_url: https://osf.io/uk8hb
 type: n4o:Project
 round: first
@@ -31,3 +31,5 @@ permalink: /trails/implementing_mapping_processes_for_site_and_object_protection
 ## Beschreibung
 
 Ziel des TRAILs ist die inhaltliche, fachübergreifende Verknüpfung von Thesauri durch semantic relations, ein Netzwerk von Fachontologien der Archäologie, Kulturlandschaft, Kulturgeschichte und -anthropologie, Restaurierung/ Konservierung, Bauforschung, Bau- und Architekturgeschichte, Denkmalpflege sowie Kunstgeschichte zu entwickeln. Dazu werden zwei Software Application Services (SAS), DANTE und Cocoda, eingesetzt.
+
+Dieser TRAIL wurde im Laufe des Projekts angepasst und in den TRAIL [„FAIRifizierung und Mapping kontrollierter Fachvokabulare für die Pflege und den Erhalt des kulturellen Erbes“](https://www.nfdi4objects.net/trails/4.2_second_TRAILs/) der zweiten Runde überführt. 

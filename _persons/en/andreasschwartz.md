@@ -9,5 +9,5 @@ groups:
 institution: fiz-karlsruhe-leibniz-institut-fuer-informationsinfrastruktur
 orcid: ''
 areas: []
-permalink: /en/persons/andreasschwartzn/
+permalink: /en/persons/andreasschwartz/
 ---

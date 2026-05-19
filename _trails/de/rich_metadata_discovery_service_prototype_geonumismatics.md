@@ -7,7 +7,7 @@ start_date: 2024-09-25 09:21:31.179000+00:00
 end_date: ''
 proposal_url: https://osf.io/xpnz2
 type: n4o:Project
-round: second
+round: first
 cochairs:
 - name: Gerald Steilen
   person_ref: geraldsteilen
