@@ -31,6 +31,10 @@ cards:
     icon: "/assets/icons/dienste/Dienste-Icons-02.svg"
     url: "/services/cocoda/"
     description: "<strong>Konkordanz-Tool</strong> für das Mapping zwischen verschiedenen kontrollierten Vokabularen und Klassifikationssystemen."
+  - title: "FAIRifizierungsanwendung"
+    icon: "/assets/images/services/fairification-tool.png"
+    url: "/services/fairifizierungsanwendung-für-konservierungs-und-restaurierungsprozesse/"
+    description: "Werkzeug zur <strong>Aufbereitung von Konservierungs- und Restaurierungsprozessen</strong> nach den FAIR-Prinzipien."
 ---
 
 {% include page-header.html

@@ -10,7 +10,7 @@ access_url: ''
 areas:
 - ta4
 trails:
-- implementing_mapping_processes_for_site_and_object_protection_related_vocabularies
+- 4.7_second_TRAILs
 nfdi_category: databases
 nfdi_service_types:
 - avs

@@ -37,6 +37,10 @@ cards:
     icon: "/assets/icons/dienste/Dienste-Icons-04.svg"
     url: "https://vokabulare.geschichte.uni-halle.de/"
     description: "Platform for <strong>historical vocabularies</strong> and their use in research."
+  - title: "Conservation and Restoration Thesaurus"
+    icon: "/assets/images/services/thesaurus-logo.png"
+    url: "/en/services/leiza-konservierungs-und-restaurierungsfachthesaurus-für-archäologische-kulturgüter/"
+    description: "<strong>Standardized vocabulary</strong> for conservation and restoration of archaeological cultural heritage."
 ---
 
 {% include page-header.html
