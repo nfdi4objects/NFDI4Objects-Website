@@ -5,7 +5,7 @@ translation_key: development_of_an_interface_for_sites_monument_restoration_and_
 title: Entwicklung einer Schnittstelle für Fundstellen, Denkmal- sowie Restaurierungs-
   und Konservierungsdaten
 start_date: 2024-09-25 10:20:08.171000+00:00
-end_date: ''
+end_date: 2025-12_31
 proposal_url: https://osf.io/t6qgf
 type: n4o:Project
 round: first
@@ -30,3 +30,5 @@ permalink: /trails/development_of_an_interface_for_sites_monument_restoration_an
 ## Beschreibung
 
 Ziel ist es, den enormen Bestand an heterogenen in länder- bzw. institutionsspezifischen Systemen gehaltenen Bestände an denkmalbezogenen Daten in Zukunft besser erschließbar und suchbar zu machen. Dafür wird ein Standard / eine Schnittstelle zur Ansprache von Denkmälern und Fundstellen sowie Restaurierungs- und Konservierungsdaten entwickelt. Dabei wird ein White- bzw. Bluepaper zur Definition eines solchen Standards für eine nachfolgende Fortschreibung durch die Fachcommunity im Rahmen der Konsortialarbeit entstehen.
+
+Dieser TRAIL wurde im Laufe des Projekts angepasst und in die TRAILs [„Entwicklung von Schnittstellen für Kulturerbeobjekte, Maßnahmen, Schutzflächen und Citizen-Science-Daten“](https://www.nfdi4objects.net/trails/development_of_an_interface_for_sites_monument_restoration_and_conservation_data/4.1) sowie ["Datenstandards für den interdisziplinären Austausch in der Konservierung-Restaurierung"](https://www.nfdi4objects.net/trails/4.7_second_TRAILs/) der zweiten Runde überführt. 

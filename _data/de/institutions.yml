@@ -152,6 +152,7 @@
 - id: mommsen-gesellschaft
   name: Mommsen-Gesellschaft
   logo: https://mommsen-gesellschaft.de/wp-content/uploads/2025/08/mg-header-logo-768x163.png
+  url: https://mommsen-gesellschaft.de/
   type: supporter
 
 - id: aegyptisches-museum-georg-steindorff-universitaet-leipzig
@@ -399,6 +400,7 @@
 - id: universität-bonn
   name: Universität Bonn
   logo: assets/images/institutions/logo_uni_Bonn.png
+  url: https://www.uni-bonn.de/de
   type: coapplicant
   short: UBN
 
