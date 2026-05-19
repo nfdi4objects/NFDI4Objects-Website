@@ -5,7 +5,7 @@ translation_key: development_of_an_interface_for_sites_monument_restoration_and_
 title: Entwicklung einer Schnittstelle für Fundstellen, Denkmal- sowie Restaurierungs-
   und Konservierungsdaten
 start_date: 2024-09-25 10:20:08.171000+00:00
-end_date: 2025-12_31
+end_date: 2025-12-31
 proposal_url: https://osf.io/t6qgf
 type: n4o:Project
 round: first
