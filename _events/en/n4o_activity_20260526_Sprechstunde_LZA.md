@@ -1,7 +1,7 @@
 ---
 layout: event
 lang: en
-translation_key: n4o_activity_20260630-Hackathon_RWTH_Aachen.md
+translation_key: n4o_activity_20260526_Sprechstunde_LZA.md
 title: 'Consultation on Long-Term Archiving'
 excerpt: 'at NFDI4Objects'
 date: 2026-04-29
@@ -11,7 +11,7 @@ areas:
 trails: []
 ccs: 
 twgs: []
-permalink: en/events/n4o_activity_20260630-Hackathon_RWTH_Aachen/
+permalink: en/events/n4o_activity_20260526_Sprechstunde_LZA/
 ---
 NFDI4Objects has recently started offering regular consultation hours on long-term archiving. These take place on the last Tuesday of every month and can also be scheduled individually as needed.
 

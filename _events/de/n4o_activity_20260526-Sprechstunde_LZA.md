@@ -1,7 +1,7 @@
 ---
 layout: event
 lang: de
-translation_key: n4o_activity_20260630-Hackathon_RWTH_Aachen.md
+translation_key: n4o_activity_20260526_Sprechstunde_LZA.md
 title: 'Sprechstunde zur Langzeitarchivierung'
 excerpt: 'bei NFDI4Objects'
 date: 2026-04-29
@@ -11,7 +11,7 @@ areas:
 trails: []
 ccs: 
 twgs: []
-permalink: /events/n4o_activity_20260630-Hackathon_RWTH_Aachen/
+permalink: /events/n4o_activity_20260526_Sprechstunde_LZA/
 ---
 NFDI4Objects bietet seit kurzem eine regelmäßige Sprechstunde zur Langzeitarchivierung an. Diese findet jeden letzten Dienstag im Monat statt und kann bei Bedarf zusätzlich nach individueller Vereinbarung wahrgenommen werden.
 
