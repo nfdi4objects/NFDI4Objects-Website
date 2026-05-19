@@ -19,7 +19,7 @@ permalink: /trails/
 %}
 
 {% assign lang = page.lang | default: 'de' %}
-{% assign trails = site.trails | where: "lang", lang | where: "round", "first" | where_exp: "item", "item.translation_key != 'trails_overview'" | sort: "start_date" | reverse %}
+{% assign trails = site.trails | where: "lang", lang | where: "round", "second" | where_exp: "item", "item.translation_key != 'trails_overview'" | sort: "start_date" | reverse %}
 
 <section class="bg-sand-light-img">
     {% if trails.size > 0 %}
@@ -95,7 +95,7 @@ permalink: /trails/
 %}
 
 {% assign lang = page.lang | default: 'de' %}
-{% assign trails = site.trails | where: "lang", lang | where: "round", "second" | where_exp: "item", "item.translation_key != 'trails_overview'" | sort: "start_date" | reverse %}
+{% assign trails = site.trails | where: "lang", lang | where: "round", "first" | where_exp: "item", "item.translation_key != 'trails_overview'" | sort: "start_date" | reverse %}
 
 <section class="bg-sand-light-img">
     {% if trails.size > 0 %}
