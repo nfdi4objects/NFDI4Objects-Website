@@ -9,7 +9,7 @@ areas: []
 trails: []
 ccs: []
 twgs: []
-permalink: en/news/n4o_news_20260519-Sprechstunde_MDS/
+permalink: en/news/n4o_news_20260519-CRMarcheo/
 ---
 The June edition of the “KultDig” lunch will also be held in collaboration with the CAA on May 29, 2026, from 12:00 to 1:30 p.m.
 
