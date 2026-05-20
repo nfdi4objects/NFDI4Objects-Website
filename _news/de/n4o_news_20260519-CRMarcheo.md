@@ -3,7 +3,7 @@ layout: news
 lang: de
 translation_key: n4o_news_20260519-CRMarcheo
 title: 'CRMarchaeo - Eine Einführung' 
-excerpt: '“KultDig”-Lunch am 29.05.2026, 12:00 - 13:30'
+excerpt: '“KultDig”-Lunch am 29.05.2026, 12:00 - 13:30 Uhr'
 date: 19.05.2026
 areas: []
 trails: []
