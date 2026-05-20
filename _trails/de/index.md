@@ -13,13 +13,13 @@ permalink: /trails/
  %}
 
 {% include page-header.html
-     title="1. Runde"
+     title="2. Runde"
      class="focus-white"
-     subtitle="Die TRAILs der ersten Runde"
+     subtitle="Die TRAILs der zweiten Runde"
 %}
 
 {% assign lang = page.lang | default: 'de' %}
-{% assign trails = site.trails | where: "lang", lang | where: "round", "first" | where_exp: "item", "item.translation_key != 'trails_overview'" | sort: "start_date" | reverse %}
+{% assign trails = site.trails | where: "lang", lang | where: "round", "second" | where_exp: "item", "item.translation_key != 'trails_overview'" | sort: "start_date" | reverse %}
 
 <section class="bg-sand-light-img">
     {% if trails.size > 0 %}
@@ -89,13 +89,13 @@ permalink: /trails/
 </section>
 
 {% include page-header.html
-     title="2. Runde"
+     title="1. Runde"
      class="focus-white"
-     subtitle="Die TRAILs der zweiten Runde"
+     subtitle="Die TRAILs der ersten Runde"
 %}
 
 {% assign lang = page.lang | default: 'de' %}
-{% assign trails = site.trails | where: "lang", lang | where: "round", "second" | where_exp: "item", "item.translation_key != 'trails_overview'" | sort: "start_date" | reverse %}
+{% assign trails = site.trails | where: "lang", lang | where: "round", "first" | where_exp: "item", "item.translation_key != 'trails_overview'" | sort: "start_date" | reverse %}
 
 <section class="bg-sand-light-img">
     {% if trails.size > 0 %}

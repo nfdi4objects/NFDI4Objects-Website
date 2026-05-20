@@ -281,7 +281,7 @@
 - id: computer-anwendungen-&-quantitative-methoden-in-der-archaeologie-sektion-deutschland
   name: Computer Anwendungen & Quantitative Methoden in der Archäologie German Chapter
   logo: assets/images/institutions/caa_germany-black.png
-  url: 
+  url: https://ag-caa.de/die-ag-caa/
   type: participant
   short: CAA-DE
 
@@ -301,6 +301,7 @@
 - id: universität-münster
   name: University of Münster
   logo: https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_Universit%C3%A4t_M%C3%BCnster.svg
+  url: https://www.uni-muenster.de/en/
   type: supporter
 
 - id: staatliche-archive-bayern

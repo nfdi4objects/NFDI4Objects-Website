@@ -1,7 +1,7 @@
 ---
 layout: trail
 lang: de
-translation_key: find-logbook-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds
+translation_key: fund-logbuch-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds
 title: 'Fund-Logbuch: Bereitstellung einer zentralen Infrastruktur zur Erfassung archäologischer
   Kleinfunde'
 start_date: 01.01.2026
@@ -29,7 +29,7 @@ institutions:
 - landesamt-für-denkmalpflege-und-archäologie-sachsen-anhalt-–-landesmuseum-für-vorgeschichte
 
 focus_areas: ''
-permalink: /trails/find-logbook-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds/
+permalink: /trails/fund-logbuch-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds/
 ---
 ## Beschreibung
 
