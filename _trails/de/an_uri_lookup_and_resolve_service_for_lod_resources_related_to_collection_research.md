@@ -3,7 +3,7 @@ layout: trail
 lang: de
 translation_key: an_uri_lookup_and_resolve_service_for_lod_resources_related_to_collection_research
 title: An URI lookup and resolve service for LOD resources related to collection research
-start_date: 01.01.2023
+start_date: 2023-01-01
 end_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.5849671
 type: n4o:Project
