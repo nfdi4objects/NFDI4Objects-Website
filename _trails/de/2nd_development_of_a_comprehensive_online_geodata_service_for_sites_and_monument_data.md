@@ -3,7 +3,7 @@ layout: trail
 lang: de
 translation_key: 4.3_second_TRAILs
 title: Entwicklung übergreifender Online-Geodatendienste für Fundstellen und Denkmaldaten
-start_date: 01.01.2026
+start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/37
 type: n4o:Project
