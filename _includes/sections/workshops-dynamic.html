@@ -1,5 +1,5 @@
 {% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
-{% assign filtered = site.events | where: "event_type", "Forum" | where: "lang", include.lang | sort: "event_date" | reverse %}
+{% assign filtered = site.events | where: "lang", include.lang | where: "event_type", "Forum" | sort: "event_date" | reverse %}
 
 {% if filtered.size == 0 %}
   <p class="no-events">
