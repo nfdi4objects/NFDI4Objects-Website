@@ -1,6 +1,6 @@
 ---
 layout: n4o-base
-title: "Veranstaltungen"
+title: "Workshops"
 lang: de
 permalink: /events/workshops/
 translation_key: events-workshops
@@ -8,8 +8,8 @@ translation_key: events-workshops
 
 <main id="main-content" class="bg-sand event-overview">
   <div class="container">
-    {% include breadcrumb.html event_type="Forum" %}
+    {% include breadcrumb.html %}
   </div>
 
-  {% include sections/events-dynamic.html lang="de"%}
+  {% include sections/workshops-dynamic.html lang="de"%}
 </main>
