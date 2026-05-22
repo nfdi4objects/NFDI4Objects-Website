@@ -1,12 +1,12 @@
 ---
 layout: event
-lang: en
+lang: de
 translation_key: n4o_activity_20260612-N4O_Community_Meeting_2026
 title:  4. Community Meeting von NFDI4Objects
 excerpt: online 10:00 bis 13:30 Uhr
 date: 2026-06-12
 event_date: 2026-06-12
 location: online
-permalink: /en/events/n4o_activity_20260612-N4O_Community_Meeting_2026
+permalink: /events/n4o_activity_20260612-N4O_Community_Meeting_2026
 ---
-llllll
+Under construction. Alle Informationen über das Event werden zeitnah zur Verfügung gestellt.
