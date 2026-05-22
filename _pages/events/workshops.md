@@ -6,7 +6,7 @@ permalink: /events/workshops/
 translation_key: events-workshops
 ---
 
-<main id="main-content" class="bg-sand event-overview">
+<main id="main-content" class="bg-sand event-workshops">
   <div class="container">
     {% include breadcrumb.html event_type="Forum" %}
   </div>
