@@ -3,7 +3,7 @@ layout: n4o-base
 title: "Veranstaltungen"
 lang: de
 permalink: /events/workshops/
-translation_key: events-overview
+translation_key: events-workshops
 ---
 
 <main id="main-content" class="bg-sand event-overview">
