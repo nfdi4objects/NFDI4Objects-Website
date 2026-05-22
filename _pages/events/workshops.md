@@ -8,8 +8,8 @@ translation_key: events-workshops
 
 <main id="main-content" class="bg-sand event-overview">
   <div class="container">
-    {% include breadcrumb.html %}
+    {% include breadcrumb.html event_type="Forum" %}
   </div>
 
-  {% include sections/events-dynamic.html lang="de" event_type="Forum"%}
+  {% include sections/events-dynamic.html lang="de"%}
 </main>
