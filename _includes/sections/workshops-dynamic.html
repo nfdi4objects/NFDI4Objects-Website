@@ -1,10 +1,10 @@
 {% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
-{% assign filtered = site.events  | event_type="Forum", include.event_type | where: "lang", include.lang | sort: "event_date" | reverse %}
+{% assign filtered = site.events | where: "event_type", "Forum" | where: "lang", include.lang | sort: "event_date" | reverse %}
 
 {% if filtered.size == 0 %}
   <p class="no-events">
     {% if include.lang == "en" %}
-      No events available.
+      No workshops available.
     {% else %}
       Keine Workshops verfügbar.
     {% endif %}
