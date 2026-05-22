@@ -3,7 +3,7 @@ layout: trail
 lang: de
 translation_key: development_of_cross-dataset_analytical_methods_for_KG_second_TRAILs
 title: Verborgene Zusammenhänge sichtbar machen – Entwicklung datensatzübergreifender analytischer Verfahren für Wissensgraphen mit räumlicher Information
-start_date: 01.01.2026
+start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/31
 type: n4o:Project
