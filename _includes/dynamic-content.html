@@ -179,7 +179,7 @@ Unterstützte Collections:
   {%- if page.trails and page.trails.size > 0 -%}
   <section class="taxonomy-section space-md">
     <h3 class="arrow arrow-left">
-      {% if current_lang == "en" %}Related Trails{% else %}Zugeordnete Trails{% endif %}
+      {% if current_lang == "en" %}Related TRAILs {% else %}Zugeordnete TRAILs{% endif %}
     </h3>
     <div class="trail-badges">
       {%- assign filtered_trails = site.trails | where: "lang", current_lang -%}

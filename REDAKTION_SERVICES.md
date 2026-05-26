@@ -313,7 +313,7 @@ Die Box ist standardmäßig eingeklappt und kann durch Klick geöffnet werden.
 Am Ende der Seite werden automatisch angezeigt:
 - Zugeordnete Task Areas (als verlinkte Badges)
 - Zugeordnete Community Cluster (falls vorhanden)
-- Zugeordnete Trails (falls vorhanden)
+- Zugeordnete TRAILs (falls vorhanden)
 - Zugeordnete TWGs (falls vorhanden)
 
 ### Kontakt-Bereich
