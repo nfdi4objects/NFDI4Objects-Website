@@ -17,6 +17,8 @@ nfdi_service_types:
 - quas
 Lifecycle-Phases: 
 - lernen-beraten
+coordinators:
+  - person_ref: donatagerhards
 permalink: /services/nfdi4objects-qualification/
 
 cards:
@@ -46,7 +48,7 @@ Offene Lehr- und Lernressourcen, Templates und Community-Angebote für Forschung
 
 ## Was bietet NFDI4Objects Qualification?
 
-NFDI4Objects Qualification entwickelt offene Angebote zur Vermittlung von Kompetenzen im Forschungsdatenmanagement (FDM) – von [**FAIRen Lehr- und Lernmaterialien**](/_services/de/nfdi4objects-qualification.md/# -lehrmaterialien-oer) (Open Educational Resources - OER) über [**OER-Templates**](/_services/de/nfdi4objects-qualification.md/# -oer-templates) bis hin zu [**Qualifikationsrahmen**](/_services/de/nfdi4objects-qualification.md/# -qualifikationsrahmen) und [**Community-Formaten**](/_services/de/nfdi4objects-qualification.md/#mitwirkung).
+NFDI4Objects Qualification entwickelt offene Angebote zur Vermittlung von Kompetenzen im Forschungsdatenmanagement (FDM) – von [**FAIRen Lehr- und Lernmaterialien**](https://www.nfdi4objects.net/services/de/nfdi4objects-qualification.md/# -lehrmaterialien-oer) (Open Educational Resources - OER) über [**OER-Templates**](https://www.nfdi4objects.net/services/de/nfdi4objects-qualification.md/# -oer-templates) bis hin zu [**Qualifikationsrahmen**](https://www.nfdi4objects.net/services/de/nfdi4objects-qualification.md/# -qualifikationsrahmen) und [**Community-Formaten**](https://www.nfdi4objects.net/services/de/nfdi4objects-qualification.md/#mitwirkung).
 
 Gemeinsam mit den verschiedenen Task Areas von NFDI4Objects entstehen praxisnahe Ressourcen, die aktuelle fachliche Anforderungen aufgreifen und die nachhaltige Integration von FDM in Forschung, Ausbildung und Lehre unterstützen.
 
