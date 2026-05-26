@@ -17,19 +17,6 @@ nfdi_service_types:
 - quas
 Lifecycle-Phases: 
 - lernen-beraten
-coordinators:
-  - person_ref: kai-christian_bruhn
-    role: ""
-  - person_ref: henrikebackhaus
-    role: ""
-  - person_ref: sandraschröer-spang
-    role: ""
-  - person_ref: lennart_linde
-    role: ""
-  - person_ref: donatagerhards
-    role: ""
-  - person_ref: juliatolksdorf
-    role: ""
 permalink: /services/nfdi4objects-qualification/
 
 cards:
@@ -51,9 +38,9 @@ cards:
 
 Offene Lehr- und Lernressourcen, Templates und Community-Angebote für Forschung, Lehre und FDM-Beratung.
 
-<div class="button-group">
-<a class="btn btn-primary" href="#das-angebot-umfasst">🧩 Materialien entdecken</a>
-<a class="btn btn-primary" href="#mitwirkung">🤝 Mitwirken</a>
+<div class="button-group" style="display:flex; justify-content:center; gap:1rem;">
+  <a class="btn btn-primary" href="#das-angebot-umfasst">🧩 Materialien entdecken</a>
+  <a class="btn btn-primary" href="#mitwirkung">🤝 Mitwirken</a>
 </div>
 
 
