@@ -5,6 +5,7 @@ translation_key: nfdi4objects-qualification
 title: NFDI4Objects Qualification
 short_title: 'Forschungsdatenmanagement lernen & lehren'
 logo: /assets/images/services/n4o_qualification_logo_de.png
+organization: "hochschule-mainz-university-of-applied-sciences"
 homepage: ''
 access_url: ''
 areas:
@@ -40,7 +41,6 @@ Offene Lehr- und Lernressourcen, Templates und Community-Angebote für Forschung
 <a class="btn btn-primary" href="#mitwirkung">🤝 Mitwirken</a>
 </div>
 
----
 
 ## Was bietet NFDI4Objects Qualification?
 
