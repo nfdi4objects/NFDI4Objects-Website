@@ -6,8 +6,8 @@ title: NFDI4Objects Qualification
 short_title: 'Forschungsdatenmanagement lernen & lehren'
 logo: /assets/images/services/n4o_qualification_logo_de.png
 organization: "hochschule-mainz-university-of-applied-sciences"
+contact_email: "kai-christian.bruhn@hs-mainz.de"
 homepage: ''
-access_url: ''
 areas:
 - ta6
 trails:
@@ -15,6 +15,8 @@ trails:
 nfdi_category: support_consulting
 nfdi_service_types:
 - quas
+Lifecycle-Phases: 
+- lernen-beraten
 permalink: /services/nfdi4objects-qualification/
 
 cards:
