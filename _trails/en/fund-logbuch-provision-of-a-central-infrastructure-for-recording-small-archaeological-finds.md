@@ -3,10 +3,11 @@ layout: trail
 lang: en
 translation_key: fund-logbuch-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds
 title: 'Fund-Logbuch: Providing a Centralized Infrastructure for Recording Small rchaeological finds'
-start_date: 01.01.2026
+start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/38
 type: n4o:Project
+round: second
 cochairs:
 - name: Ulrich Himmelmann
   person_ref: ulrich_himmelmann

@@ -8,6 +8,7 @@ start_date: 2024-09-25 10:20:08.171000+00:00
 end_date: 2025-12-31
 proposal_url: https://mfr.de-1.osf.io/render?url=https://osf.io/t6qgf/?direct%26mode=render%26action=download%26mode=render
 type: n4o:Project
+round: first
 cochairs:
 - name: Ulrich Himmelmann
   person_ref: ulrich_himmelmann

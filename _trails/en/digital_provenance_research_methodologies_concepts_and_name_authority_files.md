@@ -7,6 +7,7 @@ start_date: 2024-02-29 22:55:00+00:00
 end_date: 2028-02-20 22:55:00+00:00
 proposal_url: https://osf.io/kgqj5
 type: n4o:Project
+round: first
 cochairs:
 - name: Bernhard Weisser
   person_ref: bernhard_weisser

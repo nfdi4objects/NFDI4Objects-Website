@@ -3,10 +3,11 @@ layout: trail
 lang: en
 translation_key: Use_Cases_WissKI_second_TRAILs
 title: Implementation of interdisciplinary use cases for object biographies in the WissKI virtual research environment
-start_date: 01.01.2026
+start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/39
 type: n4o:Project
+round: second
 cochairs:
 - name: Anja Gerber
   person_ref: anjagerber

@@ -3,10 +3,11 @@ layout: trail
 lang: en
 translation_key: 5.4_second_TRAILs
 title: Artificial Intelligence for the Indexing and Research of Museum Collections
-start_date: 01.01.2026
+start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/24
 type: n4o:Project
+round: second
 cochairs:
 - name: Frank Duehrkohp
   person_ref: frank_duehrkohp

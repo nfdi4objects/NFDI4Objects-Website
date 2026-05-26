@@ -3,10 +3,11 @@ layout: trail
 lang: en
 translation_key: IGSN_Identifier_second_TRAILs
 title: IGSN Identifiers, A Sustainable PID Strategy for Archaeological and Heritage Samples
-start_date: 01.01.2026
+start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/25
 type: n4o:Project
+round: second
 cochairs:
 - name: Yiu-Kang Hsu
   person_ref: yiu-kanghsu

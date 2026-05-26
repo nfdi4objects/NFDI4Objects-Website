@@ -7,6 +7,7 @@ start_date: 2024-09-25 07:42:28.670000+00:00
 end_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.5654897
 type: n4o:Project
+round: first
 cochairs:
 - name: Allard Mees
   person_ref: allard_mees

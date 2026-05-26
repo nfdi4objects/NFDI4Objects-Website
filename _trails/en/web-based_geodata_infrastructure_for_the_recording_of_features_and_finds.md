@@ -7,6 +7,7 @@ start_date: 2024-09-25 09:17:01.042000+00:00
 end_date: ''
 proposal_url: https://mfr.de-1.osf.io/render?url=https://osf.io/2ugkx/?direct%26mode=render%26action=download%26mode=render
 type: n4o:Project
+round: first
 cochairs:
 - name: Jörg Räther
   person_ref: jörgräther

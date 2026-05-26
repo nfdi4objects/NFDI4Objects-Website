@@ -8,6 +8,7 @@ start_date: 2024-09-25 08:34:43.915000+00:00
 end_date: ''
 proposal_url: https://osf.io/nsduc
 type: n4o:Project
+round: first
 cochairs:
 - name: Matthias Renz
   person_ref: matthias_renz

@@ -3,10 +3,11 @@ layout: trail
 lang: en
 translation_key: propylaeum_second_TRAILs
 title: Making Archaeological Data Visible, Open-Access Publication of Excavation Data on Propylaeum
-start_date: 01.01.2026
+start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/28
 type: n4o:Project
+round: second
 cochairs:
 - name: Maria Effinger
   person_ref: mariaeffinger

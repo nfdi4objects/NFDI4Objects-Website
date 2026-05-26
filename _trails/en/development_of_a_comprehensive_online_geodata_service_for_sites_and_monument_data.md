@@ -8,6 +8,7 @@ start_date: 2024-09-25 10:08:07.219000+00:00
 end_date: 2025-12-31
 proposal_url: https://osf.io/4t29e/files/xqk78
 type: n4o:Project
+round: first
 cochairs:
 - name: Tobias Krenscher
   person_ref: tobiaskrenscher

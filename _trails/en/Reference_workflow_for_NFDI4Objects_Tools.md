@@ -3,7 +3,7 @@ layout: trail
 lang: en
 translation_key: 1.4_second_TRAILs
 title: From the Field to the Database, Reference Workflows for Deploying and Integrating NFDI4Objects Tools 
-start_date: 01.01.2026
+start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/30
 type: n4o:Project

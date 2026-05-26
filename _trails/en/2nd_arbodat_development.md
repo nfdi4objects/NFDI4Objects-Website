@@ -4,10 +4,11 @@ lang: en
 translation_key: 2nd_arbodat_development
 title: Expansion and generalization of ArboDat+, as well as integration and connection of the bioarchaeological TA3 repositories to the NFDI4Objects knowledge graph 
   ArboDat-Service'
-start_date: 01.01.2026
+start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/33
 type: n4o:Project
+round: second
 cochairs:
 - name: Matthias Renz
   person_ref: matthias_renz

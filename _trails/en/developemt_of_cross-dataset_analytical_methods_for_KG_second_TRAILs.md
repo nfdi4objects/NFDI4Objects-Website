@@ -3,10 +3,11 @@ layout: trail
 lang: en
 translation_key: development_of_cross-dataset_analytical_methods_for_KG_second_TRAILs
 title: Uncovering Hidden Connections – Developing Cross-Dataset Analytical Methods for Knowledge Graphs with Spatial Information
-start_date: 01.01.2026
+start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/31
 type: n4o:Project
+round: second
 cochairs:
 - name: Matthias Renz
   person_ref: matthias_renz
