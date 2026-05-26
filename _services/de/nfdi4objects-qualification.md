@@ -59,7 +59,7 @@ Der Dienst richtet sich insbesondere an:
 *Skripte, Präsentationen und praxisorientierte Übungen zu verschiedenen FDM-Themen.*
 
 Hier finden Sie eine stetig wachsende Sammlung frei verfügbarer OER-Bausteine aus NFDI4Objects.
-[OER-Skript Metadaten](https://nfdi4objects.github.io/oer-skript-metadaten/) – Einführung in das Thema Metadaten
+- [OER-Skript Metadaten](https://nfdi4objects.github.io/oer-skript-metadaten/) – Einführung in das Thema Metadaten
 
 Alle Materialien werden offen bereitgestellt und stehen unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 
@@ -71,10 +71,10 @@ Zur besseren Integration von Forschungsdatenmanagement in die Lehre entwickelt T
 Dieser basiert auf der NFDI-Lernzielmatrix zum Themenbereich FDM ([Petersen et. al. 2025](https://doi.org/10.5281/zenodo.15025246)) und konkretisiert notwendige Kompetenzen für unterschiedliche Anwendungsfelder im Bereich des materiellen Erbes der Menschheitsgeschichte.
 
 Der Qualifikationsrahmen:
-- definiert relevante Kompetenzbereiche</li>
-- unterscheidet verschiedene Niveaustufen</li>
-- unterstützt die Entwicklung curricularer Lehrangebote</li>
-- erleichtert die nachhaltige Vermittlung von FDM-Kompetenzen</li>
+- definiert relevante Kompetenzbereiche
+- unterscheidet verschiedene Niveaustufen
+- unterstützt die Entwicklung curricularer Lehrangebote
+- erleichtert die nachhaltige Vermittlung von FDM-Kompetenzen
 
 ## Mitwirkung
 Sie arbeiten in der FDM-Beratung oder erstellen Lehrmaterialien zu Themen rund um das materielle Erbe der Menschheits- und Umweltgeschichte?
@@ -82,7 +82,7 @@ Sie arbeiten in der FDM-Beratung oder erstellen Lehrmaterialien zu Themen rund u
 Dann freuen wir uns über Ihre Mitwirkung im Netzwerk von NFDI4Objects.
 
 - [FDM-Qualifizierung und OER](https://community.nfdi4objects.net/assemblies/OER)
-- [FDM-Beratung](https://community.nfdi4objects.net/assemblies/FDM-Beratung
+- [FDM-Beratung](https://community.nfdi4objects.net/assemblies/FDM-Beratung)
 
 ## Ansprechpartner:innen
 Kai-Christian Bruhn
