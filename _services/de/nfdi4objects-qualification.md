@@ -18,7 +18,18 @@ nfdi_service_types:
 Lifecycle-Phases: 
 - lernen-beraten
 coordinators:
+  - person_ref: kai-christian_bruhn
+    role: ""
+  - person_ref: henrikebackhaus
+    role: ""
+  - person_ref: sandraschröer-spang
+    role: ""
+  - person_ref: lennart_linde
+    role: ""
   - person_ref: donatagerhards
+    role: ""
+  - person_ref: juliatolksdorf
+    role: ""
 permalink: /services/nfdi4objects-qualification/
 
 cards:
