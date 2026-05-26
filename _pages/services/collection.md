@@ -47,6 +47,10 @@ cards:
     icon: https://seafile.rlp.net/f/6eb59f5ec1174f9386ea/
     url: "/services/conservation-data-framework/"
     description: "<strong> offenes Referenzrahmenwerk </strong> für die standardisierte Datenerfassung und -kuratierung konservatorisch-restauratorischer Daten."
+  - title: "Fund-Logbuch"
+    icon: "/assets/images/services/fundlogbuch-logo.png"
+    url: "/services/fund-logbuch/"
+    description: "Mobile Anwendung zur <strong>Fundverwaltung und digitalen Erfassung von Funddaten</strong>. Reduziert Medienbrüche während der Grabung."
 ---
 
 {% include page-header.html
