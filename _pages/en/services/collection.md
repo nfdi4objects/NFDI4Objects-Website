@@ -45,6 +45,10 @@ cards:
     icon: "/assets/images/services/CDF_logo.png"
     url: "/services/conservation-data-framework/"
     description: "<strong>Open reference framework</strong> for the standardized collection and curation of conservation and restoration data. "
+  - title: "Fund-Logbuch"
+    icon: "/assets/images/services/fundlogbuch-logo.png"
+    url: "/en/services/fund-logbuch/"
+    description: "Mobile application for <strong>find management and digital recording of find data</strong>. Reduces media breaks during excavation."
 ---
 
 {% include page-header.html
