@@ -35,6 +35,3 @@ Zur Programm
 <br>
 <br>
 </div>
-<img src="/assets/images/NFDI4OBJECTS.png"
-alt="Grafik zur Ankündigung des Community Meetings im NFDI4Objects Corporate Design"
-style="width:75%; display:block; margin:auto;">
