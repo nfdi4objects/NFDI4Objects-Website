@@ -2,8 +2,8 @@
 layout: news
 lang: en
 translation_key: n4o_news_20260527-CM-Program
-title: 4th Community Meeting in NFDI4Objects - Schedule now online
-excerpt: June 12 2026
+title: '4th Community Meeting in NFDI4Objects - Schedule now online'
+excerpt: 'June 12 2026'
 date: 2026-06-12
 areas:
 - ta1
