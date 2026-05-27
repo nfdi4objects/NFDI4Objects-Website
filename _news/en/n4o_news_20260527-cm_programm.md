@@ -1,7 +1,7 @@
 ---
 layout: news
 lang: en
-translation_key: n4o_news_20260527-CM-Programm
+translation_key: n4o_news_20260527-cm_programm
 title: '4th Community Meeting in NFDI4Objects - Schedule now online'
 excerpt: 'June 12 2026'
 date: 2026-06-12
@@ -16,7 +16,7 @@ areas:
 trails: []
 ccs: []
 twgs: []
-permalink: en/news/n4o_news_20260527-CM-Programm/
+permalink: en/news/n4o_news_20260527-cm_programm/
 ---
 The 4th NFDI4Objects Community Meeting will take place on 12 June 2026 as a virtual event from 10:00 a.m. to 1:30 p.m. via Zoom. The Community Meeting is aimed both at those who would like to learn more about NFDI4Objects and at researchers and interested participants, offering a wide range of insights into the consortium’s current work. Discover how our services can support everyday research practice and what to expect from our 2026 workshop series. 
 

@@ -1,7 +1,7 @@
 ---
 layout: news
 lang: de
-translation_key: n4o_news_20260527-CM-Programm
+translation_key: n4o_news_20260527-cm_programm
 title: '4. Community Meeting von NFDI4Objects - Programmankündigung'
 excerpt: '12. Juni 2026'
 date: 2026-06-12
@@ -16,14 +16,14 @@ areas:
 trails: []
 ccs: []
 twgs: []
-permalink: /news/n4o_news_20260527-CM-Programm/
+permalink: /news/n4o_news_20260527-cm_programm/
 ---
 Das 4. Community Meeting von NFDI4Objects findet am 12. Juni 2026 als virtuelles Event von 10:00 bis 13:30 Uhr via Zoom statt. Das Community Meeting richtet sich sowohl an Personen, die NFDI4Objects kennenlernen möchten, als auch an Forschende und Interessierte und bietet vielfältige Einblicke in die aktuelle Arbeit des Konsortiums. Erfahren Sie, wie unsere Dienste im Arbeitsalltag genutzt werden können und welche Angebote Sie 2026 in unserer Workshopreihe erwarten.
 
 **Das Programm für die Auftaktveranstaltung und weitere Neuigkeiten zur Workshopreihe sind jetzt verfügbar:**
 
 <div style="text-align:center; margin-top:20px;"> 
-<a href="https://www.nfdi4objects.net/events/n40_activity_20260612-CM2026/" style="
+<a href="/events/n40_activity_20260612-CM2026/" style="
   background:#13294b;
   color:white;
   padding:10px 16px;
