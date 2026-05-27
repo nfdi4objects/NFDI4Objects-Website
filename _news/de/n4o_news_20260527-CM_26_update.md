@@ -26,15 +26,12 @@ Das 4. Community Meeting von NFDI4Objects findet am 12. Juni 2026 als virtuelles
 
 **Das Programm für die Auftaktveranstaltung und weitere Neuigkeiten zur Workshopreihe sind jetzt verfügbar:**
 
-<div 
-style="text-align:center; margin-top:20px;">
 <a href="https://www.nfdi4objects.net/events/n40_activity_20260612-CM2026/" style="
-background:#13294b;
-color:white;
-padding:10px 16px;
-text-decoration:none;
-border-radius:6px;
+  background:#13294b;
+  color:white;
+  padding:10px 16px;
+  text-decoration:none;
+  border-radius:6px;
 ">
-Zur Programm
+  Zum Programm
 </a>
-</div>
