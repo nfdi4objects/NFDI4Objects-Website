@@ -2,9 +2,9 @@
 layout: news
 lang: de
 translation_key: n4o_news_20260527-CM_26_update
-title: '4. Community Meeting von NFDI4Objects - Programmankündigung'
-excerpt: '12. Juni 2026'
-date: 2026-05-27 
+title: '4. Community Meeting von NFDI4Objects'
+excerpt: 'Programmankündigung'
+date: 2026-06-12 
 areas:
 - ta1
 - ta2
@@ -34,3 +34,7 @@ border-radius:6px;
 Zur Programm
 </a>
 </div>
+<br>
+<img src="/assets/images/NFDI4OBJECTS.png"
+alt="Grafik zur Ankündigung des Community Meetings im NFDI4Objects Corporate Design"
+style="width:75%; display:block; margin:auto;">
