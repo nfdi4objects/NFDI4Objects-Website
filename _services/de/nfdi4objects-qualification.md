@@ -5,8 +5,9 @@ translation_key: nfdi4objects-qualification
 title: NFDI4Objects Qualification
 short_title: 'Forschungsdatenmanagement lernen & lehren'
 logo: /assets/images/services/n4o_qualification_logo_de.png
+organization: "hochschule-mainz-university-of-applied-sciences"
+contact_email: "kai-christian.bruhn@hs-mainz.de"
 homepage: ''
-access_url: ''
 areas:
 - ta6
 trails:
@@ -14,6 +15,8 @@ trails:
 nfdi_category: support_consulting
 nfdi_service_types:
 - quas
+Lifecycle-Phases: 
+- lernen-beraten
 permalink: /services/nfdi4objects-qualification/
 
 cards:
@@ -35,18 +38,24 @@ cards:
 
 Offene Lehr- und Lernressourcen, Templates und Community-Angebote für Forschung, Lehre und FDM-Beratung.
 
+<div class="button-group" style="display:flex; justify-content:center; gap:1rem;">
+  <a class="btn btn-primary" href="#das-angebot-umfasst">🧩 Materialien entdecken</a>
+  <a class="btn btn-primary" href="#mitwirkung">🤝 Mitwirken</a>
+</div>
+
+
 ## Was bietet NFDI4Objects Qualification?
 
-NFDI4Objects Qualification entwickelt offene Angebote zur Vermittlung von Kompetenzen im Forschungsdatenmanagement (FDM) – von FAIRen Lehr- und Lernmaterialien (Open Educational Resources - OER) über OER-Templates bis hin zu Qualifikationsrahmen und Community-Formaten.
+NFDI4Objects Qualification entwickelt offene Angebote zur Vermittlung von Kompetenzen im Forschungsdatenmanagement (FDM) – von [**FAIRen Lehr- und Lernmaterialien**](https://www.nfdi4objects.net/services/de/nfdi4objects-qualification.md/# -lehrmaterialien-oer) (Open Educational Resources - OER) über [**OER-Templates**](https://www.nfdi4objects.net/services/de/nfdi4objects-qualification.md/# -oer-templates) bis hin zu [**Qualifikationsrahmen**](https://www.nfdi4objects.net/services/de/nfdi4objects-qualification.md/# -qualifikationsrahmen) und [**Community-Formaten**](https://www.nfdi4objects.net/services/de/nfdi4objects-qualification.md/#mitwirkung).
 
 Gemeinsam mit den verschiedenen Task Areas von NFDI4Objects entstehen praxisnahe Ressourcen, die aktuelle fachliche Anforderungen aufgreifen und die nachhaltige Integration von FDM in Forschung, Ausbildung und Lehre unterstützen.
 
 Der Dienst richtet sich insbesondere an:
 
-- Forschende und praktisch arbeitende Personen im Bereich materielles Kulturerbe
-- Lehrende und Hochschulen
-- Studierende
-- FDM-Berater:innen
+* Forschende und praktisch arbeitende Personen im Bereich materielles Kulturerbe
+* Lehrende und Hochschulen
+* Studierende
+* FDM-Berater:innen
 
 ## Das Angebot umfasst:
 
