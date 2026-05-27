@@ -31,7 +31,8 @@ The 4th NFDI4Objects Community Meeting will take place on 12 June 2026 as a virt
   border-radius:6px;
 ">
 Schedule
-</a>    
+</a>  
+</div>  
 <br>  
 <br>
 <img src="/assets/images/NFDI4OBJECTS_CM_2026_eng.png"
