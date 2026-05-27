@@ -18,9 +18,12 @@ ccs:
 twgs:
 permalink: /en/news/n4o_news_20260527-CM_26_update/
 ---
-<img src="/assets/images/NFDI4OBJECTS_CM_2026_eng.png"
+<img src="/assets/images/NFDI4Objects_CM_2026_eng.png"
 alt="Grafik zur Ankündigung des Community Meetings im NFDI4Objects Corporate Design"
-style="width:75%; display:block; margin:auto;">   
+style="width:75%; display:block; margin:auto;">  
+<br>
+<br>
+ 
 
 **The Schedule for the kick-off event and further Updates on the workshop series is now available:**
 
