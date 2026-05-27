@@ -2,7 +2,7 @@
 layout: news
 lang: en
 translation_key: n4o_news_20260527-CM_26_update
-title: '4th Community Meeting in NFDI4Objects - Schedule'
+title: '4th Community Meeting in NFDI4Objects'
 excerpt: 'Schedule announced'
 date: 2026-06-12 
 areas:
