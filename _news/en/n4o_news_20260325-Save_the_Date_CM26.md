@@ -25,4 +25,4 @@ The fourth NFDI4Objects Community Meeting of 2026 will take place **virtually**!
      style="width:75%; display:block; margin:auto;">
 
 
- <p style="text-align:center; font-weight: bold">Further information will be available shortly—be sure to save the date!</p> 
+ <p style="text-align:center; font-weight: bold">Further information and every Update will be available [here](https://www.nfdi4objects.net/en/events/n40_activity_20260612-CM2026/)—be sure to save the date!</p> 
