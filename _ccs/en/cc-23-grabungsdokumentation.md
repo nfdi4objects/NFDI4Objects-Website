@@ -4,7 +4,7 @@ lang: en
 translation_key: cc-grabungsdokumentation
 title: On-site Documentation
 status: active
-start_date: 2024-07-03 21:55:00+00:00
+start_date: 2024-07-03
 proposal_url: https://doi.org/10.5281/zenodo.11550132
 type: n4o:Organization
 cochairs:
