@@ -21,8 +21,8 @@ layout: n4o-base
                 {{ page.start_date | date: "%-m/%-d/%Y" }}
                 {% if page.end_date %} - {{ page.end_date | date: "%-m/%-d/%Y" }}{% endif %}
               {% else %}
-                {{ page.start_date | date: "%-d. %m. %Y" }}
-                {% if page.end_date %} - {{ page.end_date | date: "%-d. %m. %Y" }}{% endif %}
+                {{ page.start_date | date: "%-d.%m.%Y" }}
+                {% if page.end_date %} - {{ page.end_date | date: "%-d.%m.%Y" }}{% endif %}
               {% endif %}
           </span>
           {% endif %}
