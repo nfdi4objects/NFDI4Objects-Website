@@ -27,6 +27,7 @@ layout: n4o-base
 
           {% if page.start_date %}
           <span class="cc-date">
+            <i class="fa fa-calendar-days" aria-hidden="true"></i>
               {% if page.lang == "en" %}
                 {{ page.start_date | date: "%-m/%-d/%Y" }}
                 {% if page.end_date %} - {{ page.end_date | date: "%-m/%-d/%Y" }}{% endif %}
