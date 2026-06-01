@@ -14,7 +14,7 @@ cochairs:
 - name: ''
   person_ref: ''
 areas:
-- ta4
+- ta3
 institutions:
 - deutsches-bergbau-museum-bochum
 - leiza
