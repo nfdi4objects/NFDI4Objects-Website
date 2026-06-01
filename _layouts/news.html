@@ -10,9 +10,9 @@ layout: n4o-base
     <p class="news-date">
      <strong> 
         {% if page.lang == "en" %}
-        {{ item.date | date: "%-m/%-d/%Y" }} 
+          {{ item.date | date: "%-m/%-d/%Y" }} 
         {% else %}
-        {{ item.date | date: "%-d. %m. %Y" }}  
+          {{ item.date | date: "%-d. %m. %Y" }}  
         {% endif %}
      </strong>
     </p>
