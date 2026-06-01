@@ -13,11 +13,6 @@ cochairs:
   person_ref: matthias_lang
 - name: ''
   person_ref: ''
-cochairs:
-- name: Ulrich Himmelmann
-  person_ref: ulrich_himmelmann
-- name: Christian Bollacher
-  person_ref: christianbollacher
 areas:
 - ta1
 institutions:
