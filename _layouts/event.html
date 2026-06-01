@@ -11,8 +11,13 @@ layout: n4o-base
     {% if page.event_date %}
     <p class="event-date">
       <i class="fa fa-calendar-days" aria-hidden="true"></i>
-      {{ page.event_date | date: "%-d. %m. %Y" }}
-      {% if page.event_end_date %} - {{ page.event_end_date | date: "%-d. %m. %Y" }}{% endif %}
+            {% if page.lang == "en" %}
+              {{ page.event_date | date: "%-m/%-d/%Y" }}
+              {% if page.event_end_date %} - {{ page.event_end_date | date: "%-m/%-d/%Y" }}{% endif %}
+            {% else %}
+              {{ page.event_date | date: "%-d. %m. %Y" }}
+              {% if page.event_end_date %} - {{ page.event_end_date | date: "%-d. %m. %Y" }}{% endif %}
+            {% endif %}
     </p>
     {% endif %}
 
