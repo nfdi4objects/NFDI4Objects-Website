@@ -27,11 +27,11 @@ layout: n4o-base
 
           {% if page.date %}
           <span class="cc-date">
-              {% if page.lang == "en" %}
-                {{ page.date | date: "%-m/%-d/%Y" }}
-              {% else %}
-                {{ page.date | date: "%-d. %m. %Y" }}
-              {% endif %}
+            {% if page.lang == "en" %}
+              {{ page.date | date: "%-m/%-d/%Y" }}
+            {% else %}
+              {{ page.date | date: "%-d. %m. %Y" }}
+            {% endif %}
           </span>
           {% endif %}
         </div>
