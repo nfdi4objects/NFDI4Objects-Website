@@ -45,7 +45,7 @@
             {% endif %}
                 <div class="card-date">
                   <i class="fa fa-calendar-days" aria-hidden="true"></i>
-                  {{ item.event_date | date: "%-d. %m. %Y" }}
+                  {{ item.date | date: "%-d. %m. %Y" }}
                 </div>
                 <h2><a href="{{ item.url | relative_url }}" class="read-more">{{ item.title }}</a></h2>
                 <p>                  
