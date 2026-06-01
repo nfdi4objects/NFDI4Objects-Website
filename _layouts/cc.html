@@ -28,9 +28,9 @@ layout: n4o-base
           {% if page.date %}
             <span class="cc-date">
               {% if page.lang == "en" %}
-                {{ page.date | date: "%-m/%-d/%Y" }}
+                {{ page.start_date | date: "%-m/%-d/%Y" }}
               {% else %}
-                {{ page.date | date: "%-d. %m. %Y" }}
+                {{ page.start_date | date: "%-d. %m. %Y" }}
               {% endif %}
             </span>
           {% endif %}
