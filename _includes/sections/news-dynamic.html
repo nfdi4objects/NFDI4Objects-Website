@@ -45,7 +45,11 @@
             {% endif %}
                 <div class="card-date">
                   <i class="fa fa-calendar-days" aria-hidden="true"></i>
-                  {{ item.date | date: "%-d. %m. %Y" }}
+                    {% if page.lang == "en" %}
+                      {{ item.date | date: "%-m/%-d/%Y" }}  {# 03/18/2026 #}
+                    {% else %}
+                      {{ item.date | date: "%-d. %m. %Y" }}  {# 18. 03. 2026 #}
+                    {% endif %}
                 </div>
                 <h2><a href="{{ item.url | relative_url }}" class="read-more">{{ item.title }}</a></h2>
                 <p>                  
