@@ -8,7 +8,7 @@ date: 2026-04-21
 event_date: 2026-06-23
 event_end_date: 2026-04-24
 location: Göttingen
-event_type: Forum
+event_type: "Forum"
 areas:
 trails: []
 ccs: 

@@ -183,7 +183,7 @@ twgs:
 | `event_date` | Ja | Startdatum | `2025-03-15` |
 | `event_end_date` | Nein | Enddatum bei mehrtägigen Events | `2025-03-16` |
 | `location` | Empfohlen | Veranstaltungsort | `"Berlin, DAI"` |
-| `event_type` | Empfohlen | Art der Veranstaltung | `"Workshop"` |
+| `event_type` | ja | Art der Veranstaltung | `"Workshop"` | `"CC-Treffen"` | `"TWG-Treffen"` | `"Konferenz"` | 
 | `registration_url` | Nein | Link zur Anmeldung | `"https://..."` |
 
 ### Anmeldungsbutton
