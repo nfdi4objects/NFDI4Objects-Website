@@ -45,8 +45,8 @@
             {% endif %}
                 <div class="card-date">
                   <i class="fa fa-calendar-days" aria-hidden="true"></i>
-                  {{ item.event_date | date: "%-d. %B %Y" }}
-                  {% if item.event_end_date %} - {{ item.event_end_date | date: "%-d. %B %Y" }}{% endif %}
+                  {{ item.event_date | date: "%-d. %m. %Y" }}
+                  {% if item.event_end_date %} - {{ item.event_end_date | date: "%-d. %m. %Y" }}{% endif %}
                 </div>
                 {% if item.location %}
                 <div class="card-location">
