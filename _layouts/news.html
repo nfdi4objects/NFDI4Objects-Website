@@ -8,11 +8,7 @@ layout: n4o-base
 <article class="news-article container">
   <header class="news-header">
     <p class="news-date">
-     {% if page.lang == "en" %}
-         <strong> {{ item.date | date: "%-m/%-d/%Y" }}</strong>
-      {% else %}
-         <strong>{{ item.date | date: "%-d. %m. %Y" }} </strong> 
-      {% endif %}
+     <strong> {{ page.date | date: "%-d. %m. %Y" }}</strong>
     </p>
     <h1 class="news-title">{{ page.title }}</h1>
     {% if page.excerpt %}
