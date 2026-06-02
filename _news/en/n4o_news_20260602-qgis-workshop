@@ -36,7 +36,8 @@ Further information on the workshop series can be found here:
    url="/events/n4o_activity_20250715-1837/"
    style="primary"
 %}
-  
+<br>
+<br>
 {% include blocks/image-centered.html
    image="/assets/images/activities/n4o_ws_dasv_plakat4.png"
    alt="Flyer of the 4th DASV-QGIS-Workshop"
