@@ -1,5 +1,5 @@
 {% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
-{% assign filtered = site.events | where: "lang", include.lang | where: "event_type", "Forum" | sort: "event_date" | reverse %}
+{% assign filtered = site.events | where: "lang", include.lang | where: "event_type", "Workshop" | sort: "event_date" | reverse %}
 
 {% if filtered.size == 0 %}
   <p class="no-events">
@@ -45,8 +45,13 @@
             {% endif %}
                 <div class="card-date">
                   <i class="fa fa-calendar-days" aria-hidden="true"></i>
-                  {{ item.event_date | date: "%-d. %B %Y" }}
-                  {% if item.event_end_date %} - {{ item.event_end_date | date: "%-d. %B %Y" }}{% endif %}
+                  {% if include.lang == "en" %}
+                    {{ item.event_date | date: "%-m/%-d/%Y" }}
+                    {% if item.event_end_date %} - {{ item.event_end_date | date: "%-m/%-d/%Y" }}{% endif %}
+                  {% else %}
+                    {{ item.event_date | date: "%-d. %m. %Y" }}
+                    {% if item.event_end_date %} - {{ item.event_end_date | date: "%-d. %m. %Y" }}{% endif %}
+                  {% endif %}
                 </div>
                 {% if item.location %}
                 <div class="card-location">

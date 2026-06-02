@@ -43,7 +43,14 @@
                    alt="{{ item.teaser_image_alt | default: item.title }}">
               <div class="card-content">
             {% endif %}
-                <div class="card-date">{{ item.date | date: "%-d. %B %Y" }}</div>
+                <div class="card-date">
+                  <i class="fa fa-calendar-days" aria-hidden="true"></i>
+                    {% if page.lang == "en" %}
+                      {{ item.date | date: "%-m/%-d/%Y" }} 
+                    {% else %}
+                      {{ item.date | date: "%-d. %m. %Y" }}  
+                    {% endif %}
+                </div>
                 <h2><a href="{{ item.url | relative_url }}" class="read-more">{{ item.title }}</a></h2>
                 <p>                  
                     {{ item.excerpt | default: item.content | strip_html | truncatewords: 30 }}                  

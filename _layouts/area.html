@@ -11,37 +11,39 @@ layout: n4o-base
         <h1 class="focus-ring focus-white"><span>{{ page.title }}</span></h1>
 
         {% if page.short_title %}
-        <p class="area-subtitle section-intro">{{ page.short_title }}</p>
+          <p class="area-subtitle section-intro">{{ page.short_title }}</p>
         {% endif %}
 
         <div class="area-meta">
-<!--           {% if page.order %}
-          <span class="area-number">Task Area {{ page.order }}</span>
-          {% endif %} -->
-
           {% if page.status %}
-          <span class="area-status area-status--{{ page.status }}">
-            {% if page.lang == "en" %}
-              {% case page.status %}
-                {% when "active" %}Active
-                {% when "completed" %}Completed
-                {% when "planned" %}Planned
-              {% endcase %}
-            {% else %}
-              {% case page.status %}
-                {% when "active" %}Aktiv
-                {% when "completed" %}Abgeschlossen
-                {% when "planned" %}Geplant
-              {% endcase %}
-            {% endif %}
-          </span>
+            <span class="area-status area-status--{{ page.status }}">
+              {% if page.lang == "en" %}
+                {% case page.status %}
+                  {% when "active" %}Active
+                  {% when "completed" %}Completed
+                  {% when "planned" %}Planned
+                {% endcase %}
+              {% else %}
+                {% case page.status %}
+                  {% when "active" %}Aktiv
+                  {% when "completed" %}Abgeschlossen
+                  {% when "planned" %}Geplant
+                {% endcase %}
+              {% endif %}
+            </span>
           {% endif %}
 
           {% if page.start_date %}
-          <span class="area-date">
-            <i class="fas fa-calendar-days"></i> {{ page.start_date | date: "%d.%m.%Y" }}
-            {% if page.end_date %} - {{ page.end_date | date: "%d.%m.%Y" }}{% endif %}
-          </span>
+            <span class="area-date">
+              <i class="fas fa-calendar-days"></i>
+              {% if page.lang == "en" %}
+                {{ page.start_date | date: "%-m/%-d/%Y" }}
+                {% if page.end_date %} - {{ page.end_date | date: "%-m/%-d/%Y" }}{% endif %}
+              {% else %}
+                {{ page.start_date | date: "%-d.%m.%Y" }}
+                {% if page.end_date %} - {{ page.end_date | date: "%-d.%m.%Y" }}{% endif %}
+              {% endif %}
+            </span>
           {% endif %}
         </div>
       </header>

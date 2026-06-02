@@ -17,6 +17,13 @@ nfdi_service_types:
 - quas
 Lifecycle-Phases: 
 - lernen-beraten
+coordinators:
+  - person_ref: kai-christian_bruhn
+  - person_ref: henrikebackhaus
+  - person_ref: sandraschröer-spang
+  - person_ref: donatagerhards
+  - person_ref: juliatolksdorf
+  - person_ref: lennart_linde
 permalink: /services/nfdi4objects-qualification/
 
 cards:
@@ -46,7 +53,7 @@ Offene Lehr- und Lernressourcen, Templates und Community-Angebote für Forschung
 
 ## Was bietet NFDI4Objects Qualification?
 
-NFDI4Objects Qualification entwickelt offene Angebote zur Vermittlung von Kompetenzen im Forschungsdatenmanagement (FDM) – von [**FAIRen Lehr- und Lernmaterialien**](https://www.nfdi4objects.net/services/de/nfdi4objects-qualification.md/# -lehrmaterialien-oer) (Open Educational Resources - OER) über [**OER-Templates**](https://www.nfdi4objects.net/services/de/nfdi4objects-qualification.md/# -oer-templates) bis hin zu [**Qualifikationsrahmen**](https://www.nfdi4objects.net/services/de/nfdi4objects-qualification.md/# -qualifikationsrahmen) und [**Community-Formaten**](https://www.nfdi4objects.net/services/de/nfdi4objects-qualification.md/#mitwirkung).
+NFDI4Objects Qualification entwickelt offene Angebote zur Vermittlung von Kompetenzen im Forschungsdatenmanagement (FDM) – von [**FAIRen Lehr- und Lernmaterialien**](https://www.nfdi4objects.net/services/nfdi4objects-qualification/#-lehrmaterialien-oer) (Open Educational Resources - OER) über [**OER-Templates**](https://www.nfdi4objects.net/services/nfdi4objects-qualification/#-oer-templates) bis hin zu [**Qualifikationsrahmen**](https://www.nfdi4objects.net/services/nfdi4objects-qualification/#-qualifikationsrahmen) und [**Community-Formaten**](https://www.nfdi4objects.net/services/nfdi4objects-qualification/#mitwirkung).
 
 Gemeinsam mit den verschiedenen Task Areas von NFDI4Objects entstehen praxisnahe Ressourcen, die aktuelle fachliche Anforderungen aufgreifen und die nachhaltige Integration von FDM in Forschung, Ausbildung und Lehre unterstützen.
 
@@ -70,7 +77,7 @@ Der Dienst richtet sich insbesondere an:
 Hier finden Sie eine stetig wachsende Sammlung frei verfügbarer OER-Bausteine aus NFDI4Objects.
 - [OER-Skript Metadaten](https://nfdi4objects.github.io/oer-skript-metadaten/) – Einführung in das Thema Metadaten
 
-Alle Materialien werden offen bereitgestellt und stehen unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
+Alle Materialien werden offen bereitgestellt und stehen unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ### 🎓 Qualifikationsrahmen
 *Kompetenzmodell für FDM im Bereich des materiellen Kulturerbes.*
