@@ -12,7 +12,7 @@ ccs:
 twgs:
 permalink: /news/n4o_news_20260602-qgis-workshop4/
 ---
-<img src="/assets/images/news/n4o_ws_dasv_Banner.jpg)"
+<img src="/assets/images/news/n4o_ws_dasv_Banner.jpg"
 alt="Ausschnitt aus dem Flyer zum 4. QGIS-Workshop des DASV mit Titel und Logos des DASV e.V. und NFDI4Objects"
 style="width:75%; display:block; margin:auto;">  
 <br>

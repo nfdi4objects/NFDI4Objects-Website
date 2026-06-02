@@ -1,6 +1,6 @@
 ---
 layout: news
-lang: de
+lang: en
 translation_key: n4o_news_20260528-boosting_biodata_bootcamp
 title: 'NFDI4Biodiversity - Boosting Biodata Bootcamp'
 excerpt: ''
@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_20260528-boosting_biodata_bootcamp/
+permalink: en/news/n4o_news_20260528-boosting_biodata_bootcamp/
 ---
 From 15–17 September 2026, NFDI4Biodiversity will be hosting the ‘Boosting Biodata Bootcamp’ at RWTH Aachen University. The conference is aimed at anyone working with life sciences data – from research and data management to software development and bioinformatics.
 
