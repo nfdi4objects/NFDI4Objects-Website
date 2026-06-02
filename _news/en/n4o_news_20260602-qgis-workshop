@@ -4,7 +4,7 @@ lang: en
 translation_key: n4o_news_20260602-qgis-workshop4
 title: '4th DASV-QGIS-Workshop in cooperation with NFDI4Objects'
 excerpt: 'Announcement and Information about the Workshop on July 16, 2026'
-date: 2026-06-02
+date: 2026-06-01
 areas:
 - ta6
 trails:
@@ -36,7 +36,7 @@ Further information on the workshop series can be found here:
    url="/events/n4o_activity_20250715-1837/"
    style="primary"
 %}
-
+  
 {% include blocks/image-centered.html
    image="/assets/images/activities/n4o_ws_dasv_plakat4.png"
    alt="Flyer of the 4th DASV-QGIS-Workshop"
