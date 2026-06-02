@@ -25,7 +25,7 @@ style="width:75%; display:block; margin:auto;">
 <br>
  
 
-**The Schedule for the kick-off event and further Updates on the workshop series is now available:**
+**The Schedule for the virtual event and further Updates on the workshop series is now available:**
 
 <a href="https://www.nfdi4objects.net/en/events/n40_activity_20260612-CM2026/" style="
   background:#13294b;

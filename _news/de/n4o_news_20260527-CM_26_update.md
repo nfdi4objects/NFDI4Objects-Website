@@ -24,7 +24,7 @@ style="width:75%; display:block; margin:auto;">
 <br>
 <br>
 
-**Das Programm für die Auftaktveranstaltung und weitere Neuigkeiten zur Workshopreihe sind jetzt verfügbar:**
+**Das Programm für das virtuelle Event und weitere Neuigkeiten zur Workshopreihe sind jetzt verfügbar:**
 
 <a href="https://www.nfdi4objects.net/events/n40_activity_20260612-CM2026/" style="
   background:#13294b;
