@@ -2,7 +2,7 @@
 layout: news
 lang: de
 translation_key: n4o_news_20260528-boosting_biodata_bootcamp
-title: ''
+title: 'NFDI4Biodiversity - Boosting Biodata Bootcamp'
 excerpt: ''
 date: 2026-06-01 
 areas:
