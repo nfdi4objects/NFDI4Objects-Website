@@ -4,7 +4,7 @@ lang: de
 translation_key: n4o_news_20260527-CM_26_update
 title: '4. Community Meeting von NFDI4Objects'
 excerpt: 'Programmankündigung für den 12. Juni 2026'
-date: 2026-05-27 
+date: 2026-06-02
 areas:
 - ta1
 - ta2
@@ -24,7 +24,7 @@ style="width:75%; display:block; margin:auto;">
 <br>
 <br>
 
-**Das Programm für die Auftaktveranstaltung und weitere Neuigkeiten zur Workshopreihe sind jetzt verfügbar:**
+**Das Programm für das virtuelle Event und weitere Neuigkeiten zur Workshopreihe sind jetzt verfügbar:**
 
 <a href="https://www.nfdi4objects.net/events/n40_activity_20260612-CM2026/" style="
   background:#13294b;

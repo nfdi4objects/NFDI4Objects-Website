@@ -4,7 +4,7 @@ lang: en
 translation_key: n4o_news_20260527-CM_26_update
 title: '4th Community Meeting in NFDI4Objects'
 excerpt: 'Schedule announced for June 12, 2026'
-date: 2026-05-27 
+date: 2026-06-02 
 areas:
 - ta1
 - ta2
@@ -25,7 +25,7 @@ style="width:75%; display:block; margin:auto;">
 <br>
  
 
-**The Schedule for the kick-off event and further Updates on the workshop series is now available:**
+**The Schedule for the virtual event and further Updates on the workshop series is now available:**
 
 <a href="https://www.nfdi4objects.net/en/events/n40_activity_20260612-CM2026/" style="
   background:#13294b;
