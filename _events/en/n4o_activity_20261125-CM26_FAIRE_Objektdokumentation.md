@@ -38,8 +38,8 @@ The workshop combines theoretical foundations with practical insights into curre
 
 Interested parties are asked to send a short letter of motivation (approx. 250 words) detailing their prior knowledge, current stage of study and expectations of the workshop to the following address: [c.klose@smb.spk-berlin.de](mailto:c.klose@smb.spk-berlin.de).
 
-**Date**: to be confirmed, (expected to be in late September/early October)
-**Application deadline:** July 27, 2026
-**Chairs:** [Angela Berthold](https://www.nfdi4objects.net/persons/angelaberthold/) und [Christoph Klose](https://www.nfdi4objects.net/persons/christophklose/)
+**Date**: to be confirmed, (expected to be in late September/early October)  
+**Application deadline:** July 27, 2026  
+**Chairs:** [Angela Berthold](https://www.nfdi4objects.net/persons/angelaberthold/) und [Christoph Klose](https://www.nfdi4objects.net/persons/christophklose/)  
 
- ### Further Information will be announced soon!
+### Further Information will be announced soon!

@@ -38,7 +38,8 @@ Der Workshop verbindet theoretische Grundlagen mit praktischen Einblicken in akt
 
 Interessierte werden gebeten, ein kurzes Motivationsschreiben (ca. 250 Wörter) mit Angaben zu ihren Vorkenntnissen, ihrem aktuellen Studienstand und ihren Erwartungen an den Workshop an folgende Adresse zu senden: [c.klose@smb.spk-berlin.de](mailto:c.klose@smb.spk-berlin.de)
  
-**Termin**: noch bekanntzugeben (vorraussichtlich Ende September/ Anfang Oktober)
-**Anmeldeschluss:** 27. Juli 2026
-**Max. Teilnehmendenzahl:** 10 - 15
+**Termin**: noch bekanntzugeben (vorraussichtlich Ende September/ Anfang Oktober)  
+**Anmeldeschluss:** 27. Juli 2026  
+**Max. Teilnehmendenzahl:** 10 - 15  
+
 ### Weitere Informationen werden demnächst veröffentlicht!
