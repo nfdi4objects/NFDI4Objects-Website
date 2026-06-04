@@ -1,7 +1,7 @@
 ---
 layout: event
 lang: en
-translation_key: n4o_activity_20260717-CM26-Fuzzy_Koeln
+translation_key: n4o_activity_20260717-CM26_Fuzzy_Koeln
 title: 'Modelling Fuzziness and Wobbliness at the NFDI Lokalforum of Cologne University'
 excerpt: 'at the University of Cologne’s NFDI Local Forum'
 date: 2026-05-27
@@ -13,7 +13,7 @@ areas:
 trails: []
 ccs: 
 twgs: []
-permalink: en/events/n4o_activity_20260717-CM26-Fuzzy_Koeln/
+permalink: en/events/n4o_activity_20260717-CM26_Fuzzy_Koeln/
 ---
 Representing vagueness and uncertainty in digital data can be very challenging. Yet ambiguous information is commonplace in archaeology and related disciplines. Whilst vague data often implies a degree of precision, ambiguous information frequently prevents effective analysis. Can ambiguity be modelled in such a way that such data is nevertheless suitable for re-use? How can data that is both vague and imprecise be handled?  
 These questions are being explored, among other things, by TRAIL 2.8 in NFDI4Objects Task Area 2 “Collecting”, which is developing initial proposals for dealing with imprecise data. The workshop builds on this and clearly conveys the recommendations through a practical exercise. It also aims to create a space for commenting on and discussing the content. Targeted specifically via the NFDI Local Forum of the Faculty of Arts at the University of Cologne, all researchers in the humanities are warmly invited to attend.  
