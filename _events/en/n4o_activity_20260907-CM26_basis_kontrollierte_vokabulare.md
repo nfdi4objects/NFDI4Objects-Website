@@ -24,5 +24,5 @@ The course is aimed at professionals from museums, archives, universities, resea
 
 **When:** September 7, 2026, 1:00–3:00 p.m.   
 **Duration:** approx. 2 hours  
-**Chairs:** [Kristina Fischer](https://www.nfdi4objects.net/persons/kristinafella/)(LEIZA), [Anja Gerber](https://www.nfdi4objects.net/persons/anjagerber/) (KSW)
+**Chairs:** [Kristina Fischer](https://www.nfdi4objects.net/persons/kristinafella/)(LEIZA), [Anja Gerber](https://www.nfdi4objects.net/persons/anjagerber/) (KSW)  
 **Zoom**: The Zoom link will be sent once you have registered.
