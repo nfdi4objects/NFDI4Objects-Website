@@ -12,7 +12,7 @@ cochairs:
 - name: Johanne Lefeldt
   person_ref: johannelefeldt
 - name: Lasse Mempel-Länger
-  person_ref: 
+  person_ref: lassemempel-länger
 areas:
 - ta4
 institutions:

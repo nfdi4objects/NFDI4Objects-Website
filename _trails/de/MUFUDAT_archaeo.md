@@ -11,8 +11,8 @@ round: second
 cochairs:
 - name: Ulrike Werban
   person_ref: ulrikewerban
-- name:  Joahnnes Rabiger-Völlmer
-  person_ref: 
+- name:  Johannes Rabiger-Völlmer
+  person_ref: johannesrabiger-völlmer
 areas:
 - ta1
 - ta6

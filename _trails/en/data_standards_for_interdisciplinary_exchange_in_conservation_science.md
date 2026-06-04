@@ -11,8 +11,8 @@ round: second
 cochairs:
 - name: Johanne Lefeldt
   person_ref: johannelefeldt
-- name: ''
-  person_ref: ''
+- name: 'Lasse Mempel-Länger'
+  person_ref: lassemempel-länger
 areas:
 - ta4
 institutions:
