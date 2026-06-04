@@ -1,27 +1,27 @@
 ---
 layout: event
-lang: en
-translation_key: n4o_activity_20260717-CM26_Fuzzy_Koeln
-title: 'Modelling Fuzziness and Wobbliness at the NFDI Lokalforum of Cologne University'
-excerpt: 'at the University of Cologne’s NFDI Local Forum'
+lang: de
+translation_key: n4o_activity_20260717-CM26-Fuzzy_Koeln
+title: 'Modelling Fuzziness and Wobbliness'
+excerpt: 'im NFDI Lokalforum der Universität zu Köln'
 date: 2026-05-27
 event_date: 2026-07-17
-location: PC-Pool of the Archäoinformatik-Department. Cologne University
+location: PC-Pool der Archäoinformatik der Universität zu Köln
 event_type: "Workshop"
 areas: 
 - ta2
 trails: []
 ccs: 
 twgs: []
-permalink: en/events/n4o_activity_20260717-CM26_Fuzzy_Koeln/
+permalink: /events/n4o_activity_20260717-CM26-Fuzzy_Koeln/
 ---
-Representing vagueness and uncertainty in digital data can be very challenging. Yet ambiguous information is commonplace in archaeology and related disciplines. Whilst vague data often implies a degree of precision, ambiguous information frequently prevents effective analysis. Can ambiguity be modelled in such a way that such data is nevertheless suitable for re-use? How can data that is both vague and imprecise be handled?  
-These questions are being explored, among other things, by TRAIL 2.8 in NFDI4Objects Task Area 2 “Collecting”, which is developing initial proposals for dealing with imprecise data. The workshop builds on this and clearly conveys the recommendations through a practical exercise. It also aims to create a space for commenting on and discussing the content. Targeted specifically via the NFDI Local Forum of the Faculty of Arts at the University of Cologne, all researchers in the humanities are warmly invited to attend.  
-The workshop will take place in the PC room of the Institute of Archaeology (Room 210), on the 2nd floor at the end of the corridor. Participants will need a way to take notes and a personal device with internet access. The number of participants is limited to 20.
+Die Darstellung von Vagheit und Unsicherheiten in digitalen Daten kann sehr herausfordernd sein. Aber unscharfe Informationen sind in der Archäologie und benachbarten Wissenschaften alltäglich. Während vage Daten häufig ihre Präzision implizieren, verhindern unscharfe Angaben oft eine effektive Analyse. Kann Unschärfe auf eine Weise modelliert werden, dass sich derartige Daten dennoch für eine Nachnutzung eignen? Wie kann mit Daten umgegangen werden, die sowohl vage als auch unscharf sind?  
+Diesen Fragen geht unter anderem der TRAIL 2.8 in NFDI4Objects Task Area 2 “Collecting” nach und erarbeitet erste Vorschläge zu einem Umgang mit unscharfen Daten. Der Workshop baut darauf auf und vermittelt die Empfehlungen anschaulich anhand einer praktischen Übung. Dabei soll auch ein Raum geschaffen werden, um die Inhalte zu kommentieren und zu diskutieren. Gezielt über das NFDI-Lokalforum der Philosophischen Fakultät der Universität zu Köln beworben, sind alle geisteswissenschaftlich Forschenden hierzu herzlich eingeladen.  
+Der Workshop findet im PC-Pool des Archäologischen Instituts statt (Raum 210), im 2. OG am Ende des Korridors. Teilnehmende benötigen eine Möglichkeit, sich Notizen zu machen und ein persönliches Gerät mit Internetzugang. Die Teilnehmendenzahl ist auf 20 begrenzt. 
 
-Please send a brief registration email to lukas.lammers@uni-koeln.de.
+Wir bitten um eine kurze Anmeldung per Mail an lukas.lammers@uni-koeln.de.
 
-**When:**  17.07.2026  
-**Duration:** 14:00-17:00  
-**Chairs:** Lukas Lammers, [Oyvind Eide](https://www.nfdi4objects.net/persons/%C3%B8yvindeide/) (Universität zu Köln)  
-**Contact:** lukas.lammers@uni-koeln.de
+**Wann:** 17.07.2026  
+**Dauer:** 14:00-17:00  
+**Chair:** Lukas Lammers, [Oyvind Eide](https://www.nfdi4objects.net/persons/%C3%B8yvindeide/) (Universität zu Köln)
+**Kontakt**: lukas.lammers@uni-koeln.de
