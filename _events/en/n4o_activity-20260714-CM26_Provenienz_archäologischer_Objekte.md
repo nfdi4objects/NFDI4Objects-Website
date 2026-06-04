@@ -3,7 +3,7 @@ layout: event
 lang: en
 translation_key: n4o_activity_20260714-CM26_Provenienz_archäologischer_Objekte
 title: 'Provenance data for archaeological objects: specific features, sources, methods, challenges'
-excerpt: 'Lunch2Lunch
+excerpt: 'Lunch2Lunch'
 date: 2026-06-02
 event_date: 2026-11-12
 event_end_date: 2026-11-13
@@ -12,7 +12,7 @@ event_type: "Workshop"
 areas: 
 - ta2
 trails: []
-ccs: 
+ccs: []
 twgs: []
 permalink: en/events/n4o_activity_20260714-CM26_Provenienz_archäologischer_Objekte/
 ---
