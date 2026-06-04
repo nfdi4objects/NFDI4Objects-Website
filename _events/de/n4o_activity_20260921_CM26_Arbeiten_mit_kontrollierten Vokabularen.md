@@ -22,11 +22,11 @@ Dieser Workshop bietet einen praktischen Einstieg in die Erstellung und Nutzung 
 
 Im Fokus steht die hands-on-Arbeit mit Tools aus dem NFDI4Objects-Diensteportfolio: BARTOC zur Recherche von Vokabularen, DANTE zum Hosting und zur Publikation, sowie Cocoda für die Erstellung von Vokabular-Mappings. Teilnehmende bekommen die Möglichkeit, selbst kleine Vokabulare in Tabellenform aufzubauen, in der Gruppe über die Tücken der Modellierung zu diskutieren, und diese in DANTE zu überführen. Anhand eines konkreten Beispielvokabulars wird im Laufe des Workshops der komplette Workflow von der einfachen Wortliste über die SKOS-Modellierung bis zur Publikation als Linked Open Data demonstriert. Mit diesem Beispiel-Thesaurus können Teilnehmende anschließend selbst exemplarische Vokabular-Mappings in Cocoda ausprobieren. Der Workshop legt großen Wert auf interaktive Beteiligung, Austausch und Zeit für Fragen.
 
-**Voraussetzung:** Besuch des [vorausgegangenen Basiskurses](https://www.nfdi4objects.net/events/n4o_activity_20260921_CM26_basis_kontrollierte_vokabulare) oder vergleichbare Grundkenntnisse zu kontrollierten Vokabularen.  
+**Voraussetzung:** Besuch des [vorausgegangenen Basiskurses](https://www.nfdi4objects.net/events/n4o_activity_20260907-CM26_basis_kontrollierte_vokabulare/) oder vergleichbare Grundkenntnisse zu kontrollierten Vokabularen.  
 
 
 **Wann:** 21.09.2026, 13.00–16.00 Uhr  
 **Dauer:** ca. 2,5–3 Stunden  
 **Chairs:** [Kristina Fischer (LEIZA),](https://www.nfdi4objects.net/persons/kristinafella/), [Anja Gerber (KSW)](https://www.nfdi4objects.net/persons/anjagerber/) , [Michael Markert (VZG)](https://www.nfdi4objects.net/persons/michaelmarkert/)  
 **Zoom:** Der Zoom-Link wird nach der Anmeldung versendet.  
-**Kontakt:** [kristina.fischer@leiza.de](kristina.fischer@leiza.de)
+**Kontakt:** [kristina.fischer@leiza.de](mailto:kristina.fischer@leiza.de)

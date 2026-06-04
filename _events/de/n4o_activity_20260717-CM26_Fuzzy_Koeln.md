@@ -1,7 +1,7 @@
 ---
 layout: event
 lang: de
-translation_key: n4o_activity_20260717-CM26-Fuzzy_Koeln
+translation_key: n4o_activity_20260717-CM26_Fuzzy_Koeln
 title: 'Modelling Fuzziness and Wobbliness'
 excerpt: 'im NFDI Lokalforum der Universität zu Köln'
 date: 2026-05-27
@@ -13,7 +13,7 @@ areas:
 trails: []
 ccs: 
 twgs: []
-permalink: /events/n4o_activity_20260717-CM26-Fuzzy_Koeln/
+permalink: /events/n4o_activity_20260717-CM26_Fuzzy_Koeln/
 ---
 Die Darstellung von Vagheit und Unsicherheiten in digitalen Daten kann sehr herausfordernd sein. Aber unscharfe Informationen sind in der Archäologie und benachbarten Wissenschaften alltäglich. Während vage Daten häufig ihre Präzision implizieren, verhindern unscharfe Angaben oft eine effektive Analyse. Kann Unschärfe auf eine Weise modelliert werden, dass sich derartige Daten dennoch für eine Nachnutzung eignen? Wie kann mit Daten umgegangen werden, die sowohl vage als auch unscharf sind?  
 Diesen Fragen geht unter anderem der TRAIL 2.8 in NFDI4Objects Task Area 2 “Collecting” nach und erarbeitet erste Vorschläge zu einem Umgang mit unscharfen Daten. Der Workshop baut darauf auf und vermittelt die Empfehlungen anschaulich anhand einer praktischen Übung. Dabei soll auch ein Raum geschaffen werden, um die Inhalte zu kommentieren und zu diskutieren. Gezielt über das NFDI-Lokalforum der Philosophischen Fakultät der Universität zu Köln beworben, sind alle geisteswissenschaftlich Forschenden hierzu herzlich eingeladen.  

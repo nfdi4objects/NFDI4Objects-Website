@@ -26,4 +26,4 @@ The course is aimed at professionals from museums, archives, universities, resea
 **Duration:** approx. 2 hours  
 **Chairs:** [Kristina Fischer (LEIZA)](https://www.nfdi4objects.net/persons/kristinafella/), [Anja Gerber (KSW) ](https://www.nfdi4objects.net/persons/anjagerber/) 
 **Zoom**: The Zoom link will be sent once you have registered.  
-**Contact:** [kristina.fischer@leiza.de](kristina.fischer@leiza.de)
+**Contact:** [kristina.fischer@leiza.de](mailto:kristina.fischer@leiza.de)

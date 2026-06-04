@@ -57,7 +57,7 @@ Please include:
 
 Presentations and abstracts will be shared in a Zenodo community.
 
-#### Contact
-Angela Berthold  
-TA2 Collecting in NFDI4Objects  
-a.berthold@smb.spk-berlin.de
+[Angela Berthold](https://www.nfdi4objects.net/en/persons/angelaberthold/) 
+[TA2 Collecting in NFDI4Objects](https://www.nfdi4objects.net/en/areas/ta2/) 
+[a.berthold@smb.spk-berlin.de](mailto:a.berthold@smb.spk-berlin.de)
+  
