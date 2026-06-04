@@ -23,6 +23,6 @@ Wir bitten um eine kurze Anmeldung per Mail an [lukas.lammers@uni-koeln.de](mail
 
 **Wann:** 17.07.2026  
 **Dauer:** 14:00-17:00  
-**Max. Teilnehmendenanzahl:** 20
+**Max. Teilnehmendenanzahl:** 20  
 **Chair:** Lukas Lammers, [Oyvind Eide](https://www.nfdi4objects.net/persons/%C3%B8yvindeide/) (Universität zu Köln)  
 **Kontakt**: [lukas.lammers@uni-koeln.de](mailto:lukas.lammers@uni-koeln.de)
