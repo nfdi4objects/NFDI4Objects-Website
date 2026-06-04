@@ -40,6 +40,8 @@ Interested parties are asked to send a short letter of motivation (approx. 250 w
 
 **Date**: to be confirmed, (expected to be in late September/early October)  
 **Application deadline:** July 27, 2026  
-**Chairs:** [Angela Berthold](https://www.nfdi4objects.net/persons/angelaberthold/) und [Christoph Klose](https://www.nfdi4objects.net/persons/christophklose/)  
+**Chairs:** [Angela Berthold](https://www.nfdi4objects.net/persons/angelaberthold/) und [Christoph Klose](https://www.nfdi4objects.net/persons/christophklose/)    
+**Maximum number of participants:** 10–15 
+**Contact:** [c.klose@smb.spk-berlin.de](mailto:c.klose@smb.spk-berlin.de)
 
 ### Further Information will be announced soon!

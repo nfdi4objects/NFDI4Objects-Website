@@ -40,6 +40,8 @@ Interessierte werden gebeten, ein kurzes Motivationsschreiben (ca. 250 Wörter) 
  
 **Termin**: noch bekanntzugeben (vorraussichtlich Ende September/ Anfang Oktober)  
 **Anmeldeschluss:** 27. Juli 2026  
+**Chairs:** [Angela Berthold](https://www.nfdi4objects.net/persons/angelaberthold/) und [Christoph Klose](https://www.nfdi4objects.net/persons/christophklose/)  
 **Max. Teilnehmendenzahl:** 10 - 15  
+**Kontakt:**  [c.klose@smb.spk-berlin.de](mailto:c.klose@smb.spk-berlin.de)
 
 ### Weitere Informationen werden demnächst veröffentlicht!

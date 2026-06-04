@@ -54,12 +54,15 @@ Bitte geben Sie an:
 - Kurzvorträge (20 Minuten + Diskussion)
 - Projekt- oder Werkstattberichte (10 Minuten + Diskussion)
 
-Präsentationen und Abstracts werden in einer Zenodo-Community geteilt.
+Präsentationen und Abstracts werden in einer Zenodo-Community geteilt.  
 
-#### Kontakt
+**Wann:** 12.-13- November 2026  
+**Max. Teilnehmendenzahl:** 25 
 
-[Angela Berthold](https://www.nfdi4objects.net/persons/angelaberthold/) 
-[TA2 Collecting in NFDI4Objects](https://www.nfdi4objects.net/areas/ta2/) 
-[a.berthold@smb.spk-berlin.de](mailto:a.berthold@smb.spk-berlin.de)
+**Kontakt & Chair**
+
+[Angela Berthold](https://www.nfdi4objects.net/persons/angelaberthold/)   
+[TA2 Collecting in NFDI4Objects](https://www.nfdi4objects.net/areas/ta2/)   
+[a.berthold@smb.spk-berlin.de](mailto:a.berthold@smb.spk-berlin.de)  
   
 

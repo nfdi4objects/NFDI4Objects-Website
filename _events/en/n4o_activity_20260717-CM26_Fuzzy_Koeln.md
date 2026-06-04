@@ -19,9 +19,10 @@ Representing vagueness and uncertainty in digital data can be very challenging. 
 These questions are being explored, among other things, by TRAIL 2.8 in NFDI4Objects Task Area 2 “Collecting”, which is developing initial proposals for dealing with imprecise data. The workshop builds on this and clearly conveys the recommendations through a practical exercise. It also aims to create a space for commenting on and discussing the content. Targeted specifically via the NFDI Local Forum of the Faculty of Arts at the University of Cologne, all researchers in the humanities are warmly invited to attend.  
 The workshop will take place in the PC room of the Institute of Archaeology (Room 210), on the 2nd floor at the end of the corridor. Participants will need a way to take notes and a personal device with internet access. The number of participants is limited to 20.
 
-Please send a brief registration email to lukas.lammers@uni-koeln.de.
+Please send a brief registration email to [lukas.lammers@uni-koeln.de](mailto:lukas.lammers@uni-koeln.de)
 
 **When:**  17.07.2026  
 **Duration:** 14:00-17:00  
-**Chairs:** Lukas Lammers, [Oyvind Eide](https://www.nfdi4objects.net/persons/%C3%B8yvindeide/) (Universität zu Köln)  
+**Chairs:** Lukas Lammers, [Oyvind Eide](https://www.nfdi4objects.net/persons/%C3%B8yvindeide/) (Universität zu Köln) 
+**Maximum number of participants:** 20 
 **Contact:** lukas.lammers@uni-koeln.de
