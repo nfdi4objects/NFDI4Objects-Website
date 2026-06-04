@@ -27,6 +27,6 @@ Im Fokus steht die hands-on-Arbeit mit Tools aus dem NFDI4Objects-Diensteportfol
 
 **Wann:** 21.09.2026, 13.00–16.00 Uhr  
 **Dauer:** ca. 2,5–3 Stunden  
-**Chairs:** [Kristina Fischer (LEIZA),](https://www.nfdi4objects.net/persons/kristinafella/), [Anja Gerber (KSW)](https://www.nfdi4objects.net/persons/anjagerber/) , [Michael Markert (VZG)](https://www.nfdi4objects.net/persons/michaelmarkert/)
-**Zoom:** Der Zoom-Link wird nach der Anmeldung versendet.
+**Chairs:** [Kristina Fischer (LEIZA),](https://www.nfdi4objects.net/persons/kristinafella/), [Anja Gerber (KSW)](https://www.nfdi4objects.net/persons/anjagerber/) , [Michael Markert (VZG)](https://www.nfdi4objects.net/persons/michaelmarkert/)  
+**Zoom:** Der Zoom-Link wird nach der Anmeldung versendet.  
 **Kontakt:** [kristina.fischer@leiza.de](kristina.fischer@leiza.de)
