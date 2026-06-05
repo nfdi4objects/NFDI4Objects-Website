@@ -29,7 +29,7 @@ navigation:
 
 legal:
   - title: "Imprint"
-    url: "/en/imprint/"
+    url: "https://www.dainst.org/en/imprint"
   - title: "Data protection"
     url: "/en/legal/dataprotection/"
   - title: "Accessibility"
