@@ -3,7 +3,7 @@ layout: event
 lang: en
 translation_key: n4o_activity_20260717-CM26_Fuzzy_Koeln
 title: 'Modelling Fuzziness and Wobbliness at the NFDI Lokalforum of Cologne University'
-excerpt: 'at the University of Cologne’s NFDI Local Forum'
+excerpt: ''
 date: 2026-05-27
 event_date: 2026-07-17
 location: PC-Pool of the Archäoinformatik-Department. Cologne University

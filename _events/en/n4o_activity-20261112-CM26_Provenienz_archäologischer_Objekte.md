@@ -1,9 +1,9 @@
 ---
 layout: event
 lang: en
-translation_key: n4o_activity_20260714-CM26_Provenienz_archäologischer_Objekte
+translation_key: n4o_activity_20261112-CM26_Provenienz_archäologischer_Objekte
 title: 'Provenance data for archaeological objects: specific features, sources, methods, challenges'
-excerpt: 'Lunch2Lunch'
+excerpt: ''
 date: 2026-06-02
 event_date: 2026-11-12
 event_end_date: 2026-11-13
@@ -14,7 +14,7 @@ areas:
 trails: []
 ccs: []
 twgs: []
-permalink: en/events/n4o_activity_20260714-CM26_Provenienz_archäologischer_Objekte/
+permalink: en/events/n4o_activity_20261112-CM26_Provenienz_archäologischer_Objekte/
 ---
 Provenance data relating to archaeological objects is a key component of information for their scholarly interpretation, legal assessment and ethically responsible handling. It forms the basis for addressing questions of origin, ownership history, collection contexts, routes of transfer, and the handling of illicit trade, looting and colonial acquisition contexts.
 

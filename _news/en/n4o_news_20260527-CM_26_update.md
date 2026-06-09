@@ -3,7 +3,7 @@ layout: news
 lang: en
 translation_key: n4o_news_20260527-CM_26_update
 title: '4th Community Meeting in NFDI4Objects'
-excerpt: ''
+excerpt: 'The programme for the virtual event and further updates on the workshop series'
 date: 2026-06-02 
 areas:
 - ta1
