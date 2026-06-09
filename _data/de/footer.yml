@@ -31,7 +31,7 @@ navigation:
 
 legal:
   - title: "Impressum"
-    url: "/imprint/"
+    url: "https://www.dainst.org/impressum"
   - title: "Datenschutz"
     url: "/dataprotection/"
   - title: "Barrierefreiheit"
