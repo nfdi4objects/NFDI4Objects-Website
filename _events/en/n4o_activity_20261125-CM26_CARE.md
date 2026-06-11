@@ -21,4 +21,4 @@ Date: November 15 2026
 Chairs:  Romy Köhler (DBM) und Tolin Jojo (DAI)
  
 
-Further Information will be announced soon!
+Further Information will be announced soon! 
