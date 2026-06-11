@@ -23,7 +23,6 @@ In our **workshop series "Perspectives on AI for Archaeologies"**, we explore th
 - **Stocktaking and Practical Examples:** From collection documentation to coin recognition and text mining—discover how AI is already being used in archaeological projects.
 - **Learning from Neighbors:** How are other NFDI consortia leveraging AI? A forum for sharing methods, services, and synergies.
 - **Data Sovereignty and Legal Frameworks:** What does AI mean for research data infrastructure? Current regulations and practical case studies.
-- **Kickoff: Community of Practice on AI in Museums:** Technical and application-focused discussions based on real-world examples.
 
 This series is aimed at researchers, data managers, and anyone interested in the use of AI in archaeology. **Together, we will explore the potential of AI and shape the future of archaeological research.**
 

@@ -23,7 +23,6 @@ In unserer **Workshopreihe „Perspektiven der KI für die Archäologien“** be
 - **Bestandsaufnahme und Praxisbeispiele:** Von der Sammlungserfassung über Münzerkennung bis hin zu Textmining – wir zeigen, wie KI heute schon in archäologischen Projekten eingesetzt wird.
 - **Lernen von den Nachbarn:** Wie nutzen andere NFDI-Konsortien KI? Ein Austausch über Methoden, Dienste und Synergien.
 - **Datensouveränität und Recht:** Was bedeutet KI für die Forschungsdateninfrastruktur? Aktuelle Gesetzeslagen und Praxisbeispiele.
-- **Kickoff Community of Practice KI in Museen:** Technische und anwendungsbezogene Schwerpunkte an konkreten Fallbeispielen.
 
 Die Reihe richtet sich an Forschende, Datenmanager:innen und alle, die sich für den Einsatz von KI in den Archäologien interessieren. **Gemeinsam loten wir Potenziale aus – und gestalten die Zukunft der archäologischen Forschung mit.**
 
