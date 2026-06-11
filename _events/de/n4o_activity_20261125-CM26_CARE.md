@@ -16,8 +16,8 @@ twgs:
 - twg_care_principles
 permalink: /events/n4o_activity_20261125-CM26_CARE/
 ---
-**Datum:** 25. November 2026  
-**Sprache:** Englisch   
-**Chairs:** [Romy Köhler](https://www.nfdi4objects.net/persons/romyk%C3%B6hler/) (DSM), [Tolin Jojo](https://www.nfdi4objects.net/persons/tolinjojo/) (DAI)
+Datum: 25. November 2026  
+Sprache: Englisch   
+Chairs: Romy Köhler (DSM), Tolin Jojo (DAI)
 
-#### Weitere Informationen werden demnächst veröffentlicht!
+Weitere Informationen werden demnächst veröffentlicht!
