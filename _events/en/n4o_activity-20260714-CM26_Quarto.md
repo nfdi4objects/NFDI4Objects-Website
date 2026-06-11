@@ -2,8 +2,8 @@
 layout: event
 lang: en
 translation_key: n4o_activity_20260714-CM26_Quarto
-title: 'Write once, publish widely: Intuitive Workflow with Quarto and Templates'
-excerpt: 'From Markdown to PDF or Website with customizable (FAIR) templates'
+title: 'Write once, publish widely-Intuitive Workflow with Quarto and Templates: From Markdown to PDF or Website with customizable (FAIR) templates'
+excerpt: ''
 date: 2026-05-27
 event_date: 2026-07-14
 location: online
