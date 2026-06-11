@@ -20,4 +20,4 @@ Datum: 25. November 2026
 Sprache: Englisch   
 Chairs: Romy Köhler (DSM), Tolin Jojo (DAI)
 
-Weitere Informationen werden demnächst veröffentlicht!
+Weitere Informationen werden demnächst zur Verfügung gestellt!
