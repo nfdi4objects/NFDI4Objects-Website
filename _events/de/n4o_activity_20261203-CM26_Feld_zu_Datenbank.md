@@ -42,7 +42,7 @@ konkrete Praxisfragen: Fragestellungen zu Datenstrukturen, Formaten, Schnittstel
 
 Geeignet sind u. a. Grabungs- und Sachdaten, Vermessungs- und Geodaten und Bilddaten. Mögliche Formate sind z. B. TIFF, JPEG, Shapefile, GeoTIFF,  GeoJSON, CSV oder XSLX.
 
-Für die Einreichung bitten wir **bis 17.08.2026** um ein kurzes Abstract von max. 300 Wörtern an [fabian.riebschläger@dainst.de](fabian.riebschlaeger@dainst.de).
+Für die Einreichung bitten wir **bis 17.08.2026** um ein kurzes Abstract von max. 300 Wörtern an [fabian.riebschlaeger@dainst.de](fabian.riebschlaeger@dainst.de).
 
 #### Daraus sollte hervorgehen:
 
