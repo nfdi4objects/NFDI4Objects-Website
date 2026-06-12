@@ -73,7 +73,12 @@ main:
   - title: "News"
     url: "/en/news/"
   - title: "Events"
-    url: "/en/events/"
+    url: "#"
+    children:
+      - title: "All Events"
+        url: "/en/events/all/"
+      - title: "Workshops"
+        url: "/en/events/workshops/"
   - title: "Help & Contact"
     url: "/en/help/"
 
