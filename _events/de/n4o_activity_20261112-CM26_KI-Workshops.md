@@ -4,7 +4,7 @@ lang: de
 translation_key: n4o_activity_20261112-CM26_KI-Workshops
 title: 'Perspektiven der KI für die Archäologien – Workshopreihe in NFDI4Objects'
 excerpt: ''
-date: []
+date: 
 event_date: ''
 location: verschieden
 event_type: "Workshop"
