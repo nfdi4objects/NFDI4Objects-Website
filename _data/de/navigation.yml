@@ -74,6 +74,9 @@ main:
     url: "/news/"
   - title: "Events"
     url: "/events/"
+    children:
+      - title: "Workshops"
+        url: "/events/workshops/"
   - title: "Hilfe & Kontakt"
     url: "/help/"
 
