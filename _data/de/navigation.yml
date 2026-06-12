@@ -77,7 +77,6 @@ main:
     children:
       - title: "Alle Events"
         url: "/events/"
-    children:
       - title: "Workshops"
         url: "/events/workshops/"
   - title: "Hilfe & Kontakt"
