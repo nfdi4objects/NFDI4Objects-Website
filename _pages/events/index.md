@@ -2,7 +2,7 @@
 layout: n4o-base
 title: "Veranstaltungen"
 lang: de
-permalink: /events/
+permalink: /events/all/
 translation_key: events-overview
 ---
 

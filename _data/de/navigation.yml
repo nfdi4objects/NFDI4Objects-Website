@@ -76,7 +76,7 @@ main:
     url: "/#/"
     children:
       - title: "Alle Events"
-        url: "/events/"
+        url: "/events/all/"
       - title: "Workshops"
         url: "/events/workshops/"
   - title: "Hilfe & Kontakt"
