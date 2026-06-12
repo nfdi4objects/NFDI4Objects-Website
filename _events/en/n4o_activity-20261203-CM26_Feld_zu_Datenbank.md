@@ -60,7 +60,7 @@ The workshop takes place as part of the NFDI4Objects-TRAIL on reference workflow
 
 **Date:** 03 - 04 December 2026     
 **Registration deadline:** 17 August 2026      
-**Chairs:** [Fabian Riebschläger](https://www.nfdi4objects.net/persons/fabianriebschl%C3%A4ger/), [Mark Rappe](),[Jonas Abele](https://www.nfdi4objects.net/persons/jonasabele/), [Benjamin Höke](https://www.nfdi4objects.net/persons/benjaminh%C3%B6ke/), [Steffen Berger](https://www.nfdi4objects.net/persons/steffenberger/), [Julian Hollaender](https://www.nfdi4objects.net/persons/julianhollaender/), Sarah Nöcker  
+**Chairs:** [Fabian Riebschläger](https://www.nfdi4objects.net/persons/fabianriebschl%C3%A4ger/), [Marc Rappe](),[Jonas Abele](https://www.nfdi4objects.net/persons/jonasabele/), [Benjamin Höke](https://www.nfdi4objects.net/persons/benjaminh%C3%B6ke/), [Steffen Berger](https://www.nfdi4objects.net/persons/steffenberger/), [Julian Hollaender](https://www.nfdi4objects.net/persons/julianhollaender/), Sarah Nöcker  
 **Max. number of participants:** 15        
 **Contact:** [fabian.riebschlaeger@dainst.de](mailto:fabian.riebschlaeger@dainst.de)    
 

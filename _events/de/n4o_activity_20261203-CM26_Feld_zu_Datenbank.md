@@ -42,7 +42,7 @@ konkrete Praxisfragen: Fragestellungen zu Datenstrukturen, Formaten, Schnittstel
 
 Geeignet sind u. a. Grabungs- und Sachdaten, Vermessungs- und Geodaten und Bilddaten. Mögliche Formate sind z. B. TIFF, JPEG, Shapefile, GeoTIFF,  GeoJSON, CSV oder XSLX.
 
-Für die Einreichung bitten wir **bis 17.08.2026** um ein kurzes Abstract von max. 300 Wörtern an [fabian.riebschläger@ainst.de](fabian.riebschlaeger@dainst.de).
+Für die Einreichung bitten wir **bis 17.08.2026** um ein kurzes Abstract von max. 300 Wörtern an [fabian.riebschläger@dainst.de](fabian.riebschlaeger@dainst.de).
 
 #### Daraus sollte hervorgehen:
 
@@ -63,6 +63,6 @@ Der Workshop findet im Rahmen des NFDI4Objects-TRAILs zu Referenzworkflows für 
 
 **Datum:** 03. - 04. Dezember 2026     
 **Anmeldeschluss:** 17 August 2026      
-**Chairs:** [Fabian Riebschläger](https://www.nfdi4objects.net/persons/fabianriebschl%C3%A4ger/), [Mark Rappe](),[Jonas Abele](https://www.nfdi4objects.net/persons/jonasabele/), [Benjamin Höke](https://www.nfdi4objects.net/persons/benjaminh%C3%B6ke/), [Steffen Berger](https://www.nfdi4objects.net/persons/steffenberger/), [Julian Hollaender](https://www.nfdi4objects.net/persons/julianhollaender/), Sarah Nöcker  
+**Chairs:** [Fabian Riebschläger](https://www.nfdi4objects.net/persons/fabianriebschl%C3%A4ger/), [Marc Rappe](),[Jonas Abele](https://www.nfdi4objects.net/persons/jonasabele/), [Benjamin Höke](https://www.nfdi4objects.net/persons/benjaminh%C3%B6ke/), [Steffen Berger](https://www.nfdi4objects.net/persons/steffenberger/), [Julian Hollaender](https://www.nfdi4objects.net/persons/julianhollaender/), Sarah Nöcker  
 **Max. Teilnehmendenzahl:** 15        
 **Kontakt:** [fabian.riebschlaeger@dainst.de](mailto:fabian.riebschlaeger@dainst.de)
