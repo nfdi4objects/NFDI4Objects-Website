@@ -5,7 +5,7 @@ translation_key: 5.4_second_TRAILs
 title: Künstliche Intelligenz für die Erschließung von Museumssammlungen 
 start_date: 2026-01-01
 end_date: ''
-proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/24
+proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/35
 type: n4o:Project
 round: second
 cochairs:

@@ -6,7 +6,7 @@ title: NFDI4Objects Commons
 short_title: ''
 logo: /assets/images/services/n4o_commons_logo_500px.png
 homepage: ''
-access_url: ''
+access_url: 'https://commons.nfdi4objects.net'
 areas:
 - ta7
 trails: []
