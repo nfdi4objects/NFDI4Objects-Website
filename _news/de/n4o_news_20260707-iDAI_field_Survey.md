@@ -1,7 +1,7 @@
 ---
 layout: news
 lang: de
-translation_key: n4o_news_20260707-iDAI.field_Survey
+translation_key: n4o_news_20260707-iDAI_field_Survey
 title: 'Umfrage zur Veröffentlichung und Versionierung von iDAI.field-Daten'
 excerpt: ''
 date: 2026-07-07
@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_20260707--iDAI.field_Survey/
+permalink: /news/n4o_news_20260707--iDAI_field_Survey/
 ---
 Sehr geehrte Kollegin, sehr geehrter Kollege,
 

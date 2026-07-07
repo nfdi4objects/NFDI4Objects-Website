@@ -1,7 +1,7 @@
 ---
 layout: news
 lang: en
-translation_key: n4o_news_20260707-iDAI.field_Survey
+translation_key: n4o_news_20260707-iDAI_field_Survey
 title: 'Survey on Publishing and Versioning of iDAI.field Data'
 excerpt: ''
 date: 2026-07-07
@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: en/news/n4o_news_20260707--iDAI.field_Survey/
+permalink: en/news/n4o_news_20260707--iDAI_field_Survey/
 ---
 Dear colleague,
 
