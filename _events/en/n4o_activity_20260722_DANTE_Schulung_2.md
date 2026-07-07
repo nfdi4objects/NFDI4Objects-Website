@@ -7,7 +7,6 @@ excerpt: ''
 date: 2026-07-07
 event_date: '2026-07-22'
 location: 'online'
-event_type: ''
 areas: 
 trails: []
 ccs: 

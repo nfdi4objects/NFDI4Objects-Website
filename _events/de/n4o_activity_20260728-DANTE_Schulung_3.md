@@ -7,7 +7,6 @@ excerpt: 'Clustertreffen des CC Authority Files and Community-driven Vocabularie
 date: 2026-07-07
 event_date: '2026-07-28'
 location: 'online'
-event_type: ''
 areas: 
 trails: []
 ccs: 

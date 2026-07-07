@@ -7,7 +7,6 @@ excerpt: ''
 date: 2026-07-07
 event_date: '2026-09-22'
 location: 'Bonn'
-event_type: ''
 areas: 
 trails: []
 ccs: 
