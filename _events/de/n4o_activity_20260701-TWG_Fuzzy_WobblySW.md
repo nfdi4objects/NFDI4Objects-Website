@@ -3,7 +3,7 @@ layout: event
 lang: de
 translation_key: n4o_activity_20260701-TWG_Fuzzy_WobblySW
 title: 'Nächstes Treffen der TWG FuzzyWobblySW und dem Community Cluster "Semantic Modelling & Linked Open Data“'
-excerpt: 
+excerpt: ''
 date: 2026-07-07
 event_date: 2026-07-01
 location: 'online'

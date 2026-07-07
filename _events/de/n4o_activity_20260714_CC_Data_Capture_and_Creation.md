@@ -3,7 +3,7 @@ layout: event
 lang: de
 translation_key: n4o_activity_20260714_CC_Data_Capture_and_Creation
 title: 'Clustertreffen des CC “Data Capture and Creation” zum Thema 3D'
-excerpt: 
+excerpt: ''
 date: 2026-07-07
 event_date: 2026-07-14
 location: 'online'
@@ -14,7 +14,7 @@ ccs:
 twgs:
 permalink: /events/n4o_activity_20260714_CC_Data_Capture_and_Creation/
 ---
-#### **Am 14. Juli 2026, 14:30 bis 16:00 Uhr**, findet das nächste Clustertreffen des CC „Data Capture and Creation“ statt. Unser Gast ist [Prof. Dr. Martin Langner](https://www.uni-goettingen.de/de/prof.+dr.+martin+langner/675186.html), Professor für Digitale Bild- und Objektwissenschaft an der Georg-August-Universität Göttingen.
+**Am 14. Juli 2026, 14:30 bis 16:00 Uhr**, findet das nächste Clustertreffen des CC „Data Capture and Creation“ statt. Unser Gast ist [Prof. Dr. Martin Langner](https://www.uni-goettingen.de/de/prof.+dr.+martin+langner/675186.html), Professor für Digitale Bild- und Objektwissenschaft an der Georg-August-Universität Göttingen.
 
 Am Beispiel der Erfassung von Sammlungsobjekten in 3D wird zum einen über die verschiedenen Scanverfahren und 3D-Datenformate informiert als auch auf Fragen der Bereitstellung in 3D-Repositorien, die wissenschaftliche Annotation und die 3D-Objektanalyse eingegangen. Da einheitliche Standards fehlen, sollen auch abhängig von der jeweiligen Forschungsfrage Empfehlungen für entsprechende Workflows gegeben werden.
 
