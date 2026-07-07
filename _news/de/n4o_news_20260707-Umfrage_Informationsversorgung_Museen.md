@@ -23,7 +23,7 @@ Daher möchte ich alle Personen, die in Museen tätig sind, herzlich zur Teilnah
 
 Die Teilnahme dauert ca. 15-20 Minuten und erfolgt anonym.    
 
-Die Umfrage finden Sie hier: [https://unipark.th-koeln.de/uc/Informationsversorgung_im_Museum/]()
+Die Umfrage finden Sie hier: [https://unipark.th-koeln.de/uc/Informationsversorgung_im_Museum/](https://unipark.th-koeln.de/uc/Informationsversorgung_im_Museum/)
 
 Für Fragen oder Anmerkungen kontaktieren Sie mich gerne unter: chantal_maria.reissel@smail.th-koeln.de  
 
