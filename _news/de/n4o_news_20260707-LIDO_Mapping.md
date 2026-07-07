@@ -20,7 +20,7 @@ Der zweite Teil der Schulung ist dem Mapping für LIDO-Exporte gewidmet. Das Map
 Unsere Schulung richtet sich primär an Personen, die bereits Grund- oder fortgeschrittene Kenntnisse von LIDO haben, eine LIDO-kompatible Erfassungsdatenbank aufbauen oder ihre Sammlungsdaten für die Veröffentlichung fit machen möchten. Bitte beachten Sie: Der Kurs bietet keine grundlegende Einführung in das LIDO-Format an. Bitte konsultieren Sie dazu unsere Workshop-Folien vom 30. April 2026 sowie die LIDO-Schulung in NFDI4Culture.
 
 #### Die Veranstaltung findet online in deutscher Sprache statt und ist kostenfrei.   
-  
+    
 #### Die Veranstaltung beginnt um 11:00 und endet um 12:30 Uhr.   
-
+  
 #### Eine Anmeldung ist über folgende Seite möglich: [https://events.nfdi4culture.de/event/59/](https://events.nfdi4culture.de/event/59/)

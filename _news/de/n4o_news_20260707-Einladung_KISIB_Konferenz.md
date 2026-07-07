@@ -9,9 +9,9 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_20260707-LIDO_Mapping/
+permalink: /news/n4o_news_20260707-Einladung_KISIB_Konferenz/
 ---
-## Das interakademische Vorhaben KIŠIB. Digital Corpus of Ancient West Asian Seals and Sealings lädt herzlich zu seiner ersten Fachkonferenz ein. 
+# Das interakademische Vorhaben KIŠIB. Digital Corpus of Ancient West Asian Seals and Sealings lädt herzlich zu seiner ersten Fachkonferenz ein. 
 
 ### Warum siegeln? Vom gesiegelten Ton zur sozialen Interaktion im alten Westasien  22–24 Juli 2026 an der Bayerischen Akademie der Wissenschaften in München und online
   
@@ -21,7 +21,8 @@ Auf dieser Tagung werden internationale Expertinnen und Experten aus Archäologi
   
 Wir freuen uns darauf, Sie in München zu einem regen Austausch von Daten und Informationen, Ideen und Wissen begrüßen zu dürfen.  
 
---- 
+---   
+  
 Die Konferenz findet **vom 22–24.7.2026** **an der Bayerischen Akademie der Wissenschaften, Alfons-Goppel-Straße 11, 80539 München, im Sitzungssaal 1** statt.   
 
 ### Das aktuelle Programm mit Abstracts und alle weiteren Informationen finden Sie unter [https://project.kishib.org/conferences/](https://project.kishib.org/conferences/)  

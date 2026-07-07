@@ -11,7 +11,7 @@ ccs:
 twgs:
 permalink: en/news/n4o_news_20260707-Einladung_KISIB_Konferenz/
 ---
-## The inter-academic project KIŠIB: Digital Corpus of Ancient West Asian Seals and Sealings cordially invites you to its first conference. 
+# The inter-academic project KIŠIB: Digital Corpus of Ancient West Asian Seals and Sealings cordially invites you to its first conference. 
 
 ### Why Seal? From Sealed Clay to Social Interaction in Ancient West Asia  22–24 July 2026 at the Bavarian Academy of Sciences and Humanities in Munich and online
 
@@ -22,6 +22,8 @@ At this conference, international experts from the fields of archaeology and phi
 We look forward to welcoming you to Munich for a lively exchange of data and information, ideas and knowledge.  
 
 --- 
+   
+     
 The conference will take place **from 22–24 July 2026** **at the Bavarian Academy of Sciences, Alfons-Goppel-Straße 11, 80539 Munich, in Conference Room 1**.   
 
 ### The current programme with abstracts and all further information can be found at [https://project.kishib.org/conferences/](https://project.kishib.org/conferences/)  

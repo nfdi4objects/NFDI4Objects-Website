@@ -20,7 +20,7 @@ The second part of the training is dedicated to mapping for LIDO exports. Mappin
 Our training course is primarily aimed at people who already have a basic or advanced knowledge of LIDO, who wish to set up a LIDO-compatible collection database, or who wish to prepare their collection data for publication. Please note: This course does not provide a basic introduction to the LIDO format. For this, please refer to our workshop slides from 30 April 2026 and the LIDO training course on NFDI4Culture.
 
 #### The event will take place online in German and is free of charge.   
-  
+    
 #### The event begins at 11:00 and ends at 12:30.   
-
+  
 #### You can register via the following page: [https://events.nfdi4culture.de/event/59/](https://events.nfdi4culture.de/event/59/)
