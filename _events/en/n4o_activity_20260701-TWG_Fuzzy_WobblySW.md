@@ -26,4 +26,4 @@ The TWG FuzzyWobblySW and the “Semantic Modelling & Linked Open Data” Commun
 
 **ZOOM:** [https://uni-frankfurt.zoom-x.de/j/91655933093?pwd=aEM4YmtFV1g1SmNDVzRaTU4yaThOZz09](https://uni-frankfurt.zoom-x.de/j/91655933093?pwd=aEM4YmtFV1g1SmNDVzRaTU4yaThOZz09)
 
-We look forward to your participation and to exchanging ideas with you.
+ We look forward to your participation and to exchanging ideas with you.

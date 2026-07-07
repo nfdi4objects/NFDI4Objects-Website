@@ -26,4 +26,4 @@ Die TWG FuzzyWobblySW und das Community Cluster "Semantic Modelling & Linked Ope
 
 **ZOOM:** [https://uni-frankfurt.zoom-x.de/j/91655933093?pwd=aEM4YmtFV1g1SmNDVzRaTU4yaThOZz09](https://uni-frankfurt.zoom-x.de/j/91655933093?pwd=aEM4YmtFV1g1SmNDVzRaTU4yaThOZz09)
 
-Wir freuen uns auf Ihre Teilnahme und den gemeinsamen Austausch.
+ Wir freuen uns auf Ihre Teilnahme und den gemeinsamen Austausch.
