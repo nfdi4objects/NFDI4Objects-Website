@@ -2,8 +2,8 @@
 layout: event
 lang: de
 translation_key: n4o_activity_20260714_CC_Data_Capture_and_Creation
-title: 'Clustertreffen des CC “Data Capture and Creation” zum Thema 3D'
-excerpt: ''
+title: 'Clustertreffen des CC “Data Capture and Creation” '
+excerpt: 'zum Thema 3D'
 date: 2026-07-07
 event_date: 2026-07-14
 location: 'online'
