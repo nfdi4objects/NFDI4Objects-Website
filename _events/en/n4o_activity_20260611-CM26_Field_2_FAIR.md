@@ -23,5 +23,5 @@ The metadata model presented here represents an initial development stage of FAI
 
 **Date:** to be confirmed (expected to be in calendar week 49)    
 **Chairs:**  [Ulrike Werban](https://www.nfdi4objects.net/persons/ulrikewerban/), [Till Sonnemann](https://www.nfdi4objects.net/persons/tillsonnemann/) , [Johannes Rabiger-Völlmer](https://www.nfdi4objects.net/persons/johannesrabiger-v%C3%B6llmer/)      
-**Contact:** ulrike.werban@ufz.de
+**Contact:** ulrike.werban@ufz.de  
 **Zoom:** to be announced

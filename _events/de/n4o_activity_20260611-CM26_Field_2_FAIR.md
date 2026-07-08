@@ -23,5 +23,5 @@ Das hier vorgestellte Metadatenmodell stellt eine erste Entwicklungsstufe des FA
 
 **Datum:** noch bekanntzugeben (vorraussichtlich KW 49)    
 **Chairs:**  [Ulrike Werban](https://www.nfdi4objects.net/persons/ulrikewerban/), [Till Sonnemann](https://www.nfdi4objects.net/persons/tillsonnemann/), [Johannes Rabiger-Völlmer](https://www.nfdi4objects.net/persons/johannesrabiger-v%C3%B6llmer/)      
-**Kontakt:** ulrike.werban@ufz.de
+**Kontakt:** ulrike.werban@ufz.de  
 **Zoom:** wird noch bekannt gegeben
