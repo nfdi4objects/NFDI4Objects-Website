@@ -8,9 +8,9 @@ start_date: 2025-10-20 12:00:00+00:00
 proposal_url: ''
 type: n4o:Organization
 cochairs:
-- name: ''
-  person_ref: ''
-- name: ''
+- name: 'Sandra Schroer-Spang'
+  person_ref: 'sandraschröer-spang'
+- name: 'Nina Hohm'
   person_ref: ''
 areas:
 - ta6
