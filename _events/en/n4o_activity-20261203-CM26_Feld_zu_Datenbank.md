@@ -64,3 +64,21 @@ The workshop takes place as part of the NFDI4Objects-TRAIL on reference workflow
 **Max. number of participants:** 15        
 **Contact:** [fabian.riebschlaeger@dainst.de](mailto:fabian.riebschlaeger@dainst.de)    
 
+--- 
+<div style="border-left: 6px solid #cd8255;
+            background-color: #cfc5ba;
+            padding: 1rem;
+            margin: 1rem 0;
+            border-radius: 4px;">
+<strong>Travel Expense Reimbursement</strong>
+
+  <ul>
+   <p><b>Are you a student, PhD candidate or early-career researcher with limited financial resources, but would still like to take part in one of our face-to-face workshops?</p>
+    <p>We can help: subject to certain conditions, you can apply to us for reimbursement of your travel expenses. To be eligible for travel expense reimbursement, the following conditions must be met:</b></p>
+    <li>You are enrolled at a German university or higher education institution on a Bachelor’s, Master’s or PhD programme (undergraduate students, PhD candidates).</li>
+    <li>or: You completed your PhD less than three years ago and are working in a fixed-term post-doctoral position (early-career researcher). </li>
+    <li>You must complete the application for travel expenses reimbursement (link: [/_pages/Bedarfsfeststellung_Reisekosten.pdf](/_pages/Bedarfsfeststellung_Reisekosten.pdf)) in full and send it to us, together with the original supporting documents, by the deadline.</li>
+    <p>Please ensure you read the information on travel expense reimbursement on page 3 of the application form before booking your train journey and accommodation.</p>  
+    If you have any questions regarding travel expense reimbursement, please contact martina.krause@dainst.de.
+    
+  </ul>

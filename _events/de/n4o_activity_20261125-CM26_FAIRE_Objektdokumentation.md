@@ -38,10 +38,30 @@ Der Workshop verbindet theoretische Grundlagen mit praktischen Einblicken in akt
 
 Interessierte werden gebeten, ein kurzes Motivationsschreiben (ca. 250 Wörter) mit Angaben zu ihren Vorkenntnissen, ihrem aktuellen Studienstand und ihren Erwartungen an den Workshop an folgende Adresse zu senden: [c.klose@smb.spk-berlin.de](mailto:c.klose@smb.spk-berlin.de)
  
-**Termin**: noch bekannt zu geben (vorraussichtlich Ende September/ Anfang Oktober)  
-**Anmeldeschluss:** 27. Juli 2026  
+**Termin**: noch bekannt zu geben (Anfang Oktober, vsl. 8.-9.Oktober 2026)  
+**Anmeldeschluss:**  13. September 2026  
 **Chairs:** [Angela Berthold](https://www.nfdi4objects.net/persons/angelaberthold/) und [Christoph Klose](https://www.nfdi4objects.net/persons/christophklose/)  
 **Max. Teilnehmendenzahl:** 10 - 15  
 **Kontakt:**  [c.klose@smb.spk-berlin.de](mailto:c.klose@smb.spk-berlin.de)
 
 ### Weitere Informationen werden demnächst veröffentlicht!
+
+--- 
+<div style="border-left: 6px solid #cd8255;
+            background-color: #cfc5ba;
+            padding: 1rem;
+            margin: 1rem 0;
+            border-radius: 4px;">
+
+  <strong>Reisekostenerstattung</strong>
+
+  <ul>
+   <p><b>Sie haben als Studierende, Promovierende oder Early Career Researcher nur limitierte finanzielle Ressourcen, möchten aber dennoch gern an einem unserer Präsenz-Workshops teilnehmen?</p>
+    <p>Wir unterstützen Sie dabei: Unter bestimmten Bedingungen können Sie die Erstattung Ihrer Reisekosten bei uns beantragen. Um Reisekosten erstattet zu bekommen, müssen folgende Bedingungen erfüllt werden:</b></p>
+    <li>Sie sind an einer deutschen Hochschule/Universität eingeschrieben für ein Bachelor-, Master- oder Promotionsstudium (Studierende, Promovierende).</li>
+    <li>oder: Sie haben Ihre Promotion vor weniger als drei Jahren abgeschlossen und arbeiten in einer befristeten Post-Doc-Stelle (Early Career Researcher).</li>
+    <li>Sie füllen den Antrag auf Reisekostenrückerstattung (Link: [/_pages/Bedarfsfeststellung_Reisekosten.pdf](/_pages/Bedarfsfeststellung_Reisekosten.pdf))  vollständig aus und lassen uns diesen inklusive der benötigen Belege im Original fristgerecht zukommen.</li>
+    <p>Bitte beachten Sie vor der Buchung von Zug und Unterkunft unbedingt die Hinweise zur Reisekostenerstattung auf Seite 3 des Antrags.</p>  
+    Bei Fragen zur Reisekostenerstattung wenden Sie sich gerne an martina.krause@dainst.de.
+    
+  </ul>
