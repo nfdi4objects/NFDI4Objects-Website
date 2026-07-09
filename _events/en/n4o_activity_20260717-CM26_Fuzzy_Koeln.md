@@ -28,20 +28,17 @@ Please send a brief registration email to [lukas.lammers@uni-koeln.de](mailto:lu
 **Contact:** lukas.lammers@uni-koeln.de
 
 --- 
-<div style="border-left: 6px solid #cd8255;
-            background-color: #cfc5ba;
-            padding: 1rem;
-            margin: 1rem 0;
-            border-radius: 4px;">
-<strong>Travel Expense Reimbursement</strong>
+#### Travel Expense Reimbursement
 
-  <ul>
-   <p><b>Are you a student, PhD candidate or early-career researcher with limited financial resources, but would still like to take part in one of our face-to-face workshops?</p>
-    <p>We can help: subject to certain conditions, you can apply to us for reimbursement of your travel expenses. To be eligible for travel expense reimbursement, the following conditions must be met:</b></p>
-    <li>You are enrolled at a German university or higher education institution on a Bachelor’s, Master’s or PhD programme (undergraduate students, PhD candidates).</li>
-    <li>or: You completed your PhD less than three years ago and are working in a fixed-term post-doctoral position (early-career researcher). </li>
-    <li>You must complete the application for travel expenses reimbursement (link: [/_pages/Bedarfsfeststellung_Reisekosten.pdf](/_pages/Bedarfsfeststellung_Reisekosten.pdf)) in full and send it to us, together with the original supporting documents, by the deadline.</li>
-    <p>Please ensure you read the information on travel expense reimbursement on page 3 of the application form before booking your train journey and accommodation.</p>  
-    If you have any questions regarding travel expense reimbursement, please contact martina.krause@dainst.de.
+**Are you a student, PhD candidate or early-career researcher with limited financial resources, but would still like to take part in one of our face-to-face workshops?**  
     
-  </ul>
+**We can help: under certain conditions, you can apply to us for reimbursement of your travel expenses. To be eligible for travel expense reimbursement, the following conditions must be met:**  
+
+- You are enrolled at a German university or higher education institution on a Bachelor’s, Master’s or PhD programme (undergraduate students, PhD candidates).
+- or: You completed your PhD less than three years ago and are working in a fixed-term post-doctoral position (early-career researcher).
+- You must complete the application form for travel expenses in full and submit it to us, together with the original supporting documents, by the deadline. (Link: [Assessment of Eligibility for Travel Expenses](_pages/Bedarfsfeststellung_Reisekosten.pdf)) 
+
+Please ensure you read the information on travel expense reimbursement on page 3 of the application form **before** booking your train journey and accommodation. 
+If you have any questions regarding travel expense reimbursement, please contact martina.krause@dainst.de.
+
+Translated with DeepL.com (free version)

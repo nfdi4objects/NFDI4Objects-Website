@@ -47,21 +47,18 @@ Interessierte werden gebeten, ein kurzes Motivationsschreiben (ca. 250 Wörter) 
 ### Weitere Informationen werden demnächst veröffentlicht!
 
 --- 
-<div style="border-left: 6px solid #cd8255;
-            background-color: #cfc5ba;
-            padding: 1rem;
-            margin: 1rem 0;
-            border-radius: 4px;">
 
-  <strong>Reisekostenerstattung</strong>
+#### Reisekostenerstattung
 
-  <ul>
-   <p><b>Sie haben als Studierende, Promovierende oder Early Career Researcher nur limitierte finanzielle Ressourcen, möchten aber dennoch gern an einem unserer Präsenz-Workshops teilnehmen?</p>
-    <p>Wir unterstützen Sie dabei: Unter bestimmten Bedingungen können Sie die Erstattung Ihrer Reisekosten bei uns beantragen. Um Reisekosten erstattet zu bekommen, müssen folgende Bedingungen erfüllt werden:</b></p>
-    <li>Sie sind an einer deutschen Hochschule/Universität eingeschrieben für ein Bachelor-, Master- oder Promotionsstudium (Studierende, Promovierende).</li>
-    <li>oder: Sie haben Ihre Promotion vor weniger als drei Jahren abgeschlossen und arbeiten in einer befristeten Post-Doc-Stelle (Early Career Researcher).</li>
-    <li>Sie füllen den Antrag auf Reisekostenrückerstattung (Link: [/_pages/Bedarfsfeststellung_Reisekosten.pdf](/_pages/Bedarfsfeststellung_Reisekosten.pdf))  vollständig aus und lassen uns diesen inklusive der benötigen Belege im Original fristgerecht zukommen.</li>
-    <p>Bitte beachten Sie vor der Buchung von Zug und Unterkunft unbedingt die Hinweise zur Reisekostenerstattung auf Seite 3 des Antrags.</p>  
-    Bei Fragen zur Reisekostenerstattung wenden Sie sich gerne an martina.krause@dainst.de.
+**Sie haben als Studierende, Promovierende oder Early Career Researcher nur limitierte finanzielle Ressourcen, möchten aber dennoch gern an einem unserer Präsenz-Workshops teilnehmen?**  
     
-  </ul>
+**Wir unterstützen Sie dabei: Unter bestimmten Bedingungen können Sie die Erstattung Ihrer Reisekosten bei uns beantragen. Um Reisekosten erstattet zu bekommen, müssen folgende Bedingungen erfüllt werden:**  
+
+- Sie sind an einer deutschen Hochschule/Universität eingeschrieben für ein Bachelor-, Master- oder Promotionsstudium (Studierende, Promovierende).
+- oder: Sie haben Ihre Promotion vor weniger als drei Jahren abgeschlossen und arbeiten in einer befristeten Post-Doc-Stelle (Early Career Researcher).
+- Sie füllen den Antrag auf Reisekostenrückerstattung vollständig aus und lassen uns diesen inklusive der benötigen Belege im Original fristgerecht zukommen. (Link: [Bedarfsfeststellung für Reisekosten](_pages/Bedarfsfeststellung_Reisekosten.pdf)) 
+
+Bitte beachten Sie **vor** der Buchung von Zug und Unterkunft unbedingt die Hinweise zur Reisekostenerstattung auf Seite 3 des Antrags. 
+Bei Fragen zur Reisekostenerstattung wenden Sie sich gerne an martina.krause@dainst.de.
+
+
