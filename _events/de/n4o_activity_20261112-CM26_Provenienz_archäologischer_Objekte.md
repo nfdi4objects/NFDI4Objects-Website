@@ -74,7 +74,7 @@ Präsentationen und Abstracts werden in einer Zenodo-Community geteilt.
 
 - Sie sind an einer deutschen Hochschule/Universität eingeschrieben für ein Bachelor-, Master- oder Promotionsstudium (Studierende, Promovierende).
 - oder: Sie haben Ihre Promotion vor weniger als drei Jahren abgeschlossen und arbeiten in einer befristeten Post-Doc-Stelle (Early Career Researcher).
-- Sie füllen den Antrag auf Reisekostenrückerstattung vollständig aus und lassen uns diesen inklusive der benötigen Belege im Original fristgerecht zukommen. (Link: [Bedarfsfeststellung für Reisekosten](_pages/Bedarfsfeststellung_Reisekosten.pdf)) 
+- Sie füllen den Antrag auf Reisekostenrückerstattung vollständig aus und lassen uns diesen inklusive der benötigen Belege im Original fristgerecht zukommen. (Link: [Bedarfsfeststellung für Reisekosten](/assets/images/Bedarfsfeststellung_Reisekosten.pdfBedarfsfeststellung_Reisekosten.pdf)) 
 
 Bitte beachten Sie **vor** der Buchung von Zug und Unterkunft unbedingt die Hinweise zur Reisekostenerstattung auf Seite 3 des Antrags. 
 Bei Fragen zur Reisekostenerstattung wenden Sie sich gerne an martina.krause@dainst.de.
