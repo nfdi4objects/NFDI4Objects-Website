@@ -41,4 +41,3 @@ Please send a brief registration email to [lukas.lammers@uni-koeln.de](mailto:lu
 Please ensure you read the information on travel expense reimbursement on page 3 of the application form **before** booking your train journey and accommodation. 
 If you have any questions regarding travel expense reimbursement, please contact martina.krause@dainst.de.
 
-Translated with DeepL.com (free version)
