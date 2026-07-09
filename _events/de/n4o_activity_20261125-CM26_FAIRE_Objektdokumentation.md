@@ -5,7 +5,8 @@ translation_key: n4o_activity_20261125-CM26_FAIRE_Objektdokumentation
 title: 'FAIRE Objektdokumentation in Museen und Sammlungen'
 excerpt: ''
 date: 2026-05-27
-event_date: ''
+event_date: '2026-10-08'
+event_end_date: '2026-10-09'
 location: Museen der Museumsinsel Berlin und Archäologisches Zentrum, Geschwister-Scholl-Straße 6, 10117 Berlin
 event_type: "Workshop"
 areas: 
