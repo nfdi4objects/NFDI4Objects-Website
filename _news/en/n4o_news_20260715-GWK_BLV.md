@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: en/news/n4o_news_202607/15-GWK_BLV
+permalink: en/news/n4o_news_202607/15-GWK_BLV/
 ---
 The Joint Science Conference (GWK) has decided to continue funding the National Research Data Infrastructure (NFDI) from 2029 to 2038. The federal and state governments will provide up to 98.7 million euros annually for this purpose. This gives the NFDI long-term planning certainty and enables it to further expand its research data management offerings, its services and its support for data-driven research and artificial intelligence. The decision underlines the central importance of the NFDI for the digital transformation of the science system and for data sovereignty in Germany and Europe.
 

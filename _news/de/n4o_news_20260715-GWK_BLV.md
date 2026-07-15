@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_202607/15-GWK_BLV
+permalink: /news/n4o_news_202607/15-GWK_BLV/
 ---
 Die Gemeinsame Wissenschaftskonferenz (GWK) hat beschlossen, die Nationale Forschungsdateninfrastruktur (NFDI) von 2029 bis 2038 weiter zu fördern. Bund und Länder stellen dafür jährlich bis zu 98,7 Millionen Euro bereit. Damit erhält die NFDI langfristige Planungssicherheit und kann ihre Angebote im Forschungsdatenmanagement, ihre Services sowie die Unterstützung datengetriebener Forschung und Künstlicher Intelligenz weiter ausbauen. Die Entscheidung unterstreicht die zentrale Bedeutung der NFDI für die digitale Transformation des Wissenschaftssystems und die Datensouveränität in Deutschland und Europa.
 
