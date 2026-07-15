@@ -3,7 +3,7 @@ layout: news
 lang: en
 translation_key: n4o_news_20260715-Workshop_Report_BiodataIG
 title: 'Biodata IG Workshop Report now published'
-excerpt: ''
+excerpt: 'Collaboration between DataPLANT, FAIRagro, NFDI4Biodiversity, NFDI4BIOIMAGE and NFDI4Microbiota'
 date: 2026-07-15
 areas:
 trails:
