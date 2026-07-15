@@ -39,7 +39,7 @@ registration_url:
 ### A joint event organised by:
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <img src="/assets/images/logos/1280px-NFDI4Culture_Logo-bearbeitet.png" alt="NFDI4Culture Logo" style="flex: 1; min-width: 200px; max-width: 100%;">
+  <img src="/assets/images/logos/NFDI4Culture_Logo_bearbeitet.png" alt="NFDI4Culture Logo" style="flex: 1; min-width: 200px; max-width: 100%;">
   <img src="/assets/images/logos/Propylaeum_Logo_bearbeitet.png" alt="Propylaeum Logo" style="flex: 1; min-width: 200px; max-width: 100%;">
   <img src="/assets/icons/logo/nfd14o-Verlauf-Claim-lang.svg" alt="NFDI4Objects logo" style="flex: 1; min-width: 200px; max-width: 100%;">
 </div>
