@@ -3,7 +3,7 @@ layout: event
 lang: en
 translation_key: n4o_activity_20261117_OA_Publizieren_Propylaeum
 title: 'Open Access Publishing in Classical Studies – Questions and Answers'
-excerpt: 'Would you like to publish your work in classical studies as open access?'
+excerpt: 'Would you like to publish your work in classical studies as open access? Do you want your research findings to be freely accessible and available for long-term reuse? At the same time, are you wondering whether open access is suitable for your publication project, or would you like to gain a better understanding of the processes and options available?'
 date: 2026-07-15
 event_date: 2026-11-17
 location: online
@@ -14,8 +14,6 @@ twgs:
 permalink: en/events/n4o_activity_20261117-OA_Publizieren_Propylaeum/
 registration_url: 
 ---
-### Do you want your research findings to be freely accessible and available for long-term reuse? At the same time, are you wondering whether open access is suitable for your publication project, or would you like to gain a better understanding of the processes and options available?
-
 #### The information session organised by [Propylaeum – Specialist Information Service for Classical Studies](https://www.nfdi4objects.net/en/services/propylaeum/) provides a concise overview of the basics of academic publishing in Open Access. Drawing on the publication options offered by Propylaeum E-Publishing and the services provided by NFDI4Culture and NFDI4Objects, the session will provide practical answers to key questions such as the following:
 
 - What options do I have, as an author, to publish my article, thesis or monograph in Open Access?
