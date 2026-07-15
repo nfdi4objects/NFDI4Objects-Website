@@ -18,7 +18,7 @@ twgs: []
 permalink: /events/n4o_activity_20260921-CM26_Arbeiten_mit_kontrollierten_Vokabularen/
 registration_url: http://reg.nfdi4objects.net/N4O/k-v/
 ---
-Dieser Workshop bietet einen praktischen Einstieg in die Erstellung und Nutzung von kontrollierten Vokabularen. Teilnehmende lernen die Werkzeuge und Workflows kennen, die im Rahmen von NFDI4Objects bereitstehen, und erproben diese anhand von Beispieldatensätzen.
+Dieser Workshop vermittelt einen praxisnahen Einstieg in die Erstellung und Anwendung kontrollierter Vokabulare. Die Teilnehmenden lernen die im Rahmen von NFDI4Objects und in Zusammenarbeit mit der Verbundzentrale (VZG) des Gemeinsamen Bibliotheksverbundes (GBV) bereitgestellten Werkzeuge und Workflows kennen und erproben sie anhand konkreter Beispieldatensätze.  
 
 Im Fokus steht die hands-on-Arbeit mit Tools aus dem NFDI4Objects-Diensteportfolio: BARTOC zur Recherche von Vokabularen, DANTE zum Hosting und zur Publikation, sowie Cocoda für die Erstellung von Vokabular-Mappings. Teilnehmende bekommen die Möglichkeit, selbst kleine Vokabulare in Tabellenform aufzubauen, in der Gruppe über die Tücken der Modellierung zu diskutieren, und diese in DANTE zu überführen. Anhand eines konkreten Beispielvokabulars wird im Laufe des Workshops der komplette Workflow von der einfachen Wortliste über die SKOS-Modellierung bis zur Publikation als Linked Open Data demonstriert. Mit diesem Beispiel-Thesaurus können Teilnehmende anschließend selbst exemplarische Vokabular-Mappings in Cocoda ausprobieren. Der Workshop legt großen Wert auf interaktive Beteiligung, Austausch und Zeit für Fragen.
 
@@ -27,6 +27,6 @@ Im Fokus steht die hands-on-Arbeit mit Tools aus dem NFDI4Objects-Diensteportfol
 
 **Wann:** 21.09.2026, 13.00–16.00 Uhr  
 **Dauer:** ca. 2,5–3 Stunden  
-**Chairs:** [Kristina Fischer (LEIZA),](https://www.nfdi4objects.net/persons/kristinafella/), [Anja Gerber (KSW)](https://www.nfdi4objects.net/persons/anjagerber/) , [Michael Markert (VZG)](https://www.nfdi4objects.net/persons/michaelmarkert/)  
+**Chairs:** [Kristina Fischer (LEIZA),](https://www.nfdi4objects.net/persons/kristinafella/), [Anja Gerber (KSW)](https://www.nfdi4objects.net/persons/anjagerber/)    
 **Zoom:** Der Zoom-Link wird nach der Anmeldung versendet.  
 **Kontakt:** [kristina.fischer@leiza.de](mailto:kristina.fischer@leiza.de)
