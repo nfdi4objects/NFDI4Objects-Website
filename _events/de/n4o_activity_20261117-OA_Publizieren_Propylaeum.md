@@ -3,7 +3,7 @@ layout: event
 lang: de
 translation_key: n4o_activity_20261117_OA_Publizieren_Propylaeum
 title: 'Altertumswissenschaftliches Publizieren im Open Access – Fragen und Antworten'
-excerpt: ''
+excerpt: 'Sie möchten Ihre altertumswissenschaftliche Publikation im Open Access veröffentlichen? '
 date: 2026-07-15
 event_date: 2026-11-17
 location: online
@@ -13,7 +13,7 @@ ccs:
 twgs: 
 permalink: /events/n4o_activity_20261117-OA_Publizieren_Propylaeum/
 ---
-### Sie möchten Ihre altertumswissenschaftliche Publikation im Open Access veröffentlichen? Ihre Forschungsergebnisse sollen frei zugänglich sein und dauerhaft nachnutzbar sein?  
+### Ihre Forschungsergebnisse sollen frei zugänglich sein und dauerhaft nachnutzbar sein?
 Gleichzeitig fragen Sie sich, ob Open Access für Ihr Publikationsvorhaben geeignet ist, oder möchten die Abläufe und Möglichkeiten besser verstehen?
 
 #### Die von [Propylaeum – Fachinformationsdienst Altertumswissenschaften](https://www.nfdi4objects.net/services/propylaeum/) organisierte Informationsveranstaltung vermittelt kompakt grundlegendes Wissen rund um das wissenschaftliche Publizieren im Open Access. Ausgehend von den Publikationsangeboten von Propylaeum E-Publishing sowie den Services von NFDI4Culture und NFDI4Objects werden praxisnah zentrale Fragen wie zum Beispiel diese beantwortet:
