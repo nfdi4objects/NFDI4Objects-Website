@@ -153,7 +153,7 @@ nfdi_category: webapp
 | `library` | Bibliothek |
 | `storage` | Speicherung |
 | `support` | Beratung & Support |
-| `tool` | Tools & Anwendungen |
+| `tools_applications` | Tools & Anwendungen |
 | `training` | Schulung & Training |
 | `webapp` | Web-Anwendungen |
 | `workflow` | Workflows & Pipelines |
