@@ -6,17 +6,18 @@ title: 'ArcSpectra'
 short_title: ''
 logo: /assets/images/services/arcspectra.png
 homepage: https://github.com/bcdhbonn/arcspectra/wiki
-access_url:  https://github.com/bcdhbonn/arcspectra/tree/main
+access_url:  'https://github.com/bcdhbonn/arcspectra/tree/main'
+areas: 
 - ta1
 trails:
 - archaeological_remote_sensing_in_the_roman_rhineland
-nfdi_category:  tool
+nfdi_category:  'tool'
 nfdi_service_types:
 - des
-organization: 'universität-bonn' 
-permalink: en/services/arcspectra/
 lifecycle_phases:
 - 'verarbeitung'
+organization: 'universität-bonn' 
+permalink: en/services/arcspectra/
 ---
 
 ## Description
