@@ -11,7 +11,7 @@ areas:
 - ta1
 trails:
 - archaeological_remote_sensing_in_the_roman_rhineland
-nfdi_category: tool
+nfdi_category: tools_applications
 nfdi_service_types:
 - des
 lifecycle_phases:

@@ -10,7 +10,7 @@ access_url: 'https://github.com/bcdhbonn/hector-editor-skos'
 areas:
 - ta1
 trails: []
-nfdi_category: tool
+nfdi_category: tools_applications
 nfdi_service_types:
 - avs
 organization: 'universität-bonn' 
