@@ -26,6 +26,7 @@ Following the keynote on Wednesday, we invite you to a reception, and on Thursda
 - Registration deadline: 1 September 2026  
 ---
 
+
 #### Programme: https://prometheus-bildarchiv.de/de/tagung2026
 
 #### Registration: https://prometheus.uni-koeln.de/de/conference_signup 
