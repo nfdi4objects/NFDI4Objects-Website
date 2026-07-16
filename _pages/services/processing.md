@@ -20,9 +20,13 @@ cards:
     url: "/services/ossobook/"
     description: "Werkzeug für <strong>archäozoologische Funde</strong>. Standardisierte Erfassung und Analyse osteologischer Daten."
   - title: "ArcSpectra"
-    icon: /assets/images/services/arcspectra.png
+    icon: "/assets/images/services/arcspectra.png"
     url: "/services/arcspectra/"
     description: "<strong>Multispektral-Analysetool</strong> für die archäologische Prospektion"
+  - title: "HECTOR-Editor"
+    icon: "/assets/images/services/hector_logo.png"
+    url: "/services/hector-editor/"
+    description: "HECTOR-Editor ist eine mit Python und CustomTkinter entwickelte Desktop-Anwendung zur Verwaltung semantischer SKOS-Vokabulare."
 ---
 
 {% include page-header.html

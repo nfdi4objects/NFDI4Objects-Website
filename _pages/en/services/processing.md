@@ -21,6 +21,11 @@ cards:
     icon: "/assets/images/services/arcspectra.png"
     url: "/en/services/arcspectra/"
     description: "<strong>Multispectral analysis tool</strong> for archaeological prospecting"
+  - title: "HECTOR-Editor"
+    icon: "/assets/images/services/hector_logo.png"
+    url: "/en/services/hector-editor/"
+    description: "HECTOR-Editor is a desktop application developed using Python and CustomTkinter for managing semantic SKOS vocabularies."
+---
 ---
 
 {% include page-header.html

@@ -16,7 +16,7 @@ nfdi_service_types:
 organization: 'universität-bonn' 
 permalink: en/services/arcspectra/
 lifecycle_phases:
-- verarbeitung
+- 'verarbeitung'
 ---
 
 ## Description
