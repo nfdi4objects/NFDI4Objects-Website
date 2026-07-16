@@ -19,6 +19,10 @@ cards:
     icon: "/assets/images/services/n4o-website-symbolgraphiken_portal_services.png"
     url: "/services/ossobook/"
     description: "Werkzeug für <strong>archäozoologische Funde</strong>. Standardisierte Erfassung und Analyse osteologischer Daten."
+  - title: "ArcSpectra"
+    icon: /assets/images/services/arcspectra.png
+    url: "/services/arcspectra/"
+    description: "<strong>Multispektral-Analysetool</strong> für die archäologische Prospektion"
 ---
 
 {% include page-header.html
