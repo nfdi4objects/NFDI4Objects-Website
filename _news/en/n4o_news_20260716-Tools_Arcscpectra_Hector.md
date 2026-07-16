@@ -15,12 +15,15 @@ permalink: /en/news/n4o_news_20260716-Tools_Arcspectra_Hector/
 ---  
 The **HECTOR-Editor** supports researchers in the creation, editing and quality assurance of controlled vocabularies based on SKOS. Hierarchical concept systems, multilingual terms and links to standardised data such as GND, Wikidata or the Getty Art & Architecture Thesaurus can be maintained directly within the application. The Editor has been released as open-source software and is available for use immediately. 
      
-**Link:** [https://github.com/bcdhbonn/hector-editor-skos](https://github.com/bcdhbonn/hector-editor-skos)
-
+**Link:** [https://github.com/bcdhbonn/hector-editor-skos](https://github.com/bcdhbonn/hector-editor-skos)  
+  
+[**More Information**](https://www.nfdi4objects.net/en/services/hector-editor/)
 ---
 **ArcSpectra** enables the processing and analysis of multispectral image data for archaeological prospecting. The software helps to evaluate spectral information and reveal potential soil, vegetation and cover features. ArcSpectra has also been completed, documented and is available for practical use.    
   
-**Link:** [https://github.com/bcdhbonn/arcspectra](https://github.com/bcdhbonn/arcspectra)
+**Link:** [https://github.com/bcdhbonn/arcspectra](https://github.com/bcdhbonn/arcspectra)  
+
+[**More Information**](https://www.nfdi4objects.net/en/services/arcspectra/)
 
 --- 
 Both applications were developed as part of the NFDI4Objects initiative and the Bonn Centre for Digital Humanities, and are available via GitHub.
