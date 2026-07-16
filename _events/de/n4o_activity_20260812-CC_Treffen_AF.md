@@ -5,7 +5,7 @@ translation_key: n4o_activity_20260812-CC_Treffen_AF
 title: 'Einladung zum Clustertreffen des CC Authority Files'
 excerpt: 'Die AG Archäologiethesaurus: Ein Normvokabular für die Archäologie'
 date: 2026-07-16
-event_date: '2026-08-12
+event_date: 2026-08-12
 location: 'online'
 areas: 
 trails: []
