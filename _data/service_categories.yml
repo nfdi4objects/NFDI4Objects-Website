@@ -25,7 +25,7 @@ nfdi_categories:
     name_en: "Support/Consulting"
     icon: "fa-question-circle"
 
-  - id: tools
+  - id: tools_applications
     name_de: "Tools & Anwendungen"
     name_en: "Tools/Applications"
     icon: "fa-wrench"

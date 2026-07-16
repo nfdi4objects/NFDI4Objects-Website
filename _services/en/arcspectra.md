@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: arcspectra
 title: 'ArcSpectra'
-short_title: ''
+short_title: 'Multispectral analysis tool for archaeological prospecting"
 logo: /assets/images/services/arcspectra.png
 homepage: https://github.com/bcdhbonn/arcspectra/wiki
 access_url:  'https://github.com/bcdhbonn/arcspectra/tree/main'
