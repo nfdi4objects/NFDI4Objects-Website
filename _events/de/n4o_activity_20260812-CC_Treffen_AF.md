@@ -47,15 +47,13 @@ Der Vortrag stellt die AG, ihre Entstehung, Arbeitsweise und Ziele vor und disku
 
 ---
 
-## Zoom-Zugangsdaten
+### Zoom-Zugangsdaten
 
-**Hier sind die Zoom-Zugangsdaten:**
+#### [Am Zoom-Meeting teilnehmen](https://dainst-org.zoom.us/j/94508989488?pwd=zVXisbncIEgOOwEle1NQuG7hA2YNbp.1)
 
-### [Am Zoom-Meeting teilnehmen](https://dainst-org.zoom.us/j/94508989488?pwd=zVXisbncIEgOOwEle1NQuG7hA2YNbp.1)
-
-**Meeting-ID:** 945 0898 9488
-**Kenncode:** 357332
+Meeting-ID: 945 0898 9488  
+Kenncode: 357332
 
 ---
 
-> **Eine Anmeldung ist nicht erforderlich, wir freuen uns auf Eure Teilnahme.**
+### Eine Anmeldung ist nicht erforderlich, wir freuen uns auf Eure Teilnahme.

@@ -47,15 +47,13 @@ The presentation introduces the working group, its origins, working methods and 
 
 ---
 
-## Zoom access details
+### Zoom access details
 
-**Here are the Zoom login details:**
+#### [Join the Zoom meeting](https://dainst-org.zoom.us/j/94508989488?pwd=zVXisbncIEgOOwEle1NQuG7hA2YNbp.1)
 
-### [Join the Zoom meeting](https://dainst-org.zoom.us/j/94508989488?pwd=zVXisbncIEgOOwEle1NQuG7hA2YNbp.1)
-
-**Meeting ID:** 945 0898 9488
-**Passcode:** 357332
+Meeting ID: 945 0898 9488  
+Passcode: 357332
 
 ---
-
-> **No registration is required; we look forward to seeing you there.**
+  
+### No registration is required; we look forward to seeing you there.

@@ -13,15 +13,18 @@ permalink: en/news/n4o_news_20260715-Jubilaeumstagung_Prometheus/
 ---
 ### Out of Frame – 25 Years of prometheus: Between Structure and Vision  
 
->30 September–2 October 2026   
-> InnoDom Cologne, Cologne   
-> Registration deadline: 1 September 2026  
-
+---
 We are celebrating 25 years of prometheus and discussing the direction in which the image archive and the digital humanities need to develop – in light of generative AI, new requirements for research data and fundamental questions regarding the credibility of digital knowledge spaces.
 
 The event kicks off with a keynote address by Björn Ommer (Stable Diffusion, LMU Munich). This will be followed by four sessions on research data, images in knowledge networks, the transformation of the sciences and credibility, as well as a Barcamp covering topics such as image rights and LLMs.
 
 Following the keynote on Wednesday, we invite you to a reception, and on Thursday, after the programme, to the anniversary party. We look forward to seeing you!
+
+---
+- 30 September–2 October 2026   
+- InnoDom Cologne, Cologne   
+- Registration deadline: 1 September 2026  
+---
 
 #### Programme: https://prometheus-bildarchiv.de/de/tagung2026
 
