@@ -20,15 +20,13 @@ The next TWG meeting of the VocFlow working group will take place
 - from 2.00 pm to 4.00 pm.
 
 ---
-
-    
+ </br></br>  
 #### Topic
 
 We intend to report on the interview phase and discuss the next steps regarding the white paper to be drafted.
 
 ---
-    
-  
+ </br></br>
 #### Zoom access details
   
 [https://dainst-org.zoom.us/j/95400698034?pwd=6wbQILBXhk01F7Fx0IQuX7aQMkjCoP.1](https://dainst-org.zoom.us/j/95400698034?pwd=6wbQILBXhk01F7Fx0IQuX7aQMkjCoP.1)
@@ -38,8 +36,7 @@ Meeting ID: 95400698034
 Passcode: 273795
 
 ---
-
-    
+ </br></br>
 Kind regards,  
-Michael Markert and Anja Gerber
+Michael Markert and Anja Gerber  
 (CC Chairs)
