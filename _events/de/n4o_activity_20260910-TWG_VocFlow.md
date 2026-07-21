@@ -25,8 +25,7 @@ Das nächste TWG-Treffen der Arbeitsgruppe VocFlow findet
 
 Wir wollen aus der Interviewphase berichten und das weitere Vorgehen bezüglich des zu erarbeitenden Whitepapers besprechen.
 
----
- </br></br>
+---  
 #### Zoom-Zugangsdaten
 
 [https://dainst-org.zoom.us/j/95400698034?pwd=6wbQILBXhk01F7Fx0IQuX7aQMkjCoP.1](https://dainst-org.zoom.us/j/95400698034?pwd=6wbQILBXhk01F7Fx0IQuX7aQMkjCoP.1)
@@ -34,8 +33,7 @@ Wir wollen aus der Interviewphase berichten und das weitere Vorgehen bezüglich 
 Meeting-ID: 95400698034  
 Passcode: 273795
 
----
- </br></br>
+---  
 Viele Grüße    
 Michael Markert und Anja Gerber  
 (Chairs des CC) 
