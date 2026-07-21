@@ -3,9 +3,10 @@ layout: event
 lang: en
 translation_key: n4o_activity_20260910-TWG_Vocflow
 title: 'Meeting of the TWG VocFlow'
-excerpt: 'Report on the interview phase and further work '
+excerpt: 'Report on the interview phase and further work'
 date: 2026-07-21
 event_date: 2026-09-10
+location: 'online'
 areas:
 trails: []
 ccs: []
@@ -28,7 +29,7 @@ We intend to report on the interview phase and discuss the next steps regarding 
 
 #### Zoom access details
 
-https://dainst-org.zoom.us/j/95400698034?pwd=6wbQILBXhk01F7Fx0IQuX7aQMkjCoP.1
+[https://dainst-org.zoom.us/j/95400698034?pwd=6wbQILBXhk01F7Fx0IQuX7aQMkjCoP.1](https://dainst-org.zoom.us/j/95400698034?pwd=6wbQILBXhk01F7Fx0IQuX7aQMkjCoP.1)
 
 
 Meeting ID: 95400698034

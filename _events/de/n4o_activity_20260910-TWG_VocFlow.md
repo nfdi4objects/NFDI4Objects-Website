@@ -6,6 +6,7 @@ title: 'Treffen der TWG VocFlow'
 excerpt: 'Bericht aus der Interviewphase und weitere Arbeiten'
 date: 2026-07-21
 event_date: 2026-09-10
+location: 'online'
 areas:
 trails: []
 ccs: []
@@ -28,7 +29,7 @@ Wir wollen aus der Interviewphase berichten und das weitere Vorgehen bezüglich 
 
 #### Zoom-Zugangsdaten
 
-https://dainst-org.zoom.us/j/95400698034?pwd=6wbQILBXhk01F7Fx0IQuX7aQMkjCoP.1 
+[https://dainst-org.zoom.us/j/95400698034?pwd=6wbQILBXhk01F7Fx0IQuX7aQMkjCoP.1](https://dainst-org.zoom.us/j/95400698034?pwd=6wbQILBXhk01F7Fx0IQuX7aQMkjCoP.1)
 
 Meeting-ID: 95400698034  
 Passcode: 273795
