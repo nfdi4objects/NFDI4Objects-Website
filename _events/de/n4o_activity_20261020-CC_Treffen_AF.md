@@ -3,7 +3,7 @@ layout: event
 lang: de
 translation_key: n4o_activity_20261020-CC_AF
 title: 'Clustertreffen des CC Authority Files & Community - driven Vocabularies'
-excerpt: 'Einladung zum Treffen von 14 - 15:30 Uhr'
+excerpt: 'Einladung zum Treffen von 14 - 15:30 Uhr zum Thema Vokabulararbeit Netzwerk Koloniale Kontexte'
 date: 2026-07-21
 event_date: 2026-10-20
 location: online
