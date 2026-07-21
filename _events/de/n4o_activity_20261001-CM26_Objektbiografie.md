@@ -5,7 +5,7 @@ translation_key: n4o_activity_20261125-CM26_Objektbiografie
 title: 'Die Objektbiografie als ein Instrument für die digitale Provenienzforschung'
 excerpt: ''
 date: 2026-05-27
-event_date: ''
+event_date: '2026-11-04'
 location: online
 event_type: "Workshop"
 areas: 
