@@ -18,15 +18,15 @@ Das nächste TWG-Treffen der Arbeitsgruppe VocFlow findet
 
 - am 10. September 2026, 
 - von 14:00 bis 16:00 Uhr, statt.
-
+  
 ---
-
+  
 #### Thema
 
 Wir wollen aus der Interviewphase berichten und das weitere Vorgehen bezüglich des zu erarbeitenden Whitepapers besprechen.
 
 ---
-
+  
 #### Zoom-Zugangsdaten
 
 [https://dainst-org.zoom.us/j/95400698034?pwd=6wbQILBXhk01F7Fx0IQuX7aQMkjCoP.1](https://dainst-org.zoom.us/j/95400698034?pwd=6wbQILBXhk01F7Fx0IQuX7aQMkjCoP.1)
@@ -35,7 +35,7 @@ Meeting-ID: 95400698034
 Passcode: 273795
 
 ---
-
+  
 Viele Grüße    
 Michael Markert und Anja Gerber  
 (Chairs des CC) 
