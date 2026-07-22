@@ -42,7 +42,7 @@ cards:
     url: "/en/services/leiza-konservierungs-und-restaurierungsfachthesaurus-für-archäologische-kulturgüter/"
     description: "<strong>Standardized vocabulary</strong> for conservation and restoration of archaeological cultural heritage."
   - title: "Conservation Data Framework"
-    icon: "/assets/images/services/CDF_logo.png"
+    icon: "assets/images/services/CDF_logo.png"
     url: "/services/conservation-data-framework/"
     description: "<strong>Open reference framework</strong> for the standardized collection and curation of conservation and restoration data. "
   - title: "Fund-Logbuch"
