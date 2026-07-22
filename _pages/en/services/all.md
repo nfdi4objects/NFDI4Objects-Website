@@ -26,7 +26,7 @@ right offer for your needs.
 <section>
     {% assign lang = page.lang | default: 'en' %}
     {% assign all_services = site.services | where: "lang", lang %}
-    {% assign all_trails = site.trails | where: "lang", lang | where_exp: "item", "item.translation_key != 'trails_overview'" %}
+
 
       <div class="services-grid grid-12 cols-3" id="services-container">
 

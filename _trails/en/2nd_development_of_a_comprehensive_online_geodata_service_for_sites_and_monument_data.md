@@ -2,7 +2,7 @@
 layout: trail
 lang: en
 translation_key: 4.3_second_TRAILs
-title: Development of Cross-Platform Online Geodata Services for Archaelogical Sites and Heritage Data
+title: 'Development of Cross-Platform Online Geodata Services for Archaelogical Sites and Heritage Data'
 start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/37

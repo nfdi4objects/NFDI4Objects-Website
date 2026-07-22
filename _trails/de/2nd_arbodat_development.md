@@ -2,8 +2,7 @@
 layout: trail
 lang: de
 translation_key: 2nd_arbodat_development
-title: Erweiterung und Generalisierung von ArboDat+, sowie Integration und Anbindung der bioarchäologischen TA3-Repositorien an den NFDI4Objects Wissensgraph 
-  ArboDat-Service'
+title: Erweiterung und Generalisierung von ArboDat+, sowie Integration und Anbindung der bioarchäologischen TA3-Repositorien an den NFDI4Objects Wissensgraph ArboDat-Service'
 start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/33
