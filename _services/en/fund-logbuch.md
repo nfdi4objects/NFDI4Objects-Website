@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: fund-logbuch
 title: 'Fund-Logbuch: Infrastructure for Recording Small Archaeological Findings'
-short_title: 'Mobile application for managing finds and digitally recording find data. Reduces media discontinuities during excavation.'
+short_title: 'Mobile application for <strong>find management and digital recording of find data.</strong> Reduces media breaks during excavation.'
 logo: /assets/images/services/fundlogbuch_logo_500px.png
 homepage: ''
 access_url: ''

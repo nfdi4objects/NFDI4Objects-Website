@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: nfdi4objects-qualification
 title: NFDI4Objects Qualification
-short_title: 'Open teaching and learning resources, templates and community initiatives for research, teaching and FDM consultancy.'
+short_title: '<strong>Open teaching and learning resources, templates and community initiatives</strong> for research, teaching and FDM consultancy.'
 logo: /assets/images/services/n4o_qualification_logo_de.png
 organization: "hochschule-mainz-university-of-applied-sciences"
 contact_email: "kai-christian.bruhn@hs-mainz.de"

@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: arbodat
 title: ArboDat+
-short_title: 'Specialized database for archaeobotanical finds. Structured storage and statistical analysis of plant data.'
+short_title: 'Specialized database for <strong>archaeobotanical finds.</strong> Structured storage and statistical analysis of plant data.'
 logo: /assets/images/services/arbodat_500px.png
 homepage: 'https://arbodat.info/'
 access_url: 'https://arbodat.info/'

@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: goobi
 title: Goobi
-short_title: 'Workflow management software for digitisation workflows. Systematic and quality-controlled digitisation of analogue data sources.'
+short_title: 'Workflow management software for <strong>digitisation workflows.</strong> Systematic and quality-controlled digitisation of analogue data sources.'
 logo: /assets/images/services/goobi_quadrat_500px.png
 homepage: https://www.gbv.de/informationen/Verbundzentrale/serviceangebote/digitalisierungsworkflow-goobi
 access_url: https://www.gbv.de/informationen/Verbundzentrale/serviceangebote/digitalisierungsworkflow-goobi

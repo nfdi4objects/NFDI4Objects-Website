@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: hector-editor
 title: HECTOR-Editor
-short_title: 'HECTOR-Editor ist eine mit Python und CustomTkinter entwickelte Desktop-Anwendung zur Verwaltung semantischer SKOS-Vokabulare.'
+short_title: 'HECTOR-Editor ist eine mit Python und CustomTkinter entwickelte Desktop-Anwendung zur <strong>Verwaltung semantischer SKOS-Vokabulare.</strong>'
 logo: /assets/images/services/hector_logo.png
 homepage: 
 access_url: 'https://github.com/bcdhbonn/hector-editor-skos'

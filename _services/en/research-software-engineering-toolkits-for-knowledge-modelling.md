@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: research-software-engineering-toolkits-for-knowledge-modelling
 title: Research Software Engineering Toolkits for Knowledge Modelling
-short_title: ''
+short_title: 'Toolkits and guides for <strong>semantic knowledge modeling</strong> and ontology development.'
 logo: "/assets/icons/dienste/Dienste-Icons-05.svg"
 homepage: ''
 access_url: ''

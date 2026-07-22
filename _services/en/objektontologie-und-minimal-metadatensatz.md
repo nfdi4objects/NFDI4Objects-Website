@@ -4,7 +4,7 @@ lang: en
 translation_key: objektontologie-und-minimal-metadatensatz
 title: Standards and interfaces for interdisciplinary knowledge modelling and data
   exchange of heterogeneous systems
-short_title: 'Standards for the semantic description of object data. The basis for interoperability.'
+short_title: 'Standards for <strong>semantic description of object data.</strong> The foundation for interoperability.'
 logo: /assets/icons/dienste/Dienste-Icons-07.svg
 homepage: ''
 access_url: ''

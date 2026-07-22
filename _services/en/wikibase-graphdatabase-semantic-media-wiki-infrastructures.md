@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: wikibase-graphdatabase-semantic-media-wiki-infrastructures
 title: Wikibase / Triplestore / Semantic Media Wiki Infrastructures
-short_title: 'Infrastructures for creating and managing knowledge databases and semantic data.'
+short_title: 'Infrastructures for creating and managing <strong>knowledge databases</strong> and semantic data.'
 logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
 homepage: ''
 access_url: ''

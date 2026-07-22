@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: nfdi4objects-graph
 title: NFDI4Objects Knowledge Graph
-short_title: 'Links distributed research data through semantic data linking and makes it searchable centrally.'
+short_title: 'Links <strong>distributed research data</strong> through semantic data linking and makes it searchable centrally.'
 logo: /assets/images/services/n4o_knowledge_graph_500px.png
 homepage: https://graph.nfdi4objects.net/
 access_url: https://graph.nfdi4objects.net/

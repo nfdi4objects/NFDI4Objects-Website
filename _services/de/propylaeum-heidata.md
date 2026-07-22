@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: propylaeum-heidata
 title: Propylaeum@heiDATA
-short_title: 'Fachrepositorium für die Altertumswissenschaften. Archivierung und Publikation von Forschungsdaten mit persistenten Identifikatoren (DOI).'
+short_title: 'Fachrepositorium für die Altertumswissenschaften. <strong>Archivierung und Publikation</strong> von Forschungsdaten mit persistenten Identifikatoren (DOI).'
 logo: /assets/images/services/design-ohne-titel-3.png
 homepage: https://heidata.uni-heidelberg.de/dataverse/propylaeum
 access_url: https://heidata.uni-heidelberg.de/dataverse/propylaeum

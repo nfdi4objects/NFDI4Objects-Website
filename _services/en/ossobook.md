@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: ossobook
 title: OssoBook and AnthroBook
-short_title: 'Tool for archaeozoological finds. Standardized capture and analysis of osteological data.'
+short_title: 'Tool for <strong>archaeozoological finds.</strong> Standardized capture and analysis of osteological data.'
 logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
 homepage: https://spm.snsb.de/ossobook/?lang=en
 access_url: https://spm.snsb.de/ossobook/?lang=en

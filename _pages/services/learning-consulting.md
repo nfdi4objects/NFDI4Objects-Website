@@ -26,10 +26,11 @@ cards:
   - title: "NFDI4Objects Commons"
     icon: "/assets/images/services/n4o-commons-logo.png"
     url: "/services/commons/"
+    description: "Plattform mit <strong>Übersicht über vorhandene Daten, Werkzeuge und Wissen.</strong> Unterstützt die Recherche nach existierenden Ressourcen."
   - title: "NFDI4Objects Helpdesk"
     icon: "/assets/images/services/Helpdesk.png"
     url: "/help/"
-    description: "Beratung und Unterstützung</strong> für Forschungsdatenmanagment-Fragen."
+    description: <strong>"Beratung und Unterstützung</strong> für Forschungsdatenmanagment-Fragen."
 ---
 
 {% include page-header.html

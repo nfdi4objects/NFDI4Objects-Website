@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: poseidon-2-0
 title: POSEIDON 2.0
-short_title: 'Framework for paleogenetic data. Standardized publication and analysis of aDNA data.'
+short_title: 'Framework for <strong>paleogenetic data.</strong> Standardized publication and analysis of aDNA data.'
 logo: /assets/images/services/poseidon-logo-watergraphiclrg_500px.png
 homepage: https://www.poseidon-adna.org/#/
 access_url: https://www.poseidon-adna.org/#/

@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: objektontologie-und-minimal-metadatensatz
 title: Objektontologie und Minimal-Metadatensatz
-short_title: 'Standards für die semantische Beschreibung von Objektdaten. Grundlage für Interoperabilität.'
+short_title: 'Standards für die <strong>semantische Beschreibung von Objektdaten.</strong> Grundlage für Interoperabilität.'
 logo: /assets/icons/dienste/Dienste-Icons-07.svg
 homepage: ''
 access_url: ''

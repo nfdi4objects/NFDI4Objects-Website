@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: geohist
 title: GeoHist
-short_title: 'Werkzeug und Repositorium zur geografischen Datenerfassung und Analyse historischer Geodaten.'
+short_title: 'Werkzeug und Repositorium zur <strong>geografischen Datenerfassung</strong> und Analyse historischer Geodaten.'
 logo: "/assets/icons/dienste/Dienste-Icons-04.svg"
 homepage: ''
 access_url: ''

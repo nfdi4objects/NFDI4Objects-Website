@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: ianus-forschungsdatenmanagement-empfehlungen
 title: IANUS FDM-Empfehlungen
-short_title: 'Umfassende Leitlinien und Best Practices für das Forschungsdatenmanagement in den archäologischen Wissenschaften. Unverzichtbar für die Erstellung von Datenmanagementplänen.'
+short_title: 'Umfassende <strong>Leitlinien und Best Practices</strong> für das Forschungsdatenmanagement in den archäologischen Wissenschaften. Unverzichtbar für die Erstellung von Datenmanagementplänen.'
 logo: /assets/images/services/ianus_logo_500px.png
 homepage: 'https://ianus-fdz.de/it-empfehlungen/'
 access_url: 'https://ianus-fdz.de/it-empfehlungen/'

@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: survey2gis
 title: Survey2GIS - Open-Source Feldvermessungs- und Grabungssoftware
-short_title: 'Open-Source-Software für Feldvermessung und Verarbeitung von Grabungsdaten. Unterstützt die Integration in GIS-Systeme.'
+short_title: 'Open-Source-Software für <strong>Feldvermessung und Verarbeitung von Grabungsdaten.</strong> Unterstützt die Integration in GIS-Systeme.'
 logo: /assets/images/services/survey2gis_500px.png
 homepage: https://www.survey-tools.org/
 access_url: https://www.survey-tools.org/

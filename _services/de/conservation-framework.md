@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: conservation-data-framework
 title: Conservation Data Framework
-short_title: 'Offenes Referenzrahmenwerk für die standardisierte Datenerfassung und -kuratierung konservatorisch-restauratorischer Daten.'
+short_title: '<strong>Offenes Referenzrahmenwerk</strong> für die standardisierte Datenerfassung und -kuratierung konservatorisch-restauratorischer Daten.'
 logo: /assets/images/services/CDF_logo.png 
 homepage: 
 access_url: https://nfdi4objects.github.io/n4o_conservation_data_framework/

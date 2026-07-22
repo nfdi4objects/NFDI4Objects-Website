@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: cocoda
 title: Cocoda
-short_title: 'Konkordanz-Tool für das Mapping zwischen verschiedenen kontrollierten Vokabularen und Klassifikationssystemen.'
+short_title: '<strong>Konkordanz-Tool</strong> für das Mapping zwischen verschiedenen kontrollierten Vokabularen und Klassifikationssystemen.'
 logo: /assets/images/services/Cocoda_Logo.png
 homepage: https://coli-conc.gbv.de/cocoda/nfdi4objects/
 access_url: https://coli-conc.gbv.de/cocoda/nfdi4objects/

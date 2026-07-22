@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: inspire-konformer-geodatendienst
 title: Geodata Services for the Exchange of Heritage-Related Data 
-short_title: 'Provision of geodata according to European INSPIRE standards. Cross-border interoperability.'
+short_title: 'Provision of <strong>geodata according to European INSPIRE standards.</strong> Cross-border interoperability.'
 logo: /assets/images/services/logo_geodatendienst_500px.png
 homepage: ''
 access_url: ''

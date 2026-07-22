@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: fairifizierungsanwendung-für-konservierungs-und-restaurierungsprozesse
 title: Conservation process tool
-short_title: 'A tool for organising conservation and restoration processes in accordance with the FAIR principles.'
+short_title: 'Tool for <strong>preparing conservation and restoration processes</strong> according to FAIR principles.'
 logo: /assets/images/services/fairification_tool_500px.png
 homepage: ''
 access_url: ''

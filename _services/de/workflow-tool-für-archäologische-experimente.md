@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: workflow-tool-für-archäologische-experimente
 title: Workflow-Tool für archäologische Experimente und Analytik
-short_title: 'Unterstützt die strukturierte Dokumentation und Auswertung von experimentellen archäologischen Daten.'
+short_title: 'Unterstützt die <strong>strukturierte Dokumentation und Auswertung</strong> von experimentellen archäologischen Daten.'
 logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
 homepage: ''
 access_url: ''

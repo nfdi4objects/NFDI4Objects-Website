@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: nfdi4objects-graph
 title: NFDI4Objects Knowledge Graph
-short_title: 'Verknüpft verteilte Forschungsdaten durch semantische Datenvernetzung und macht sie zentral durchsuchbar.'
+short_title: 'Verknüpft <strong>verteilte Forschungsdaten</strong> durch semantische Datenvernetzung und macht sie zentral durchsuchbar.'
 logo: /assets/images/services/n4o_knowledge_graph_500px.png
 homepage: https://graph.nfdi4objects.net/
 access_url: https://graph.nfdi4objects.net/

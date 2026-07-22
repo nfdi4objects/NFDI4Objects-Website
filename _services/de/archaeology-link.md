@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: archaeology-link
 title: archaeology.link
-short_title: 'Plattform zur Veröffentlichung und Verknüpfung von archäologischen Daten im Linked Open Data-Format.'
+short_title: 'Plattform zur <strong>Veröffentlichung und Verknüpfung</strong> von archäologischen Daten im Linked Open Data-Format.'
 logo: /assets/images/services/archaeologylink-logo2_500px.png
 homepage: https://archaeology.link/
 access_url: https://archaeology.link/

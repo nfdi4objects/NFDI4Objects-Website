@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: commons
 title: NFDI4Objects Commons
-short_title: 'Plattform mit Übersicht über vorhandene Daten, Werkzeuge und Wissen. Unterstützt die Recherche nach existierenden Ressourcen.'
+short_title: 'Plattform mit <strong>Übersicht über vorhandene Daten, Werkzeuge und Wissen.</strong> Unterstützt die Recherche nach existierenden Ressourcen.'
 logo: /assets/images/services/n4o_commons_logo_500px.png
 homepage: ''
 access_url: 'https://commons.nfdi4objects.net'

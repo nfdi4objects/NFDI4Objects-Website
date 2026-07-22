@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: schnittstellen-zum-austausch-von-denkmal-und-restaurierungsbezogenen-daten
 title: Schnittstellen zum Austausch von denkmalbezogenen Daten
-short_title: 'APIs und standardisierte Formate für den Austausch von denkmal- und restaurierungsbezogenen Daten.'
+short_title: '<strong>APIs und standardisierte Formate</strong> für den Austausch von denkmal- und restaurierungsbezogenen Daten.'
 logo: /assets/images/services/logo_schnittstelle_500px.png
 homepage: ''
 access_url: ''

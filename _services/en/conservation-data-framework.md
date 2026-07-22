@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: conservation-data-framework
 title: Conservation Data Framework
-short_title: 'An open reference framework for the standardised collection and curation of conservation and restoration data.'
+short_title: 'An <strong>open reference framework</strong> for the standardised collection and curation of conservation and restoration data.'
 logo: /assets/images/services/CDF_logo.png 
 homepage: 
 access_url: https://nfdi4objects.github.io/n4o_conservation_data_framework/

@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: propylaeum
 title: Propylaeum Publishing
-short_title: 'Service for electronic publication of research in ancient studies.'
+short_title: 'Service for <strong>electronic publication</strong> of research in ancient studies.'
 logo: /assets/images/services/design-ohne-titel-2.png
 homepage: https://www.propylaeum.de/
 access_url: https://www.propylaeum.de/

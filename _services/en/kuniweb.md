@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: kuniweb
 title: kuniweb
-short_title: 'Online inventory for cultural heritage objects. Digital capture and management of collection holdings.'
+short_title: 'Online inventory for <strong>cultural heritage objects.</strong> Digital capture and management of collection holdings.'
 logo: /assets/images/services/kuniweb_quadrat_500px.jpg
 homepage: https://www.gbv.de/informationen/Verbundzentrale/serviceangebote/kuniweb
 access_url: https://www.gbv.de/informationen/Verbundzentrale/serviceangebote/kuniweb
