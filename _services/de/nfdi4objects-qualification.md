@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: nfdi4objects-qualification
 title: NFDI4Objects Qualification
-short_title: 'Forschungsdatenmanagement lernen & lehren'
+short_title: 'Offene Lehr- und Lernressourcen, Templates und Community-Angebote für Forschung, Lehre und FDM-Beratung.'
 logo: /assets/images/services/n4o_qualification_logo_de.png
 organization: "hochschule-mainz-university-of-applied-sciences"
 contact_email: "kai-christian.bruhn@hs-mainz.de"
@@ -101,9 +101,9 @@ Dann freuen wir uns über Ihre Mitwirkung im Netzwerk von NFDI4Objects.
 - [FDM-Beratung](https://community.nfdi4objects.net/assemblies/FDM-Beratung)
 
 ## Ansprechpartner:innen
-Kai-Christian Bruhn
-Henrike Backhaus
-Sandra Schröer-Sprang
-Donata Gerhards
-Lennart Linde
-Julia Tolksdorf
+[Kai-Christian Bruhn](/_persons/de/kai-christian_bruhn.md)  
+[Henrike Backhaus](/_persons/de/henrikebackhaus.md)  
+[Sandra Schröer-Sprang](/_persons/de/sandraschröer-spang.md)    
+[Donata Gerhards](/_persons/de/donatagerhards.md)  
+[Lennart Linde](/_persons/de/lennart_linde.md)  
+[Julia Tolksdorf](/_persons/de/juliatolksdorf.md)   

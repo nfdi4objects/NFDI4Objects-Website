@@ -3,8 +3,8 @@ layout: service
 lang: de
 translation_key: objektontologie-und-minimal-metadatensatz
 title: Objektontologie und Minimal-Metadatensatz
-short_title: ''
-logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
+short_title: 'Standards für die semantische Beschreibung von Objektdaten. Grundlage für Interoperabilität.'
+logo: /assets/icons/dienste/Dienste-Icons-07.svg
 homepage: ''
 access_url: ''
 areas:

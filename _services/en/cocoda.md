@@ -3,8 +3,8 @@ layout: service
 lang: en
 translation_key: cocoda
 title: Cocoda
-short_title: ''
-logo: /assets/images/services/design-ohne-titel-1-.png
+short_title: 'Concordance tool for mapping between different controlled vocabularies and classification systems'
+logo: /assets/images/services/Cocoda_Logo.png
 homepage: https://coli-conc.gbv.de/cocoda/nfdi4objects/
 access_url: https://coli-conc.gbv.de/cocoda/nfdi4objects/
 areas: []

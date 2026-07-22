@@ -5,7 +5,7 @@ lang: en
 translation_key: services-collection
 permalink: /en/services/collection/
 cards:
-  - title: "iDAIfield"
+  - title: "ArchaeoDocs and iDAI.field – expert systems for excavation documentation"
     icon: "/assets/images/services/idaifield-logo.png"
     url: "/en/services/idai-field/"
     description: "Professional software for <strong>digital excavation documentation</strong>. Enables structured and standardized data capture for archaeological excavations."
@@ -30,11 +30,11 @@ cards:
     url: "/en/services/commons-inkubator/"
     description: "N4O knowledge repository for <strong>developing new, shared services</strong> and tools through the community."
   - title: "BARTOC"
-    icon: "/assets/icons/dienste/Dienste-Icons-03.svg"
+    icon: "/assets/images/services/design-ohne-titel.png"
     url: "/en/services/bartoc/"
     description: "<strong>Thesaurus registry</strong> for searching and using controlled vocabularies."
   - title: "R:honovo"
-    icon: "/assets/icons/dienste/Dienste-Icons-04.svg"
+    icon: "/assets/images/services/Logo_rhovono_4.jpg"
     url: "https://vokabulare.geschichte.uni-halle.de/"
     description: "Platform for <strong>historical vocabularies</strong> and their use in research."
   - title: "Conservation and Restoration Thesaurus"

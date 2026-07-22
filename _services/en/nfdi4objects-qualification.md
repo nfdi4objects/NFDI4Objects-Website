@@ -3,47 +3,107 @@ layout: service
 lang: en
 translation_key: nfdi4objects-qualification
 title: NFDI4Objects Qualification
-short_title: ''
+short_title: 'Open teaching and learning resources, templates and community initiatives for research, teaching and FDM consultancy.'
 logo: /assets/images/services/n4o_qualification_logo_de.png
+organization: "hochschule-mainz-university-of-applied-sciences"
+contact_email: "kai-christian.bruhn@hs-mainz.de"
 homepage: ''
-access_url: ''
 areas:
 - ta6
-trails: []
-nfdi_category: training
+trails:
+- 4.6_second_TRAILs
+nfdi_category: support_consulting
 nfdi_service_types:
 - quas
-permalink: /en/services/nfdi4objects-qualification/
+Lifecycle-Phases: 
+- lernen-beraten
+coordinators:
+  - person_ref: kai-christian_bruhn
+  - person_ref: henrikebackhaus
+  - person_ref: sandraschröer-spang
+  - person_ref: donatagerhards
+  - person_ref: juliatolksdorf
+  - person_ref: lennart_linde
+permalink: en/services/nfdi4objects-qualification/
+
+cards:
+  - title: "Documentation"
+    description: "Guidance on using the OER templates"
+    button_text: "View documentation"
+    button_url: "https://nfdi4objects.github.io/oer-template-dokumentation/"
+
+  - title: "Template OER-Script"
+    description: "Template for creating OER lecture notes"
+    button_text: "View Repository"
+    button_url: "https://github.com/nfdi4objects/oer-template-skript"
+
+  - title: "Template OER-Übung"
+    description: "Template for creating OER exercises"
+    button_text: "View Repository"
+    button_url: "https://github.com/nfdi4objects/oer-template-uebung"
 ---
 
-## Description
+Open teaching and learning resources, templates and community initiatives for research, teaching and FDM consultancy.
 
-Training resources for RDM skills
+<div class="button-group" style="display:flex; justify-content:center; gap:1rem;">
+  <a class="btn btn-primary" href="#The offer includes">🧩 Discover Materials</a>
+  <a class="btn btn-primary" href="#Get involved">🤝Get involved </a>
+</div>
 
-Responsible Persons: Henrike Backhaus, Kai-Christian Bruhn, Donata Gerhards, Lennart Linde, Sandra Schröer-Sprang, Julia Tolksdorf, Robert Zwick
 
-NFDI4Objects Qualification Service provides the specialist community with resources for teaching research data management (RDM) skills as well as integrating relevant content into training and teaching in a sustainable manner. Within Task Area 6, the results and discussions from all other task areas are bundled, systematically processed, and converted into open educational resources.
+## What does the NFDI4Objects Qualification offer?
 
-These resources include:
+NFDI4Objects Qualification develops open resources for teaching research data management (RDM) skills – from [**FAIR teaching and learning materials**](https://www.nfdi4objects.net/services/nfdi4objects-qualification/#-lehrmaterialien-oer) (Open Educational Resources – OER) and [**OER templates**](https://www.nfdi4objects.net/services/nfdi4objects-qualification/#-oer-templates) to [**qualification frameworks**](https://www.nfdi4objects.net/services/nfdi4objects-qualification/#-qualifikationsrahmen) and [**community formats**](https://www.nfdi4objects.net/services/nfdi4objects-qualification/#participation).
 
-* Templates for creating OERs
-* Scripts, presentations, practical exercises, as well as upcoming video content on various topics related to research data management. All open educational resources (OERs) are openly available and freely accessible ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). They can be reused as desired under the given license conditions.
+In collaboration with the various task areas of NFDI4Objects, practical resources are being developed that address current subject-specific requirements and support the sustainable integration of FDM into research, training and teaching.
 
-To facilitate the integration of RDM knowledge into teaching,  TA 6 is developing a qualification framework that is specifically tailored to the needs  and requirements of research on the material heritage of human history. It specifies the learning objective matrix developed by the NFDI for the subject area of RDM ([Petersen et al. 2025](https://doi.org/10.5281/zenodo.15025246)). Based on the specifications in N4O, the qualification framework defines the necessary qualifications in various fields of application and distinguishes between levels and areas of competence. 
+The service is aimed in particular at:
 
-Workshops, trainings, and various teaching formats continuously support the professional exchange on qualification measures in research data management. Furthermore, standards for FAIR OER in the field of NFDI4Objects are being developed and refined in collaboration with the N4O community within the community clusters “[RDM Qualification and OER](https://www.nfdi4objects.net/en/portal/ccs/cc-20-qualifikation-and-open-educational-ressources/)” and “[RDM Support](https://www.nfdi4objects.net/en/portal/ccs/cc-19-fdm-support/)” in Task Area 6.
+* Researchers and practitioners in the field of cultural heritage
+* Lecturers and higher education institutions
+* Students
+* FDM advisers
 
-## Currently available teaching and learning materials
+## The offer includes:
 
-Here you will find a constantly growing list of all NFDI4Objects OER offerings published so far:
+### 🛠️ OER-Templates
+*Vorlagen zur Erstellung FAIRer Lehr- und Lernmaterialien.*
 
-* Template for [OER-Skript](https://github.com/nfdi4objects/oer-template-skript)
-* Template [OER-Exercise](https://github.com/nfdi4objects/oer-template-uebung)
-* OER Script [Metadata](https://nfdi4objects.github.io/oer-skript-metadaten/) in german
+{% include teaser-cards.html cards=page.cards %}
 
-## Participation
+### 🧩 Teaching materials (OER)
+*Lecture notes, presentations and practical exercises on various FDM topics.*
 
-Are you involved in RDM consulting or do you create teaching materials on topics related to the legacy of around three million years of human and environmental history? Then join us and become part of the network!
+Here you will find an ever-growing collection of freely available OER resources from NFDI4Objects.
+- [OER Lecture Notes on Metadata](https://nfdi4objects.github.io/oer-skript-metadaten/) – An introduction to metadata
 
-* [Community Cluster RDM Qualification and OER](https://community.nfdi4objects.net/assemblies/OER)
-* [Community Cluster RDM Consulting](https://community.nfdi4objects.net/assemblies/FDM-Beratung)
+All materials are made openly available and are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+### 🎓 Qualifications Framework
+*Competence model for FDM in the field of cultural heritage.*
+
+To better integrate research data management into teaching, Task Area 6 is developing a specialised qualifications framework.
+
+This is based on the NFDI learning outcomes matrix for RDM ([Petersen et al. 2025](https://doi.org/10.5281/zenodo.15025246)) and specifies the necessary competences for different fields of application within the area of the material heritage of human history.
+
+The qualifications framework:
+- defines relevant areas of competence
+- distinguishes between different levels
+- supports the development of curricular teaching programmes
+- facilitates the sustainable teaching of FDM competences
+
+## Get Involved
+Do you work in FDM consultancy or develop teaching materials on topics relating to the material heritage of human and environmental history?
+
+If so, we would be delighted to have you join the NFDI4Objects network.
+
+- [FDM Training and OER](https://community.nfdi4objects.net/assemblies/OER)
+- [FDM consultancy](https://community.nfdi4objects.net/assemblies/FDM-Beratung)
+
+## Contact persons
+[Kai-Christian Bruhn](/_persons/en/kai-christian_bruhn.md)  
+[Henrike Backhaus](/_persons/en/henrikebackhaus.md)  
+[Sandra Schröer-Sprang](/_persons/en/sandraschröer-spang.md)  
+[Donata Gerhards](/_persons/en/donatagerhards.md)  
+[Lennart Linde](/_persons/en/lennart_linde.md)  
+[Julia Tolksdorf](/_persons/en/juliatolksdorf.md)  

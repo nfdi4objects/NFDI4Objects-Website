@@ -3,10 +3,10 @@ layout: service
 lang: en
 translation_key: ianus-forschungsdatenmanagement-empfehlungen
 title: IANUS RDM recommendations
-short_title: ''
+short_title: 'Comprehensive guidelines and best practices for research data management in the archaeological sciences. Essential for drawing up data management plans.'
 logo: /assets/images/services/ianus_logo_500px.png
-homepage: ''
-access_url: ''
+homepage: 'https://ianus-fdz.de/it-empfehlungen/'
+access_url: 'https://ianus-fdz.de/it-empfehlungen/'
 areas:
 - ta5
 trails: []

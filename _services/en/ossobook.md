@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: ossobook
 title: OssoBook and AnthroBook
-short_title: Research tools and repository for human and animal bones
+short_title: 'Tool for archaeozoological finds. Standardized capture and analysis of osteological data.'
 logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
 homepage: https://spm.snsb.de/ossobook/?lang=en
 access_url: https://spm.snsb.de/ossobook/?lang=en
@@ -19,7 +19,6 @@ permalink: /en/services/ossobook/
 
 ## Description
 
-Research tools and repository for human and animal bones
 
 OssoBook is a database software specifically designed for the storage and processing of data with archaeozoological content. OssoBook is developed as part of the so-called xbook framework.
 

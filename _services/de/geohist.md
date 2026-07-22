@@ -3,9 +3,8 @@ layout: service
 lang: de
 translation_key: geohist
 title: GeoHist
-short_title: Forschungsinstrument und Repositorium für Georessourcen in der menschlichen
-  Geschichte
-logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
+short_title: 'Werkzeug und Repositorium zur geografischen Datenerfassung und Analyse historischer Geodaten.'
+logo: "/assets/icons/dienste/Dienste-Icons-04.svg"
 homepage: ''
 access_url: ''
 areas:

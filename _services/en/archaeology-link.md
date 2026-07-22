@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: archaeology-link
 title: archaeology.link
-short_title: Archaeological Data Hub and Framework
+short_title: 'platform for publishing and linking archaeological data in Linked Open Data format.'
 logo: /assets/images/services/archaeologylink-logo2_500px.png
 homepage: https://archaeology.link/
 access_url: https://archaeology.link/

@@ -3,8 +3,7 @@ layout: service
 lang: de
 translation_key: academic-meta-tool-amt
 title: Academic Meta Tool (AMT)
-short_title: FAIRification Tool for graph-based modelling of vagueness in research
-  data
+short_title: "Werkzeug zur Metadaten-Erstellung und graphbasierten Modellierung. Ermöglicht automatische Schlussfolgerungen aus RDF-Graphdaten."
 logo: /assets/images/services/academic-meta-tool-logo2_500px.png
 homepage: https://leiza-rse.github.io/amt-playground/
 access_url: https://leiza-rse.github.io/amt-playground/

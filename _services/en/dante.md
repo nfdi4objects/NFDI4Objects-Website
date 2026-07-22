@@ -2,11 +2,11 @@
 layout: service
 lang: en
 translation_key: dante
-title: DANTE - data hub for norm data and terminologies
-short_title: ''
+title: DANTE
+short_title: 'A data hub for standardised data and terminology. Essential for semantic interoperability.'
 logo: /assets/images/services/dante_quadrat_500px.jpg
-homepage: ''
-access_url: ''
+homepage: 'https://dante.gbv.de/search'
+access_url: 'https://dante.gbv.de/search'
 areas:
 - ta5
 trails: []

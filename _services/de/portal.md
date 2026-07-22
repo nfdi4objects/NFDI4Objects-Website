@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: portal
 title: NFDI4Objects Portal
-short_title: ''
+short_title: 'Zentrales Informationsportal für NFDI4Objects-Dienste und Ressourcen.'
 logo: /assets/images/services/n4o_portal_logo_500px.png
 homepage: https://nfdi4objects.net/portal/
 access_url: https://nfdi4objects.net/portal/

@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: ossobook
 title: OssoBook
-short_title: Datenbanksoftware der Archäozoologie
+short_title: 'Werkzeug für archäozoologische Funde. Standardisierte Erfassung und Analyse osteologischer Daten.'
 logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
 homepage: https://spm.snsb.de/ossobook/
 access_url: https://spm.snsb.de/ossobook/

@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: bartoc
 title: BARTOC
-short_title: ''
+short_title: 'Thesaurus index for searching and using controlled vocabularies.'
 logo: /assets/images/services/design-ohne-titel.png
 homepage: https://bartoc.org/
 access_url: https://bartoc.org/

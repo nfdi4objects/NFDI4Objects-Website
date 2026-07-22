@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: ianus-langzeitarchiv-und-forschungsdatenzentrum
 title: IANUS Langzeitarchiv und Forschungsdatenzentrum
-short_title: ''
+short_title: 'Zentraler Dienst für die langfristige und sichere Archivierung von archäologischen Forschungsdaten mit professionellen Workflows zur Qualitätskontrolle.'
 logo: /assets/images/services/ianus_logo_500px.png
 homepage: https://ianus-fdz.de/langzeitarchivierung/
 access_url: https://ianus-fdz.de/langzeitarchivierung/

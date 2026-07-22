@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: wikibase-graphdatabase-semantic-media-wiki-infrastructures
 title: Wikibase / Graphdatabase / Semantic Media Wiki Infrastructures
-short_title: ''
+short_title: 'Infrastrukturen zur Erstellung und Verwaltung von Wissensdatenbanken und semantischen Daten.'
 logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
 homepage: ''
 access_url: ''

@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: kuniweb
 title: kuniweb
-short_title: ''
+short_title: 'Online-Inventar für Kulturgüter. Digitale Erfassung und Verwaltung von Sammlungsbeständen.'
 logo: /assets/images/services/kuniweb_quadrat_500px.jpg
 homepage: https://www.gbv.de/informationen/Verbundzentrale/serviceangebote/kuniweb
 access_url: https://www.gbv.de/informationen/Verbundzentrale/serviceangebote/kuniweb

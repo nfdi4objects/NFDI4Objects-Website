@@ -13,10 +13,6 @@ cards:
     icon: "/assets/icons/dienste/Dienste-Icons-05.svg"
     url: "/en/services/re3dragon/"
     description: "Supports <strong>structured documentation and analysis</strong> of experimental archaeological data."
-  - title: "NFDI4Objects Open Educational Resources (OERs)"
-    icon: "/assets/icons/dienste/Dienste-Icons-01.svg"
-    url: "/en/services/workflow-tool-für-archäologische-experimente/"
-    description: "<strong>Open teaching and learning materials</strong> for reuse in education and research."
 ---
 
 {% include page-header.html

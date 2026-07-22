@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: idai-field
 title: iDAIfield
-short_title: ''
+short_title: 'Professionelle Software zur digitalen Grabungsdokumentation. Ermöglicht strukturierte und standardisierte Datenerfassung bei archäologischen Ausgrabungen.'
 logo: /assets/images/services/idaifield_logo_500px.png
 homepage: https://field.idai.world/
 access_url: https://field.idai.world/

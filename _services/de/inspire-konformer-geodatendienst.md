@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: inspire-konformer-geodatendienst
 title: Geodatendienste zum Austausch denkmalbezogener Daten
-short_title: ''
+short_title: 'Bereitstellung von Geodaten nach europäischen INSPIRE-Standards. Interoperabilität über nationale Grenzen.'
 logo: /assets/images/services/logo_geodatendienst_500px.png
 homepage: ''
 access_url: ''

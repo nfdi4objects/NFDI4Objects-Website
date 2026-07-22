@@ -3,10 +3,10 @@ layout: service
 lang: en
 translation_key: arbodat
 title: ArboDat+
-short_title: Research tool and repository for archaeobotanical data
+short_title: 'Specialized database for archaeobotanical finds. Structured storage and statistical analysis of plant data.'
 logo: /assets/images/services/arbodat_500px.png
-homepage: ''
-access_url: ''
+homepage: 'https://arbodat.info/'
+access_url: 'https://arbodat.info/'
 areas:
 - ta3
 trails:

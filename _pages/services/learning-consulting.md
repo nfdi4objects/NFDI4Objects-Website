@@ -10,7 +10,7 @@ cards:
   - title: "NFDI4Objects Qualification"
     icon: /assets/images/services/n4o_qualification_logo_de.png
     url: "/services/nfdi4objects-qualification/"
-    description: "Offene Lehr- und Lernressourcen, Templates und Community-Angebote für Forschung, Lehre und FDM-Beratung."
+    description: "<strong>Offene Lehr- und Lernressourcen, Templates und Community-Angebote</strong> für Forschung, Lehre und FDM-Beratung."
   - title: "Research Software Engineering - Entwickler-Toolkits for Knowledge Modelling"
     icon: "/assets/icons/dienste/Dienste-Icons-05.svg"
     url: "/services/research-software-engineering-toolkits-for-knowledge-modelling/"
@@ -26,6 +26,10 @@ cards:
   - title: "NFDI4Objects Commons"
     icon: "/assets/images/services/n4o-commons-logo.png"
     url: "/services/commons/"
+  - title: "NFDI4Objects Helpdesk"
+    icon: "/assets/images/services/Helpdesk.png"
+    url: "/help/"
+    description: "Beratung und Unterstützung</strong> für Forschungsdatenmanagment-Fragen."
 ---
 
 {% include page-header.html

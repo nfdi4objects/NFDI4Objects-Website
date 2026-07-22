@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: commons-inkubator
 title: Commons Inkubator
-short_title: ''
+short_title: 'N4O-Wissenspeicher zur Entwicklung neuer, gemeinsamer Dienste und Werkzeuge durch die Community.'
 logo: /assets/images/services/n4o_inkubator_logo_500px.png
 homepage: https://commons.nfdi4objects.net/incubatormain/
 access_url: https://commons.nfdi4objects.net/incubatormain/

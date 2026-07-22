@@ -2,8 +2,8 @@
 layout: service
 lang: de
 translation_key: dante
-title: DANTE - Datendrehscheibe für Normdaten und Terminologien
-short_title: ''
+title: DANTE
+short_title: 'Datendrehscheibe für Normdaten und Terminologien. Essentiell für semantische Interoperabilität.'
 logo: /assets/images/services/dante_quadrat_500px.jpg
 homepage: https://dante.gbv.de/search
 access_url: https://dante.gbv.de/search

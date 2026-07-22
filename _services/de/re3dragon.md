@@ -3,10 +3,10 @@ layout: service
 lang: de
 translation_key: re3dragon
 title: re3dragon
-short_title: ''
+short_title: 'Werkzeug zur 3D-Rekonstruktion von archäologischen Objekten und Strukturen.'
 logo: /assets/images/services/re3dragon-logo2_500px.png
 homepage: ''
-access_url: ''
+access_url: 'https://tools.leiza.de/re3dragon/'
 areas:
 - ta2
 trails:

@@ -22,7 +22,7 @@ cards:
     url: "/en/services/commons/"
     description: "Platform providing an <strong>overview of available data, tools, and knowledge</strong>. Supports research into existing resources."
   - title: "NFDI4Objects Helpdesk"
-    icon: "/assets/icons/dienste/Dienste-Icons-03.svg"
+    icon: "/assets/images/services/Helpdesk.png"
     url: "/help/"
     description: "<strong>Consulting and support</strong> for research data management questions."
   - title: "Interfaces for Heritage and Restoration Data"

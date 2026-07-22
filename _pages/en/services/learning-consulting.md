@@ -22,9 +22,13 @@ cards:
     url: "/services/commons/"
     description: "Platform providing an <strong>overview of available data, tools, and knowledge</strong>. Supports research into existing resources."
   - title: "NFDI4Objects Helpdesk"
-    icon: "/assets/icons/dienste/Dienste-Icons-03.svg"
+    icon: "/assets/images/services/Helpdesk.png"
     url: "/help/"
-    description: "<strong>Beratung und Unterstützung</strong> für Forschungsdatenmanagment-Fragen."
+    description: "<strong>Advice and support</strong> on research data management issues."
+  - title: "NFDI4Objects Qualification"
+    icon: /assets/images/services/n4o_qualification_logo_de.png
+    url: "/services/nfdi4objects-qualification/"
+    description: <strong>"Open teaching and learning resources, templates and community initiatives</strong> for research, teaching and FDM consultancy."
 ---
 
 {% include page-header.html

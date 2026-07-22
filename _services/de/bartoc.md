@@ -3,7 +3,7 @@ layout: service
 lang: de
 translation_key: bartoc
 title: BARTOC
-short_title: ''
+short_title: 'Thesauri-Register für die Suche und Nutzung von kontrollierten Vokabularen.'
 logo: /assets/images/services/design-ohne-titel.png
 homepage: https://bartoc.org/
 access_url: https://bartoc.org/

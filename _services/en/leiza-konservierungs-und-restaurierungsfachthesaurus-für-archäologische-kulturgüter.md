@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: leiza-konservierungs-und-restaurierungsfachthesaurus-für-archäologische-kulturgüter
 title: Conservation and restoration expert thesaurus for archaeological cultural assets
-short_title: ''
+short_title: 'Standardized vocabulary for conservation and restoration of archaeological cultural heritage.'
 logo: /assets/images/services/thesaurus_logo_500px.png
 homepage: ''
 access_url: ''

@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: survey2gis
 title: Survey2GIS - open source software for field surveying and excavation
-short_title: Open source field surveying and excavation software
+short_title: 'Open-source software for field surveying and excavation data processing. Supports integration into GIS systems'
 logo: /assets/images/services/survey2gis_500px.png
 homepage: https://www.survey-tools.org/
 access_url: https://www.survey-tools.org/
