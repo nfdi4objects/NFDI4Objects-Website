@@ -46,8 +46,8 @@ cards:
 Open teaching and learning resources, templates and community initiatives for research, teaching and FDM consultancy.
 
 <div class="button-group" style="display:flex; justify-content:center; gap:1rem;">
-  <a class="btn btn-primary" href="#The offer includes">🧩 Discover Materials</a>
-  <a class="btn btn-primary" href="#Get involved">🤝Get involved </a>
+  <a class="btn btn-primary" href="#the-offer-includes">🧩 Discover Materials</a>
+  <a class="btn btn-primary" href="#get-involved">🤝Get involved </a>
 </div>
 
 
@@ -67,7 +67,7 @@ The service is aimed in particular at:
 ## The offer includes:
 
 ### 🛠️ OER-Templates
-*Vorlagen zur Erstellung FAIRer Lehr- und Lernmaterialien.*
+*Templates for creating FAIR teaching and learning materials.*
 
 {% include teaser-cards.html cards=page.cards %}
 
