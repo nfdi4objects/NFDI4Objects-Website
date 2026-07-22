@@ -18,7 +18,7 @@ cards:
     url: "/en/services/kuniweb/"
     description: "Online inventory for <strong>cultural heritage objects</strong>. Digital capture and management of collection holdings."
   - title: "GeoHist"
-    icon: "/assets/icons/dienste/Dienste-Icons-04.svg"
+    icon: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
     url: "/en/services/geohist/"
     description: "Tool for <strong>geographic data collection</strong> and analysis of historical geodata."
   - title: "DANTE"

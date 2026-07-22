@@ -4,7 +4,7 @@ lang: en
 translation_key: research-software-engineering-toolkits-for-knowledge-modelling
 title: Research Software Engineering Toolkits for Knowledge Modelling
 short_title: 'Toolkits and guides for <strong>semantic knowledge modeling</strong> and ontology development.'
-logo: "/assets/icons/dienste/Dienste-Icons-05.svg"
+logo: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
 homepage: ''
 access_url: ''
 areas:

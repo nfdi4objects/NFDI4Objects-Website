@@ -4,7 +4,7 @@ lang: de
 translation_key: geohist
 title: GeoHist
 short_title: 'Werkzeug und Repositorium zur <strong>geografischen Datenerfassung</strong> und Analyse historischer Geodaten.'
-logo: "/assets/icons/dienste/Dienste-Icons-04.svg"
+logo: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
 homepage: ''
 access_url: ''
 areas:

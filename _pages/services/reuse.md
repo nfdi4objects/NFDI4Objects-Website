@@ -12,7 +12,7 @@ cards:
     url: "/services/re3dragon/"
     description: "Werkzeug zur <strong>3D-Rekonstruktion</strong> von archäologischen Objekten und Strukturen."
   - title: "Workflow-Tool für archäologische Experimente und Analytik"
-    icon: "/assets/icons/dienste/Dienste-Icons-05.svg"
+    icon: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
     url: "/services/workflow-tool-für-archäologische-experimente/"
     description: "Unterstützt die <strong>strukturierte Dokumentation und Auswertung</strong> von experimentellen archäologischen Daten."
 ---
