@@ -28,7 +28,7 @@ cards:
     url: "/help/"
     description: "<strong>Beratung und Unterstützung</strong> für Forschungsdatenmanagment-Fragen."
   - title: "Schnittstellen für Denkmal- und Restaurierungsdaten"
-    icon: "/assets/images/services/logo-schnittstelle_500px.png"
+    icon: "/assets/images/services/logo-schnittstelle.png"
     url: "/services/schnittstellen-zum-austausch-von-denkmal-und-restaurierungsbezogenen-daten/"
     description: "<strong>APIs und standardisierte Formate</strong> für den Austausch von denkmal- und restaurierungsbezogenen Daten."
 ---

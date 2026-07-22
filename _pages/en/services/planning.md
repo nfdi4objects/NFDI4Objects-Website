@@ -26,7 +26,7 @@ cards:
     url: "/help/"
     description: "<strong>Consulting and support</strong> for research data management questions."
   - title: "Interfaces for Heritage and Restoration Data"
-    icon: "/assets/images/services/logo-schnittstelle_500px.png"
+    icon: "/assets/images/services/logo-schnittstelle.png"
     url: "/en/services/schnittstellen-zum-austausch-von-denkmal-und-restaurierungsbezogenen-daten/"
     description: "<strong>APIs and standardized formats</strong> for exchanging heritage and restoration-related data."
 ---
