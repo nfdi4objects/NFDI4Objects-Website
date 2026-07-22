@@ -76,38 +76,6 @@ right offer for your needs.
           {% endif %}
         {% endfor %}
 
-        {%- comment -%} Trails from _trails Collection {%- endcomment -%}
-        {% for trail in all_trails %}
-          <div class="service-card card bg-sand" data-categories="data-curation">
-
-            <div class="card-body">
-              <h3 class="h4">
-                <a href="{{ trail.url | relative_url }}">{{ trail.title }}</a>
-              </h3>
-
-              {% if trail.short_title %}
-              <p class="service-tagline">{{ trail.short_title }}</p>
-              {% endif %}
-
-              <p class="service-type-label">
-                TRAIL - Technical Infrastructure
-              </p>
-
-              {% if trail.coordinators and trail.coordinators.size > 0 %}
-              <p class="service-provider smaller">
-                <strong>Coordinators:</strong><br>
-                {% for coord in trail.coordinators limit:2 %}
-                  {{ coord.name }}{% unless forloop.last %}, {% endunless %}
-                {% endfor %}
-                {% if trail.coordinators.size > 2 %}
-                  et al.
-                {% endif %}
-              </p>
-              {% endif %}
-            </div>
-          </div>
-        {% endfor %}
-
       </div>
 
       <p class="no-results" id="no-results" style="display: none;">
