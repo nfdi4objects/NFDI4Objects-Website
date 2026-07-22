@@ -10,7 +10,7 @@ access_url: ''
 areas:
 - ta3
 trails:
-- workflow_tool_for_achaeological_experiments_and_analytics
+- 2nd_workflow_tool_for_achaeological_experiments_and_analytics
 nfdi_category: workflows
 nfdi_service_types:
 - sas
