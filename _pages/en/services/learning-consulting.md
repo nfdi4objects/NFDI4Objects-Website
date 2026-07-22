@@ -6,7 +6,7 @@ translation_key: services-learning
 permalink: /en/services/learning-consulting/
 cards:
   - title: "NFDI4Objects Qualification"
-    icon: /assets/images/services/n4o_qualification_logo_de.png
+    icon: /assets/images/services/n4o_qualification_logo_de_500px.png
     url: "/services/nfdi4objects-qualification/"
     description: <strong>"Open teaching and learning resources, templates and community initiatives</strong> for research, teaching and FDM consultancy."
   - title: "Research Software Engineering - Developer Toolkits for Knowledge Modelling"
