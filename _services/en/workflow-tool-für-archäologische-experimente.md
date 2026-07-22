@@ -2,8 +2,8 @@
 layout: service
 lang: en
 translation_key: workflow-tool-für-archäologische-experimente
-title: 'Expert Tool for data related to experimental archaeology, reconstructions and traceology'
-short_title: 'Supports structured documentation and analysis of experimental archaeological data.'
+title: 'Workflow Tool for Archeological Experiments'
+short_title: 'Supports <strong>structured documentation and analysis</strong> of experimental archaeological data.'
 logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
 homepage: ''
 access_url: ''
