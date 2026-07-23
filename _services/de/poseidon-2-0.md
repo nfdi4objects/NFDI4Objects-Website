@@ -45,10 +45,10 @@ Eine wichtige Initiative zur Lösung dieser Probleme in der menschlichen Archäo
 
 * Anstatt die Daten in einem monolithischen Datensatz bereitzustellen, haben wir beschlossen, die Daten in Form von Paketen zu strukturieren, die in der Regel (aber nicht zwangsläufig) Daten aus einzelnen Publikationen enthalten. Dies macht es für uns viel einfacher, die Ressource auf dem neuesten Stand zu halten, da neue Pakete einfach hinzugefügt werden können und Patches für einzelne Pakete leichtgewichtig sind und keine Aktualisierung des gesamten Datensatzes erforderlich machen.
 * Um die Arbeit mit diesem eher dezentralisierten, paketorientierten System zu erleichtern, stellen wir unser Kommandozeilenprogramm [trident](https://www.poseidon-adna.org/#/trident) zur Verfügung, das als vorkompilierte ausführbare Datei für alle wichtigen Betriebssysteme zur Verfügung steht und kontinuierlich weiterentwickelt und gepflegt wird.
-* Wir haben die Kontextdaten, die zusammen mit den genetischen Daten in der AARD geliefert werden, formalisiert und zu einem maschinenlesbaren Standard standardisiert (siehe [Standard](https://www.poseidon-adna.org/#/standard) und [Details zur janno-Datei](https://www.poseidon-adna.org/#/janno_details)).
+* Wir haben die Kontextdaten, die zusammen mit den genetischen Daten in der AARD geliefert werden, formalisiert und zu einem maschinenlesbaren Standard standardisiert (siehe [Standard](https://www.poseidon-adna.org/#/standard) und [Details zur janno-Datei](https://www.poseidon-adna.org/#/janno_details)).  
 <br>
 
----   
+---
 <br>
 
 #### Alles in allem hoffen wir, dass **POSEIDON 2.0** dazu beiträgt, das schnell wachsende Feld der Archäogenetik reproduzierbarer zu machen und uns letztendlich den FAIR-Prinzipien offener Daten näher zu bringen: Auffindbarkeit, Zugänglichkeit, Interoperabilität, Wiederverwendbarkeit.
