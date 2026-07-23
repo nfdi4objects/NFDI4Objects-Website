@@ -27,20 +27,17 @@ The **Incubator** is a first step towards the commons, in which the consortium c
    alt="Screenshot of the N4O Inkubator’s startpage by Kai-Christian Bruhn, CC0"
    caption="Screenshot of the N4O Inkubator’s startpage by Kai-Christian Bruhn, CC0"
    text= 
-   "The incubator is an open portal that lists materials in eight categories. All entries are modelled in accordance with the NFDI CoreOntology and are additionally indexed using keywords. Like the Commons, the Incubator is not a repository but a catalogue. The resources themselves are stored externally via persistent URLs.
-   ## Classification  
-   The Incubator makes resources accessible via categories and tags."
+   "The incubator is an open portal that lists materials in eight categories. All entries are modelled in accordance with the NFDI CoreOntology and are additionally indexed using keywords. Like the Commons, the Incubator is not a repository but a catalogue. The resources themselves are stored externally via persistent URLs."
    image_order="2"
    text_order="1"
 %}
 
-
+## Classification  
+ 
+The Incubator makes resources accessible via categories and tags.
 
 ### Categories
 
-<img src="/assets/images/services/n4o_website_inkubator_02.png"
-     alt="Screenshot of the Incubator with categories"
-     style="width: 75%x; display: block; margin: auto;">
 
 The following categories apply to the structural indexing of resources in the Incubator and in the Commons:
 
@@ -52,6 +49,10 @@ The following categories apply to the structural indexing of resources in the In
 * **Dataset**: Structured collection of data that has an exemplary function or includes glossaries, vocabularies, taxonomies and ontologies.
 * **Specification**: Detailed technical requirements necessary for the creation, management, provision and use of research data.
 * **Standard**: Recognised norms or standards for various aspects of research data management that help to ensure consistency, quality and interoperability.
+
+<img src="/assets/images/services/n4o_website_inkubator_02.png"
+     alt="Screenshot of the Incubator with categories"
+     style="width: 75%x; display: block; margin: auto;">
 
 ### Tags
 

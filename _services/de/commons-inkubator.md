@@ -27,19 +27,15 @@ Der **Inkubator** ist ein erster Schritt hin zu den Commons, in denen das Konsor
    alt="Screenshot der Startseite des N4O Inkubators"
    caption="Screenshot der Startseite des N4O Inkubators von Kai-Christian Bruhn, CC0"
    text= 
-   "Der Inkubator ist ein offenes Portal, das in acht Kategorien Materialien nachweist. Alle Einträge werden konform zur NFDI CoreOntology modelliert und werden über Schlagworte zusätzlich erschlossen. Der Inkubator ist, wie die Commons auch, kein Repository sondern ein Katalog. Die Ressourcen selbst werden extern über persistente URLs vorgehalten. 
-   ## Systematik  
-   Der Inkubator erschließt die Ressourcen über Kategorien und Tags."
+   "Der Inkubator ist ein offenes Portal, das in acht Kategorien Materialien nachweist. Alle Einträge werden konform zur NFDI CoreOntology modelliert und werden über Schlagworte zusätzlich erschlossen. Der Inkubator ist, wie die Commons auch, kein Repository sondern ein Katalog. Die Ressourcen selbst werden extern über persistente URLs vorgehalten."
    image_order="2"
    text_order="1"
 %}
+## Systematik    
+
+Der Inkubator erschließt die Ressourcen über Kategorien und Tags.  
 
 ### Kategorien
-
-<img src="/assets/images/services/n4o_website_inkubator_02.png"
-     alt="Screenshots des Incubators mit Kategorien"
-     style="width: 75%; display: block; margin: auto;">
-
 
 Für eine strukturelle Erschließung der Ressourcen im Inkubator und in den Commons gelten folgende Kategorien:
 
@@ -51,6 +47,10 @@ Für eine strukturelle Erschließung der Ressourcen im Inkubator und in den Comm
 * **Datensatz**: Strukturierte Sammlung von Daten, die exemplarische Funktion haben oder Glossare, Vokabulare, Taxonomien und Ontologien umfassen.
 * **Spezifikation**: Detaillierte technische Anforderungen, die für die Erstellung, Verwaltung, Bereitstellung und Nutzung von Forschungsdaten erforderlich sind.
 * **Standard**: Anerkannte Normen oder Richtlinien für verschiedene Aspekte des Forschungsdatenmanagements, die zur Sicherstellung von Konsistenz, Qualität und Interoperabilität beitragen.  
+
+<img src="/assets/images/services/n4o_website_inkubator_02.png"
+     alt="Screenshots des Incubators mit Kategorien"
+     style="width: 75%; display: block; margin: auto;">  
 
 ### Tags
 
@@ -79,7 +79,7 @@ Aktuell (Stand September 2024) werden folgende Tags Verwendung:
 - Strukturierte Daten
 - TRUST
 - Video
-- Vokabular>
+- Vokabular
 
 ## Hinweise und Anregungen
 
