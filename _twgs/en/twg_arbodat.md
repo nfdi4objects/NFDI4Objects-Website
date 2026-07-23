@@ -1,7 +1,7 @@
 ---
 layout: twg
 lang: en
-translation_key: arbodat
+translation_key: twg_arbodat
 title: ArboDat+
 identifier: TWG 2025.3
 status: planned
@@ -14,7 +14,7 @@ cochairs:
   person_ref: ''
 areas:
 - ta3
-permalink: /en/twgs/arbodat/
+permalink: /en/twgs/twg_arbodat/
 ---
 
 ## Description
