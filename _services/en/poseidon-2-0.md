@@ -22,6 +22,7 @@ permalink: /en/services/poseidon-2-0/
 
 **Archaeogenetics** has become a fast-accelerating field, with new data coming out faster than many individual researchers can keep track of and co-analyse. Recently, we have surpassed the threshold of [genome-wide data for 10,000 ancient human individuals](https://www.nature.com/articles/d41586-023-01403-4). In addition, for many of those samples we also have rich metadata ranging from archaeological information to radiocarbon dating.
 <br>
+
 --- 
 
 The way data is currently shared and published via academic papers, at least from genetic analyses, is mainly via releasing raw sequencing data into public repositories such as the [ENA](https://www.ebi.ac.uk/ena/browser/home), while providing partial metadata on samples via often poorly formatted Excel tables in the Supplement. This creates (at least) the following problems:
@@ -30,7 +31,9 @@ The way data is currently shared and published via academic papers, at least fro
 * The connection between individuals, contextual information, and genetic data becomes hard to maintain, bridging between very different repositories and sources (Excel vs. personal homepages vs. public repositories)
 * Meta-analyses spanning datasets require enormous amounts of work on data collection and curation.  
 <br>
+
 ---  
+
 <br>
 
 A major initiative to address these problems in human archaeogenetics is the [Allen Ancient DNA Resource (“AADR”)](https://www.biorxiv.org/content/10.1101/2023.04.06.535797v1), which is a curated dataset of public ancient DNA data generated, curated and bundled by David Reich’s ancient DNA laboratory at Harvard University. In many ways, our initiative is inspired by and deriving from this resource. In particular, the AADR currently (April 2023) is arguably the most complete resource world-wide that provides genome-wide genotype data for ancient human individuals from nearly all publications in the field.  
