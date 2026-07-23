@@ -24,11 +24,11 @@ Der **Inkubator** ist ein erster Schritt hin zu den Commons, in denen das Konsor
 
 <figure>
 <span markdown="1"> 
-![Screenshot der Startseite des N4O Inkubators](/assets/img/n4o_website_inkubator_01.png "Screenshot der Startseite des N4O Inkubators")
+![Screenshot der Startseite des N4O Inkubators](/assets/images/n4o_website_inkubator_01.png "Screenshot der Startseite des N4O Inkubators")
 </span>
 <figcaption>
 <span markdown=1>
-[Screenshot der Startseite des N4O Inkubators](/assets/img/n4o_website_inkubator_01.png)
+[Screenshot der Startseite des N4O Inkubators](/assets/images/n4o_website_inkubator_01.png)
 von 
 [Kai-Christian Bruhn](https://orcid.org/0000-0001-8322-1260), 
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -44,7 +44,7 @@ Der Inkubator erschließt die Ressourcen über Kategorien und Tags.
 
 ### Kategorien
 
-![N4O Commons Inkubator Startseite](/assets/img/services/n4o_website_inkubator_01.png "Screenshot des Inkubators mit Anzeige der Kategorien")
+![N4O Commons Inkubator Startseite](/assets/images/services/n4o_website_inkubator_01.png "Screenshot des Inkubators mit Anzeige der Kategorien")
 
 Für eine strukturelle Erschließung der Ressourcen im Inkubator und in den Commons gelten folgende Kategorien:
 
@@ -57,7 +57,7 @@ Für eine strukturelle Erschließung der Ressourcen im Inkubator und in den Comm
 * **Spezifikation**: Detaillierte technische Anforderungen, die für die Erstellung, Verwaltung, Bereitstellung und Nutzung von Forschungsdaten erforderlich sind.
 * **Standard**: Anerkannte Normen oder Richtlinien für verschiedene Aspekte des Forschungsdatenmanagements, die zur Sicherstellung von Konsistenz, Qualität und Interoperabilität beitragen.
 
-![N4O Commons Inkubator Startseite](/assets/img/services/n4o_website_inkubator_01.png "Facettierte Suche im Inkubator nach Kategorien und Tags")
+![N4O Commons Inkubator Startseite](/assets/images/services/n4o_website_inkubator_01.png "Facettierte Suche im Inkubator nach Kategorien und Tags")
 
 ### Tags
 

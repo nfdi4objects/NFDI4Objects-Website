@@ -24,11 +24,11 @@ The **Incubator** is a first step towards the commons, in which the consortium c
 
 <figure>
 <span markdown="1"> 
-![Screenshot of the N4O Inkubator's startpage](/assets/img/n4o_website_inkubator_01.png "Screenshot of the N4O Inkubator's startpage")
+![Screenshot of the N4O Inkubator's startpage](/assets/images/n4o_website_inkubator_01.png "Screenshot of the N4O Inkubator's startpage")
 </span>
 <figcaption>
 <span markdown=1>
-[Screenshot of the N4O Inkubator's startpage](/assets/img/n4o_website_inkubator_01.png)
+[Screenshot of the N4O Inkubator's startpage](/assets/images/n4o_website_inkubator_01.png)
 by
 [Kai-Christian Bruhn](https://orcid.org/0000-0001-8322-1260), 
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -63,7 +63,7 @@ The following categories apply to the structural indexing of resources in the In
 * **Specification**: Detailed technical requirements necessary for the creation, management, provision and use of research data.
 * **Standard**: Recognised norms or standards for various aspects of research data management that help to ensure consistency, quality and interoperability.
 
-![N4O Commons Incubator homepage](/assets/img/services/n4o_website_incubator_01.png ‘Faceted search in the incubator by categories and tags’)
+![N4O Commons Incubator homepage](/assets/images/services/n4o_website_incubator_01.png ‘Faceted search in the incubator by categories and tags’)
 
 ### Tags
 
