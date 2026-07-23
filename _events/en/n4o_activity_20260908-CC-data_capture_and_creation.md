@@ -18,7 +18,7 @@ permalink: en/events/n4o_activity_20260908_CC_data_capture_and_creation/
 
 On this occasion, our co-chair [Frank Dührkohp](/_persons/en/frank_duehrkohp.md) (GBV Central Office) will provide an insight into the Culture Cloud project.
 
-The Culture Cloud marks the first time a state-wide cultural data infrastructure has been established for Lower Saxony, bringing together information from museums, archives, libraries and heritage conservation bodies. Data that was previously stored in a decentralised manner and was often difficult to locate is now being linked via uniform standards and made accessible centrally. This means that, in future, the data can be found more easily via digital portals, linked together and made available for research, cultural purposes and the general public – whilst the respective institutions retain full control over their data.
+The [Culture Cloud](https://culturecloud-niedersachsen.de/) marks the first time a state-wide cultural data infrastructure has been established for Lower Saxony, bringing together information from museums, archives, libraries and heritage conservation bodies. Data that was previously stored in a decentralised manner and was often difficult to locate is now being linked via uniform standards and made accessible centrally. This means that, in future, the data can be found more easily via digital portals, linked together and made available for research, cultural purposes and the general public – whilst the respective institutions retain full control over their data.
 
 ---
 ### Here are the Zoom login details:

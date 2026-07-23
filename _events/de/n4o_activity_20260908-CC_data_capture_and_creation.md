@@ -18,7 +18,7 @@ permalink: /events/n4o_activity_20260908_CC_data_capture_and_creation/
   
 Dieses Mal wird unser Co-Chair [Frank Dührkohp](/_persons/de/frank_duehrkohp.md) (Verbundzentrale des GBV) einen Einblick in das Projekt Culture Cloud geben.
 
-Mit der Culture Cloud entsteht erstmals eine landesweite Kulturdateninfrastruktur für Niedersachsen, die Informationen aus Museen, Archiven, Bibliotheken und der Denkmalpflege zusammenführt. Was bislang dezentral gespeichert und oft schwer auffindbar war, wird nun über einheitliche Standards vernetzt und zentral zugänglich gemacht. So können die Daten künftig über digitale Portale leichter gefunden, miteinander verknüpft und für Forschung, Kultur und Öffentlichkeit nutzbar werden – bei voller Datenhoheit der jeweiligen Einrichtungen.
+Mit der [Culture Cloud](https://culturecloud-niedersachsen.de/) entsteht erstmals eine landesweite Kulturdateninfrastruktur für Niedersachsen, die Informationen aus Museen, Archiven, Bibliotheken und der Denkmalpflege zusammenführt. Was bislang dezentral gespeichert und oft schwer auffindbar war, wird nun über einheitliche Standards vernetzt und zentral zugänglich gemacht. So können die Daten künftig über digitale Portale leichter gefunden, miteinander verknüpft und für Forschung, Kultur und Öffentlichkeit nutzbar werden – bei voller Datenhoheit der jeweiligen Einrichtungen.
 
 ---  
 ### Hier sind die Zoom-Zugangsdaten:
