@@ -22,7 +22,7 @@ permalink: /en/services/academic-meta-tool-amt/
 
 *Responsible persons: Florian Thiery (LEIZA) / Allard W. Mees (LEIZA)*
 
-The Academic Meta Tool (AMT) enables the modelling of vagueness in RDF graph data and allows reasoning-based automated inferences, such as determining relative chronological sequences. The results can be available as Linked Open Data in RDF format, adhering to FAIR principles, and visualised within graphs.
+The **Academic Meta Tool (AMT)** enables the **modelling of vagueness in RDF graph data** and allows **reasoning-based automated inferences**, such as determining relative chronological sequences. The results can be available as Linked Open Data in RDF format, adhering to FAIR principles, and visualised within graphs.
 
 In recent years, graph databases and so-called triple stores have increasingly been used to address humanities research questions. In these cases, relevant data are modelled as graphs or as collections of triples. Compared to relational databases, which rely on table structures, this approach offers the advantage of more easily expressing networks and connections to the Semantic Web and Linked Data Cloud.
 

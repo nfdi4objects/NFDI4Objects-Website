@@ -19,7 +19,7 @@ permalink: /en/services/schnittstellen-zum-austausch-von-denkmal-und-restaurieru
 
 ## Description
 
-[ ] NFDI4Objects creates opportunities to make the heterogeneous and decentralized research data landscape - which arises in the context of conservation measures for movable and immovable tangible cultural heritage - FAIR and to provide interoperable data.
+NFDI4Objects creates opportunities to make the heterogeneous and decentralized research data landscape - which arises in the context of conservation measures for movable and immovable tangible cultural heritage - FAIR and to provide interoperable data.
 
 To this end, interfaces and community standards are being developed, based in part on the ADeX standard of the Association of the State Archaeologists of the Federal Republic of Germany, which enable the exchange of research data across repositories (e.g., collection databases, web portals, and subject-specific databases). They define core and optional data fields, their types, and contents to enable interoperability and automated data exchange between systems.
 

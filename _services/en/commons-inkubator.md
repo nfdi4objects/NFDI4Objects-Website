@@ -103,4 +103,4 @@ Please send us suggestions for the Incubator via the Helpdesk. Ideally you shoul
 * A description giving details of the resource.
 * A link, ideally with DOI or a persistent URL.
 
-You can contact us directly via the [Helpdesk](../../helpdesk/).
+You can contact us directly via the [Helpdesk](https://www.nfdi4objects.net/help/).

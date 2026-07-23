@@ -23,14 +23,16 @@ permalink: /en/services/poseidon-2-0/
 **Archaeogenetics** has become a fast-accelerating field, with new data coming out faster than many individual researchers can keep track of and co-analyse. Recently, we have surpassed the threshold of [genome-wide data for 10,000 ancient human individuals](https://www.nature.com/articles/d41586-023-01403-4). In addition, for many of those samples we also have rich metadata ranging from archaeological information to radiocarbon dating.
 
 ---  
+<br>
 
 The way data is currently shared and published via academic papers, at least from genetic analyses, is mainly via releasing raw sequencing data into public repositories such as the [ENA](https://www.ebi.ac.uk/ena/browser/home), while providing partial metadata on samples via often poorly formatted Excel tables in the Supplement. This creates (at least) the following problems:
 
 * Intermediate data such as genotypes are often not released at all, making it hard for others to reproduce analyses.
 * The connection between individuals, contextual information, and genetic data becomes hard to maintain, bridging between very different repositories and sources (Excel vs. personal homepages vs. public repositories)
-* Meta-analyses spanning datasets require enormous amounts of work on data collection and curation.
-  
+* Meta-analyses spanning datasets require enormous amounts of work on data collection and curation.  
+<br> 
 ---  
+<br>
 
 A major initiative to address these problems in human archaeogenetics is the [Allen Ancient DNA Resource (“AADR”)](https://www.biorxiv.org/content/10.1101/2023.04.06.535797v1), which is a curated dataset of public ancient DNA data generated, curated and bundled by David Reich’s ancient DNA laboratory at Harvard University. In many ways, our initiative is inspired by and deriving from this resource. In particular, the AADR currently (April 2023) is arguably the most complete resource world-wide that provides genome-wide genotype data for ancient human individuals from nearly all publications in the field.
 
@@ -39,8 +41,10 @@ A major initiative to address these problems in human archaeogenetics is the [Al
 
 * Instead of providing the data in one monolithic dataset, we decided to structure the data in terms of packages, which typically (but don’t have to) contain data from single publications. This makes it much simpler for us to keep the resource up to date, as new packages can simply be added, and patches to individual packages are light-weight and don’t necessitate an update of the entire dataset.
 * To facilitate working with this more de-centralised package-oriented system, we provide our command line utility [trident](https://www.poseidon-adna.org/#/trident), which is provided as pre-compiled executable for all major operating systems and is continuously developed and maintained.
-* We formalised and standardised the contextual data delivered alongside the genetic data in the AARD to a machine-readable standard (see [standard](https://www.poseidon-adna.org/#/standard) and [details on the janno-file](https://www.poseidon-adna.org/#/janno_details).
+* We formalised and standardised the contextual data delivered alongside the genetic data in the AARD to a machine-readable standard (see [standard](https://www.poseidon-adna.org/#/standard) and [details on the janno-file](https://www.poseidon-adna.org/#/janno_details)).  
+<br>
 
 ---
-  
-All in all, we hope POSEIDON 2.0 contributes to making the fast-growing field of archaeogenetics more reproducible and ultimately brings us closer to the FAIR principles of open data: Findability, Accessibility, Interoperability, Reusability.
+#### <br> All in all, we hope POSEIDON 2.0 contributes to making the fast-growing field of archaeogenetics more reproducible and ultimately brings us closer to the FAIR principles of open data: Findability, Accessibility, Interoperability, Reusability. 
+</br> 
+
