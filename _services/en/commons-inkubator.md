@@ -22,11 +22,15 @@ permalink: /en/services/commons-inkubator/
 
 The **Incubator** is a first step towards the commons, in which the consortium collects knowledge on research data management. The incubator is a preliminary stage in which the consortium collects existing materials that support the development of the [commons](../../../commons/). It also acts as a **knowledge base** to provide the consortium with orientation in discussions and thus **practical help in decision-making** in daily practice.
 
-<img src="/assets/images/services/n4o_website_inkubator_01.png"
-     alt=" Screenshot of the N4O Inkubator’s startpage by Kai-Christian Bruhn, CC0"
-     style="width: 500px; display: block; margin: auto;">  
-
-The incubator is an open portal that lists materials in eight categories. All entries are modelled in accordance with the NFDI CoreOntology and are additionally indexed using keywords. Like the Commons, the Incubator is not a repository but a catalogue. The resources themselves are stored externally via persistent URLs.
+{% include blocks/image-text-grid.html
+   image="/assets/images/services/n4o_website_inkubator_01.png"
+   alt="Screenshot of the N4O Inkubator’s startpage by Kai-Christian Bruhn, CC0"
+   caption="Screenshot of the N4O Inkubator’s startpage by Kai-Christian Bruhn, CC0"
+   text= 
+   "The incubator is an open portal that lists materials in eight categories. All entries are modelled in accordance with the NFDI CoreOntology and are additionally indexed using keywords. Like the Commons, the Incubator is not a repository but a catalogue. The resources themselves are stored externally via persistent URLs."
+   image_order="2"
+   text_order="1"
+%}
 
 ## Classification
 
@@ -36,7 +40,7 @@ The Incubator makes resources accessible via categories and tags.
 
 <img src="/assets/images/services/n4o_website_inkubator_02.png"
      alt="Screenshot of the Incubator with categories"
-     style="width: 500px; display: block; margin: auto;">
+     style="width: 75%x; display: block; margin: auto;">
 
 The following categories apply to the structural indexing of resources in the Incubator and in the Commons:
 
@@ -51,7 +55,7 @@ The following categories apply to the structural indexing of resources in the In
 
 <img src="/assets/images/services/n4o_website_inkubator_03.png"
      alt="Facettierte Suche im Inkubator nach Kategorien und Tags"
-     style="width: 500px; display: block; margin: auto;">
+     style="width: 75%; display: block; margin: auto;">
 
 #### Tags
 
