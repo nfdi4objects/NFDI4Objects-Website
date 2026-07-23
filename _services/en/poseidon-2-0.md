@@ -30,10 +30,9 @@ The way data is currently shared and published via academic papers, at least fro
 * Intermediate data such as genotypes are often not released at all, making it hard for others to reproduce analyses.
 * The connection between individuals, contextual information, and genetic data becomes hard to maintain, bridging between very different repositories and sources (Excel vs. personal homepages vs. public repositories)
 * Meta-analyses spanning datasets require enormous amounts of work on data collection and curation.  
-<br> 
----  
+<br>   
+---
 <br>
-
 A major initiative to address these problems in human archaeogenetics is the [Allen Ancient DNA Resource (“AADR”)](https://www.biorxiv.org/content/10.1101/2023.04.06.535797v1), which is a curated dataset of public ancient DNA data generated, curated and bundled by David Reich’s ancient DNA laboratory at Harvard University. In many ways, our initiative is inspired by and deriving from this resource. In particular, the AADR currently (April 2023) is arguably the most complete resource world-wide that provides genome-wide genotype data for ancient human individuals from nearly all publications in the field.
 
 
