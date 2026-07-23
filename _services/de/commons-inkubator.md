@@ -18,7 +18,7 @@ nfdi_service_types:
 permalink: /services/commons-inkubator/
 ---
 
-## Beschreibung
+# Beschreibung
 
 Der **Inkubator** ist ein erster Schritt hin zu den Commons, in denen das Konsortium das Wissen zum Forschungsdatenamangement sammelt. Der Inkubator ist eine Vorstufe, in dem das Konsortium vorhandene Materialien sammelt, die bei der Erarbeitung der [Commons](../../../commons/) unterstützen. Er fungiert zudem als **Knowledge Base**, um dem Konsortium Orientierung in Diskussionen und damit **praktische Hilfe bei der Entscheidungsfindung** in der täglichen Praxis zu bieten.
 
@@ -27,16 +27,14 @@ Der **Inkubator** ist ein erster Schritt hin zu den Commons, in denen das Konsor
    alt="Screenshot der Startseite des N4O Inkubators"
    caption="Screenshot der Startseite des N4O Inkubators von Kai-Christian Bruhn, CC0"
    text= 
-   "Der Inkubator ist ein offenes Portal, das in acht Kategorien Materialien nachweist. Alle Einträge werden konform zur NFDI CoreOntology modelliert und werden über Schlagworte zusätzlich erschlossen. Der Inkubator ist, wie die Commons auch, kein Repository sondern ein Katalog. Die Ressourcen selbst werden extern über persistente URLs vorgehalten."
+   "Der Inkubator ist ein offenes Portal, das in acht Kategorien Materialien nachweist. Alle Einträge werden konform zur NFDI CoreOntology modelliert und werden über Schlagworte zusätzlich erschlossen. Der Inkubator ist, wie die Commons auch, kein Repository sondern ein Katalog. Die Ressourcen selbst werden extern über persistente URLs vorgehalten. 
+   ## Systematik  
+   Der Inkubator erschließt die Ressourcen über Kategorien und Tags."
    image_order="2"
    text_order="1"
 %}
 
-## Systematik  
-
-Der Inkubator erschließt die Ressourcen über Kategorien und Tags.
-
-#### Kategorien
+### Kategorien
 
 <img src="/assets/images/services/n4o_website_inkubator_02.png"
      alt="Screenshots des Incubators mit Kategorien"
@@ -54,7 +52,7 @@ Für eine strukturelle Erschließung der Ressourcen im Inkubator und in den Comm
 * **Spezifikation**: Detaillierte technische Anforderungen, die für die Erstellung, Verwaltung, Bereitstellung und Nutzung von Forschungsdaten erforderlich sind.
 * **Standard**: Anerkannte Normen oder Richtlinien für verschiedene Aspekte des Forschungsdatenmanagements, die zur Sicherstellung von Konsistenz, Qualität und Interoperabilität beitragen.  
 
-#### Tags
+### Tags
 
 Zusätzlich zu den Kategorien grenzen Tags die Thematik der Ressource ein. Das Tagset ist derzeit nicht festgelegt, soll in Zukunft aber auf kontrollierte Vokabulare gemappt werden.
 
@@ -81,11 +79,7 @@ Aktuell (Stand September 2024) werden folgende Tags Verwendung:
 - Strukturierte Daten
 - TRUST
 - Video
-- Vokabular
-
-<img src="/assets/images/services/n4o_website_inkubator_03.png"
-     alt="Facettierte Suche im Inkubator nach Kategorien und Tags"
-     style="width: 75%; display: block; margin: auto;">
+- Vokabular>
 
 ## Hinweise und Anregungen
 

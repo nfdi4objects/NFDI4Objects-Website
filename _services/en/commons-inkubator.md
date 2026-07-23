@@ -18,7 +18,7 @@ nfdi_service_types:
 permalink: /en/services/commons-inkubator/
 ---
 
-## Description
+# Description
 
 The **Incubator** is a first step towards the commons, in which the consortium collects knowledge on research data management. The incubator is a preliminary stage in which the consortium collects existing materials that support the development of the [commons](../../../commons/). It also acts as a **knowledge base** to provide the consortium with orientation in discussions and thus **practical help in decision-making** in daily practice.
 
@@ -27,14 +27,14 @@ The **Incubator** is a first step towards the commons, in which the consortium c
    alt="Screenshot of the N4O Inkubator’s startpage by Kai-Christian Bruhn, CC0"
    caption="Screenshot of the N4O Inkubator’s startpage by Kai-Christian Bruhn, CC0"
    text= 
-   "The incubator is an open portal that lists materials in eight categories. All entries are modelled in accordance with the NFDI CoreOntology and are additionally indexed using keywords. Like the Commons, the Incubator is not a repository but a catalogue. The resources themselves are stored externally via persistent URLs."
+   "The incubator is an open portal that lists materials in eight categories. All entries are modelled in accordance with the NFDI CoreOntology and are additionally indexed using keywords. Like the Commons, the Incubator is not a repository but a catalogue. The resources themselves are stored externally via persistent URLs.
+   ## Classification  
+   The Incubator makes resources accessible via categories and tags."
    image_order="2"
    text_order="1"
 %}
 
-## Classification
 
-The Incubator makes resources accessible via categories and tags.
 
 ### Categories
 
@@ -53,11 +53,7 @@ The following categories apply to the structural indexing of resources in the In
 * **Specification**: Detailed technical requirements necessary for the creation, management, provision and use of research data.
 * **Standard**: Recognised norms or standards for various aspects of research data management that help to ensure consistency, quality and interoperability.
 
-<img src="/assets/images/services/n4o_website_inkubator_03.png"
-     alt="Facettierte Suche im Inkubator nach Kategorien und Tags"
-     style="width: 75%; display: block; margin: auto;">
-
-#### Tags
+### Tags
 
 In addition to the categories, tags limit the topic of the resource. The tag set is currently not defined, but will be mapped to controlled vocabularies in the future.
 
@@ -85,7 +81,6 @@ Currently (as of September 2024) the following tags are being used:
 * TRUST
 * Video
 * Vocabulary
-
 
 ## Help and suggestions
 

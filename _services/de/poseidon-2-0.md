@@ -21,7 +21,6 @@ permalink: /services/poseidon-2-0/
 ## Beschreibung
 
 Die **Archäogenetik** hat sich zu einem rasanten Feld entwickelt, in dem neue Daten schneller veröffentlicht werden, als viele einzelne Forscher den Überblick behalten und gemeinsam analysieren können. Kürzlich haben wir die Schwelle von [genomweiten Daten für 10.000 antike Menschen](https://www.nature.com/articles/d41586-023-01403-4) überschritten. Darüber hinaus verfügen wir für viele dieser Proben über umfangreiche Metadaten, die von archäologischen Informationen bis hin zu Radiokarbondatierungen reichen.
-<br>
 
 ---
 
@@ -32,7 +31,8 @@ Die Art und Weise wie Daten derzeit weitergegeben und in akademischen Publikatio
 * Zwischendaten wie z. B. Genotypen werden oft überhaupt nicht veröffentlicht, was es anderen erschwert, Analysen zu reproduzieren.
 * Die Verbindung zwischen Individuen, Kontextinformationen und genetischen Daten ist schwer         aufrechtzuerhalten, da sie zwischen sehr unterschiedlichen Repositories und Quellen (Excel vs
 persönliche Homepages vs. öffentliche Repositories) überbrückt wird.
-* Meta-Analysen, die sich über mehrere Datensätze erstrecken, erfordern einen enormen Arbeitsaufwand für die Datensammlung und -pflege.
+* Meta-Analysen, die sich über mehrere Datensätze erstrecken, erfordern einen enormen Arbeitsaufwand für die Datensammlung und -pflege.  
+
 <br>
 
 ---    
@@ -46,6 +46,7 @@ Eine wichtige Initiative zur Lösung dieser Probleme in der menschlichen Archäo
 * Anstatt die Daten in einem monolithischen Datensatz bereitzustellen, haben wir beschlossen, die Daten in Form von Paketen zu strukturieren, die in der Regel (aber nicht zwangsläufig) Daten aus einzelnen Publikationen enthalten. Dies macht es für uns viel einfacher, die Ressource auf dem neuesten Stand zu halten, da neue Pakete einfach hinzugefügt werden können und Patches für einzelne Pakete leichtgewichtig sind und keine Aktualisierung des gesamten Datensatzes erforderlich machen.
 * Um die Arbeit mit diesem eher dezentralisierten, paketorientierten System zu erleichtern, stellen wir unser Kommandozeilenprogramm [trident](https://www.poseidon-adna.org/#/trident) zur Verfügung, das als vorkompilierte ausführbare Datei für alle wichtigen Betriebssysteme zur Verfügung steht und kontinuierlich weiterentwickelt und gepflegt wird.
 * Wir haben die Kontextdaten, die zusammen mit den genetischen Daten in der AARD geliefert werden, formalisiert und zu einem maschinenlesbaren Standard standardisiert (siehe [Standard](https://www.poseidon-adna.org/#/standard) und [Details zur janno-Datei](https://www.poseidon-adna.org/#/janno_details)).
+<br>
 
 ---   
 <br>

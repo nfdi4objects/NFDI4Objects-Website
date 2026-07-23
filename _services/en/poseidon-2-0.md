@@ -21,9 +21,9 @@ permalink: /en/services/poseidon-2-0/
 ## Description
 
 **Archaeogenetics** has become a fast-accelerating field, with new data coming out faster than many individual researchers can keep track of and co-analyse. Recently, we have surpassed the threshold of [genome-wide data for 10,000 ancient human individuals](https://www.nature.com/articles/d41586-023-01403-4). In addition, for many of those samples we also have rich metadata ranging from archaeological information to radiocarbon dating.
-<br>
 
 --- 
+<br>
 
 The way data is currently shared and published via academic papers, at least from genetic analyses, is mainly via releasing raw sequencing data into public repositories such as the [ENA](https://www.ebi.ac.uk/ena/browser/home), while providing partial metadata on samples via often poorly formatted Excel tables in the Supplement. This creates (at least) the following problems:
 
