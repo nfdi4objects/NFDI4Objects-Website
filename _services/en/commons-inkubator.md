@@ -22,19 +22,9 @@ permalink: /en/services/commons-inkubator/
 
 The **Incubator** is a first step towards the commons, in which the consortium collects knowledge on research data management. The incubator is a preliminary stage in which the consortium collects existing materials that support the development of the [commons](../../../commons/). It also acts as a **knowledge base** to provide the consortium with orientation in discussions and thus **practical help in decision-making** in daily practice.
 
-<figure>
-<span markdown="1"> 
-![Screenshot of the N4O Inkubator's startpage](/assets/images/n4o_website_inkubator_01.png "Screenshot of the N4O Inkubator's startpage")
-</span>
-<figcaption>
-<span markdown=1>
-[Screenshot of the N4O Inkubator's startpage](/assets/images/n4o_website_inkubator_01.png)
-by
-[Kai-Christian Bruhn](https://orcid.org/0000-0001-8322-1260), 
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
-</span>
-</figcaption>
-</figure>
+<img src="/assets/images/services/n4o_website_inkubator_01.png"
+     alt=" Screenshot of the N4O Inkubator’s startpage by Kai-Christian Bruhn, CC0"
+     style="width: 500px; display: block; margin: auto;">  
 
 The incubator is an open portal that lists materials in eight categories. All entries are modelled in accordance with the NFDI CoreOntology and are additionally indexed using keywords. Like the Commons, the Incubator is not a repository but a catalogue. The resources themselves are stored externally via persistent URLs.
 
@@ -44,13 +34,9 @@ The Incubator makes resources accessible via categories and tags.
 
 ### Categories
 
-![N4O Commons Incubator homepage](/assets/img/services/n4o_website_inkubator_01.png ‘Screenshot of the Incubator with display of categories’)
-
-The following categories apply to the structural indexing of resources in the Incubator and in the Commons:
-
-### Categories
-
-![N4O Commons Incubator homepage](/assets/img/services/n4o_website_inkubator_01.png ‘Screenshot of the incubator with display of the categories’)
+<img src="/assets/images/services/n4o_website_inkubator_02.png"
+     alt="Screenshot of the Incubator with categories"
+     style="width: 500px; display: block; margin: auto;">
 
 The following categories apply to the structural indexing of resources in the Incubator and in the Commons:
 
@@ -63,9 +49,11 @@ The following categories apply to the structural indexing of resources in the In
 * **Specification**: Detailed technical requirements necessary for the creation, management, provision and use of research data.
 * **Standard**: Recognised norms or standards for various aspects of research data management that help to ensure consistency, quality and interoperability.
 
-![N4O Commons Incubator homepage](/assets/images/services/n4o_website_incubator_01.png ‘Faceted search in the incubator by categories and tags’)
+<img src="/assets/images/services/n4o_website_inkubator_03.png"
+     alt="Facettierte Suche im Inkubator nach Kategorien und Tags"
+     style="width: 500px; display: block; margin: auto;">
 
-### Tags
+#### Tags
 
 In addition to the categories, tags limit the topic of the resource. The tag set is currently not defined, but will be mapped to controlled vocabularies in the future.
 

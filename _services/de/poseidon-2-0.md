@@ -32,8 +32,7 @@ Die Art und Weise wie Daten derzeit weitergegeben und in akademischen Publikatio
 * Die Verbindung zwischen Individuen, Kontextinformationen und genetischen Daten ist schwer aufrechtzuerhalten, da sie zwischen sehr unterschiedlichen Repositories und Quellen (Excel vs. persönliche Homepages vs. öffentliche Repositories) überbrückt wird.
 * Meta-Analysen, die sich über mehrere Datensätze erstrecken, erfordern einen enormen Arbeitsaufwand für die Datensammlung und -pflege.
 
-Eine wichtige Initiative zur Lösung dieser Probleme in der menschlichen Archäogenetik ist die [Allen Ancient DNA Resource ("AADR")](https://www.biorxiv.org/content/10.1101/2023.04.06.535797v1), ein kuratierter Datensatz öffentlicher antiker DNA-Daten, der vom Labor für antike DNA von David Reich an der Harvard University erstellt, kuratiert und gebündelt wurde. Unsere Initiative ist in vielerlei Hinsicht von dieser Ressource inspiriert und leitet sich von ihr ab. Insbesondere ist das AADR derzeit (April 2023) die wohl vollständigste Ressource weltweit, die genomweite Genotypdaten für antike menschliche Individuen aus nahezu allen Veröffentlichungen auf diesem Gebiet bereitstellt.  
-<br> 
+Eine wichtige Initiative zur Lösung dieser Probleme in der menschlichen Archäogenetik ist die [Allen Ancient DNA Resource ("AADR")](https://www.biorxiv.org/content/10.1101/2023.04.06.535797v1), ein kuratierter Datensatz öffentlicher antiker DNA-Daten, der vom Labor für antike DNA von David Reich an der Harvard University erstellt, kuratiert und gebündelt wurde. Unsere Initiative ist in vielerlei Hinsicht von dieser Ressource inspiriert und leitet sich von ihr ab. Insbesondere ist das AADR derzeit (April 2023) die wohl vollständigste Ressource weltweit, die genomweite Genotypdaten für antike menschliche Individuen aus nahezu allen Veröffentlichungen auf diesem Gebiet bereitstellt.   
 
 ---  
 <br>
@@ -46,5 +45,6 @@ Eine wichtige Initiative zur Lösung dieser Probleme in der menschlichen Archäo
 <br>
 
 ---  
-<br>
+<br>  
+
 Alles in allem hoffen wir, dass **POSEIDON 2.0** dazu beiträgt, das schnell wachsende Feld der Archäogenetik reproduzierbarer zu machen und uns letztendlich den FAIR-Prinzipien offener Daten näher zu bringen: Auffindbarkeit, Zugänglichkeit, Interoperabilität, Wiederverwendbarkeit.

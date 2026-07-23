@@ -22,19 +22,10 @@ permalink: /services/commons-inkubator/
 
 Der **Inkubator** ist ein erster Schritt hin zu den Commons, in denen das Konsortium das Wissen zum Forschungsdatenamangement sammelt. Der Inkubator ist eine Vorstufe, in dem das Konsortium vorhandene Materialien sammelt, die bei der Erarbeitung der [Commons](../../../commons/) unterstützen. Er fungiert zudem als **Knowledge Base**, um dem Konsortium Orientierung in Diskussionen und damit **praktische Hilfe bei der Entscheidungsfindung** in der täglichen Praxis zu bieten.
 
-<figure>
-<span markdown="1"> 
-![Screenshot der Startseite des N4O Inkubators](/assets/images/n4o_website_inkubator_01.png "Screenshot der Startseite des N4O Inkubators")
-</span>
-<figcaption>
-<span markdown=1>
-[Screenshot der Startseite des N4O Inkubators](/assets/images/n4o_website_inkubator_01.png)
-von 
-[Kai-Christian Bruhn](https://orcid.org/0000-0001-8322-1260), 
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
-</span>
-</figcaption>
-</figure>
+
+<img src="/assets/images/services/n4o_website_inkubator_01.png"
+     alt="Screenshot der Startseite des N4O Inkubators von Kai-Christian Bruhn, CC0 "
+     style="width: 500px; display: block; margin: auto;">
 
 Der Inkubator ist ein offenes Portal, das in acht Kategorien Materialien nachweist. Alle Einträge werden konform zur NFDI CoreOntology modelliert und werden über Schlagworte zusätzlich erschlossen. Der Inkubator ist, wie die Commons auch, kein Repository sondern ein Katalog. Die Ressourcen selbst werden extern über persistente URLs vorgehalten.
 
@@ -44,7 +35,9 @@ Der Inkubator erschließt die Ressourcen über Kategorien und Tags.
 
 ### Kategorien
 
-![N4O Commons Inkubator Startseite](/assets/images/services/n4o_website_inkubator_01.png "Screenshot des Inkubators mit Anzeige der Kategorien")
+<img src="/assets/images/services/n4o_website_inkubator_02.png"
+     alt="Screenshot des Incubators mit Anzeige der Kategorien"
+     style="width: 500px; display: block; margin: auto;">
 
 Für eine strukturelle Erschließung der Ressourcen im Inkubator und in den Commons gelten folgende Kategorien:
 
@@ -55,9 +48,12 @@ Für eine strukturelle Erschließung der Ressourcen im Inkubator und in den Comm
 * **FDMP Templates**: Vorlagen für Forschungsdatenmanagementpläne.
 * **Datensatz**: Strukturierte Sammlung von Daten, die exemplarische Funktion haben oder Glossare, Vokabulare, Taxonomien und Ontologien umfassen.
 * **Spezifikation**: Detaillierte technische Anforderungen, die für die Erstellung, Verwaltung, Bereitstellung und Nutzung von Forschungsdaten erforderlich sind.
-* **Standard**: Anerkannte Normen oder Richtlinien für verschiedene Aspekte des Forschungsdatenmanagements, die zur Sicherstellung von Konsistenz, Qualität und Interoperabilität beitragen.
+* **Standard**: Anerkannte Normen oder Richtlinien für verschiedene Aspekte des Forschungsdatenmanagements, die zur Sicherstellung von Konsistenz, Qualität und Interoperabilität beitragen.  
 
-![N4O Commons Inkubator Startseite](/assets/images/services/n4o_website_inkubator_01.png "Facettierte Suche im Inkubator nach Kategorien und Tags")
+<img src="/assets/images/services/n4o_website_inkubator_03.png"
+     alt="Facettierte Suche im Inkubator nach Kategorien und Tags"
+     style="width: 500px; display: block; margin: auto;">
+
 
 ### Tags
 
