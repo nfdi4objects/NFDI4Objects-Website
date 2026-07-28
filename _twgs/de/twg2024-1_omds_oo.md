@@ -40,17 +40,15 @@ Definition der Begrifflichkeiten zu einem Objects Core (N4O Proposal G6.5, p. 93
 Festlegung von gemeinsamen Basis-Entitäten (classes) in individuellen Ontologien und hierarchischer CrossWalk u.A. auf CIDOC CRM 7.1.3 für MaCHeCO als Crosswalk-Ontologie im N4O Knowledge Graph
 
 Entwicklung eines Object Core Metadata Profile (OCMDP) und Verknüpfung zu MaCHeCO und dem Knowledge Graph
+  * Aufbau eines gemeinsamen Thesaurus zur Definition der Elemente (properties) und Entitäten (classes, zum Ontologieaustausch) im Object Core Metadata Profile (OCMDP)
+  * OCMDP-Super-Element-CrossWalk zu NFDI Core Metadata Profile (schema.org / DataCite / DCAT / NFDI Core / CodeMeta) sowie DublinCore und Wikidata
+  * Definition eines Austauschformats (CSV; XML; JSON)
+  * Definition einer OCMDP Ontology (RDF Repräsentation des OCMDP) und der Object Metadata Junction Ontology (OMJO)  
+    - Elemente (properties) im Object Core Metadata Profile (OCMDP)
+    - Gemeinsame Anknüpfungsentitäten (classes) zwischen OMJO und MaCHeO zur föderierten Abfrage der beiden Knowledge Graphen
+---
+OSF: [https://osf.io/v6ncy/](https://osf.io/v6ncy/)  
 
-* Aufbau eines gemeinsamen Thesaurus zur Definition der Elemente (properties) und Entitäten (classes, zum Ontologieaustausch) im Object Core Metadata Profile (OCMDP)
-* OCMDP-Super-Element-CrossWalk zu NFDI Core Metadata Profile (schema.org / DataCite / DCAT / NFDI Core / CodeMeta) sowie DublinCore und Wikidata
-* Definition eines Austauschformats (CSV; XML; JSON)
-* Definition einer OCMDP Ontology (RDF Repräsentation des OCMDP) und der Object Metadata Junction Ontology (OMJO)
+Mailingliste: [https://www.listserv.dfn.de/sympa/info/n4o_twg_ocmdp_macheco](https://www.listserv.dfn.de/sympa/info/n4o_twg_ocmdp_macheco)
 
-  * Elemente (properties) im Object Core Metadata Profile (OCMDP)
-  * Gemeinsame Anknüpfungsentitäten (classes) zwischen OMJO und MaCHeO zur föderierten Abfrage der beiden Knowledge Graphen
-
-OSF: <https://osf.io/v6ncy/>  
-
-Mailingliste: <https://www.listserv.dfn.de/sympa/admin/n4o_twg_ocmdp_macheco>
-
-[](https://www.listserv.dfn.de/sympa/info/n4o_twg_omds_oo)Rocket-Chat: [](https://n4o-chat.nfdi.de/channel/TWG_N4O_OMDS_OO)<https://n4o-chat.nfdi.de/channel/TWG_N4O_OCMDP_MaCHeCO>
+Rocket-Chat: [https://n4o-chat.nfdi.de/channel/TWG_N4O_OCMDP_MaCHeCO](https://n4o-chat.nfdi.de/channel/TWG_N4O_OMDS_OO)

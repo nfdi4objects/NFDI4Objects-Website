@@ -5,8 +5,8 @@ translation_key: twg_arbodat
 title: ArboDat+
 identifier: TWG 2025.3
 status: planned
-start_date: 2024-09-24 14:54:44.848000+00:00
-end_date: 2024-09-24 14:54:44.849000+00:00
+start_date: 2024-09-24 
+end_date: 2024-09-24
 cochairs:
 - name: ''
   person_ref: ''
@@ -22,4 +22,4 @@ permalink: /en/twgs/twg_arbodat/
 This TWG is still in preparation. 
 
 
-Here you will soon find all information about the TWG . If you are curious and interested in participating in our TWG, please contact the staff of [Task Area 3](https://n4o.pages.gitlab.rlp.net/website/portal/tas/ta3/).
+Here you will soon find all information about the TWG . If you are curious and interested in participating in our TWG, please contact the staff of [Task Area 3](/_areas/en/ta3.md)).

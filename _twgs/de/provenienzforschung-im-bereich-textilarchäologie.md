@@ -5,9 +5,8 @@ translation_key: provenienzforschung-im-bereich-textilarchäologie
 title: Provenienzforschung im Bereich Textilarchäologie
 identifier: TWG 2025.4
 status: active
-start_date: 2024-09-24 15:17:57.405000+00:00
-end_date: 2024-09-24 15:17:57.406000+00:00
-proposal_url: ''
+start_date: 2024-09-24 
+end_date: 2024-09-24 
 type: n4o:Organization
 cochairs:
 - name: Katarzyna Lubos
@@ -28,7 +27,7 @@ Die Verknüpfung von Personen- und Körperschaftsdaten mit den Objekten stellt e
 
 Die Ziele der TWG sind:
 
- 1. Erstellung eines Verzeichnisses staatlicher Institutionen in Deutschland, die archäologische Textilien bewahren – insbesondere solche aus Ägypten des 1. Jahrtausends n. Chr. – durch systematische Abfragen.
+1. Erstellung eines Verzeichnisses staatlicher Institutionen in Deutschland, die archäologische Textilien bewahren – insbesondere solche aus Ägypten des 1. Jahrtausends n. Chr. – durch systematische Abfragen.
 
 2. Aufbau eines möglichst vollständigen Verzeichnisses der Vorbesitzenden, basierend auf der bekannten Dokumentation dieser Institutionen. Diese Daten sollen miteinander verknüpft werden. Dabei sollen auch Leitlinien und Standards zur einheitlichen Erfassung entwickelt werden.
 

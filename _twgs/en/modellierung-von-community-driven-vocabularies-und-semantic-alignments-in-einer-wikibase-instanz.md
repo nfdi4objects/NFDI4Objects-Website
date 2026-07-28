@@ -2,11 +2,11 @@
 layout: twg
 lang: en
 translation_key: modellierung-von-community-driven-vocabularies-und-semantic-alignments-in-einer-wikibase-instanz
-title: Modelling community-driven vocabularies and semantic alignments in a Wikibase
-  instance
+title: 'Modelling community-driven vocabularies and semantic alignments in a Wikibase
+  instance'
 identifier: TWG 2023.5
 status: planned
-start_date: 2023-11-01 22:55:00+00:00
+start_date: 2023-11-01 
 end_date: ''
 cochairs:
 - name: Florian Thiery
@@ -22,4 +22,4 @@ permalink: /en/twgs/modellierung-von-community-driven-vocabularies-und-semantic-
 
 This TWG is still in preparation.
 
-Here you will soon find all information about the TWG . If you are curious and interested in participating in our TWG, please contact our Helpdesk.
+Here you will soon find all information about the TWG . If you are curious and interested in participating in our TWG, please contact our [Helpdesk](https://www.nfdi4objects.net/help/).

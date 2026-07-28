@@ -8,6 +8,7 @@ identifier: TWG 2024.11
 status: active
 start_date: 2024-11-22 16:13:00+00:00
 end_date: 2028-09-24 15:13:00+00:00
+proposal_url: https://zenodo.org/records/14619867?preview_file=NFDI4Objects_TWG_Status-quo_eng.pdf
 cochairs:
 - name: Christoph Klose
   person_ref: christophklose

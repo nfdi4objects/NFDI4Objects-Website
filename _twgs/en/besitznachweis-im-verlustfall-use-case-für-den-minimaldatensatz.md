@@ -5,8 +5,9 @@ translation_key: besitznachweis-im-verlustfall-use-case-für-den-minimaldatensat
 title: 'Proof of Ownership in the Event of Loss: Use-Case for the Minimum Data Set'
 identifier: TWG 2024.6
 status: active
-start_date: 2024-10-15 21:55:00+00:00
+start_date: 2024-10-15 
 end_date: ''
+proposal_url: https://zenodo.org/records/13320391?preview_file=NFDI4Objects_TWG_Proof+of+Ownership_eng.pdf
 cochairs:
 - name: Christoph Klose
   person_ref: christophklose
@@ -28,4 +29,4 @@ The aim of the TWG is to evaluate existing recommendations and standards for obj
 
 In the event of loss quick proof of ownership of objects is essential. The topic is intended to illustrate the usefulness of digital core data and serve as an application example for the minimum data set, digital reproduction and the use of standardised data. Based on the experiences of the participating collections and the critical evaluation of existing guidelines, the intersections with the basic documentation of objects will be discussed by examining the specifications for mandatory and recommended object information in the aforementioned guidelines. Application examples will be developed with regard to the needs of different object categories and material genres. Both should form the basis for recommendations to be derived from this. The results should ensure that the N4O minimal metadata standards and the N4O object ontology are integrated for this area of security documentation, that they include the necessary object data and that they are applicable in the community.
 
-*contact and information: Christoph Klose c.klose@smb.spk-berlin.de*
+*contact and information: [Christoph Klose](/_persons/en/christophklose.md) [c.klose@smb.spk-berlin.de](mailto:c.klose@smb.spk-berlin.de).*

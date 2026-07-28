@@ -55,7 +55,7 @@ Die Ergebnisse der Arbeitsgruppe sollen offen unter einer *Creative Commons Name
 
 ## Contact:
 
-Bei Fragen und Interesse an einer Mitarbeit wenden Sie sich bitte an die Chairs der TWG, [](<>)[Dr. Michael Markert](<>) (Verbundzentrale des GBV) und [Anja Gerber](<>) (Klassik Stiftung Weimar).[](<>)
+Bei Fragen und Interesse an einer Mitarbeit wenden Sie sich bitte an die Chairs der TWG, [](<>)[Dr. Michael Markert](/_persons/de/michaelmarkert.md) (Verbundzentrale des GBV) und [Anja Gerber](/_persons/de/anjagerber.md) (Klassik Stiftung Weimar).[](<>)
 
 Mailingliste: <https://www.listserv.dfn.de/sympa/info/n4o_twg_vocflow>[](https://n4o-chat.nfdi.de/channel/TWG-VocFlow)
 

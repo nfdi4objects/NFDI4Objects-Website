@@ -5,7 +5,7 @@ translation_key: cc-fdm-support
 title: FDM Support
 status: active
 start_date: 2025-10-20 12:00:00+00:00
-proposal_url: ''
+proposal_url: 'https://community.nfdi4objects.net/assemblies/CC/f/5/proposals/19'
 type: n4o:Organization
 cochairs:
 - name: 'Sandra Schroer-Spang'

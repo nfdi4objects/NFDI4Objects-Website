@@ -25,4 +25,4 @@ This TWG aims to prototype the linking of persons and corporate entities with th
 
 To achieve this, various participants will provide data on previous owners and sellers, particularly between 1933 and 1945. This period is especially suitable due to the availability of extensive datasets in many collections. In addition, the Provenance Research Community Cluster has expressed a desire to include data from colonial contexts. These will initially form a secondary thematic focus within the Wikibase. Overlaps between these two areas are also anticipated.
 
-more iformation in OSF: [https://osf.io/zms4b/](https://osf.io/zms4b/)
+More information in OSF: [https://osf.io/zms4b/](https://osf.io/zms4b/)

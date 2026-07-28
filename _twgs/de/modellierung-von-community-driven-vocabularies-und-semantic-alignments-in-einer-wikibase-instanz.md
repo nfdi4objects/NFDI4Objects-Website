@@ -8,7 +8,6 @@ identifier: TWG 2023.5
 status: planned
 start_date: 2023-11-01 22:55:00+00:00
 end_date: ''
-proposal_url: ''
 type: n4o:Organization
 cochairs:
 - name: Florian Thiery
@@ -24,4 +23,4 @@ permalink: /twgs/modellierung-von-community-driven-vocabularies-und-semantic-ali
 
 Diese TWG befindet sich noch in Vorbereitung.
 
-Hier finden Sie schon bald alle Informationen rund um die TWG. Wenn Sie neugierig sind und Interesse an der Mitarbeit in unserer TWG haben, melden Sie sich gerne bei unserem Helpdesk.
+Hier finden Sie schon bald alle Informationen rund um die TWG. Wenn Sie neugierig sind und Interesse an der Mitarbeit in unserer TWG haben, melden Sie sich gerne bei unserem [Helpdesk](https://www.nfdi4objects.net/help/).

@@ -5,8 +5,9 @@ translation_key: metadatenstandards-in-der-archäometrie
 title: Metadata standards in archaeometry
 identifier: TWG 2024.2
 status: active
-start_date: 2023-09-10 21:55:00+00:00
+start_date: 2023-09-10 
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.10990410
 cochairs:
 - name: Yiu- Kang Hsu
   person_ref: yiu-kanghsu

@@ -32,15 +32,15 @@ The close collaboration with the TWG „[N4O Object Core Metadata Profile (OCMDP
 
 ## Contact:
 
-Mailinglist: [https://www.listserv.dfn.de/sympa/admin/n4o_cc_data_capture_creation](<>)
+Mailinglist: [https://www.listserv.dfn.de/sympa/info/n4o_cc_data_capture_creation](https://www.listserv.dfn.de/sympa/info/n4o_cc_data_capture_creation)
 
-[](<>)RocketChat: [https://n4o-chat.nfdi.de/channel/CC_Data_Caption_and_Creation](<>)
+RocketChat: [https://n4o-chat.nfdi.de/channel/CC_Data_Caption_and_Creation](https://n4o-chat.nfdi.de/channel/CC_Data_Capture_and_Creation)
 
-[](<>)Cluster meeting notes and participation in the N4O Community Hub: [https://community.nfdi4objects.net/assemblies/CC-DCC](<>)
+Cluster meeting notes and participation in the N4O Community Hub: [https://community.nfdi4objects.net/assemblies/CC-DCC](https://community.nfdi4objects.net/assemblies/CC-DCC)
 
 
-### [](<>)Chairs:
+### Chairs:
 
-[Frank Dührkohp, Verbundzentrale des GBV](<>)
+[Frank Dührkohp, Verbundzentrale des GBV](/_persons/en/frank_duehrkohp.md)
 
-[Anja Gerber, Klassik Stiftung Weimar](<>)
+[Anja Gerber, Klassik Stiftung Weimar](/_persons/de/anjagerber.md)

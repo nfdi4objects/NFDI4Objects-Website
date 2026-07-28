@@ -7,6 +7,7 @@ identifier: TWG 2026.2
 status: active
 start_date: 2026-02-13 12:00:00+00:00
 end_date: ''
+proposal_url: https://community.nfdi4objects.net/assemblies/TWG/f/4/proposals/54
 cochairs:
 - name: Michael Markert
   person_ref: michaelmarkert
@@ -55,8 +56,8 @@ The results of the working group will be made openly available under a *Creative
 
 ## Contact:
 
-If you have any questions or are interested in working with us, please contact the two chairs of the TWG, [](<>)[Dr. Michael Markert](<>) (Verbundzentrale des GBV) and [Anja Gerber](<>)  (Klassik Stiftung Weimar).
+If you have any questions or are interested in working with us, please contact the two chairs of the TWG, [](<>)[Dr. Michael Markert](/_persons/en/michaelmarkert.md) (Verbundzentrale des GBV) and [Anja Gerber](/_persons/en/anjagerber.md)  (Klassik Stiftung Weimar).
 
-Mailing list: [https://www.listserv.dfn.de/sympa/info/n4o_twg_vocflow](<>)[](<>)
+Mailing list: [https://www.listserv.dfn.de/sympa/info/n4o_twg_vocflow](https://www.listserv.dfn.de/sympa/info/n4o_twg_vocflow)
 
-Rocket Chat: [https://n4o-chat.nfdi.de/channel/TWG-VocFlow](<>)
+Rocket Chat: [https://n4o-chat.nfdi.de/channel/TWG-VocFlow](https://n4o-chat.nfdi.de/channel/TWG-VocFlow)

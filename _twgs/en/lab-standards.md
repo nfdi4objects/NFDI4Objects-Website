@@ -5,8 +5,9 @@ translation_key: lab-standards
 title: Lab Standards
 identifier: TWG 2024.12
 status: active
-start_date: 2024-10-21 21:55:00+00:00
-end_date: 2025-07-01 21:55:00+00:00
+start_date: 2024-10-21 
+end_date: 2025-07-01 
+proposal_url: https://doi.org/10.5281/zenodo.10990410
 cochairs:
 - name: Yiu- Kang Hsu
   person_ref: yiu-kanghsu

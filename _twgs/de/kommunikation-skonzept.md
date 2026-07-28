@@ -22,4 +22,4 @@ permalink: /twgs/kommunikation-skonzept/
 
 Diese TWG befindet sich noch in Vorbereitung. 
 
-Hier finden Sie schon bald alle Informaionen rund um die TWG Kommunikation(skonzept). Wenn Sie neugierig sind und Interesse an der Mitarbeit in unserer TWG  haben,  melden Sie sich gerne bei den Verantwortlichen [Kai-Christian Bruhn](https://n4o.pages.gitlab.rlp.net/website/portal/persons/kai-christian_bruhn/) oder [Bernhard Weisser](https://n4o.pages.gitlab.rlp.net/website/portal/persons/bernhard_weisser/).
+Hier finden Sie schon bald alle Informaionen rund um die TWG Kommunikation(skonzept). Wenn Sie neugierig sind und Interesse an der Mitarbeit in unserer TWG  haben,  melden Sie sich gerne bei den Verantwortlichen [Kai-Christian Bruhn](/_persons/de/kai-christian_bruhn.md) oder [Bernhard Weisser](/_persons/de/bernhard_weisser.md).

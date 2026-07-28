@@ -5,9 +5,8 @@ translation_key: community-empfehlungen-zur-langzeitarchivierung
 title: Community Empfehlungen zur Langzeitarchivierung
 identifier: TWG 2025.2
 status: active
-start_date: 2025-04-30 14:32:02.325000+00:00
-end_date: 2025-04-30 14:32:02.326000+00:00
-proposal_url: ''
+start_date: 2025-04-30 
+end_date: 2025-04-30 
 type: n4o:Organization
 cochairs:
 - name: Juliane Watson

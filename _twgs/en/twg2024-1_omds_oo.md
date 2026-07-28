@@ -25,7 +25,7 @@ permalink: /en/twgs/twg2024-1_omds_oo/
 
 ## Description
 
-Chairs: Fabian Fricke, Anja Gerber, and Florian Thiery
+**Chairs:** [Fabian Fricke](/_persons/en/fabianfricke.md), [Anja Gerber](/_persons/en/anjagerber.md), and [Florian Thiery](/_persons/en/florian_thiery.md)
 
 The primary goal is to develop an Object Core Metadata Profile (OCMDP) supported by the NFDI4Objects community. This core data schema ensures compatibility with the NFDI Core Meta Data Profile (NFDI sections) and the NFDI Core (FIZ Karlsruhe), which are currently under development, so that metadata in NFDI4Objects is available in an interoperable manner within the NFDI consortia. To this end, coordinated N4O-specific elements/terms (properties) and entities (classes) must be created and linked to other schemas (including schema.org, DCAT, DataCite, DublinCore) via a cross-walk. The OCMDP is the basis for an RDF-based exchange format (Objects Metadata Junction Ontology - OMJO), which imports data into an N4O Metadata Knowledge Graph (N4O MKG) and makes it available in a FAIR manner. To make research data FAIR and ensure compatibility with international cultural heritage data based on CIDOC CRM and its extensions, a Material Cultural Heritage Crosswalk Ontology (MaCHeCO) is being developed to define basic entities (classes)  in individual ontologies through a hierarchical crosswalk to CIDOC CRM as a crosswalk ontology in the N4O Knowledge Graph (N4O KG). For interaction between MaCHeCO and OMJO, linking classes are defined for federated querying of the two knowledge graphs (KG and MKG).
 
@@ -39,18 +39,17 @@ Definition of common basic entities (classes) in individual ontologies and hiera
 
 Development of an Object Core Metadata Profile (OCMDP) and linking to MaCHeCO and the Knowledge Graph
 
-* Establishment of a common thesaurus for defining the elements (properties) and entities (classes, for ontology exchange) in the Object Core Metadata Profile (OCMDP)
-* OCMDP super-element CrossWalk to NFDI Core Metadata Profile (schema.org / DataCite / DCAT / NFDI Core / CodeMeta) as well as DublinCore and Wikidata
-* Definition of an exchange format (CSV; XML; JSON)
-* Definition of an OCMDP ontology (RDF representation of the OCMDP) and the Object Metadata Junction Ontology (OMJO)
+  * Establishment of a common thesaurus for defining the elements (properties) and entities (classes, for ontology exchange) in the Object Core Metadata Profile (OCMDP)
+  * OCMDP super-element CrossWalk to NFDI Core Metadata Profile (schema.org / DataCite / DCAT / NFDI Core / CodeMeta) as well as DublinCore and Wikidata
+  * Definition of an exchange format (CSV; XML; JSON)
+  * Definition of an OCMDP ontology (RDF representation of the OCMDP) and the Object Metadata Junction Ontology (OMJO)
 
-  * Elements (properties) in the Object Core Metadata Profile (OCMDP)
-  * Common linking entities (classes) between OMJO and MaCHeO for federated querying of the two knowledge graphs
+    * Elements (properties) in the Object Core Metadata Profile (OCMDP)
+    * Common linking entities (classes) between OMJO and MaCHeO for federated querying of the two knowledge graphs  
 
-OSF: [https://osf.io/v6ncy/](<>)  
+---  
+OSF: [https://osf.io/v6ncy/](https://osf.io/v6ncy/)  
 
-Mailingliste: [https://www.listserv.dfn.de/sympa/admin/n4o_twg_ocmdp_macheco](<>)
+Mailingliste: [https://www.listserv.dfn.de/sympa/info/n4o_twg_ocmdp_macheco](https://www.listserv.dfn.de/sympa/info/n4o_twg_ocmdp_macheco)
 
-[](<>)Rocket-Chat: [](<>)[https://n4o-chat.nfdi.de/channel/TWG_N4O_OCMDP_MaCHeCO](<>)
-
-[](https://n4o-chat.nfdi.de/channel/TWG_ObjectsOntology_and_MinimalMetadataSet)
+Rocket-Chat: [https://n4o-chat.nfdi.de/channel/TWG_N4O_OCMDP_MaCHeCO](https://n4o-chat.nfdi.de/channel/TWG_N4O_OMDS_OO)

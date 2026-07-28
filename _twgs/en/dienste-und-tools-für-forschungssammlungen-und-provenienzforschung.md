@@ -7,6 +7,7 @@ identifier: TWG 2024.5
 status: active
 start_date: 2024-07-21 21:55:00+00:00
 end_date: ''
+proposal_url: https://zenodo.org/records/13284191?preview_file=NFDI4Objects_TWG_Services+and+Tools_eng.pdf
 cochairs:
 - name: Frank von Hagel
   person_ref: frankvon-hagel

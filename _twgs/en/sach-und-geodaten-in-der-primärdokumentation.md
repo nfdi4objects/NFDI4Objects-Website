@@ -5,8 +5,9 @@ translation_key: sach-und-geodaten-in-der-primärdokumentation
 title: Object- and geodata in the primary documentation
 identifier: TWG 2024.4
 status: active
-start_date: 2024-11-05 22:55:00+00:00
+start_date: 2024-11-05
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.14931813
 cochairs:
 - name: Julian Hollaender
   person_ref: julianhollaender
@@ -31,4 +32,4 @@ For on-site documentation, the minimum data set comprises the necessary metadata
 
 The concepts developed are to be tested in practice with existing database systems for data acquisition (IDAI.field, Spatialist, DokuBook, ArchaeoNotes, possibly other systems)
 
-[^1]: In a similar way to zenodo.org/records/11209289
+[^1]:In a similar way to [zenodo.org/records/11209289](zenodo.org/records/11209289)
