@@ -7,6 +7,7 @@ identifier: TWG 2024.3
 status: active
 start_date: 2025-08-07 21:55:00+00:00
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.13284075
 cochairs:
 - name: Florian Thiery
   person_ref: florian_thiery

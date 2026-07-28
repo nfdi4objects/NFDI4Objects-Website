@@ -6,9 +6,8 @@ title: Ableitung eines “Meta-Index” und von "Semantic Alignments" am Beispie
   keramologischer beschreibender Metadaten
 identifier: TWG 2023.3
 status: completed
-start_date: 2024-09-24 14:12:46.747000+00:00
-end_date: 2024-09-24 14:12:46.749000+00:00
-proposal_url: ''
+start_date: 2024-09-24 
+end_date: 2024-09-24 
 type: n4o:Organization
 cochairs:
 - name: ''

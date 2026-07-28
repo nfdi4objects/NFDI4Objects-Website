@@ -33,4 +33,4 @@ Der Minimaldatensatz für eine On-Site-Dokumentation umfasst die notwendigen Met
 
 Der Fokus dieser TWG soll, außer zur Erfüllung der primären TWG-Ziele, vorrangig nicht auf die Erstellung neuer Thesauri oder kontrollierter Vokabulare gelegt werden. Die erarbeiteten Konzepte sollen mit bestehenden Datenbanksystemen zur Datenerfassung (IDAI.field, Spatialist, DokuBook, ArchaeoNotes, ggfls. weiterer Systeme) in der Praxis erprobt werden.
 
-[^1]: In etwa analog zu [zenodo.org/records/11209289](zenodo.org/records/11209289)
+[^1]: In etwa analog zu [https://zenodo.org/records/11209289](https://zenodo.org/records/11209289)

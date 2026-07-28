@@ -26,10 +26,17 @@ Creating links between personal and corporate data and the objects is a central 
 
 The aims of the TWG are:
 
-1. creating a directory of state institutions in Germany that preserve archaeological textiles - especially those from Egypt of the 1st millennium AD - through systematic queries.
-
-2. compiling an ideally complete list of previous owners, based on the known documentation of these institutions, linking this data with each other. At the same time, guidelines and standards for uniform recording are to be developed.
-
-3. promoting professional exchange by establishing a network of institutions, researchers and experts to share information and best practices
-
-4. preparing a standardized data set for a Wikibase instance in order to create a sustainable, interoperable data structure for provenance research.
+<ol style="list-style-position: outside; padding-left: 2rem; color: inherit;">
+  <li style="display: list-item; color: inherit;">
+    creating a directory of state institutions in Germany that preserve archaeological textiles - especially those from Egypt of the 1st millennium AD - through systematic queries.
+  </li>
+  <li style="display: list-item; color: inherit;">
+    compiling an ideally complete list of previous owners, based on the known documentation of these institutions, linking this data with each other. At the same time, guidelines and standards for uniform recording are to be developed.
+  </li>
+  <li style="display: list-item; color: inherit;">
+    promoting professional exchange by establishing a network of institutions, researchers and experts to share information and best practices
+  </li>
+  <li style="display: list-item; color:inherit;">
+    preparing a standardized data set for a Wikibase instance in order to create a sustainable, interoperable data structure for provenance research.
+  </li>
+</ol>

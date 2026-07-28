@@ -21,4 +21,4 @@ permalink: /en/twgs/kommunikation-skonzept/
 This TWG is still in preparation. 
 
 
-Here you will soon find all information about the TWG . If you are curious and interested in participating in our TWG, please contact [Kai-Christian Bruhn](/_persons/en/kai-christian_bruhn.md) or [Bernhard Weisser](/_persons/en/bernhard_weisser.md).
+Here you will soon find all information about the TWG . If you are curious and interested in participating in our TWG, please contact [Kai-Christian Bruhn](https://www.nfdi4objects.net/persons/kai-christian_bruhn/) or [Bernhard Weisser](https://www.nfdi4objects.net/persons/bernhard_weisser/).

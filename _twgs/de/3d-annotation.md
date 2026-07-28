@@ -5,7 +5,7 @@ translation_key: 3d-annotation
 title: 3D-Annotation von Meshes mit dem Web Annotation Data Model
 identifier: TWG 2024.10
 status: active
-start_date: 2024-09-24 13:00:00+00:00
+start_date: 2024-09-24 
 end_date: ''
 proposal_url: https://doi.org/10.5281/zenodo.13833998
 type: n4o:Organization

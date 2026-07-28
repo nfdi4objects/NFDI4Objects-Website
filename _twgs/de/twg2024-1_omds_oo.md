@@ -6,7 +6,7 @@ title: N4O Object Core Metadata Profile (OCMDP) & Material Cultural Heritage Cro
   Ontology (MaCHeCO)
 identifier: TWG 2024.1
 status: active
-start_date: 2024-10-23 21:55:00+00:00
+start_date: 2024-10-23
 end_date: ''
 proposal_url: https://zenodo.org/records/17159183
 type: n4o:Organization
@@ -43,10 +43,12 @@ Entwicklung eines Object Core Metadata Profile (OCMDP) und Verknüpfung zu MaCHe
   * Aufbau eines gemeinsamen Thesaurus zur Definition der Elemente (properties) und Entitäten (classes, zum Ontologieaustausch) im Object Core Metadata Profile (OCMDP)
   * OCMDP-Super-Element-CrossWalk zu NFDI Core Metadata Profile (schema.org / DataCite / DCAT / NFDI Core / CodeMeta) sowie DublinCore und Wikidata
   * Definition eines Austauschformats (CSV; XML; JSON)
-  * Definition einer OCMDP Ontology (RDF Repräsentation des OCMDP) und der Object Metadata Junction Ontology (OMJO)  
+  * Definition einer OCMDP Ontology (RDF Repräsentation des OCMDP) und der Object Metadata Junction Ontology (OMJO)    
     - Elemente (properties) im Object Core Metadata Profile (OCMDP)
     - Gemeinsame Anknüpfungsentitäten (classes) zwischen OMJO und MaCHeO zur föderierten Abfrage der beiden Knowledge Graphen
+      
 ---
+
 OSF: [https://osf.io/v6ncy/](https://osf.io/v6ncy/)  
 
 Mailingliste: [https://www.listserv.dfn.de/sympa/info/n4o_twg_ocmdp_macheco](https://www.listserv.dfn.de/sympa/info/n4o_twg_ocmdp_macheco)

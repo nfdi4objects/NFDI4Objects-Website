@@ -5,8 +5,9 @@ translation_key: 3d-annotation
 title: 3D annotation of meshes utilising the Web Annotation Data Model
 identifier: TWG 2024.10
 status: active
-start_date: 2024-09-24 13:00:00+00:00
+start_date: 2024-09-24 
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.13833998
 cochairs:
 - name: Timo Homburg
   person_ref: timohomburg
@@ -30,15 +31,18 @@ permalink: /en/twgs/3d-annotation/
 > [Mailing list](https://www.listserv.dfn.de/sympa/info/n4o_twg_3dannotation)
 
 -----
-
+# Aim
 
 The aim of the TWG is to produce a recommendation and possibly a specification for the annotation of 3D digital cultural heritage objects.
 
 Examples of annotation standards to be analysed are the W3C Web Annotation Data Model or the IIIF recommendations for annotations in 2D as well as perspectives for implementation in easydb/fylr. Close coordination with the IIIF 3D Community Group, for example, is being sought.
 
+## Contents
 Implementation evaluations will focus on 3D viewers such as ThreeJS and 3DHOP, 3D repositories such as Morphosource, Sketchfab, easyDB or the Conservatoire National des Données 3D and programmes for processing 3D data such as Meshlab, Blender or GigaMesh. Hybrid solutions consisting of viewer and repository such as Smithsonian Voyager, DFG-3D-Viewer and kompakkt should also be included.
 
-Any missing target specifications, integration of annotations in existing 3D formats and data structures should be recommended by the TWG itself and compatible with existing standards and published together with the analysis of the state of the art as a contribution to the NFDI4Objects Commons. Open formats and structures of common digital tools, e.g. Annotorious for 2D renderings of 3D measurement data, should be taken into account.
+Any missing target specifications, integration of annotations in existing 3D formats and data structures should be recommended by the TWG itself and compatible with existing standards and published together with the analysis of the state of the art as a contribution to the NFDI4Objects Commons. Open formats and structures of common digital tools, e.g. Annotorious for 2D renderings of 3D measurement data, should be taken into account.  
+
+## Intended Outcomes
 
 Results from the TWG should be suitable for introducing extensions to existing 3D-related standards into the standardisation processes of international standardisation organisations. 
 

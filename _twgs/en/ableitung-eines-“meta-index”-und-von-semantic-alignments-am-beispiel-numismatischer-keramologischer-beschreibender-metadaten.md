@@ -6,8 +6,8 @@ title: Derivation of a “meta-index” and “semantic alignments” using the 
   numismatic/ceramological descriptive metadata
 identifier: TWG 2023.3
 status: completed
-start_date: 2024-09-24 14:12:46.747000+00:00
-end_date: 2024-09-24 14:12:46.749000+00:00
+start_date: 2024-09-24 
+end_date: 2024-09-24 
 cochairs:
 - name: ''
   person_ref: ''

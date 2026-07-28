@@ -27,10 +27,17 @@ Die Verknüpfung von Personen- und Körperschaftsdaten mit den Objekten stellt e
 
 Die Ziele der TWG sind:
 
-1. Erstellung eines Verzeichnisses staatlicher Institutionen in Deutschland, die archäologische Textilien bewahren – insbesondere solche aus Ägypten des 1. Jahrtausends n. Chr. – durch systematische Abfragen.
-
-2. Aufbau eines möglichst vollständigen Verzeichnisses der Vorbesitzenden, basierend auf der bekannten Dokumentation dieser Institutionen. Diese Daten sollen miteinander verknüpft werden. Dabei sollen auch Leitlinien und Standards zur einheitlichen Erfassung entwickelt werden.
-
-3. Förderung des fachlichen Austauschs durch Aufbau eines Netzwerks von Institutionen, Forschenden und Expert*innen zur Weitergabe von Informationen und Best Practices.
-
-4. Vorbereitung eines normierten Datensatzes für eine Wikibase-Instanz, um eine nachhaltige, interoperable Datenstruktur für die Provenienzforschung zu schaffen.
+<ol style="list-style-position: outside; padding-left: 2rem; color: inherit;">
+  <li style="display: list-item; color: inherit;">
+    Erstellung eines Verzeichnisses staatlicher Institutionen in Deutschland, die archäologische Textilien bewahren  – insbesondere solche aus Ägypten des 1. Jahrtausends n. Chr. – durch systematische Abfragen.
+  </li>
+  <li style="display: list-item; color: inherit;">
+    Aufbau eines möglichst vollständigen Verzeichnisses der Vorbesitzenden, basierend auf der bekannten Dokumentation dieser Institutionen. Diese Daten sollen miteinander verknüpft werden. Dabei sollen auch Leitlinien und Standards zur einheitlichen Erfassung entwickelt werden.
+  </li>
+  <li style="display: list-item; color: inherit;">
+    Förderung des fachlichen Austauschs durch Aufbau eines Netzwerks von Institutionen, Forschenden und Expert*innen zur Weitergabe von Informationen und Best Practices.
+  </li>
+  <li style="display: list-item; color:inherit;">
+    Vorbereitung eines normierten Datensatzes für eine Wikibase-Instanz, um eine nachhaltige, interoperable Datenstruktur für die Provenienzforschung zu schaffen.
+  </li>
+</ol>

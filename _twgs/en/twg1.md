@@ -5,8 +5,9 @@ translation_key: twg1
 title: Environmental analysis of the RDM landscape in museums and collections
 identifier: TWG 2023.1
 status: active
-start_date: 2024-06-30 19:12:28.088000+00:00
+start_date: 2024-06-30
 end_date: ''
+proposal_url: https://doi.org/10.5281/zenodo.10286399
 cochairs:
 - name: Felix Schäfer
   person_ref: felix-fschäfer
