@@ -20,4 +20,5 @@ Best of all: we have produced a guide that makes it very easy to use the templat
 
 ---
 
-### Missed the workshop? You can find the templates here ([script](https://pad.zdv.net/_link? url=https%3A%2F%2Fgithub.com%2Fnfdi4objects%2Foer-template-skript&note=HWthN_adRr2r1OQl7CioYA) & [Exercise](https://pad.zdv.net/_link? url=https%3A%2F%2Fgithub.com%2Fnfdi4objects%2Foer-template-exercise&note=HWthN_adRr2r1OQl7CioYA)) and here is the [documentation](https://pad.zdv.net/_link? url=https%3A%2F%2Fnfdi4objects.github.io%2Foer-template-dokumentation%2F&note=HWthN_adRr2r1OQl7CioYA).
+### Missed the workshop?
+You can find the templates here ([script](https://pad.zdv.net/_link? url=https%3A%2F%2Fgithub.com%2Fnfdi4objects%2Foer-template-skript&note=HWthN_adRr2r1OQl7CioYA) & [Exercise](https://pad.zdv.net/_link? url=https%3A%2F%2Fgithub.com%2Fnfdi4objects%2Foer-template-exercise&note=HWthN_adRr2r1OQl7CioYA)) and here is the [documentation](https://pad.zdv.net/_link? url=https%3A%2F%2Fnfdi4objects.github.io%2Foer-template-dokumentation%2F&note=HWthN_adRr2r1OQl7CioYA).
