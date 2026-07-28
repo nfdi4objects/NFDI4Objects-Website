@@ -5,7 +5,7 @@ translation_key: n4o_activity_20261125-CM26_Objektbiografie
 title: 'Die Objektbiografie als ein Instrument für die digitale Provenienzforschung'
 excerpt: ''
 date: 2026-05-27
-event_date: '2026-11-04'
+event_date: '2026-11-06'
 location: online
 event_type: "Workshop"
 areas: 
@@ -29,7 +29,7 @@ Der Workshop stellt das in der Task Area 6 entwickelte Datenmodell für die Obje
 
 Der Workshop hat aufgrund seines partizipativen Charakters eine sehr begrenzte Teilnehmer:innenzahl. Die Teilnehmenden sollten Expertise in digitaler Provenienzforschung und Datenmodellierung haben und eigene Use Cases mitbringen, anhand derer das Datenmodell in Breakout Sessions evaluiert werden soll.
 
-**Datum und Ort:** Der Workshop wird Anfang Oktober online stattfinden.
+**Datum & Uhrzeit:** 06. November 2026, 09:30 - 15 Uhr (mit Pause von 12-13 Uhr)
 
 **Anmeldung:** Wir benötigen ein Motivationsschreiben, in dem Ihr Eure Erfahrungen in den Bereichen digitale Provenienzforschung und Datenmodellierung kurz schildert. Schreibt auch gern schon, welche Use Cases Ihr mitbringen würdet. Sendet das Motivationsschreiben bitte per E-Mail bis 15.9.2026 an [anja.gerber@klassik-stiftung.de](anja.gerber@klassik-stiftung.de) und [sarah.wagner@fau.de](sarah.wagner@fau.de). 
 

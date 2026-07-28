@@ -5,7 +5,7 @@ translation_key: n4o_activity_20261125-CM26_Objektbiografie
 title: 'The object biography as a tool for digital provenance research'
 excerpt: '2026-11-04'
 date: 2026-05-27
-event_date: ''
+event_date: '2026-11-06'
 location: online
 event_type: "Workshop"
 areas: 
@@ -29,7 +29,7 @@ The workshop presents the data model for object biographies developed in Task Ar
 
 Due to its participatory nature, the workshop has a very limited number of places. Participants should have expertise in digital provenance research and data modelling and bring their own use cases, which will be used to evaluate the data model in breakout sessions.
 
-**Date and venue:** The workshop will take place online in early October.
+**Date & time:** 6 November 2026, 9.30 am – 3 pm (with a break from 12 noon to 1 pm)
 
 **Registration:** We require a letter of motivation in which you briefly describe your experience in the fields of digital provenance research and data modelling. Please also mention which use cases you would bring to the workshop. Please email your letter of motivation by 15 September 2026 to [anja.gerber@klassik-stiftung.de](anja.gerber@klassik-stiftung.de) and [sarah.wagner@fau.de](sarah.wagner@fau.de).
 
