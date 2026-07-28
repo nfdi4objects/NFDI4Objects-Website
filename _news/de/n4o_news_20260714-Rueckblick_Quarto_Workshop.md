@@ -2,8 +2,8 @@
 layout: news
 lang: de
 translation_key: n4o_news_20260714-Rueckblick_Quarto_Workshop
-title: 'Erfolgreicher Workshop zu Quarto gemeinsam mit HERMES'
-excerpt: ''
+title: 'Erfolgreicher Workshop zu Quarto '
+excerpt: 'Gemeinsam mit HERMES'
 date: 2026-07-28
 areas:
 - ta6
