@@ -3,7 +3,7 @@ layout: news
 lang: en
 translation_key: n4o_news_20260728-gnd_forum
 title: 'GND-Forum Humanities@NFDI'
-excerpt: '23 and 24 June 2026 in Göttingen: Reaching out to one another'
+excerpt: '23 and 24 June 2026 in Göttingen: "Reaching out to one another"'
 date: 2026-07-28
 areas:
 trails:
@@ -12,7 +12,7 @@ twgs:
 permalink: en/news/n4o_news_20260728-gnd_forum/
 ---
 #### How can the Gemeinsame Normdatei (GND) strengthen collaboration between the NFDI consortia in the humanities and cultural studies? Nearly 80 participants addressed this question at the GND Forum Humanities@NFDI on 23 and 24 June 2026 in Göttingen.
-
+  
 Under the motto ‘Reaching out to one another’, GND-related tools and services were presented, different perspectives on key GND entity types were discussed, and joint approaches for deeper collaboration were developed. The results of the forum are now documented in three publications and a [blog post](https://wiki.dnb.de/spaces/GND/blog/2026/07/22/526073663/Aufeinander+zugehen):
 
 🔹 Twelve GND-related tools and applications – a collection of practical fact sheets on applications from the participating consortia and the GND headquarters: [View the collection of fact sheets](https://zenodo.org/records/21475637?)
