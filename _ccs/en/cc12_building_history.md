@@ -4,8 +4,7 @@ lang: en
 translation_key: cc_building_history
 title: Building History
 status: active
-start_date: 2023-12-01 22:55:00+00:00
-proposal_url: ''
+start_date: 2023-12-01 
 type: n4o:Organization
 cochairs:
 - name: Tobias Arera-Rütenik

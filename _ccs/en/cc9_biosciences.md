@@ -4,8 +4,7 @@ lang: en
 translation_key: cc_biosciences
 title: Biosciences
 status: planned
-start_date: 2024-06-24 15:44:20.954000+00:00
-proposal_url: ''
+start_date: 2024-06-24 
 type: n4o:Organization
 cochairs:
 - name: ''

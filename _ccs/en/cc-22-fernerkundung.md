@@ -4,8 +4,7 @@ lang: en
 translation_key: cc-fernerkundung
 title: Remote Sensing
 status: active
-start_date: 2025-04-03 13:20:57+00:00
-proposal_url: ''
+start_date: 2025-04-03 
 type: n4o:Organization
 cochairs:
 - name: Matthias Lang

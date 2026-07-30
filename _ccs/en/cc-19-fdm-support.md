@@ -31,7 +31,7 @@ challenges back into the consortium. The focus lies on mutual knowledge
 transfer and the practice-oriented further development of consulting
 services for the NFDI4Objects community. Meetings take place virtually
 two to four times per year and are organized and documented by Task Area
- 6. The cluster does not see itself as an RDM helpdesk, but rather as a
+The cluster does not see itself as an RDM helpdesk, but rather as a
 network for RDM consultants within the community. Overarching RDM topics
  are addressed only if they have direct relevance for NFDI4Objects.
 External connections include, among others, DALIA, the NFDI section

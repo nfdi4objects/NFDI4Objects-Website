@@ -5,7 +5,6 @@ translation_key: cc_biosciences
 title: Biowissenschaften
 status: planned
 start_date: 2024-06-24 
-proposal_url: ''
 type: n4o:Organization
 cochairs:
 - name: ''

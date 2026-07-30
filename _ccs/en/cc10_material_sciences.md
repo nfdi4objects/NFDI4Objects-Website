@@ -4,8 +4,7 @@ lang: en
 translation_key: cc_material_sciences
 title: Material-Sciences
 status: planned
-start_date: 2024-06-24 16:28:05.166000+00:00
-proposal_url: ''
+start_date: 2024-06-24
 type: n4o:Organization
 cochairs:
 - name: ''

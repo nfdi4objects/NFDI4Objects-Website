@@ -4,8 +4,7 @@ lang: de
 translation_key: cc_nfdi4objects_diensteportfolio_management
 title: NFDI4Objects Diensteportfolio Management
 status: active
-start_date: 2025-07-04 09:01:11.387000+00:00
-proposal_url: ''
+start_date: 2025-07-04 
 type: n4o:Organization
 cochairs:
 - name: Benjamin Höke

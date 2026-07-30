@@ -22,9 +22,9 @@ permalink: /en/ccs/cc_conservation_sciences/
 
 The Community Cluster "Conservation and Restoration/Conservation Science" aims to improve access to and exchange of research data on conservation and restoration processes of various art and cultural assets. This CC is aimed at colleagues from all specialist and research areas of conservation and restoration in order to jointly examine the existing overlaps and differences in conservation/restoration-related data and to discuss the importance of the open data concept, the FAIR and CARE principles and other open questions.
 
-##### [Meeting minutes and documents](https://osf.io/5tqdw/)
-
-##### Contact
+#### [Meeting minutes and documents](https://osf.io/5tqdw/)  
+  
+#### Contact
 
 * [Email distribution list](https://www.listserv.dfn.de/sympa/info/n4o_cc_conservationscience)
 * [Rocket Chat](https://n4o-chat.nfdi.de/channel/CC_Konservierung-und-Restaurierung)

@@ -4,8 +4,7 @@ lang: de
 translation_key: cc-archäologische-textilien
 title: Archäologische Textilien
 status: active
-start_date: 2023-10-06 21:55:00+00:00
-proposal_url: ''
+start_date: 2023-10-06
 type: n4o:Organization
 cochairs:
 - name: Petra Linscheid

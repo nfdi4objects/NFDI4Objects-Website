@@ -34,4 +34,4 @@ This Community Cluster covers the parts of the research data lifecycle relating 
 > [Rocket.Chat channel of the CC Semantic Modelling & Linked Open Data](https://n4o-chat.nfdi.de/channel/CC_SemanticsLOD)
 
 
---
+---

@@ -4,8 +4,7 @@ lang: en
 translation_key: cc_citizen_science_and_community_hubs
 title: Public Archaeology
 status: active
-start_date: 2026-01-30 12:00:00+00:00
-proposal_url: ''
+start_date: 2026-01-30 
 type: n4o:Organization
 cochairs:
 - name: Ulrich Himmelmann

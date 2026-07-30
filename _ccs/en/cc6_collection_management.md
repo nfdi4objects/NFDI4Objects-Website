@@ -30,6 +30,6 @@ In this context, the CC deals with the following topics:
 * Semantic alignment / mapping of authority files, community driven vocabularies, GND, Wikidata, etc. 
 * Ontologies, semantics and generic reference models as well as standards for data exchange (e.g. LIDO, CIDOC CRM, EDM)
 
-  Rocket Chat: <https://n4o-chat.nfdi.de/channel/CC_CollectionManagement>
+Rocket Chat: <https://n4o-chat.nfdi.de/channel/CC_CollectionManagement>
 
-  Open Science Framework: <https://osf.io/7bef3/wiki/home/>
+Open Science Framework: <https://osf.io/7bef3/wiki/home/>
