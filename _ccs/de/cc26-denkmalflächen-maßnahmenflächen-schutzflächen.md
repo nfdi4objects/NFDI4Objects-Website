@@ -15,7 +15,6 @@ cochairs:
 areas:
 - ta4
 - ta1
-focus_areas: ''
 permalink: /ccs/cc-denkmalflächen-maßnahmenflächen-schutzflächen/
 ---
 

@@ -15,7 +15,6 @@ cochairs:
 areas:
 - ta3
 - ta6
-focus_areas: ''
 permalink: /ccs/cc-experimentelle-archäologie/
 ---
 
