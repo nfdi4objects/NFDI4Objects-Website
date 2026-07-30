@@ -1,6 +1,6 @@
 ---
 layout: cc
-lang: de
+lang: en
 translation_key: cc-data-exchange-formats
 title: Data Exchange Formats
 status: planned
@@ -14,10 +14,9 @@ cochairs:
 areas:
 - ta1
 - ta5
-focus_areas: ''
-permalink: /ccs/cc-data-exchange-formats/
+permalink: /en/ccs/cc-data-exchange-formats/
 ---
 
-## Beschreibung
+## Description
 
 Data Exchange Formats.

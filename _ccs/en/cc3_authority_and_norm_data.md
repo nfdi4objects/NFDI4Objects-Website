@@ -19,7 +19,6 @@ areas:
 - ta3
 - ta4
 - ta5
-focus_areas: ''
 permalink: /en/ccs/cc_authority_and_norm_data/
 ---
 

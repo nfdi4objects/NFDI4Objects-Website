@@ -13,7 +13,6 @@ cochairs:
   person_ref: christinapeek
 areas:
 - ta4
-focus_areas: ''
 permalink: /ccs/cc-archäologische-textilien/
 ---
 

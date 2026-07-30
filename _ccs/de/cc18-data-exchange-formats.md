@@ -1,8 +1,8 @@
 ---
 layout: cc
 lang: de
-translation_key: cc-3d-dokumentation
-title: 3D-Dokumentation
+translation_key: cc-data-exchange-formats
+title: Data Exchange Formats
 status: planned
 start_date: 2024-06-30 
 type: n4o:Organization
@@ -13,10 +13,10 @@ cochairs:
   person_ref: ''
 areas:
 - ta1
-focus_areas: ''
-permalink: /ccs/cc-3d-dokumentation/
+- ta5
+permalink: /ccs/cc-data-exchange-formats/
 ---
 
 ## Beschreibung
 
-3D-Dokumentation
+Data Exchange Formats.

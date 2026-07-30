@@ -13,7 +13,6 @@ cochairs:
   person_ref: nadinemarcinczik
 areas:
 - ta1
-focus_areas: ''
 permalink: /en/ccs/cc_building_history/
 ---
 

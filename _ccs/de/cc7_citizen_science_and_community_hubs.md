@@ -15,7 +15,6 @@ areas:
 - ta4
 - ta6
 - ta5
-focus_areas: ''
 permalink: /ccs/cc_citizen_science_and_community_hubs/
 ---
 

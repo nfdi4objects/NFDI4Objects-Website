@@ -13,7 +13,6 @@ cochairs:
   person_ref: fabianfricke
 areas:
 - ta7
-focus_areas: ''
 permalink: /ccs/cc_nfdi4objects_diensteportfolio_management/
 ---
 

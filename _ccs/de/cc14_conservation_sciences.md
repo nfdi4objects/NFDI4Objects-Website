@@ -14,7 +14,6 @@ cochairs:
   person_ref: nathalywitt
 areas:
 - ta4
-focus_areas: ''
 permalink: /ccs/cc_conservation_sciences/
 ---
 

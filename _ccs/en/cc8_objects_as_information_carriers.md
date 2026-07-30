@@ -14,7 +14,6 @@ cochairs:
   person_ref: bernhard_weisser
 areas:
 - ta2
-focus_areas: ''
 permalink: /en/ccs/cc_objects_as_information_carriers/
 ---
 

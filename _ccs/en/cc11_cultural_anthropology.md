@@ -13,7 +13,6 @@ cochairs:
   person_ref: ''
 areas:
 - ta7
-focus_areas: ''
 permalink: /en/ccs/cc_cultural_anthropology/
 ---
 

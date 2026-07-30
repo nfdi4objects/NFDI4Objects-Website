@@ -13,7 +13,6 @@ cochairs:
   person_ref: ''
 areas:
 - ta1
-focus_areas: ''
 permalink: /en/ccs/cc-3d-dokumentation/
 ---
 

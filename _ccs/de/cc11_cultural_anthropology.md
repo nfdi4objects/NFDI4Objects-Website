@@ -14,7 +14,6 @@ cochairs:
   person_ref: ''
 areas:
 - ta7
-focus_areas: ''
 permalink: /ccs/cc_cultural_anthropology/
 ---
 

@@ -15,7 +15,6 @@ cochairs:
 areas:
 - ta6
 - ta5
-focus_areas: ''
 permalink: /en/ccs/cc-fdm-support/
 ---
 

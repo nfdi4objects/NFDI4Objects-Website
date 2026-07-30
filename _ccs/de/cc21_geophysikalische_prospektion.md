@@ -12,7 +12,6 @@ cochairs:
 - name: ''
   person_ref: ''
 areas: []
-focus_areas: ''
 permalink: /ccs/cc_geophysikalische_prospektion/
 ---
 

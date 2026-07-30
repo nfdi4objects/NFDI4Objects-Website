@@ -13,7 +13,6 @@ cochairs:
   person_ref: ''
 areas:
 - ta3
-focus_areas: ''
 permalink: /ccs/cc_material_sciences/
 ---
 

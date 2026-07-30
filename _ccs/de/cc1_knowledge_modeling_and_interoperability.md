@@ -13,7 +13,6 @@ cochairs:
   person_ref: ''
 areas:
 - ta2
-focus_areas: ''
 permalink: /ccs/cc_knowledge_modeling_and_interoperability/
 ---
 

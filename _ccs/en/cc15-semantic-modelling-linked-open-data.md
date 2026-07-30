@@ -15,7 +15,7 @@ cochairs:
 areas:
 - ta2
 - ta6
-focus_areas: ''
+focus_areas: ‘Semantic modelling and Linked Open Data for object data’
 permalink: /en/ccs/cc-semantic-modelling-linked-open-data/
 ---
 

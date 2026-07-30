@@ -14,7 +14,6 @@ cochairs:
   person_ref: martinstricker
 areas:
 - ta2
-focus_areas: ''
 permalink: /ccs/cc_collection_management/
 ---
 

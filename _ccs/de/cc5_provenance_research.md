@@ -14,7 +14,6 @@ cochairs:
   person_ref: meikehopp
 areas:
 - ta2
-focus_areas: ''
 permalink: /ccs/cc_provenance_research/
 ---
 

@@ -14,7 +14,6 @@ cochairs:
   person_ref: gerdagrimm
 areas:
 - ta6
-focus_areas: ''
 permalink: /en/ccs/cc-qualifikation-and-open-educational-resources/
 ---
 

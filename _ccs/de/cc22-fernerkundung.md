@@ -13,7 +13,6 @@ cochairs:
   person_ref: irmelaherzog
 areas:
 - ta1
-focus_areas: ''
 permalink: /ccs/cc-fernerkundung/
 ---
 

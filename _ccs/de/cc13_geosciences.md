@@ -14,7 +14,6 @@ cochairs:
 areas:
 - ta1
 - ta3
-focus_areas: ''
 permalink: /ccs/cc_geosciences/
 ---
 

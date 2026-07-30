@@ -14,7 +14,6 @@ cochairs:
   person_ref: florian-janoschakreppner
 areas:
 - ta1
-focus_areas: ''
 permalink: /en/ccs/cc-grabungsdokumentation/
 ---
 

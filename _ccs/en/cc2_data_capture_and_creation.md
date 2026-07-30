@@ -20,7 +20,6 @@ areas:
 - ta3
 - ta4
 - ta7
-focus_areas: ''
 permalink: /en/ccs/cc_data_capture_and_creation/
 ---
 
