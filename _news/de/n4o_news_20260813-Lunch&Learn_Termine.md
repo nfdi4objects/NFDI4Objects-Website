@@ -2,8 +2,8 @@
 layout: news
 lang: de
 translation_key: n4o_news_20260813-Lunch&Learn_Termine
-title: 'Die nächsten Termine für das Lunch&Learn zur digitalen Kunstgeschichte 2026'
-excerpt: ''
+title: 'Die nächsten Termine für das Lunch&Learn '
+excerpt: 'Zur digitalen Kunstgeschichte 2026'
 date: 2026-08-13
 areas:
 trails:

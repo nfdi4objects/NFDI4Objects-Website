@@ -2,8 +2,8 @@
 layout: news
 lang: en
 translation_key: n4o_news_20260813-Lunch&Learn_Termine
-title: 'The upcoming dates for the 2026 Lunch & Learn on digital art history'
-excerpt: ''
+title: 'The upcoming dates for the 2026 Lunch & Learn '
+excerpt: 'On digital art history'
 date: 2026-08-13
 areas:
 trails:
