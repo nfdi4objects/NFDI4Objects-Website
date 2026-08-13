@@ -29,14 +29,9 @@ The cluster focuses on issues relating to data exchange and cross-sectoral use. 
 
 ## Objectives
 
-- Joint assessment of the legal framework in the 16 federal states (including a structured overview)
-
-- Consolidation and comparative presentation of institutional structures and existing infrastructures within the state heritage authorities
-
-- Collection and collation of relevant regulations and guidelines on data publication and use
-
-- (optional via spin-off into a TWG): Identifying common challenges and prospects within the federal context through dialogue with the stakeholders involved
-
-- (optionally via a spin-off into a TWG): Development of a coordinated framework for the further development and better integration of data infrastructures
-
+- Joint assessment of the legal framework in the 16 federal states (including a structured overview)  
+- Consolidation and comparative presentation of institutional structures and existing infrastructures within the state heritage authorities  
+- Collection and collation of relevant regulations and guidelines on data publication and use  
+- (optional via spin-off into a TWG): Identifying common challenges and prospects within the federal context through dialogue with the stakeholders involved  
+- (optionally via a spin-off into a TWG): Development of a coordinated framework for the further development and better integration of data infrastructures  
 - (optionally via a spin-off into a TWG): Derivation of practical guidelines for standardisation, data exchange and sustainable infrastructure development

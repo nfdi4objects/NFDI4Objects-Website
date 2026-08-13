@@ -30,13 +30,8 @@ Gegenstand des Clusters sind Fragen des Datenaustauschs und der übergreifenden 
 ## Ziele
 
 - Gemeinsame Bestandsaufnahme der rechtlichen Rahmenbedingungen in den 16 Ländern (inkl. strukturierter Übersicht)  
-
 - Zusammenführung und vergleichende Darstellung institutioneller Strukturen und bestehender Infrastrukturen in den Landesdenkmalämtern  
-
 - Sammlung und Aufbereitung einschlägiger Regelwerke und Handlungsanweisungen zur Datenveröffentlichung und -nutzung  
-
 - (optional über Ausgründung in TWG): Herausarbeitung gemeinsamer Herausforderungen und Perspektiven im föderalen Kontext im Austausch mit den beteiligten Akteuren  
-
 - (optional über Ausgründung in TWG): Erarbeitung eines abgestimmten Rahmens zur Weiterentwicklung und besseren Verzahnung der Dateninfrastrukturen  
-
 - (optional über Ausgründung in TWG): Ableitung praxisnaher Orientierungen für Standardisierung, Datenaustausch und nachhaltige Infrastrukturentwicklung
