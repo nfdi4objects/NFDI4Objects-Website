@@ -10,8 +10,8 @@ end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/TWG/f/4/proposals/47
 type: n4o:Organization
 cochairs:
-- name: Heike Messemer
-  person_ref: heikemessemer
+- name: 'Tolin Jojo'
+  person_ref: tolinjojo
 - name: Romy Köhler
   person_ref: romyköhler
 areas:
