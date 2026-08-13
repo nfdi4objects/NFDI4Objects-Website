@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: en/news/n4o_news_20260813-Lunch&Learn_Termine
+permalink: en/news/n4o_news_20260813-Lunch&Learn_Termine/
 ---
 ### For a year now, the Digital Art History Working Group has been running its online series: [‘Lunch & Learn on Digital Art History’](https://digitale-kunstgeschichte.de/aktuelles/lunch-and-learn-zur-digitalen-kunstgeschichte/) – a monthly digital lunch break exploring questions and topics relating to **digital art history.**
 

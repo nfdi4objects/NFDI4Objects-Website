@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_20260813-Lunch&Learn_Termine
+permalink: /news/n4o_news_20260813-Lunch&Learn_Termine/
 ---
 ### Seit nun einem Jahr gibt es das Online-Format des Arbeitskreises Digitale Kunstgeschichte: [„Lunch&Learn zur digitalen Kunstgeschichte“](https://digitale-kunstgeschichte.de/aktuelles/lunch-and-learn-zur-digitalen-kunstgeschichte/) – eine monatliche digitale Mittagspause zu Fragen und Themen rund um die **digitale Kunstgeschichte.**
 
