@@ -13,9 +13,12 @@ permalink: /news/n4o_news_20260813-Lunch&Learn_Termine/
 ---
 ### Seit nun einem Jahr gibt es das Online-Format des Arbeitskreises Digitale Kunstgeschichte: [„Lunch&Learn zur digitalen Kunstgeschichte“](https://digitale-kunstgeschichte.de/aktuelles/lunch-and-learn-zur-digitalen-kunstgeschichte/) – eine monatliche digitale Mittagspause zu Fragen und Themen rund um die **digitale Kunstgeschichte.**
 
-#### FORMAT: Einstieg (5 Min) – Impulsvortrag (10 Min) – Diskussion (15 Min) – Helpdesk & Tipps (15 Min)
+#### FORMAT: Einstieg (5 Min) – Impulsvortrag (10 Min) – Diskussion (15 Min) – Helpdesk & Tipps (15 Min)  
+  
 --- 
-In diesem Jahr haben wir nach der Sommerpause noch drei interessante Termine für Euch geplant. 
+In diesem Jahr haben wir nach der Sommerpause noch drei interessante Termine für Euch geplant.  
+  
+---
 
 **4. September 2026, 13:00 Uhr**  
 **ProNto – Provenienzforschung-Navigator**  
@@ -42,6 +45,6 @@ Sarah Wagner (Friedrich-Alexander-Universität Erlangen-Nürnberg, NFDI4Objects)
 ---
 ### Für wen ist diese Veranstaltung? Neugierige Menschen mit einem Interesse an Kunstgeschichte und Digitalität
 
-ZOOM-Link: (https://us02web.zoom.us/j/84286572737?pwd=VrT2D61m8S2g1CCD6QlD3qVVgy8yCL.1)[https://us02web.zoom.us/j/84286572737?pwd=VrT2D61m8S2g1CCD6QlD3qVVgy8yCL.1.]
+ZOOM-Link: [https://us02web.zoom.us/j/84286572737?pwd=VrT2D61m8S2g1CCD6QlD3qVVgy8yCL.1](https://us02web.zoom.us/j/84286572737?pwd=VrT2D61m8S2g1CCD6QlD3qVVgy8yCL.1.)
 
 ### Einfach in der Mittagspause dazu schalten, wir freuen uns auf Euch!
