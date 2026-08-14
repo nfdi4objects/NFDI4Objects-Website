@@ -3,7 +3,7 @@ layout: news
 lang: en
 translation_key: n4o_news_20260814-QGIS-Workshops-online
 title: 'QGIS Workshop Series by DASV and NFDI4Objects Now Available Online'
-excerpt:
+excerpt: The recorded events from the workshop series organized by DASV and NFDI4Objects are now available on YouTube.
 date: 2026-08-14
 areas:
     - ta6
