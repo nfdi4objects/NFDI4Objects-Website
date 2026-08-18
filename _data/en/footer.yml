@@ -24,6 +24,8 @@ navigation:
     url: "/en/services/all/"
   - title: "News"
     url: "/en/news/"
+  - title: "Events"
+    url: "/events/"
   - title: "Help"
     url: "/en/help/"
 
