@@ -39,8 +39,12 @@
                     <address>
                         <p>{{ footer_data.contact.organization }}</p>
                         <p>E-Mail: <a href="mailto:{{ footer_data.contact.email }}">{{ footer_data.contact.email }}</a></p>
-                        <p><a href="{{ Newsletter }}">{{ footer_data.contact.newsletter }}</a></p>
                     </address>
+                    <ul class="footer-links">
+                        {% for item in footer_data.contact %}
+                        <li><a href="{{ item.newsletter_url }}">{{ item.newsletter_title }}</a></li>
+                        {% endfor %}
+                    </ul>
                 </div>
             </div>
 

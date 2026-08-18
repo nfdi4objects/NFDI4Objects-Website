@@ -48,7 +48,8 @@ contact:
   title: "Kontakt"
   organization: "NFDI4Objects"
   email: "info@nfdi4objects.net"
-  newsletter: "https://www.listserv.dfn.de/sympa/subscribe/n4o-newsletter"
+  newsletter_title: "Newsletter"
+  newsletter_url: "https://www.listserv.dfn.de/sympa/subscribe/n4o-newsletter"
 
 
 funding:
