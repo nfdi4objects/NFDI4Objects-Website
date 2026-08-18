@@ -43,9 +43,11 @@ about:
   description_line2: "für materielle Objekte der Menschheitsgeschichte"
 
 contact:
-  title: "Kontakt"
+- title: "Kontakt"
   organization: "NFDI4Objects"
   email: "info@nfdi4objects.net"
+- title: "Newsletter"
+  url: "https://www.listserv.dfn.de/sympa/subscribe/n4o-newsletter"
 
 funding:
   text: "Gefördert durch die Deutsche Forschungsgemeinschaft (DFG)"
