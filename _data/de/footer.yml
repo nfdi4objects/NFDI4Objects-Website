@@ -28,8 +28,6 @@ navigation:
     url: "/events/"
   - title: "Hilfe"
     url: "/help/"
-  - title: "Newsletter"
-    url: "https://www.listserv.dfn.de/sympa/subscribe/n4o-newsletter"
 
 legal:
   - title: "Impressum"
