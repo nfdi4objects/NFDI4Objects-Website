@@ -3,11 +3,11 @@ layout: event
 lang: en
 translation_key: n4o_activity_20260812-CC_Treffen_AF
 title: 'Invitation to the Clustermeeting des N4O CC Authority Files'
-excerpt: 'The ‘Archaeology Thesaurus’ Working Group: A Standardised Vocabulary for Archaeology''
+excerpt: 'The Archaeology Thesaurus Working Group: A Standardised Vocabulary for Archaeology'
 date: 2026-07-16
 event_date: 2026-08-12
 location: 'online'
-areas: 
+areas: []
 trails: []
 ccs: 
 - cc_authority_and_norm_data

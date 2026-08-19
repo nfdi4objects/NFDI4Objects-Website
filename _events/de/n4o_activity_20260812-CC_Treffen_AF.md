@@ -7,7 +7,7 @@ excerpt: 'Die AG Archäologiethesaurus: Ein Normvokabular für die Archäologie'
 date: 2026-07-16
 event_date: 2026-08-12
 location: 'online'
-areas: 
+areas: []
 trails: []
 ccs: 
 - cc_authority_and_norm_data
