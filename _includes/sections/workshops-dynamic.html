@@ -13,7 +13,7 @@
   {% endif %}
 {% endfor %}
 
-{% assign filtered = future_events | sort: "event_date" | reverse %}
+{% assign filtered = future_events | sort: "event_date" %}
 
 {% if filtered.size == 0 %}
   <p class="no-events">
