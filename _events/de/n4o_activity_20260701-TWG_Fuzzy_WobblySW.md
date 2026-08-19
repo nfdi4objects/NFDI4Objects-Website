@@ -1,7 +1,7 @@
 ---
 layout: event
 lang: de
-translation_key: n4o_activity_20260701-TWG_Fuzzy_WobblySW
+translation_key: n4o_activity_20260701-TWGTreffen_Fuzzy_WobblySW
 title: 'Nächstes Treffen der TWG FuzzyWobblySW '
 excerpt: 'und dem Community Cluster "Semantic Modelling & Linked Open Data“'
 date: 2026-07-07
@@ -13,7 +13,7 @@ ccs:
 - cc-semantic-modelling-linked-open-data
 twgs:
 - community-standards-for-modelling-fuzziness-wobbliness-in-research-data-using-semantic-web-technologies-and-formalisms-fuzzywobblysw
-permalink: /events/n4o_activity_20260319-TWGTreffen_Fuzzy_Wobbly_SW/
+permalink: /events/n4o_activity_20260701-TWGTreffen_Fuzzy_Wobbly_SW/
 ---
 Die TWG FuzzyWobblySW und das Community Cluster "Semantic Modelling & Linked Open Data” trifft sich **am 01. Juli 2026 von 10 bis 11:30 Uhr online**, um unter anderem die Arbeit der TWG, dem CC vorzustellen, mit dem Ziel einer breiteren Themenauswahl und der Einbindung von Feedback.
 
