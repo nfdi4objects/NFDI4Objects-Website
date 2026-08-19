@@ -1,5 +1,6 @@
 {% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
-{% assign filtered = site.events | where: "lang", include.lang | where: "event_type", "Workshop" | sort: "event_date" | reverse %}
+{% assign today = "now" | date: "%s" %}
+{% assign filtered = site.events | where: "lang", include.lang | where: "event_type", "Workshop" | where: "event_date", ">==", today | sort: "event_date" %}
 
 {% if filtered.size == 0 %}
   <p class="no-events">
