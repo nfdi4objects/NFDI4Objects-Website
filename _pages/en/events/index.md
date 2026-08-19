@@ -1,6 +1,6 @@
 ---
 layout: n4o-base
-title: "Events"
+title: "All Events"
 lang: en
 permalink: /en/events/all/
 translation_key: events-overview
