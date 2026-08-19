@@ -1,7 +1,7 @@
 ---
 layout: event
 lang: de
-translation_key: n4o_activity_20261020-CC_AF
+translation_key: n4o_activity_20260318-CC_AF
 title: Clustertreffen des CC Authority Files & Community - driven Vocabularies
 excerpt: Einladung zum Treffen von 13 - 14:30 Uhr
 date: 2026-03-18
@@ -13,7 +13,7 @@ trails: []
 ccs: 
 - cc_authority_and_norm_data
 twgs: []
-permalink: /events/n4o_activity_20261020-CC_AF/
+permalink: /events/n4o_activity_20260318-CC_AF/
 ---
 **Am 29. April 2026, von 13 bis 14:30 Uhr** findet das nächste Clustertreffen statt. Dieses Mal wird es ein Hands on für DANTE mit unserem Chair Michael Markert von der VZG geben.
 

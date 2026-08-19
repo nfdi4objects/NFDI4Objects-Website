@@ -13,7 +13,7 @@ trails: []
 ccs: 
 - cc_authority_and_norm_data
 twgs: []
-permalink: /events/n4o_activity_20260318-CC_AF/
+permalink: /events/n4o_activity_20261020-CC_AF/
 ---
 #### Liebe Kolleg:innen, liebe Community,
 
