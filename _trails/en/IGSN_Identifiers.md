@@ -22,7 +22,7 @@ institutions:
 - max-planck-institut-fuer-evolutionaere-anthropologie-abteilung-fuer-archaeogenetik
 
 focus_areas: ''
-permalink: /trails/IGSN_Identifier_second_TRAILs/
+permalink: en/trails/IGSN_Identifier_second_TRAILs/
 ---
 ## Description
 
