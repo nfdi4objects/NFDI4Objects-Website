@@ -1,6 +1,9 @@
 {% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
+{% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
 {% assign today = "now" | date: "%s" %}
-{% assign filtered = site.events | where: "lang", include.lang | where: "event_type", "Workshop" | where_exp: "event", "event.event_date | date: '%s' >= today" | sort: "event_date" | reverse %}
+{% assign filtered = site.events | where: "lang", include.lang | where: "event_type", "Workshop" %}
+{% assign filtered = filtered | where_exp: "event", "event.event_date != nil" %}
+{% assign filtered = filtered | where_exp: "event", "event.event_date | date: '%s' >= today" | sort: "event_date" | reverse %}
 
 {% if filtered.size == 0 %}
   <p class="no-events">
