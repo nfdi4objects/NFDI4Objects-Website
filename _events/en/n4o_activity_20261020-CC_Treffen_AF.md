@@ -1,7 +1,7 @@
 ---
 layout: event
 lang: en
-translation_key: n4o_activity_20261020-CC_AF
+translation_key: n4o_activity_20261020-CC_Treffen_AF
 title: 'Cluster meeting of the CC Authority Files & Community-driven Vocabularies'
 excerpt: 'Invitation to the meeting from 2.00 pm to 3.30 pm on the subject Vocabulary work Network Colonial Contexts'
 date: 2026-07-21
@@ -13,7 +13,7 @@ trails: []
 ccs: 
 - cc_authority_and_norm_data
 twgs: []
-permalink: en/events/n4o_activity_20260318-CC_AF/
+permalink: en/events/n4o_activity_20261020-CC_Treffen_AF/
 ---
 #### Dear colleagues, dear community,
 
