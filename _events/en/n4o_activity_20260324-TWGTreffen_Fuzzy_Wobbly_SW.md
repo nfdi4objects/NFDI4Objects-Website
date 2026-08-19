@@ -1,7 +1,7 @@
 ---
 layout: event
 lang: en
-translation_key: n4o_activity_20260319-TWGTreffen_Fuzzy_Wobbly_SW
+translation_key: n4o_activity_20260324-TWGTreffen_Fuzzy_Wobbly_SW
 title: Next Meeting of the TWG Community-Standards for modelling fuzziness & wobbliness in research data using Semantic Web technologies and formalisms
 excerpt: at 10:00 a.m.
 date: 2026-03-24
@@ -14,7 +14,7 @@ areas:
 trails: []
 ccs:
 twgs: community-standards-for-modelling-fuzziness-wobbliness-in-research-data-using-semantic-web-technologies-and-formalisms-fuzzywobblysw
-permalink: en/events/n4o_activity_20260319-TWGTreffen_Fuzzy_Wobbly_SW/
+permalink: en/events/n4o_activity_20260324-TWGTreffen_Fuzzy_Wobbly_SW/
 ---
 The next meeting of the TWG Community Standards for Modeling Fuzziness & Wobbliness in Research Data Using Semantic Web Technologies and Formalisms, or FuzzyWobblySW for short, will take place **on Wednesday, April 22, from 10:00 a.m. to 11:30 a.m.**
 
