@@ -15,9 +15,6 @@ translation_key: events-overview
 </main>
 
 <main id="main-content" class="bg-sand event-overview">
-  <div class="container">
-    {% include breadcrumb.html %}
-  </div>
-
+  <div class="container"></div>
   {% include sections/events-dynamic.html lang="de" %}
 </main>
