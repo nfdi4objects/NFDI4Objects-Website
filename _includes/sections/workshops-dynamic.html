@@ -1,9 +1,19 @@
 {% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
-{% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
+
 {% assign today = "now" | date: "%s" %}
 {% assign filtered = site.events | where: "lang", include.lang | where: "event_type", "Workshop" %}
-{% assign filtered = filtered | where_exp: "event", "event.event_date != nil" %}
-{% assign filtered = filtered | where_exp: "event", "event.event_date | date: '%s' >= today" | sort: "event_date" | reverse %}
+{% assign future_events = "" | split: "" %}
+
+{% for event in filtered %}
+  {% if event.event_date != nil %}
+    {% assign event_timestamp = event.event_date | date: "%s" %}
+    {% if event_timestamp >= today %}
+      {% assign future_events = future_events | push: event %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% assign filtered = future_events | sort: "event_date" | reverse %}
 
 {% if filtered.size == 0 %}
   <p class="no-events">
