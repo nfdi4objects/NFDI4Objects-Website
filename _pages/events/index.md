@@ -11,5 +11,13 @@ translation_key: events-overview
     {% include breadcrumb.html %}
   </div>
 
+  {% include sections/workshops-dynamic.html lang="de"%}
+</main>
+
+<main id="main-content" class="bg-sand event-overview">
+  <div class="container">
+    {% include breadcrumb.html %}
+  </div>
+
   {% include sections/events-dynamic.html lang="de" %}
 </main>
