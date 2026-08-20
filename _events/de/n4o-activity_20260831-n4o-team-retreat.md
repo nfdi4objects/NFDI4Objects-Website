@@ -34,7 +34,6 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
    image="/assets/images/activities/raumplan_landesmuseum-mainz_neu_ebene_0_2.0x500.png"
    alt="Raumplan Erdgeschoss Landesmuseum Mainz"
    caption="Raumplan Landesmuseum Mainz (https://guide.landesmuseum-mainz.de/willkommen/lageplan/) 
-   width="300"
    class="img-center"
 %}
 
