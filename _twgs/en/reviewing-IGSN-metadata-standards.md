@@ -46,7 +46,7 @@ In addition, crosswalks are provided between general metadata schemas such as [D
 
 ## Commons-Contributions
 
-Whitepaper: Guidelines for Metadata Documentation in the Registration of IGSN IDs for Archaeological and Heritage Sample
+- Whitepaper: Guidelines for Metadata Documentation in the Registration of IGSN IDs for Archaeological and Heritage Sample
 
 --- 
 ## Contact: 
