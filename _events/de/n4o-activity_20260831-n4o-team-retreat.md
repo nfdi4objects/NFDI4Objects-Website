@@ -43,7 +43,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
 
 | Uhrzeit | Inhalt                                                             | Ort                         |
 |---------|--------------------------------------------------------------------|-----------------------------|
-| 18:00   | Gemeinsames **Abendessen** im **[Andechser am Rhein](https://www.andechser-mainz.de/#menu)** auf Selbstzahlerbasis | [Rheinstraße 4G, 55116 Mainz](https://maps.app.goo.gl/r7m4TirvMJ2s1U6P8) |
+| 18:00   | Gemeinsames Abendessen im Andechser am Rhein auf Selbstzahlerbasis | Rheinstraße 4G, 55116 Mainz |
 
 ### Dienstag, 1. September 2026 (09:00 - 17:00 Uhr)
 
