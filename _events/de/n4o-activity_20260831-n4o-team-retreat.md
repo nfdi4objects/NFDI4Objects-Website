@@ -25,7 +25,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
 
 
 | Landesmuseum Mainz | Leibnizzentrum für Archäologie | Landesarchäologie Mainz |
-|--------------------|--------------------------------|-------------------------|
+|---------------------------|---------------------------------------|--------------------------------|
 | [Große Bleiche 49-51, 55116 Mainz](https://maps.app.goo.gl/v22sp8zfsJeM8ADfA)| [Ludwig-Lindenschmit-Forum 1, 55116 Mainz](https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6) | [Große Langgasse 29, 55116 Mainz](https://maps.app.goo.gl/Huez7WiWFxtUYuyB8) |
 
 {% include blocks/image-centered.html
