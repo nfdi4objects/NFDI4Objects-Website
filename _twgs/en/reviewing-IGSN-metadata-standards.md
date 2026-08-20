@@ -34,16 +34,20 @@ The recommended metadata profile is presented in various NFDI4Objects workspaces
 
 In addition, a core set of controlled vocabularies is discussed and recommended, which can be used to consistently populate appropriate metadata fields for IGSN IDs. This is intended to improve both the efficiency and the quality of data cataloging. Existing terminologies can be used, for example, for material types [(Art & Architecture Thesaurus)](https://www.getty.edu/research/tools/vocabularies/aat/), time periods [(PeriodO)](https://client.perio.do/? page=open-backend), researchers [(ORCID)](https://orcid.org/), organizations [(ROR)](https://ror.org/), and locations ([GeoNames](https://www.geonames.org/) and [Getty TGN](https://www.getty.edu/research/tools/vocabularies/tgn/index.html)).
 
-In addition, crosswalks are provided between general metadata schemas such as [DataCite](https://datacite.org/), [Dublin Core](https://www.dublincore.org/), and [schema.org] (https://schema.org/) as well as subject-specific schemas such as [TerraLID](https://terralid.org/), the [N4O Minimal Metadata Set](https://github.com/nfdi4objects/n4o-ontology), and conservation metadata. The goal is to improve interoperability between different data sources and metadata structures.
+In addition, crosswalks are provided between general metadata schemas such as [DataCite](https://datacite.org/), [Dublin Core](https://www.dublincore.org/), and [schema.org] (https://schema.org/) as well as subject-specific schemas such as [TerraLID](https://terralid.org/), the [N4O Minimal Metadata Set](https://github.com/nfdi4objects/n4o-ontology), and conservation metadata. The goal is to improve interoperability between different data sources and metadata structures.  
 
-#### Aim
-
+---   
+## Aim
 - Create online complementary documentation for the IGSN metadata schema, managed through version control on GitHub.  
 - Publish metadata crosswalks between different community schemas on Zenodo.  
 - Present and register use cases from archaeometallurgy, conservation, bioarchaeology on an online sample registry platform.
 
-#### Commons-Contributions
+---
+
+## Commons-Contributions
 
 Whitepaper: Guidelines for Metadata Documentation in the Registration of IGSN IDs for Archaeological and Heritage Sample
 
-#### Contact: [Yiu-Kang.Hsu@bergbaumuseum.de](mailto:Yiu-Kang.Hsu@bergbaumuseum.de)
+--- 
+## Contact: 
+[Yiu-Kang.Hsu@bergbaumuseum.de](mailto:Yiu-Kang.Hsu@bergbaumuseum.de)

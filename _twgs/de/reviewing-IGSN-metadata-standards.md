@@ -36,13 +36,20 @@ Ergänzend wird ein Kernset kontrollierter Vokabulare diskutiert und empfohlen, 
 
 Darüber hinaus werden Crosswalks zwischen allgemeinen Metadatenschemata wie [DataCite](https://datacite.org/) [Dublin Core](https://www.dublincore.org/) und [schema.org](https://schema.org/) sowie fachspezifischen Schemata wie [TerraLID,](https://terralid.org/) dem [N4O Minimal Metadata Set](https://github.com/nfdi4objects/n4o-ontology) und den Conservation Metadata erarbeitet. Ziel ist es, die Interoperabilität zwischen unterschiedlichen Datenquellen und Metadatenstrukturen zu verbessern.
 
-#### Ziele: 
+---
+
+## Ziele: 
 
 - Erstellung einer ergänzenden Online-Dokumentation für das IGSN-Metadatenschema, die über die Versionskontrolle auf GitHub verwaltet wird.  
 - Veröffentlichung von Metadaten- Crowwwalks zwischen verschiedenen Community-Schemas auf Zenodo.  
 - Präsentation und Registrierung von Anwendungsfällen aus den Bereichen Archäometallurgie, Konservierung und Bioarchäologie auf einer Online-Plattform für Probenregister.  
 
-#### Commons-Beiträge  
+---
+
+## Commons-Beiträge  
 - Whitepaper: Leitlinien für die Metadatendokumentation bei der Registrierung von IGSN-IDs für archäologische und kulturhistorische Proben
 
-#### Kontakt: [Yiu-Kang.Hsu@bergbaumuseum.de](mailto:Yiu-Kang.Hsu@bergbaumuseum.de)
+---
+
+## Kontakt:
+ [Yiu-Kang.Hsu@bergbaumuseum.de](mailto:Yiu-Kang.Hsu@bergbaumuseum.de)
