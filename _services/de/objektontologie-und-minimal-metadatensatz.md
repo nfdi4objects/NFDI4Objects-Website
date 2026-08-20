@@ -6,7 +6,7 @@ title: Objektontologie und Minimal-Metadatensatz
 short_title: 'Standards für die <strong>semantische Beschreibung von Objektdaten.</strong> Grundlage für Interoperabilität.'
 logo: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
 homepage: ''
-access_url: ''
+access_url: 'https://github.com/nfdi4objects/n4o-ontology'
 areas:
 - ta2
 - ta6

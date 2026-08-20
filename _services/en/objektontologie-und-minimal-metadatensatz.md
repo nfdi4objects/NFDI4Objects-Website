@@ -7,7 +7,7 @@ title: Standards and interfaces for interdisciplinary knowledge modelling and da
 short_title: 'Standards for <strong>semantic description of object data.</strong> The foundation for interoperability.'
 logo: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
 homepage: ''
-access_url: ''
+access_url: 'https://github.com/nfdi4objects/n4o-ontology'
 areas:
 - ta2
 - ta6

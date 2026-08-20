@@ -33,6 +33,6 @@ In response to these issues, IGSN identifiers (IGSN IDs), regulated by the DataC
 1. reviewing, adopting and adapting existing IGSN metadata profiles through community effort.  
 2. performing crosswalks between generic and community-driven metadata schemas to enhance sample data interoperability.  
 3. validating IGSN metadata profiles via diverse use cases.  
-4. producing a Cookbook detailing best practices for launching an IGSN registration service in archaeology and cultural heritage.  
-
+4. producing a Cookbook detailing best practices for launching an IGSN registration service in archaeology and cultural heritage.    
+  
 By doing so, we lay the solid foundation for the further development of a sustainable IGSN service within the NFDI4O and beyond.
