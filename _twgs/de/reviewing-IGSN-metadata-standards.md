@@ -39,9 +39,7 @@ Darüber hinaus werden Crosswalks zwischen allgemeinen Metadatenschemata wie [Da
 #### Ziele: 
 
 - Erstellung einer ergänzenden Online-Dokumentation für das IGSN-Metadatenschema, die über die Versionskontrolle auf GitHub verwaltet wird.  
-
 - Veröffentlichung von Metadaten- Crowwwalks zwischen verschiedenen Community-Schemas auf Zenodo.  
-
 - Präsentation und Registrierung von Anwendungsfällen aus den Bereichen Archäometallurgie, Konservierung und Bioarchäologie auf einer Online-Plattform für Probenregister.  
 
 #### Commons-Beiträge  

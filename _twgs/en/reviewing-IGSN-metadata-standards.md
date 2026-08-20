@@ -39,9 +39,7 @@ In addition, crosswalks are provided between general metadata schemas such as [D
 #### Aim
 
 - Create online complementary documentation for the IGSN metadata schema, managed through version control on GitHub.  
-
 - Publish metadata crosswalks between different community schemas on Zenodo.  
- 
 - Present and register use cases from archaeometallurgy, conservation, bioarchaeology on an online sample registry platform.
 
 #### Commons-Contributions
