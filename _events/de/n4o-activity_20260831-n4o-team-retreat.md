@@ -23,9 +23,11 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
 
 ## Tagungsorte
 
-| Landesmuseum Mainz | Leibnizzentrum für Archäologie | Landesarchäologie Mainz |
-| -------- | -------- | -------- |
-| [Große Bleiche 49-51, 55116 Mainz](https://maps.app.goo.gl/v22sp8zfsJeM8ADfA)     | [Ludwig-Lindenschmit-Forum 1, 55116 Mainz](https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6)     | [Große Langgasse 29, 55116 Mainz](https://maps.app.goo.gl/Huez7WiWFxtUYuyB8)     |
+* Landesmuseum Mainz [Große Bleiche 49-51, 55116 Mainz](https://maps.app.goo.gl/v22sp8zfsJeM8ADfA) 
+
+* Leibnizzentrum für Archäologie [Ludwig-Lindenschmit-Forum 1, 55116 Mainz](https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6)
+
+* Landesarchäologie Mainz [Große Langgasse 29, 55116 Mainz](https://maps.app.goo.gl/Huez7WiWFxtUYuyB8)
 
 ---
 
@@ -33,7 +35,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
    image="/assets/images/activities/raumplan_landesmuseum-mainz_neu_ebene_0_2.0x500.png"
    alt="Raumplan Erdgeschoss Landesmuseum Mainz"
    caption=" <a href='https://guide.landesmuseum-mainz.de/willkommen/lageplan/'>Raumplan</a> Landesmuseum Mainz"
-   width="300"
+   width="600"
    class="img-center"
 %}
 
