@@ -27,6 +27,8 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
 | -------- | -------- | -------- |
 | [Große Bleiche 49-51, 55116 Mainz](https://maps.app.goo.gl/v22sp8zfsJeM8ADfA)     | [Ludwig-Lindenschmit-Forum 1, 55116 Mainz](https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6)     | [Große Langgasse 29, 55116 Mainz](https://maps.app.goo.gl/Huez7WiWFxtUYuyB8)     |
 
+---
+
 ```liquid
 {% include blocks/image-centered.html
    image="/assets/images/activities/raumplan_landesmuseum-mainz_neu_ebene_0_2.0x500.png"
@@ -36,6 +38,8 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
    class="img-center"
 %}
 ```
+
+---
 
 ## Programm und Ablauf (vorläufig)
 
