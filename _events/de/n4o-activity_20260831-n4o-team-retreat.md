@@ -47,9 +47,9 @@ Landesarchäologie Mainz |
 <table>
   <thead>
     <tr>
-      <th>Uhrzeit</th>
-      <th>Inhalt</th>
-      <th>Ort</th>
+       <th> with="20%">Uhrzeit</th>
+       <th> with="50%">Inhalt</th>
+       <th> with="30%">Ort</th>
     </tr>
   </thead>
   <tbody>
@@ -65,9 +65,9 @@ Landesarchäologie Mainz |
 <table>
   <thead>
     <tr>
-       <th>Uhrzeit</th>
-       <th>Inhalt</th>
-       <th>Ort</th>
+       <th> with="20%">Uhrzeit</th>
+       <th> with="50%">Inhalt</th>
+       <th> with="30%">Ort</th>
     </tr>
   </thead>
   <tbody>
@@ -261,9 +261,9 @@ Landesarchäologie Mainz |
 <table>
   <thead>
     <tr>
-      <th>Uhrzeit</th>
-      <th>Inhalt</th>
-      <th>Ort</th>
+       <th> with="20%">Uhrzeit</th>
+       <th> with="50%">Inhalt</th>
+       <th> with="30%">Ort</th>
     </tr>
   </thead>
   <tbody>
