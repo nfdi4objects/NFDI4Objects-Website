@@ -47,9 +47,9 @@ Landesarchäologie Mainz |
 <table>
   <thead>
     <tr>
-       <th> with="20%">Uhrzeit</th>
-       <th> with="50%">Inhalt</th>
-       <th> with="30%">Ort</th>
+       <th> width="20%">Uhrzeit</th>
+       <th> width="50%">Inhalt</th>
+       <th> width="30%">Ort</th>
     </tr>
   </thead>
   <tbody>
@@ -65,9 +65,9 @@ Landesarchäologie Mainz |
 <table>
   <thead>
     <tr>
-       <th> with="20%">Uhrzeit</th>
-       <th> with="50%">Inhalt</th>
-       <th> with="30%">Ort</th>
+       <th> width="20%">Uhrzeit</th>
+       <th> width="50%">Inhalt</th>
+       <th> width="30%">Ort</th>
     </tr>
   </thead>
   <tbody>
@@ -131,7 +131,7 @@ Landesarchäologie Mainz |
     </tr>
     <tr>
        <td></td>
-       <td> <strong>Steuerungsgruppe:</strong><br> Strategieentwicklung und Weiterentwicklung von N4O: Diskussion &amp; Brainstorming</td>
+       <td> <strong>Steuerungsgruppe:</strong><br> Strategieentwicklung und Weiterentwicklung von N4O:<br>Diskussion &amp; Brainstorming</td>
        <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>  
     </tr>
     <tr>
@@ -162,7 +162,7 @@ Landesarchäologie Mainz |
     </tr>
     <tr>
        <td></td>
-       <td> <strong>Steuerungsgruppe:</strong><br>Strategieentwicklung und Weiterentwicklung von N4O: Ableitung konkreter Maßnahmen</td>
+       <td> <strong>Steuerungsgruppe:</strong><br>Strategieentwicklung und Weiterentwicklung von N4O:<br>Ableitung konkreter Maßnahmen</td>
     <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
     </tr>
     <tr>
@@ -213,7 +213,7 @@ Landesarchäologie Mainz |
     </tr>
     <tr>
        <td></td>
-    <td><strong>Steuerungsgruppe</strong><br>Strategieentwicklung und Weiterentwicklung von N4O: Ableitung konkreter Maßnahmen</td>
+    <td><strong>Steuerungsgruppe</strong><br>Strategieentwicklung und Weiterentwicklung von N4O:<br>Ableitung konkreter Maßnahmen</td>
        <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
     </tr>
     <tr>
@@ -261,9 +261,9 @@ Landesarchäologie Mainz |
 <table>
   <thead>
     <tr>
-       <th> with="20%">Uhrzeit</th>
-       <th> with="50%">Inhalt</th>
-       <th> with="30%">Ort</th>
+       <th> width="20%">Uhrzeit</th>
+       <th> width="50%">Inhalt</th>
+       <th> width="30%">Ort</th>
     </tr>
   </thead>
   <tbody>
