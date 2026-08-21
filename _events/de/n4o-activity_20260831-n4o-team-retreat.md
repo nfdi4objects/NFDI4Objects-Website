@@ -167,7 +167,7 @@ Landesarchäologie Mainz |
     </tr>
     <tr>
        <td></td>
-       <td><strong>Trainings, Lehrmaterialien</strong> in NFDI4Objects - Überführung in FAIRe OER</td>
+       <td><strong>Trainings, Lehrmaterialien in NFDI4Objects</strong><br>Überführung in FAIRe OER</td>
        <td><a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a><br>Großer Konferenzraum, 3. OG (20)</td>
     </tr>
     <tr>
