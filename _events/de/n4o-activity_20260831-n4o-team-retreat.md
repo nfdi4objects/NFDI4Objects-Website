@@ -36,83 +36,285 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
    class="img-center"
 %}
 
-## Programm und Ablauf (vorläufig)
+<h2>Programm und Ablauf (vorläufig)</h2>
 
-### Montag, 31. August 2026
+<h3>Montag, 31. August 2026</h3>
+<p><em>Anreise und Hotel-Check-in</em></p>
+<table>
+  <thead>
+    <tr>
+      <th>Uhrzeit</th>
+      <th>Inhalt</th>
+      <th>Ort</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18:00</td>
+      <td>Gemeinsames <strong>Abendessen</strong> im <a href="https://www.andechser-mainz.de/#menu"><strong>Andechser am Rhein</strong></a> auf Selbstzahlerbasis</td>
+      <td><a href="https://maps.app.goo.gl/r7m4TirvMJ2s1U6P8">Rheinstraße 4G, 55116 Mainz</a></td>
+    </tr>
+  </tbody>
+</table>
 
-*Anreise und Hotel-Check-in*
+<h3>Dienstag, 1. September 2026 (09:00 - 17:00 Uhr)</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Uhrzeit</th>
+      <th>Inhalt</th>
+      <th>Ort</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>07:30 - 08:30</em></td>
+      <td><em>Aufbau</em></td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
+    </tr>
+    <tr>
+      <td><strong>08:00 - 09:00</strong></td>
+      <td><strong>Fotosession CO Portraits</strong></td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+    </tr>
+    <tr>
+      <td><em>08:30 - 09:00</em></td>
+      <td><em>Begrüßungskaffee</em></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>09:00 - 09:20</td>
+      <td>Begrüßung und Programm (Vorstellung der Sessions)</td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
+    </tr>
+    <tr>
+      <td>09:20 - 10:00</td>
+      <td>Jahresrückblick &amp; BLV-Überblick</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>10:00 - 10:15</strong></td>
+      <td><strong>Gruppenbild</strong></td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+    </tr>
+    <tr>
+      <td><em>10:15 - 10:30</em></td>
+      <td><em>Kaffeepause</em></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>10:15 - 12:15</strong></td>
+      <td><strong>Fotosession</strong></td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+    </tr>
+    <tr>
+      <td>10:30 - 10:45</td>
+      <td>Icebreaker</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="3"></td>
+    </tr>
+    <tr>
+      <td>10:45 - 12:30</td>
+      <td><strong>Sessions - Teil 1</strong><br>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+    <td></td>
+        <td><strong>Community Networking:</strong><br> Offener Austausch für Aktive und Interessierte</td><br>
+      <td>
+        <a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer oder Innenhof
+      </td>
+      </tr>
+    <tr>
+     <td></td>
+        <td> <strong>Steuerungsgruppe:</strong><br> Strategieentwicklung und Weiterentwicklung von N4O: Diskussion &amp; Brainstorming     
+     </td>
+     <td>
+        <a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum
+     </td>  
+    </tr>
+    <tr>
+    <td></td>
+    <td> <strong>Standardisierung 1:</strong><br> Normdaten &amp; Vokabulare (Anja, Kristina)</td>
+    <td>
+        <a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a>, Foyer oder Innenhof</a><br>Forum
+     </td>
+    </tr>
+    <tr>
+      <td colspan="3"></td>
+    </tr>
+    <tr>
+      <td><strong>12:30 - 13:30</strong></td>
+      <td><strong>Fotosession SC Portraits</strong></td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+    </tr>
+    <tr>
+      <td><em>12:30 - 14:00</em></td>
+      <td><em>Mittagspause im <a href="https://esszimmer-landtag.de/">ESSZIMMER Mainz</a></em></td>
+      <td><a href="https://maps.app.goo.gl/7MYdehZPa1r3Hptu5">Große Bleiche 64, 55116 Mainz</a></td>
+    </tr>
+    <tr>
+      <td colspan="3"></td>
+    </tr>
+    <tr>
+      <td>14:00 - 16:00</td>
+      <td><strong>Sessions - Teil 2</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> <strong>Steuerungsgruppe:</strong><br>Strategieentwicklung und Weiterentwicklung von N4O: Ableitung konkreter Maßnahmen</td>
+    <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><strong>Trainings, Lehrmaterialien</strong> in NFDI4Objects - Überführung in FAIRe OER</td>
+      <td><a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a><br>Großer Konferenzraum, 3. OG (20)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><strong>TRAIL Vom Feld in die Datenbank</strong><br>Arbeitstreffen</td>
+      <td><a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a><br>Kleiner Konferenzraum, 3. OG (7)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><strong>Standardisierung 2</strong><br>Metadaten</td>
+      <td><a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a><br>Kreativraum, 3. OG (15)
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Offene Session nach Bedarf aus Networking Session</td>
+      <td><a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a><br>Studio, 2. OG (20)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Offene Session nach Bedarf aus Networking Session</td>
+    <td><a href="https://maps.app.goo.gl/Huez7WiWFxtUYuyB8">Landesarchäologie</a><br>Marketingraum, EG (10)
+        </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Offene Session nach Bedarf aus Networking Session</td>
+    <td><a href="https://maps.app.goo.gl/Huez7WiWFxtUYuyB8">Landesarchäologie</a><br>Meeting-Raum, 2. OG (7)
+      </td>
+    </tr>
+    <tr>
+      <td><em>16:00 - 16:15</em></td>
+      <td><em>Kaffeepause</em></td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer und <a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a></td>
+    </tr>
+    <tr>
+      <td colspan="3"></td>
+    </tr>
+    <tr>
+      <td>16:15 - 17:45</td>
+      <td><strong>Sessions - Teil 3</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+    <td><strong>Steuerungsgruppe</strong><br>Strategieentwicklung und Weiterentwicklung von N4O: Ableitung konkreter Maßnahmen</td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><strong>Öffentlichkeitsarbeit und Outreach</strong>
+      <td><a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a><br>Großer Konferenzraum, 3. OG (20)</td>
+    </tr>  
+      <td></td>
+      <td>No Data without Software!<br><strong>Research Software Engineering</strong> in NFDI4Objects<br>(Tolle, Thiery)</td>
+      <td><a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a><br>Kleiner Konferenzraum, 3. OG (7)</td>
+     </tr>
+     <tr>
+      <td></td>
+      <td>Offene Sessions nach Bedarf aus Networking Session</td>
+      <td><a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a><br>Studio, 2. OG (20) / Kreativraum, 3. OG (15)
+      </tr>
+      <tr>
+        <td></td>
+        <td>Offene Sessions nach Bedarf aus Networking Session</td>
+        <td><a href="https://maps.app.goo.gl/Huez7WiWFxtUYuyB8">Landesarchäologie</a><br>Marketingraum, EG (10)
+      </tr>
+      <tr>
+        <td></td>
+        <td>Offene Sessions nach Bedarf aus Networking Session</td>
+        <td><a href="https://maps.app.goo.gl/Huez7WiWFxtUYuyB8">Landesarchäologie</a><br>Meeting-Raum<br>2. OG (7)
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3"></td>
+    </tr>
+    <tr>
+      <td><strong>17:45 – 18:45</strong></td>
+      <td><strong>Fotosession</strong></td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+    </tr>
+    <tr>
+      <td><em>19:00</em></td>
+      <td><em>Gemeinsames Abendessen im <a href="https://www.michel-wein.de/weinhaus/speisekarte/">Weinhaus Michel</a> auf Selbstzahlerbasis</em></td>
+      <td><em><a href="https://maps.app.goo.gl/L7LLrbF8xZCYPmGU9">Jakobsbergstraße 8, 55116 Mainz</a></em></td>
+    </tr>
+  </tbody>
+</table>
 
-| Uhrzeit | Inhalt                                                             | Ort                         |
-|---------|--------------------------------------------------------------------|-----------------------------|
-| 18:00   | Gemeinsames **Abendessen** im **[Andechser am Rhein](https://www.andechser-mainz.de/#menu)** auf Selbstzahlerbasis | [Rheinstraße 4G, 55116 Mainz](https://maps.app.goo.gl/r7m4TirvMJ2s1U6P8) |
-
-### Dienstag, 1. September 2026 (09:00 - 17:00 Uhr)
-
-| Uhrzeit           | Inhalt                          |Ort                                                                     |
-|-------------------|---------------------------------|------------------------------------------------------------------------|
-| | |
-| *07:30 - 08:30*   | *Aufbau*                        | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Forum                                                                                                                          |
-| | |
-| **08:00 - 09.00** | **Fotosession CO Portraits**    | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Foyer                                                                                                                          |
-| | |
-| *08:30 - 09:00*   | *Begrüßungskaffee*              |                                                                        |
-| | |
-| 09:00 - 09:20     | Begrüßung und Programm (Vorstellung der Sessions)| [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Forum                                                                                                                          |
-| | |
-| 09:20 - 10:00     | Jahresrückblick & BLV-Überblick |                                                                        |
-| | |
-| **10:00 - 10:15** | **Gruppenbild**                 | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Foyer                                                                                                                          |
-| | |
-| *10:15 - 10:30*   | *Kaffeepause*                   |                                                                        |
-| | |
-| **10:15 - 12:15** | **Fotosession**                 | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Foyer                                                                                                                          |
-| | |
-| 10:30 - 10:45     | Icebreaker                      |                                                                        |
-| | |
-| 10:45  - 12:30    | **Sessions - Teil 1**           |                                                                        |
-|                   | Community Networking: Offener Austausch für Aktive und Interessierte | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Foyer oder Innenhof                                                                                        |
-|                   | Steuerungsgruppe: Strategieentwicklung und Weiterentwicklung von N4O: Diskussion & Brainstorming | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Forum                                                                       |
-|                   |Standardisierung 1: Normdaten & Vokabulare (Anja, Kristina)| [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Foyer oder Innenhof                                                                                        |
-| | |
-| **12:30 - 13:30** | **Fotosession SC Portraits**     | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Foyer                                                                                                                          |
-| | |
-| *12:30 - 14:00*   | *Mittagspause im [ESSZIMMER Mainz](https://esszimmer-landtag.de/)* | [Große Bleiche 64, 55116 Mainz](https://maps.app.goo.gl/7MYdehZPa1r3Hptu5)                                                                                                  |
-| | |
-| 14:00 - 16:00     | **Sessions - Teil 2**             |                                                                      |
-|                   | Steuerungsgruppe: Strategieentwicklung und Weiterentwicklung von N4O: Ableitung konkreter Maßnahmen | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Forum                                                                       |
-|                   | Trainings, Lehrmaterialien in NFDI4Objects - Überführung in FAIRe OER | [LEIZA]((https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6)): Großer Konferenzraum, 3. OG (20)                                                                          |
-|                   | TRAIL Vom Feld in die Datenbank - Arbeitstreffen  | [LEIZA]((https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6)): Kleiner Konferenzraum, 3. OG (7)                                                                                                       |
-|                   | Standardisierung 2 - Metadaten                    | [LEIZA]((https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6)): Kreativraum, 3. OG (15)                                                                                                        |
-|                   | Offene Sessions nach Bedarf aus Networking Session|                                                      | 
-|                   |                                                   | [LEIZA](https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6), Studio, 2. OG (20)                                                                                                                        |
-|                   |                                                   | [Landesarchäologie](https://maps.app.goo.gl/Huez7WiWFxtUYuyB8), Marketingraum, EG (10)                                                                                                         |
-|                   |                                   | [Landesarchäologie](https://maps.app.goo.gl/Huez7WiWFxtUYuyB8), Meeting-Raum, 2. OG (7)                                                                                                                      |
-| | |
-| *16:00 - 16:15*   | *Kaffeepause*                     | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Foyer und [LEIZA](https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6)                                                                             |
-| | |
-| 16:15 - 17:45     | **Sessions - Teil 3**             |                                                                      |
-|                   | Steuerungsgruppe: Strategieentwicklung und Weiterentwicklung von N4O: Ableitung konkreter Maßnahmen | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Forum                                                                       |
-|                   | Öffentlichkeitsarbeit und Outreach | [LEIZA](https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6): Großer Konferenzraum, 3. OG (20)                                                                                                                        |
-|                   | No Data without Software! – Research Software Engineering in NFDI4Objects (Tolle, Thiery) | [LEIZA](https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6): Kleiner Konferenzraum, 3. OG (7)                                                                |
-|                   | Offene Sessions nach Bedarf aus Networking Session |                                                     |
-|                   |                                   | [LEIZA](https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6), Studio, 2. OG (20);                                                                                                                       |
-|                   |                                   | [LEIZA](https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6), Kreativraum, 3. OG (15)                                                                                                        |
-|                   |                                   | [Landesarchäologie](https://maps.app.goo.gl/Huez7WiWFxtUYuyB8), Marketingraum, EG (10); Meeting-Raum, 2. OG (7)                                                            |
-| | |
-| **17:45 – 18:45** | **Fotosession**                   | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Foyer                                                                                                                          |
-| | |
-| *19:00*           | *Gemeinsames Abendessen im [Weinhaus Michel](https://www.michel-wein.de/weinhaus/speisekarte/) auf Selbstzahlerbasis* | *[Jakobsbergstraße 8, 55116 Mainz](https://maps.app.goo.gl/L7LLrbF8xZCYPmGU9)*                            |
-
-### Mittwoch, 2. September 2026 (09:00 - 13:00 Uhr)
-
-| Uhrzeit           | Inhalt                                                                     | Ort                        |
-|-------------------|----------------------------------------------------------------------------|----------------------------|
-| *08:00 - 08:30*   | *Aufbau*                                                                   | Landesmuseum Mainz, Foyer  |
-| **08:30 - 09:00** | **Fotosession**                                                            |                            |
-| *08:30 - 09:00*   | *Begrüßungskaffee*                                                         |                            |
-| 09:00 - 11:00     | CO-Treffen, Networking Session / Plenumstreffen 1 oder Sessions im LEIZA   | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Forum                                                                                              |
-| **11:00 - 11:30** | **Fotosession**                                                            | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Foyer                                                                                              |
-| *11:00 - 11:30*   | *Kaffeepause*                                                              |                            |
-| 11:30 - 13:00     | Plenumstreffen 2: Zusammenfassung der Ergebnisse der Sessions und Ausblick | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Forum                                                                                              |
-| **13:00 - 13:30** | **Fotosession**                                                            | [Landesmuseum Mainz](https://maps.app.goo.gl/q1bW3xfsydUeS9wX6), Foyer                                                                                              |
-| *13:00 - 13:30*   | *Mittagssnack und Ende*                                                    |                            |
+<h3>Mittwoch, 2. September 2026 (09:00 - 13:00 Uhr)</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Uhrzeit</th>
+      <th>Inhalt</th>
+      <th>Ort</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>08:00 - 08:30</em></td>
+      <td><em>Aufbau</em></td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+    </tr>
+    <tr>
+      <td><strong>08:30 - 09:00</strong></td>
+      <td><strong>Fotosession</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><em>08:30 - 09:00</em></td>
+      <td><em>Begrüßungskaffee</em></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>09:00 - 11:00</td>
+      <td>CO-Treffen, Networking Session / Plenumstreffen 1 oder Sessions im LEIZA</td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
+    </tr>
+    <tr>
+      <td><strong>11:00 - 11:30</strong></td>
+      <td><strong>Fotosession</strong></td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+    </tr>
+    <tr>
+      <td><em>11:00 - 11:30</em></td>
+      <td><em>Kaffeepause</em></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11:30 - 13:00</td>
+      <td>Plenumstreffen 2: Zusammenfassung der Ergebnisse der Sessions und Ausblick</td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
+    </tr>
+    <tr>
+      <td><strong>13:00 - 13:30</strong></td>
+      <td><strong>Fotosession</strong></td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+    </tr>
+    <tr>
+      <td><em>13:00 - 13:30</em></td>
+      <td><em>Mittagssnack und Ende</em></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
