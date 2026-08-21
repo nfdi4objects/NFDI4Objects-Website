@@ -44,7 +44,7 @@ Landesarchäologie Mainz |
 
 <h3>Montag, 31. August 2026</h3>
 <p><em>Anreise und Hotel-Check-in</em></p>
-<table cellpadding="8" cellspacing="0">
+<table cellpadding="8" cellspacing="2">
   <thead>
     <tr>
        <th width="20%" align="left">Uhrzeit</th>
@@ -62,7 +62,7 @@ Landesarchäologie Mainz |
 </table>
 
 <h3>Dienstag, 1. September 2026 (09:00 - 17:00 Uhr)</h3>
-<table cellpadding="8" cellspacing="0">
+<table cellpadding="8" cellspacing="2">
   <thead>
     <tr>
        <th width="20%" align="left">Uhrzeit</th>
@@ -258,7 +258,7 @@ Landesarchäologie Mainz |
 </table>
 
 <h3>Mittwoch, 2. September 2026 (09:00 - 13:00 Uhr)</h3>
-<table cellpadding="8" cellspacing="0">
+<table cellpadding="8" cellspacing="2">
   <thead>
     <tr>
        <th width="20%" align="left">Uhrzeit</th>
@@ -284,7 +284,7 @@ Landesarchäologie Mainz |
     </tr>
     <tr>
       <td>09:00 - 11:00</td>
-      <td>CO-Treffen, Networking Session / Plenumstreffen 1 oder Sessions im LEIZA</td>
+      <td>CO-Treffen/<br>Networking Session/<br>Plenumstreffen 1/<br>Sessions im LEIZA?</td>
       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
     </tr>
     <tr>
@@ -299,7 +299,7 @@ Landesarchäologie Mainz |
     </tr>
     <tr>
       <td>11:30 - 13:00</td>
-      <td>Plenumstreffen 2: Zusammenfassung der Ergebnisse der Sessions und Ausblick</td>
+      <td><strong>Plenumstreffen 2</strong><br>Zusammenfassung der Ergebnisse der Sessions und Ausblick</td>
       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
     </tr>
     <tr>
