@@ -44,12 +44,12 @@ Landesarchäologie Mainz |
 
 <h3>Montag, 31. August 2026</h3>
 <p><em>Anreise und Hotel-Check-in</em></p>
-<table>
+<table cellpadding="8" cellspacing="0">
   <thead>
     <tr>
-       <th width="20%">Uhrzeit</th>
-       <th width="50%">Inhalt</th>
-       <th width="30%">Ort</th>
+       <th width="20%" align="left">Uhrzeit</th>
+       <th width="50%" align="left">Inhalt</th>
+       <th width="30%" align="left">Ort</th>
     </tr>
   </thead>
   <tbody>
@@ -62,12 +62,12 @@ Landesarchäologie Mainz |
 </table>
 
 <h3>Dienstag, 1. September 2026 (09:00 - 17:00 Uhr)</h3>
-<table>
+<table cellpadding="8" cellspacing="0">
   <thead>
     <tr>
-       <th width="20%">Uhrzeit</th>
-       <th width="50%">Inhalt</th>
-       <th width="30%">Ort</th>
+       <th width="20%" align="left">Uhrzeit</th>
+       <th width="50%" align="left">Inhalt</th>
+       <th width="30%" align="left">Ort</th>
     </tr>
   </thead>
   <tbody>
@@ -258,12 +258,12 @@ Landesarchäologie Mainz |
 </table>
 
 <h3>Mittwoch, 2. September 2026 (09:00 - 13:00 Uhr)</h3>
-<table>
+<table cellpadding="8" cellspacing="0">
   <thead>
     <tr>
-       <th width="20%">Uhrzeit</th>
-       <th width="50%">Inhalt</th>
-       <th width="30%">Ort</th>
+       <th width="20%" align="left">Uhrzeit</th>
+       <th width="50%" align="left">Inhalt</th>
+       <th width="30%" align="left">Ort</th>
     </tr>
   </thead>
   <tbody>
