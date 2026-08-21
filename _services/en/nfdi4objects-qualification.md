@@ -75,7 +75,14 @@ The service is aimed in particular at:
 *Lecture notes, presentations and practical exercises on various FDM topics.*
 
 Here you will find an ever-growing collection of freely available OER resources from NFDI4Objects.
-- [OER Lecture Notes on Metadata](https://nfdi4objects.github.io/oer-skript-metadaten/) – An introduction to metadata
+
+**Skripts**:
+- [Skript zur Einführung in Metadaten](https://nfdi4objects.github.io/oer-skript-metadaten/)
+- [Skript zur Dokumentation von (relationalen) Datenbanken](https://nfdi4objects.github.io/oer-skript-dokumentation-rdb/)
+
+**Exercises**:
+- [Übung zu Metadatentypen](https://nfdi4objects.github.io/oer-uebung-metadatentypen/)
+- [Übung zur Metadatenmanipulation in Tabellenprogrammen](https://nfdi4objects.github.io/oer-uebung-metadaten_tabellen_manipulieren/)
 
 All materials are made openly available and are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
