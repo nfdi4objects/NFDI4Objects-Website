@@ -29,7 +29,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
 **Leibnizzentrum für Archäologie**
 [Ludwig-Lindenschmit-Forum 1, 55116 Mainz](https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6)
 
-Landesarchäologie Mainz |
+**Landesarchäologie Mainz**
 [Große Langgasse 29, 55116 Mainz](https://maps.app.goo.gl/Huez7WiWFxtUYuyB8)
 
 {% include blocks/image-centered.html
@@ -71,11 +71,6 @@ Landesarchäologie Mainz |
     </tr>
   </thead>
   <tbody>
-    <tr>
-       <td><em>07:30 - 08:30</em></td>
-       <td><em>Aufbau</em></td>
-       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
-    </tr>
     <tr>
        <td><strong>08:00 - 09:00</strong></td>
        <td><strong>Fotosession CO Portraits</strong></td>
