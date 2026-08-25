@@ -131,7 +131,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
     </tr>
     <tr>
        <td></td>
-       <td> <strong>Standardisierung 1:</strong><br> Normdaten &amp; Vokabulare (Anja, Kristina)</td>
+       <td> <strong>Standardisierung 1:</strong><br> Normdaten &amp; Vokabulare (Anja Gerber, Kristina Fischer)</td>
        <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer oder Innenhof</td>
     </tr>
     <tr>
@@ -172,7 +172,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
     </tr>
     <tr>
        <td></td>
-       <td><strong>Standardisierung 2</strong><br>Metadaten (Anja, Florian)</td>
+       <td><strong>Standardisierung 2</strong><br>Metadaten (Anja Gerber, Florian Tiery)</td>
        <td><a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a><br>Kreativraum, 3. OG (15)
        </td>
     </tr>
@@ -218,7 +218,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
     </tr>  
     <tr>   
        <td></td>
-       <td>No Data without Software!<br><strong>Research Software Engineering</strong> in NFDI4Objects<br>(Mees ,Tolle, Thiery)</td>
+       <td>No Data without Software!<br><strong>Research Software Engineering</strong> in NFDI4Objects<br> (Allard Mees, Karsten Tolle, Florian Thiery)</td>
        <td><a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a><br>Kleiner Konferenzraum, 3. OG (7)</td>
     </tr>
     <tr>
