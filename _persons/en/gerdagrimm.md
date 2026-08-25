@@ -9,6 +9,7 @@ groups:
 - executive
 institution: deutsches-archäologisches-institut-dai
 orcid: 0009-0009-7393-1803
-areas: []
+areas: 
+- ta7
 permalink: /en/persons/gerdagrimm/
 ---
