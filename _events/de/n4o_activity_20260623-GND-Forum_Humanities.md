@@ -12,7 +12,7 @@ areas:
 trails: []
 ccs: 
 twgs: []
-event_type: "Forum"
+event_type: "Netzwerktreffen"
 permalink: /events/n4o_activity_20260623-GND-Forum_Humanities/
 ---
 ### Mitwirkende aus den vier geisteswissenschaftlichen Konsortien der Nationalen Forschungsdateninfrastruktur – NFDI4Culture, NFDI4Memory, NFDI4Objects und Text+ – treffen sich am 23. und 24. Juni zum GND-Forum Humanities@NFDI in Göttingen.

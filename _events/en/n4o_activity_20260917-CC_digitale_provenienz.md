@@ -18,13 +18,15 @@ permalink: en/events/n4o_activity_20260318-CC_Digitale_Provenienz/
 ---
 ### The next meeting of the CC Digital Provenance Research cluster will take place on September 17 at 1:00 p.m.
 ---
-#### Featuring reports on the paper **“Documenting Provenance”**, **Version 2 of the Matrix on Tools for Provenance Research**, **News from the OFP Project**, and **Fall/Winter Workshops**.
+Featuring reports on the paper **“Documenting Provenance”**, **Version 2 of the Matrix on Tools for Provenance Research**, **News from the OFP Project**, and **Fall/Winter Workshops**.  
 
----
+---  
+  
+Additional contributions are warmly welcome!  
 
-#### Additional contributions are warmly welcome!
+Registration is not required; we look forward to exchanging ideas!  
+  
+--- 
 
-#### Registration is not required; we look forward to exchanging ideas!
----
-#### **Zoom link:** [https://spk-berlin.webex.com/meet/a.berthold](https://spk-berlin.webex.com/meet/a.berthold)
+**Zoom link:** [https://spk-berlin.webex.com/meet/a.berthold](https://spk-berlin.webex.com/meet/a.berthold)
 
