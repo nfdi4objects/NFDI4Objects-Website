@@ -8,12 +8,11 @@ date: 2026-04-21
 event_date: 2026-06-23
 event_end_date: 2026-06-24
 location: Göttingen
-event_type: "Forum"
 areas:
 trails: []
 ccs: 
 twgs: []
-event_type: "Netzwerktreffen"
+event_type: "Forum"
 permalink: /events/n4o_activity_20260623-GND-Forum_Humanities/
 ---
 ### Mitwirkende aus den vier geisteswissenschaftlichen Konsortien der Nationalen Forschungsdateninfrastruktur – NFDI4Culture, NFDI4Memory, NFDI4Objects und Text+ – treffen sich am 23. und 24. Juni zum GND-Forum Humanities@NFDI in Göttingen.
