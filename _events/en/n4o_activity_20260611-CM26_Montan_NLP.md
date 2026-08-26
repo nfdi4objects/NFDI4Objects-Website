@@ -7,12 +7,12 @@ excerpt: ''
 date: 2026-06-11
 event_date: ''
 location: online
-event_type: "Workshop"
 areas: 
 - ta3
 trails: []
 ccs: 
 twgs: []
+event_type: "Workshop"
 permalink: en/events/n4o_activity_20260611-CM26_Montan_NLP/
 ---
 The German Mining Museum in Bochum houses an extensive collection of specialist literature, excavation reports and academic publications on topics relating to mining archaeology and archaeometry. Natural Language Processing (NLP) offers promising opportunities to automatically analyse these text sources and extract relevant information – such as find sites, raw materials or material compositions – and transfer it into the DBM’s knowledge graphs.  

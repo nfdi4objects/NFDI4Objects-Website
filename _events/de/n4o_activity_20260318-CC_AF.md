@@ -13,6 +13,7 @@ trails: []
 ccs: 
 - cc_authority_and_norm_data
 twgs: []
+event_type: "CC-Treffen"
 permalink: /events/n4o_activity_20260318-CC_AF/
 ---
 **Am 29. April 2026, von 13 bis 14:30 Uhr** findet das nächste Clustertreffen statt. Dieses Mal wird es ein Hands on für DANTE mit unserem Chair Michael Markert von der VZG geben.

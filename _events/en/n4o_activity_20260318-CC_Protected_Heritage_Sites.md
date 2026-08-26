@@ -14,6 +14,7 @@ trails: []
 ccs: 
 - cc-denkmalflächen-maßnahmenflächen-schutzflächen
 twgs: []
+event_type: "CC-Treffen"
 permalink: en/events/n4o_activity_20260318-CC_Protected_Heritage_Sites/
 ---
 The next online meeting of the “Protected Heritage Sites” Community Cluster will take place on **Tuesday, April 28, from 9:00 a.m. to 11:00 a.m.**

@@ -12,6 +12,7 @@ trails: []
 ccs:
 - cc_data_capture_and_creation
 twgs:
+event_type: "CC-Treffen"
 permalink: /events/n4o_activity_20260908_CC_data_capture_and_creation/
 ---
 ### Hiermit laden wir sehr herzlich zum Clustertreffen des CC Data Capture and Creation am 8. September 2026, 14:30 bis 16:00 Uhr, ein.  

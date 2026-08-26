@@ -13,6 +13,7 @@ trails: []
 ccs: 
 - cc-qualifikation-and-open-educational-resources
 twgs: []
+event_type: "CC-Treffen"
 permalink: /events/n4o_activity_20260407-CC_Q&OER_Meeting/
 ---
 Das nächste Treffen des Clusters findet **am Mittwoch, den 15. April, von 11:00 bis 12:00 Uhr online** statt.

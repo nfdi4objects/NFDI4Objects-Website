@@ -13,6 +13,7 @@ trails: []
 ccs: 
 - cc_provenance_research
 twgs: []
+event_type: "Netzwerktreffen"
 permalink: /events/n4o_activity_20260521-CC_Provenance_Research/
 ---
 Herzliche Einladung zum konsortienübergreifenden Austausch zur Digitalen Provenienzforschung am Donnerstag, 21. Mai 2026, 13:00 bis 14:00 Uhr per Webex: [https://spk-berlin.webex.com/meet/a.berthold](https://spk-berlin.webex.com/meet/a.berthold).  

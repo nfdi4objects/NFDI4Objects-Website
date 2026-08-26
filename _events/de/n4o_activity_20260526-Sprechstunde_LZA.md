@@ -11,6 +11,7 @@ areas:
 trails: []
 ccs: 
 twgs: []
+event_type: "Sprechstunde"
 permalink: /events/n4o_activity_20260526_Sprechstunde_LZA/
 ---
 NFDI4Objects bietet seit kurzem eine regelmäßige Sprechstunde zur Langzeitarchivierung an. Diese findet jeden letzten Dienstag im Monat statt und kann bei Bedarf zusätzlich nach individueller Vereinbarung wahrgenommen werden.

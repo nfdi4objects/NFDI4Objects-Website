@@ -7,12 +7,12 @@ excerpt: ''
 date: 2026-06-11
 event_date: ''
 location: online
-event_type: "Workshop"
 areas: 
 - ta3
 trails: []
 ccs: 
 twgs: []
+event_type: "Workshop"
 permalink: en/events/n4o_activity_20260611-CM26_Montan_Metadaten/
 ---
 Mining archaeology research data is diverse, heterogeneous and, to date, largely unstandardised – which makes its sustainable use and publication considerably more difficult. As part of this workshop, we invite you to get involved. We would like to identify and consolidate the community’s requirements. Let’s work together to develop and test subject-specific metadata standards. 

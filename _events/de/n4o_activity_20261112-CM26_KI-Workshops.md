@@ -7,13 +7,13 @@ excerpt: ''
 date: 2026-06-11
 event_date: ''
 location: verschieden
-event_type: "Workshop"
 areas: 
 - ta5
 - ta7
 trails: []
 ccs: 
 twgs: []
+event_type: "Workshop"
 permalink: /events/n4o_activity_20261112-CM26_KI-Workshops/
 ---
 Die digitale Transformation hält Einzug in die Archäologien – und mit ihr die künstliche Intelligenz. Doch wie kann KI konkret die Forschung, Dokumentation und Erschließung archäologischer Daten unterstützen? Welche Anwendungen gibt es bereits, und wo liegen die Herausforderungen – etwa bei Datensouveränität oder der Zusammenarbeit mit anderen NFDI-Konsortien?

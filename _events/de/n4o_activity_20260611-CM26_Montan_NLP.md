@@ -7,12 +7,12 @@ excerpt: ''
 date: 2026-06-11
 event_date: ''
 location: online
-event_type: "Workshop"
 areas: 
 - ta3
 trails: []
 ccs: 
 twgs: []
+event_type: "Workshop"
 permalink: /events/n4o_activity_20260611-CM26_Montan_NLP/
 ---
 

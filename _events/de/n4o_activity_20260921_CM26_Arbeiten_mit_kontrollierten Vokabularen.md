@@ -7,7 +7,6 @@ excerpt: ''
 date: 2026-05-27
 event_date: 2026-09-21
 location: online
-event_type: "Workshop"
 areas: 
 - ta4
 - ta5
@@ -15,6 +14,7 @@ areas:
 trails: []
 ccs: 
 twgs: []
+event_type: "Workshop"
 permalink: /events/n4o_activity_20260921-CM26_Arbeiten_mit_kontrollierten_Vokabularen/
 registration_url: http://reg.nfdi4objects.net/N4O/k-v/
 ---

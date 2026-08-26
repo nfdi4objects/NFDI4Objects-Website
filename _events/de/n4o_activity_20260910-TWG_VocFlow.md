@@ -12,6 +12,7 @@ trails: []
 ccs: []
 twgs: 
 - vocflow-–-workflows-für-vokabularveröffentlichung-und-pflege
+event_type: "TWG-Treffen"
 permalink: /events/n4o_activity_20260910-TWG_Vocflow/
 ---
 Das nächste TWG-Treffen der Arbeitsgruppe VocFlow findet 

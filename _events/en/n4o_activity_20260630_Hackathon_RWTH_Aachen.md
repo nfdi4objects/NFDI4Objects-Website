@@ -12,6 +12,7 @@ areas:
 trails: []
 ccs: 
 twgs: []
+event_type: "Workshop"
 permalink: en/events/n4o_activity_20260630-Hackathon_RWTH_Aachen/
 ---
 ## Organized together with DKZ.2R and WiNoDa, the Archaeoanalysis of Metadata Processing – Hackathon will take place **from June 30 to July 03** at the RWTH Aachen.

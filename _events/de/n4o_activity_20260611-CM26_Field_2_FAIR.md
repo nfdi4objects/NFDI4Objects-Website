@@ -7,12 +7,12 @@ excerpt: ''
 date: 2026-05-27
 event_date: ''
 location: online
-event_type: "Workshop"
 areas: 
 - ta1
 trails: 
 ccs: 
 twgs: []
+event_type: "Workshop"
 permalink: de/events/n4o_activity_20260611-CM26_Field_2_FAIR/
 ---
 Oberflächennahe geophysikalische Prospektionen sind für eine Vielzahl wissenschaftlicher Anwendungen unverzichtbar, darunter Präzisionslandwirtschaft, archäologische Prospektion sowie die Erforschung hydrologischer Prozesse in Landschaften. Trotz der häufigen Verwendung vergleichbarer Messmethoden und Sensortechnologien sind die Beschreibung und Dokumentation der Daten durch Metadaten, die zugrunde liegenden Metadatenstrukturen sowie die Dokumentationspraktiken nach wie vor stark fragmentiert. Um geophysikalische Daten einfacher austauschen, verstehen und wiederverwenden zu können, haben wir ein domänenspezifisches Metadatenmodell als Ontologie entwickelt. Es schafft eine Grundlage für die Beschreibung oberflächennaher geophysikalischer Messungen und macht die zugehörigen Informationen für Menschen und Maschinen gleichermaßen verständlich. Dadurch werden Datensätze leichter interoperabel, können effizienter zwischen Arbeitsgruppen und Disziplinen geteilt werden und lassen sich nachhaltiger in Forschungsdateninfrastrukturen integrieren. Es handelt sich somit um eine Sammlung, die sowohl methodenunabhängige Metadaten, z. B. Standort und Bearbeiter:in, als auch methodenspezifische Metadaten der Messmethoden umfasst. Ziel ist es, Datensätze mit standardisierten Metadaten zu versehen und somit den Austausch und die Veröffentlichung von Daten, z. B. auf Repositorien, zu vereinfachen und zu verbessern. 

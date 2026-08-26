@@ -18,6 +18,7 @@ areas:
 trails: []
 ccs: 
 twgs: []
+event_type: "Sprechstunde"
 permalink: en/events/n4o_activity_20260317_Sprechstunde_Humanities/
 ---
 The new online consultation session for students, researchers, and staff at research and collection institutions covering all aspects of research data management will take place **on March 17, 2026, from 9:00 to 10:00 a.m. via Zoom.**

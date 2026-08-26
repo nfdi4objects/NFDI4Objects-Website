@@ -7,12 +7,12 @@ excerpt: '2026-11-04'
 date: 2026-05-27
 event_date: '2026-11-06'
 location: online
-event_type: "Workshop"
 areas: 
 - ta6
 trails: []
 ccs: 
 twgs: 
+event_type: "Workshop"
 permalink: en/events/n4o_activity_20261125-CM26_Objektbiografie/
 ---
 The digital transformation is fundamentally changing the humanities and cultural studies – particularly in terms of how collection, object and provenance data are handled. The workshop will explore how the material legacies of human and environmental history can be documented and researched in a sustainable, interoperable and scientifically compatible manner.

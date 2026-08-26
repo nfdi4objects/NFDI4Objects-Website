@@ -13,6 +13,7 @@ trails: []
 ccs:
 twgs: 
 - care-principles
+event_type: "TWG-Treffen"
 permalink: /events/n4o_activity_20260319-TWG_CARE_Meeting/
 ---
 **Am 25. März 2026 findet von 09:00 bis 10:30 Uhr** die zweite Sitzung der Temporary Working Group (TWG) CARE Principles statt. Gegenstand der TWG sind die CARE-Prinzipien, die explizit darauf abzielen, die Rechte indigener Gemeinschaften an Forschungsdaten im Kontext von Open Data und Open Science zu sichern. Im Fokus stehen dabei insbesondere die vier Kernaspekte: *Collective Benefit, Authority to Control, Responsibility, and Ethics*

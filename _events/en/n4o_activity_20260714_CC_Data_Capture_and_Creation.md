@@ -12,6 +12,7 @@ trails: []
 ccs:
 - cc_data_capture_and_creation
 twgs:
+event_type: "CC-Treffen"
 permalink: en/events/n4o_activity_20260714_CC_Data_Capture_and_Creation/
 ---
 **On 14 July 2026, from 2.30 pm to 4.00 pm**, the next cluster meeting of the CC “Data Capture and Creation” will take place. Our guest is [Prof. Dr Martin Langner](https://www.uni-goettingen.de/de/prof.+dr.+martin+langner/675186.html), Professor of Digital Image and Object Studies at the Georg-August University of Göttingen.

@@ -14,6 +14,7 @@ trails: []
 ccs: 
 - cc_data_capture_and_creation
 twgs: []
+event_type: "CC-Treffen"
 permalink: en/events/n4o_activity_20260512-CC_Data_Capture/
 ---
 ### As part of the Community Cluster Data Capture and Creation, the Fund-Logbuch app and data hub will be presented **on May 12, 2026, from 2:30 to 4:00 p.m.** The infrastructure currently under development offers a digital solution for recording small archaeological finds in citizen science. It is designed to ensure that new finds are incorporated more quickly and directly into research and heritage preservation in the future, and to increase the visibility of citizen science data in archaeology. The presentation will include a live demonstration of the app, which already exists as a prototype, in a real-world application scenario.

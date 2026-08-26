@@ -12,6 +12,7 @@ trails: []
 ccs: 
 - cc_nfdi4objects_diensteportfolio_management
 twgs: []
+event_type: "CC-Treffen"
 permalink: /events/n4o_activity_20260513-CC_Diensteportfolio/
 ---
 **Liebe CC-Mitglieder, liebe Interessierte, liebe Community,**

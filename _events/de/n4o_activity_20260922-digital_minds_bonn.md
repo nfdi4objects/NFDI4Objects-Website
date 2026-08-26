@@ -11,6 +11,7 @@ areas:
 trails: []
 ccs: 
 twgs: 
+event_type: "Konferenz"
 permalink: /events/n4o_activity_20260922-digital_minds_bonn/
 ---
 Wie verändern Künstliche Intelligenz, Forschungsdaten und digitale Infrastrukturen die archäologische Forschung?   

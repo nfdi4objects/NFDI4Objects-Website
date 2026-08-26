@@ -7,12 +7,12 @@ excerpt: ''
 date: 2026-05-27
 event_date: 2026-07-14
 location: online
-event_type: "Workshop"
 areas: 
 - ta6
 trails: []
 ccs: 
 twgs: []
+event_type: "Workshop"
 permalink: en/events/n4o_activity_20260714-CM26_Quarto/
 ---
 In this hands-on introductory workshop—a collaboration between NFDI4Objects and the Data Competence Center [HERMES](https://hermes-hub.de/)—participants will learn about Markdown as a versatile markup language and how to use it quickly to create PDFs, websites, and more. Step by step, an efficient workflow is taught—from creation and flexible output formats to reusable templates for FAIR OER. Ideal for anyone who wants to write and publish (academic) texts in a straightforward and sustainable way.

@@ -11,6 +11,7 @@ areas:
 trails: []
 ccs: 
 twgs: 
+event_type: "Netzwerktreffen"
 permalink: /events/n4o_activity_20261117-OA_Publizieren_Propylaeum/
 ---
 #### Die von [Propylaeum – Fachinformationsdienst Altertumswissenschaften](https://www.nfdi4objects.net/services/propylaeum/) organisierte Informationsveranstaltung vermittelt kompakt grundlegendes Wissen rund um das wissenschaftliche Publizieren im Open Access. Ausgehend von den Publikationsangeboten von Propylaeum E-Publishing sowie den Services von NFDI4Culture und NFDI4Objects werden praxisnah zentrale Fragen wie zum Beispiel diese beantwortet:

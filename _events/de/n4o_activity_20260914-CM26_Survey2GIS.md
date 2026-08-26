@@ -8,12 +8,12 @@ date: 2026-05-27
 event_date: 2026-09-14
 event_end_date: 2026-09-15
 location: online
-event_type: "Workshop"
 areas: 
 - ta1
 trails: []
 ccs: 
 twgs: 
+event_type: "Workshop"
 permalink: /events/n4o_activity_20260914-CM26_Survey2GIS/
 registration_url: http://reg.nfdi4objects.net/N4O/survey2gis/
 ---

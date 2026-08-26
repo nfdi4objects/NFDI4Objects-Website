@@ -12,6 +12,7 @@ trails: []
 ccs: 
 - cc_authority_and_norm_data
 twgs: []
+event_type: "CC-Treffen"
 permalink: /events/n4o_activity_20260630-CC-Treffen_AF_Voc/
 ---
 Am **30.06. laden wir von 13 Uhr bis 14:30 Uhr** zum nächsten praxisorientierten Community-Cluster-Treffen, diesmal geht es um Cocoda – eine Webanwendung zur Erstellung und Verwaltung von Mappings zwischen Wissensorganisationssystemen wie Klassifikationen, Normdateien und Thesauri – unter anderem solcher, die in DANTE gepflegt werden. 

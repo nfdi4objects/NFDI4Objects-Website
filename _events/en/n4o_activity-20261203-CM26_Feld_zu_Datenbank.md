@@ -8,13 +8,13 @@ date: 2026-05-27
 event_date: 2026-12-03
 event_end_date: 2026-12-04
 location: Varusschlacht – Museum und Park, Venner Straße 69. D-49565 Bramsche-Kalkriese
-event_type: "Workshop"
 areas: 
 - ta1
 trails: 
 - 1.4_second_TRAILs
 ccs: 
 twgs: []
+event_type: "Workshop"
 permalink: en/events/n4o_activity_20261203-CM26_Feld_zu_Datenbank/
 ---
 The workshop is aimed at colleagues who deal with the digital documentation of archaeological fieldwork in their day-to-day work – from excavation documentation, surveying and GIS processing, through data preparation and quality assurance, to the preparation of data for analysis and further use. It is aimed at colleagues from university research projects, heritage conservation, specialist archaeological firms and other areas of archaeological practice.

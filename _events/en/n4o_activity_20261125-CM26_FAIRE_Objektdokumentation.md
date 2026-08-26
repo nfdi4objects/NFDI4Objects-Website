@@ -8,12 +8,12 @@ date: 2026-05-27
 event_date: '2026-10-08'
 event_end_date: '2026-10-09'
 location: Museums of the Museumsinsel Berlin and Archäologisches Zentrum, Geschwister-Scholl-Straße 6, 10117 Berlin
-event_type: "Workshop"
 areas: 
 - ta2
 trails: []
 ccs: 
 twgs: 
+event_type: "Workshop"
 permalink: en/events/n4o_activity_20261125-CM26_FAIRE_Objektdokumentation/
 ---
 Today, museum collection objects exist not only as physical artefacts, but increasingly also in the form of their digital representations. The recording, documentation and interlinking of object data form the basis for research, collection management, education and digital accessibility. But what information is actually recorded? What role do photographs, 3D models and metadata play? How are new technologies, particularly AI-supported processes, changing documentation practices? And how must object data be structured to ensure it remains discoverable, accessible, interoperable and reusable in the long term, in line with the FAIR principles? 

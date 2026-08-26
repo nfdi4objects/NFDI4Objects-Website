@@ -12,6 +12,7 @@ trails: []
 ccs: 
 - cc_authority_and_norm_data
 twgs: []
+event_type: "CC-Treffen"
 permalink: en/events/n4o_activity_20260630-CC-Treffen_AF_Voc/
 ---
 On **30 June, from 1 pm to 2.30 pm**, we are hosting the next practical community cluster meeting. This time, the focus will be on Cocoda – a web application for creating and managing mappings between knowledge organisation systems such as classifications, authority files and thesauri – including those maintained in DANTE. 

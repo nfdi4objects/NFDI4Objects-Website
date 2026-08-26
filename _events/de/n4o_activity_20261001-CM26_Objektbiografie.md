@@ -7,12 +7,12 @@ excerpt: ''
 date: 2026-05-27
 event_date: '2026-11-06'
 location: online
-event_type: "Workshop"
 areas: 
 - ta6
 trails: []
 ccs: 
 twgs: 
+event_type: "Workshop"
 permalink: /events/n4o_activity_20261125-CM26_Objektbiografie/
 ---
 Die digitale Transformation verändert die Geistes- und Kulturwissenschaften grundlegend – insbesondere im Umgang mit Sammlungs-, Objekt- und Provenienzdaten. Der Workshop widmet sich der Frage, wie materielle Hinterlassenschaften der Menschheits- und Umweltgeschichte nachhaltig, interoperabel und wissenschaftlich anschlussfähig dokumentiert und erforscht werden können.  

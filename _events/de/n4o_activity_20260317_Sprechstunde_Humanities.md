@@ -18,6 +18,7 @@ areas:
 trails: []
 ccs: 
 twgs: []
+event_type: "Sprechstunde"
 permalink: /events/n4o_activity_20260317_Sprechstunde_Humanities/
 ---
 Die **neue Online-Beratung für Studierende, Forschende oder Mitarbeitende aus Forschungs- und Sammlungsinstitutionen** zu allen Fragen rund um das Forschungsdatenmanagement startet **am 17.03.2026 von 9-10 Uhr online über zoom.** 

@@ -14,6 +14,7 @@ trails: []
 ccs: 
 - cc_data_capture_and_creation
 twgs: []
+event_type: "CC-Treffen"
 permalink: /events/n4o_activity_20260512-CC_Data_Capture/
 ---
 ### Im Rahmen des Community Clusters Data Capture and Creation findet **am 12. Mai 2026 von 14:30-16:00 Uhr** die Vorstellung der App und Datendrehscheibe Fund-Logbuch statt. Die im Aufbau befindliche Infrastruktur bietet eine digitale Lösung für die Erfassung archäologischer Kleinfunde in der Citizen Science. Sie soll sicherstellen, dass Neufunde zukünftig schneller und ohne Umwege in Forschung und Denkmalschutz einfließen und Citizen-Science-Daten in der Archäologie sichtbarer werden. Die Präsentation beinhaltet eine Live-Demonstration der bereits als Prototyp existierenden App in einem realen Anwendungsszenario.

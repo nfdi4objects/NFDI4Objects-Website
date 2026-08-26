@@ -12,6 +12,7 @@ areas:
 trails: []
 ccs: 
 twgs: []
+event_type: "Netzwerktreffen"
 permalink: /events/n4o_activity_20260422-NFDI_3D_Roadshow/
 ---
 ### [NFDI4Ing](https://nfdi4ing.de/), [NFDI4Culture](https://nfdi4culture.de/index.html) und [NFDI4Objects](https://www.nfdi4objects.net/) werden Euch gemeinsam **am 22. April von 09:30 bis 12:30 Uhr** Ihre Aktivitäten und ihre bisherigen Ergebnisse im Bereich 3D vorstellen ### 

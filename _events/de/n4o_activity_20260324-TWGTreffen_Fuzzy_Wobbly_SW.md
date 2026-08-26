@@ -14,6 +14,7 @@ areas:
 trails: []
 ccs:
 twgs: community-standards-for-modelling-fuzziness-wobbliness-in-research-data-using-semantic-web-technologies-and-formalisms-fuzzywobblysw
+event_type: "TWG-Treffen"
 permalink: /events/n4o_activity_20260324-TWGTreffen_Fuzzy_Wobbly_SW/
 ---
 **Am Mittwoch, den 22. April von 10:00 - 11:30 Uhr** findet das nächste Treffen der TWG Community-Standards for modelling fuzziness & wobbliness in research data using Semantic Web technologies and formalisms, kurz FuzzyWobblySW, statt.

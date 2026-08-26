@@ -8,12 +8,12 @@ date: 2026-06-02
 event_date: 2026-11-12
 event_end_date: 2026-11-13
 location: Bruggsch-Pascha-Saal, Archäologisches Zentrum, Berlin Mitte
-event_type: "Workshop"
 areas: 
 - ta2
 trails: []
 ccs: 
 twgs: []
+event_type: "Workshop"
 permalink: /events/n4o_activity_20261112-CM26_Provenienz_archäologischer_Objekte/
 ---
 Provenienzdaten zu archäologischen Objekten sind eine wichtige Informationskomponente für deren wissenschaftliche Interpretation, rechtliche Bewertung sowie den ethisch verantwortungsvollen Umgang mit ihnen. Sie bilden die Grundlage für Fragen nach Herkunft, Besitzgeschichte, Sammlungskontexten, Transferwegen und den Umgang mit illegalem Handel, Raubgrabungen und kolonialen Erwerbungskontexten.

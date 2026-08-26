@@ -13,6 +13,7 @@ trails: []
 ccs: 
 - cc_provenance_research
 twgs: []
+event_type: "CC-Treffen"
 permalink: /events/n4o_activity_20260318-CC_Digitale_Provenienz/
 ---
 **Am Donnerstag, den 26. März 2026 um 13 Uhr** findet das nächste Treffen **online** statt.

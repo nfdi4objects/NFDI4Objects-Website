@@ -8,11 +8,11 @@ date: 2026-08-20
 event_date: 2026-08-31
 event_end_date: 2026-09-02
 location: Mainz
-event_type: "Retreat"
 areas:
 trails: []
 ccs: 
 twgs: []
+event_type: "Netzwerktreffen"
 permalink: /events/n4o_activity_20260831-n4o-team-retreat/
 ---
 

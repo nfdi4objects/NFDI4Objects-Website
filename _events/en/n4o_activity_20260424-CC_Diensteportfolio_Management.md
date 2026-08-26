@@ -12,6 +12,7 @@ trails: []
 ccs: 
 - cc_nfdi4objects_diensteportfolio_management
 twgs: []
+event_type: "CC-Treffen"
 permalink: en/events/n4o_activity_20260424-CC_Diensteportfolio_Management/
 ---
 The next CC Service Portfolio Management meeting will take place online **on Friday, April 24, 2026, from 2:00 to 3:00 PM.**

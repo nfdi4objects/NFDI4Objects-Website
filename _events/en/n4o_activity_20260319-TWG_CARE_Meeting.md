@@ -13,6 +13,7 @@ trails: []
 ccs:
 twgs: 
 - care-principles
+event_type: "TWG-Treffen"
 permalink: en/events/n4o_activity_20260319-TWG_CARE_Meeting/
 ---
 The second meeting of the Temporary Working Group (TWG) on CARE Principles will take place **on March 25, 2026, from 9:00 a.m. to 10:30 a.m.** The TWG focuses on the CARE Principles, which explicitly aim to safeguard the rights of indigenous communities to research data in the context of open data and open science. The focus will be on four key aspects in particular: Collective Benefit, Authority to Control, Responsibility, and Ethics.

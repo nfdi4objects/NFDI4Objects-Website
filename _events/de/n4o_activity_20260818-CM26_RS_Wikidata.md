@@ -7,7 +7,6 @@ excerpt: ''
 date: 2026-05-27
 event_date: 2026-08-18
 location: online
-event_type: "Workshop"
 areas: 
 - ta2
 trails: []
@@ -15,6 +14,7 @@ ccs:
 - cc-semantic-modelling-linked-open-data
 - cc_research_software_engineering
 twgs: []
+event_type: "Workshop"
 permalink: /events/n4o_activity_20260818-CM26-RS_Wikidata/ 
 registration_url: 'https://terminplaner6.dfn.de/b/1439bb751afd1e9fc42ebc30069eb685-1762199'
 ---

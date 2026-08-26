@@ -11,6 +11,7 @@ areas:
 trails: []
 ccs: 
 twgs: []
+event_type: "Sprechstunde"
 permalink: en/events/n4o_activity_20260526_Sprechstunde_LZA/
 ---
 NFDI4Objects has recently started offering regular consultation hours on long-term archiving. These take place on the last Tuesday of every month and can also be scheduled individually as needed.

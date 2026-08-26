@@ -11,6 +11,7 @@ areas:
 trails: []
 ccs: 
 twgs: 
+event_type: "Workshop"
 permalink: en/events/n4o_activity_20260722-DANTE_Schulung_2/
 ---
 Due to rising demand within the NFDI4Objects context, the VZG has decided to offer training courses on the DANTE web service for the maintenance and publication of all types of controlled vocabularies at regular intervals, approximately every three months.

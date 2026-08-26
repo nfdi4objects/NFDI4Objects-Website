@@ -13,6 +13,7 @@ trails: []
 ccs: 
 twgs: 
 - care-principles
+event_type: "TWG-Treffen"
 permalink: /events/n4o_activity_20260422-TWG_CARE/
 ---
 Am **22. April 2026** findet von **09:00 bis 10:00 Uhr** die nächste Online-Sitzung der TWG CARE Principles statt.

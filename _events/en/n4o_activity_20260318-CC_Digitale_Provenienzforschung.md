@@ -2,7 +2,7 @@
 layout: event
 lang: en
 translation_key: n4o_activity_20260318-CC_Digitale_Provenienz
-title: Clustertreffen des CC Digitale Provenienzforschung 
+title: Clustermeeting of the CC Digital provenance research 
 excerpt:  Invitation to the meeting at 1:00 p.m.
 date: 2026-03-18
 event_date: 2026-03-26
@@ -13,6 +13,7 @@ trails: []
 ccs: 
 - cc_provenance_research
 twgs: []
+event_type: "CC-Treffen"
 permalink: en/events/n4o_activity_20260318-CC_Digitale_Provenienz/
 ---
 The next Meeting will take place **online on Thursday, March 26 2026 at 1:00 pm.** 

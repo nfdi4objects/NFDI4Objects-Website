@@ -7,13 +7,13 @@ excerpt: ''
 date: 2026-06-11
 event_date: ''
 location: various
-event_type: "Workshop"
 areas: 
 - ta5
 - ta7
 trails: []
 ccs: 
 twgs: 
+event_type: "Workshop"
 permalink: /en/events/n4o_activity_20261112-CM26_KI-Workshops/
 ---
 Artificial intelligence is reshaping archaeological research, documentation, and data processing. But how can AI concretely support these fields? What applications already exist, and what challenges—such as data sovereignty or collaboration with other NFDI consortia—do we face?

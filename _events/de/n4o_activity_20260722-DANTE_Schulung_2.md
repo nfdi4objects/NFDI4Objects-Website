@@ -11,6 +11,7 @@ areas:
 trails: []
 ccs: 
 twgs: 
+event_type: "Workshop"
 permalink: /events/n4o_activity_20260722-DANTE_Schulung_2/
 ---
 Aufgrund der steigenden Nachfrage aus dem NFDI4Objects-Kontext hat die VZG beschlossen, Schulungen zum Webservice DANTE zur Pflege und Publikation aller Arten von kontrollierten Vokabularen in regelmäßigen Abständen etwa alle 3 Monate anzubieten.
