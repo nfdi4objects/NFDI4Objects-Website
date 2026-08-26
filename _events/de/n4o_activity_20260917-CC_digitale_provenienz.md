@@ -17,10 +17,10 @@ event_type: "CC-Treffen"
 permalink: /events/n4o_activity_20260318-CC_Digitale_Provenienz/
 ---
 ### Am 17. September findet um 13 Uhr das nächste Clustertreffen des CC Digitale Provenienzforschung statt.   
---- 
+---  
+   
 Mit Berichten über das Paper **"Provenienzen dokumentieren"**, die **Version 2 der Matrix zu den Tools für die Provenienzforschung**, **Neues aus dem OFP-Projekt** und **Workshops im Herbst/Winter**.  
   
----   
   
 Weitere Beiträge sind herzlich willkommen!  
   
