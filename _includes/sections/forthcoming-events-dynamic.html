@@ -1,5 +1,23 @@
 {% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
 
+<h2 class="h3 arrow arrow-left">
+    {% if page.lang == "en" %}
+      Filter by category
+    {% else %}
+      Nach Kategorien filtern
+    {% endif %}
+</h2>
+<div class="category-tags">
+  {% for cat in site.data.event_categories.event_types %}
+  <button class="category-tag btn btn-primary-outline" data-category="{{ cat.id }}">
+    {{ cat.name_de }}
+  </button>
+  {% endfor %}
+  <button class="category-tag btn btn-primary-outline active" data-category="all">
+    Alle
+  </button>
+</div>
+
 {% assign today = "now" | date: "%s" %}
 {% assign filtered = site.events | where: "lang", page.lang %}
 {% assign future_events = "" | split: "" %}
@@ -24,7 +42,7 @@
     {% endif %}
   </p>
 {% else %}
-  <section class="{{ include.bg | default: 'bg-sand' }}  space-top-0">
+  <section class="{{ include.bg | default: 'bg-sand' }}  space-top-0" event_type="{{ event.event_type }}">
     <div class="container">
       <header>
         <h1>{{ page.forthcoming_titel | default: "Forthcoming Events" }}</h1>
@@ -94,3 +112,36 @@
     </div>
   </section>
 {% endif %}
+
+<script>
+// Simple client-side filtering
+document.addEventListener('DOMContentLoaded', function() {
+  const categoryButtons = document.querySelectorAll('.category-tag');
+  const Cards = document.querySelectorAll('.card');
+  const noResults = document.getElementById('no-results');
+
+  categoryButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const category = this.dataset.category;
+
+      // Update active state
+      categoryButtons.forEach(btn => btn.classList.remove('active'));
+      this.classList.add('active');
+
+      // Filter cards
+      let visibleCount = 0;
+      Cards.forEach(card => {
+        if (category === 'all' || card.dataset.categories.includes(category)) {
+          card.style.display = 'block';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      // Show/hide no results message
+      noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+    });
+  });
+});
+</script>
