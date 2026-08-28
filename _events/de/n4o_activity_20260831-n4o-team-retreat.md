@@ -40,7 +40,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
    class="img-center"
 %}
 
-<h2>Programm und Ablauf (vorläufig)</h2>
+<h2>Programm und Ablauf</h2>
 
 <h3>Montag, 31. August 2026</h3>
 <p><em>Anreise und Hotel-Check-in</em></p>
@@ -72,57 +72,57 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
   </thead>
   <tbody>
     <tr>
-       <td><strong>08:00 - 09:00</strong></td>
-       <td><strong>Fotosession CO Portraits</strong></td>
-       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+       <td>08:00 - 09:00</td>
+       <td>Fotosession CO Portraits</td>
+       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
     <tr>
        <td><em>08:30 - 09:00</em></td>
        <td><em>Begrüßungskaffee</em></td>
-       <td></td>
+       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
     <tr>
-       <td>09:00 - 09:20</td>
-       <td>Begrüßung und Programm (Vorstellung der Sessions)</td>
+       <td><strong>09:00 - 09:20</strong></td>
+       <td><strong>Begrüßung und Programm</strong> (Vorstellung der Sessions)</td>
        <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
     </tr>
     <tr>
-       <td>09:20 - 10:00</td>
-       <td>Jahresrückblick &amp; BLV-Überblick</td>
-       <td></td>
+       <td><strong>09:20 - 10:00</strong></td>
+       <td><strong>Jahresrückblick &amp; BLV-Überblick</strong></td>
+       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
     </tr>
     <tr>
-       <td><strong>10:00 - 10:15</strong></td>
-       <td><strong>Gruppenbild</strong></td>
-       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+       <td>10:00 - 10:15</td>
+       <td>Gruppenbild</td>
+       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
     <tr>
        <td><em>10:15 - 10:30</em></td>
        <td><em>Kaffeepause</em></td>
-       <td></td>
+       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
     <tr>
-       <td><strong>10:15 - 12:15</strong></td>
-       <td><strong>Fotosession</strong></td>
-       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+       <td>10:15 - 12:30</td>
+       <td>Fotosession</td>
+       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
     <tr>
-       <td>10:30 - 10:45</td>
-       <td>Icebreaker</td>
-       <td></td>
+       <td><strong>10:30 - 11:00</strong></td>
+       <td><strong>Icebreaker</strong></td>
+       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade oder Innenhof</td>
     </tr>
     <tr>
        <td colspan="3"></td>
     </tr>
     <tr>
-       <td>10:45 - 12:30</td>
+       <td><strong>11:00 - 12:30</strong></td>
        <td><strong>Sessions - Teil 1</strong><br></td>
        <td></td>
     </tr>
     <tr>
        <td></td>
        <td><strong>Community Networking:</strong><br> Offener Austausch für Aktive und Interessierte</td><br>
-       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer oder Innenhof</td>
+       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade oder Innenhof</td>
     </tr>
     <tr>
        <td></td>
@@ -132,15 +132,15 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
     <tr>
        <td></td>
        <td> <strong>Standardisierung 1:</strong><br> Normdaten &amp; Vokabulare (Anja Gerber, Kristina Fischer)</td>
-       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer oder Innenhof</td>
+       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade oder Innenhof</td>
     </tr>
     <tr>
        <td colspan="3"></td>
     </tr>
     <tr>
-       <td><strong>12:30 - 13:30</strong></td>
-       <td><strong>Fotosession SC Portraits</strong></td>
-       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+       <td>12:30 - 13:30</td>
+       <td>Fotosession</td>
+       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
     <tr>
        <td><em>12:30 - 14:00</em></td>
@@ -151,7 +151,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
        <td colspan="3"></td>
     </tr>
     <tr>
-       <td>14:00 - 16:00</td>
+       <td><strong>14:00 - 16:00</strong></td>
        <td><strong>Sessions - Teil 2</strong></td>
        <td></td>
     </tr>
@@ -196,13 +196,13 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
     <tr>
        <td><em>16:00 - 16:15</em></td>
        <td><em>Kaffeepause</em></td>
-       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer und <a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a></td>
+       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade und <a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a></td>
     </tr>
     <tr>
        <td colspan="3"></td>
     </tr>
     <tr>
-       <td>16:15 - 17:45</td>
+       <td><strong>16:15 - 17:45</strong></td>
        <td><strong>Sessions - Teil 3</strong></td>
        <td></td>
     </tr>
@@ -240,9 +240,9 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
        <td colspan="3"></td>
     </tr>
     <tr>
-       <td><strong>17:45 – 18:45</strong></td>
-       <td><strong>Fotosession</strong></td>
-       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+       <td>17:45 – 18:45</td>
+       <td>Fotosession SC Portraits</td>
+       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
     <tr>
        <td><em>19:00</em></td>
@@ -263,49 +263,44 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
   </thead>
   <tbody>
     <tr>
-      <td><em>08:00 - 08:30</em></td>
-      <td><em>Aufbau</em></td>
-      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
-    </tr>
-    <tr>
-      <td><strong>08:30 - 09:00</strong></td>
-      <td><strong>Fotosession</strong></td>
-      <td></td>
+      <td>08:30 - 09:00</td>
+      <td>Fotosession</td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
     <tr>
       <td><em>08:30 - 09:00</em></td>
       <td><em>Begrüßungskaffee</em></td>
-      <td></td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
     <tr>
-      <td>09:00 - 11:00</td>
-      <td>CO-Treffen/<br>Networking Session/<br>Plenumstreffen 1/<br>Sessions im LEIZA?</td>
+      <td><strong>09:00 - 11:00</strong></td>
+      <td><strong>Barcamp</strong><br>Zweite Förderphase</td>
       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
     </tr>
     <tr>
-      <td><strong>11:00 - 11:30</strong></td>
-      <td><strong>Fotosession</strong></td>
-      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+      <td>11:00 - 11:30</td>
+      <td>Fotosession</td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
     <tr>
       <td><em>11:00 - 11:30</em></td>
       <td><em>Kaffeepause</em></td>
-      <td></td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
     <tr>
-      <td>11:30 - 13:00</td>
-      <td><strong>Plenumstreffen 2</strong><br>Zusammenfassung der Ergebnisse der Sessions und Ausblick</td>
+      <td><strong>11:30 - 13:00</strong></td>
+      <td><strong>Plenumstreffen</strong><br>Zusammenfassung der Ergebnisse der Sessions und Ausblick</td>
       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
     </tr>
     <tr>
-      <td><strong>13:00 - 13:30</strong></td>
-      <td><strong>Fotosession</strong></td>
-      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Foyer</td>
+      <td>13:00 - 13:30</td>
+      <td>Fotosession</td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
     <tr>
       <td><em>13:00 - 13:30</em></td>
       <td><em>Mittagssnack und Ende</em></td>
-      <td></td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
   </tbody>
 </table>
