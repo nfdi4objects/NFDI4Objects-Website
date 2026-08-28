@@ -14,7 +14,7 @@ ccs:
 - cc_provenance_research
 twgs: []
 event_type: "CC-Treffen"
-permalink: /events/n4o_activity_20260318-CC_Digitale_Provenienz/
+permalink: /events/n4o_activity_20260917-CC_digitale_provenienz
 ---
 ### Am 17. September findet um 13 Uhr das nächste Clustertreffen des CC Digitale Provenienzforschung statt.   
 ---  
