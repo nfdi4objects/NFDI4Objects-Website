@@ -1,7 +1,7 @@
 {% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
 
 {% assign today = "now" | date: "%s" %}
-{% assign filtered = site.events | where: "lang", page.lang | where: "event_type", TRUE %}
+{% assign filtered = site.events | where: "lang", page.lang | where: "featured", TRUE %}
 {% assign future_events = "" | split: "" %}
 
 {% for event in filtered %}
