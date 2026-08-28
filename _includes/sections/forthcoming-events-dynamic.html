@@ -9,11 +9,11 @@
 </h2>
 <div class="category-tags">
   {% for cat in site.data.event_categories.event_types %}
-  <button class="category-tag btn btn-primary-outline" event_type="{{ cat.id }}">
+  <button class="category-tag btn btn-primary-outline" data-event_type="{{ cat.id }}">
     {{ cat.name_de }}
   </button>
   {% endfor %}
-  <button class="category-tag btn btn-primary-outline active" event_type="all">
+  <button class="category-tag btn btn-primary-outline active" data-event_type="all">
     Alle
   </button>
 </div>
@@ -42,11 +42,19 @@
     {% endif %}
   </p>
 {% else %}
-  <section class="{{ include.bg | default: 'bg-sand' }}  space-top-0" event_type="{{ event.event_type }}">
+  <section class="{{ include.bg | default: 'bg-sand' }}  space-top-0">
     <div class="container">
       <header>
         <h1>{{ page.forthcoming_titel | default: "Forthcoming Events" }}</h1>
       </header>
+
+      <p id="no-results" class="no-events" style="display: none;">
+        {% if page.lang == "en" %}
+          No events in this category.
+        {% else %}
+          Keine Veranstaltungen in dieser Kategorie.
+        {% endif %}
+      </p>
 
       <div class="col3-grid">
         {% for item in filtered limit: include.limit %}
@@ -67,7 +75,7 @@
               {% endif %}
             {% endfor %}
           {% endif %}
-          <article class="card {% if has_image %}teaser-img{% endif %}">
+          <article class="card {% if has_image %}teaser-img{% endif %}" data-event_type="{{ item.event_type }}">
             {% if has_image %}
               <img src="{{ item.teaser_image | relative_url }}"
                    {% if item.teaser_image_srcset %}srcset="{{ processed_srcset }}"{% endif %}
@@ -92,7 +100,7 @@
                 </div>
                 {% endif %}
                 <h2><a href="{{ item.url | relative_url }}" class="read-more">{{ item.title }}</a></h2>
-                <p>                  
+                <p>
                     {{ item.excerpt | default: item.content | strip_html | truncatewords: 30 }}
                 </p>
             {% if has_image %}
@@ -117,12 +125,12 @@
 // Simple client-side filtering
 document.addEventListener('DOMContentLoaded', function() {
   const categoryButtons = document.querySelectorAll('.category-tag');
-  const Cards = document.querySelectorAll('.card');
+  const cards = document.querySelectorAll('.card');
   const noResults = document.getElementById('no-results');
 
   categoryButtons.forEach(button => {
     button.addEventListener('click', function() {
-      const category = this.dataset.category;
+      const eventType = this.dataset.event_type;
 
       // Update active state
       categoryButtons.forEach(btn => btn.classList.remove('active'));
@@ -130,8 +138,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
       // Filter cards
       let visibleCount = 0;
-      Cards.forEach(card => {
-        if (category === 'all' || card.dataset.categories.includes(category)) {
+      cards.forEach(card => {
+        if (eventType === 'all' || card.dataset.event_type === eventType) {
           card.style.display = 'block';
           visibleCount++;
         } else {
