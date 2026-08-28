@@ -12,7 +12,5 @@ translation_key: events-overview
   <div class="container">
     {% include breadcrumb.html %}
   </div>
-  {% include sections/featured-events-dynamic.html %}
-  {% include sections/forthcoming-events-dynamic.html %}
   {% include sections/events-dynamic.html %}
 </main>
