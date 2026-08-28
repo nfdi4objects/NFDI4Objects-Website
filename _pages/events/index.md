@@ -2,6 +2,7 @@
 layout: n4o-base
 title: "Alle Veranstaltungen"
 featured_title: "Hervorgehobene Veranstaltungen"
+forthcoming_titel: "Bevorstehende Veranstaltungen"
 lang: de
 permalink: /events/all/
 translation_key: events-overview
@@ -12,5 +13,6 @@ translation_key: events-overview
     {% include breadcrumb.html %}
   </div>
   {% include sections/featured-events-dynamic.html %}
+  {% include sections/forthcoming-events-dynamic.html %}
   {% include sections/events-dynamic.html %}
 </main>
