@@ -9,11 +9,11 @@
 </h2>
 <div class="category-tags">
   {% for cat in site.data.event_categories.event_types %}
-  <button class="category-tag btn btn-primary-outline" data-category="{{ cat.id }}">
+  <button class="category-tag btn btn-primary-outline" event_type="{{ cat.id }}">
     {{ cat.name_de }}
   </button>
   {% endfor %}
-  <button class="category-tag btn btn-primary-outline active" data-category="all">
+  <button class="category-tag btn btn-primary-outline active" event_type="all">
     Alle
   </button>
 </div>
