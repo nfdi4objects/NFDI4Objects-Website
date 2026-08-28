@@ -1,23 +1,5 @@
 {% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
 
-<h2 class="h3 arrow arrow-left">
-    {% if page.lang == "en" %}
-      Filter by category
-    {% else %}
-      Nach Kategorien filtern
-    {% endif %}
-</h2>
-<div class="category-tags">
-  {% for cat in site.data.event_categories.event_types %}
-  <button class="category-tag btn btn-primary-outline" data-event_type="{{ cat.id }}">
-    {{ cat.name_de }}
-  </button>
-  {% endfor %}
-  <button class="category-tag btn btn-primary-outline active" data-event_type="all">
-    Alle
-  </button>
-</div>
-
 {% assign today = "now" | date: "%s" %}
 {% assign filtered = site.events | where: "lang", page.lang %}
 {% assign future_events = "" | split: "" %}
@@ -47,6 +29,25 @@
       <header>
         <h1>{{ page.forthcoming_titel | default: "Forthcoming Events" }}</h1>
       </header>
+
+      <h2 class="h3 arrow arrow-left">
+      {% if page.lang == "en" %}
+        Filter by category
+       {% else %}
+        Nach Kategorien filtern
+      {% endif %}
+      </h2>
+
+      <div class="category-tags">
+        {% for cat in site.data.event_categories.event_types %}
+        <button class="category-tag btn btn-primary-outline" data-event_type="{{ cat.id }}">
+          {{ cat.name_de }}
+        </button>
+          {% endfor %}
+        <button class="category-tag btn btn-primary-outline active" data-event_type="all">
+          Alle
+        </button>
+      </div>
 
       <p id="no-results" class="no-events" style="display: none;">
         {% if page.lang == "en" %}
