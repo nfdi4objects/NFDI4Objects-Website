@@ -7,6 +7,7 @@ excerpt: Vom 31. August bis 2. September 2026 trifft sich NFDI4Objects zu einem 
 date: 2026-08-20
 event_date: 2026-08-31
 event_end_date: 2026-09-02
+featured: TRUE
 location: Mainz
 areas:
 trails: []

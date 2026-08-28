@@ -1,6 +1,7 @@
 ---
 layout: n4o-base
 title: "Alle Veranstaltungen"
+featured_title: "Hervorgehobene Veranstaltungen"
 lang: de
 permalink: /events/all/
 translation_key: events-overview
@@ -10,6 +11,6 @@ translation_key: events-overview
   <div class="container">
     {% include breadcrumb.html %}
   </div>
-
-  {% include sections/events-dynamic.html lang="de" %}
+  {% include sections/featured-events-dynamic.html %}
+  {% include sections/events-dynamic.html %}
 </main>

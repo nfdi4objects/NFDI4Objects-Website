@@ -1,7 +1,7 @@
 {% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
 
 {% assign today = "now" | date: "%s" %}
-{% assign filtered = site.events | where: "lang", page.lang | where: "event_type", "Workshop" %}
+{% assign filtered = site.events | where: "lang", page.lang | where: "event_type", TRUE %}
 {% assign future_events = "" | split: "" %}
 
 {% for event in filtered %}
@@ -18,16 +18,16 @@
 {% if filtered.size == 0 %}
   <p class="no-events">
     {% if page.lang == "en" %}
-      No workshops available.
+      No featured events available.
     {% else %}
-      Keine Workshops verfügbar.
+      Keine hervorgehobene Veranstaltungen verfügbar.
     {% endif %}
   </p>
 {% else %}
   <section class="{{ include.bg | default: 'bg-sand' }}  space-top-0">
     <div class="container">
       <header>
-        <h1>{{ page.title | default: "Workshops" }}</h1>
+        <h1>{{ page.featured_title | default: "Featured Events" }}</h1>
       </header>
 
       <div class="col3-grid">

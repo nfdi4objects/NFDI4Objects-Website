@@ -1,9 +1,9 @@
 {% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
-{% assign filtered = site.events | where: "lang", include.lang | sort: "event_date" | reverse %}
+{% assign filtered = site.events | where: "lang", page.lang | sort: "event_date" | reverse %}
 
 {% if filtered.size == 0 %}
   <p class="no-events">
-    {% if include.lang == "en" %}
+    {% if page.lang == "en" %}
       No events available.
     {% else %}
       Keine Veranstaltungen verfügbar.
@@ -45,7 +45,7 @@
             {% endif %}
                 <div class="card-date">
                   <i class="fa fa-calendar-days" aria-hidden="true"></i>
-                  {% if include.lang == "en" %}
+                  {% if page.lang == "en" %}
                     {{ item.event_date | date: "%-m/%-d/%Y" }}
                     {% if item.event_end_date %} - {{ item.event_end_date | date: "%-m/%-d/%Y" }}{% endif %}
                   {% else %}
