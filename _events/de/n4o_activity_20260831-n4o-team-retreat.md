@@ -122,7 +122,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
     </tr>
     <tr>
        <td></td>
-       <td> <strong>Plenum:</strong><br>Rückschau & Aussicht bis 2029: Was muss fertig werden?:<br>Diskussion &amp; Brainstorming</td>
+       <td> <strong>Plenum:</strong><br>Rückschau & Aussicht bis 2029:<br>Diskussion &amp; Brainstorming</td>
        <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>  
     </tr>
     <tr>
