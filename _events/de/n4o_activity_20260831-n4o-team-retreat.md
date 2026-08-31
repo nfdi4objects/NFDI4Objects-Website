@@ -266,6 +266,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
       <td><strong>Evaluationscamp:</strong><br>Stand und Perspektiven</td>
       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
+    <tr>
       <td>11:00 - 11:30</td>
       <td>Fotosession</td>
       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
