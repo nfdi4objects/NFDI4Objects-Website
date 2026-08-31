@@ -262,7 +262,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
         <tr>
-      <td></td>
+      <td><strong>09:00 - 10:00</strong></td>
       <td><strong>Steuerungsgruppe</strong><br>Strategieentwicklung und Weiterentwicklung von N4O:<br>Ableitung konkreter Maßnahmen</td>
       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
     </tr>
