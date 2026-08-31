@@ -122,26 +122,8 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
     </tr>
     <tr>
        <td></td>
-       <td><strong>Community Networking:</strong><br> Offener Austausch für Aktive und Interessierte</td><br>
-       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade oder Innenhof</td>
-    </tr>
-    <tr>
-       <td></td>
-       <td> <strong>Steuerungsgruppe:</strong><br> Strategieentwicklung und Weiterentwicklung von N4O:<br>Diskussion &amp; Brainstorming</td>
+       <td> <strong>Plenum:</strong><br>Rückschau & Aussicht bis 2029: Was muss fertig werden?:<br>Diskussion &amp; Brainstorming</td>
        <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>  
-    </tr>
-    <tr>
-       <td></td>
-       <td> <strong>Standardisierung 1:</strong><br> Normdaten &amp; Vokabulare (Anja Gerber, Kristina Fischer)</td>
-       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade oder Innenhof</td>
-    </tr>
-    <tr>
-       <td colspan="3"></td>
-    </tr>
-    <tr>
-       <td>12:30 - 13:30</td>
-       <td>Fotosession</td>
-       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
     </tr>
     <tr>
        <td><em>12:30 - 14:00</em></td>
@@ -158,7 +140,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
     </tr>
     <tr>
        <td></td>
-       <td> <strong>Steuerungsgruppe:</strong><br>Strategieentwicklung und Weiterentwicklung von N4O:<br>Ableitung konkreter Maßnahmen</td>
+       <td> <strong>Steuerungsgruppe:</strong><br>Strategieentwicklung und Weiterentwicklung von N4O:<br>Diskussion & Brainstorming</td>
     <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
     </tr>
     <tr>
@@ -173,7 +155,7 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
     </tr>
     <tr>
        <td></td>
-       <td><strong>Standardisierung 2</strong><br>Metadaten (Anja Gerber, Florian Tiery)</td>
+       <td><strong>Standardisierung 1</strong><br>Metadaten (Anja Gerber, Florian Tiery)</td>
        <td><a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a><br>Kreativraum, 3. OG (15)
        </td>
     </tr>
@@ -224,8 +206,9 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
     </tr>
     <tr>
        <td></td>
-       <td>Offene Sessions nach Bedarf aus Networking Session</td>
-       <td><a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a><br>Studio, 2. OG (20) / Kreativraum, 3. OG (15)</td>
+       <td><strong>Standardisierung 2</strong><br>Normdaten & Vokabulare  (Anja Gerber, Kristina Fischer)</td>
+       <td><a href="https://maps.app.goo.gl/HH1KbPdnFRetmZFZ6">LEIZA</a><br>Kreativraum, 3. OG (15)
+       </td>
     </tr>
     <tr>
         <td></td>
@@ -276,6 +259,11 @@ Die Veranstaltung wird fotografisch von [Vanessa Liebler](https://vaneversion.de
     <tr>
       <td><strong>09:00 - 11:00</strong></td>
       <td><strong>Barcamp</strong><br>Zweite Förderphase</td>
+      <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Arkade</td>
+    </tr>
+        <tr>
+      <td></td>
+      <td><strong>Steuerungsgruppe</strong><br>Strategieentwicklung und Weiterentwicklung von N4O:<br>Ableitung konkreter Maßnahmen</td>
       <td><a href="https://maps.app.goo.gl/q1bW3xfsydUeS9wX6">Landesmuseum Mainz</a><br>Forum</td>
     </tr>
     <tr>
