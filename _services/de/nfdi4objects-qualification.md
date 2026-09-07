@@ -75,7 +75,11 @@ Der Dienst richtet sich insbesondere an:
 *Skripte, Präsentationen und praxisorientierte Übungen zu verschiedenen FDM-Themen.*
 
 Hier finden Sie eine stetig wachsende Sammlung frei verfügbarer OER-Bausteine aus NFDI4Objects.
-- [OER-Skript Metadaten](https://nfdi4objects.github.io/oer-skript-metadaten/) – Einführung in das Thema Metadaten
+
+- Einführung in das Thema Metadaten – 🔗 [Gehe zum OER-Baustein](https://nfdi4objects.github.io/oer-skript-metadaten/).
+- Übung zu verschiedenen Typen von Metdaten – 🔗 [Gehe zum OER-Baustein](https://nfdi4objects.github.io/oer-uebung-metadatentypen/).
+- Skript zur Dokumentation von relationalen Datenbanken – 🔗 [Gehe zum OER-Baustein](https://nfdi4objects.github.io/oer-skript-dokumentation-rdb/).
+- Übung zur Metadatenmanipulation in Tabellenprogrammen – 🔗 [Gehe zum OER-Baustein](https://nfdi4objects.github.io/oer-uebung-metadaten_tabellen_manipulieren/)
 
 Alle Materialien werden offen bereitgestellt und stehen unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
