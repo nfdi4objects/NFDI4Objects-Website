@@ -76,11 +76,10 @@ The service is aimed in particular at:
 
 Here you will find an ever-growing collection of freely available OER resources from NFDI4Objects.
 
-- [OER Lecture Notes on Metadata](https://nfdi4objects.github.io/oer-skript-metadaten/) – An introduction to metadata
-- Introduction to metadata – 🔗 [Go to OER-Script](https://nfdi4objects.github.io/oer-skript-metadaten/).
-- Exercise to different types of metadata – 🔗 [Go to OER-Exercise](https://nfdi4objects.github.io/oer-uebung-metadatentypen/).
-- Script to documentation of relational databases – 🔗 [Go to OER-Script](https://nfdi4objects.github.io/oer-skript-dokumentation-rdb/).
-- Exercise to metadata manipulation in spreadsheet applications – 🔗 [Go to OER-Exercise](https://nfdi4objects.github.io/oer-uebung-metadaten_tabellen_manipulieren/)
+- Introduction to **metadata** – 🔗 [Go to OER-Script](https://nfdi4objects.github.io/oer-skript-metadaten/)
+- Exercise on different **types of metadata** – 🔗 [Go to OER-Exercise](https://nfdi4objects.github.io/oer-uebung-metadatentypen/)
+- Script for **documenting relational databases** – 🔗 [Go to OER-Script](https://nfdi4objects.github.io/oer-skript-dokumentation-rdb/)
+- Exercise on **metadata manipulation in spreadsheet applications** – 🔗 [Go to OER-Exercise](https://nfdi4objects.github.io/oer-uebung-metadaten_tabellen_manipulieren/)
 
 All materials are made openly available and are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
