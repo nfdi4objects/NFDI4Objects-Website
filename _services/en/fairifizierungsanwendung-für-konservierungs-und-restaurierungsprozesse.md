@@ -6,7 +6,6 @@ title: Conservation process tool
 short_title: 'Tool for <strong>preparing conservation and restoration processes</strong> according to FAIR principles.'
 logo: /assets/images/services/fairification_tool_500px.png
 homepage: ''
-access_url: ''
 areas:
 - ta4
 trails: []

@@ -6,7 +6,7 @@ title: iDAIfield
 short_title: 'Professionelle Software zur <strong>digitalen Grabungsdokumentation.</strong> Ermöglicht strukturierte und standardisierte Datenerfassung bei archäologischen Ausgrabungen.'
 logo: /assets/images/services/idaifield_logo_500px.png
 homepage: https://field.idai.world/
-access_url: https://field.idai.world/
+access_url: https://field.idai.world/download
 areas:
 - ta5
 trails: []

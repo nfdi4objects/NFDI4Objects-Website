@@ -6,7 +6,6 @@ title: 'Fund-Logbuch: Infrastruktur zur Erfassung archäologischer Kleinfunde'
 short_title: 'Mobile Anwendung zur <strong>Fundverwaltung und digitalen Erfassung von Funddaten.</strong> Reduziert Medienbrüche während der Grabung.'
 logo: /assets/images/services/fundlogbuch_logo_500px.png
 homepage: ''
-access_url: ''
 areas:
 - ta4
 - ta5

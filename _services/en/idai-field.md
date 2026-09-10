@@ -6,7 +6,7 @@ title: ArchaeoDocs and iDAI.field – expert systems for excavation documentatio
 short_title: 'Professional software for <strong>digital excavation documentation.</strong> Enables structured and standardized data capture for archaeological excavations.'
 logo: /assets/images/services/idaifield_logo_500px.png
 homepage: https://field.idai.world/
-access_url: https://field.idai.world/
+access_url: https://field.idai.world/download
 areas:
 - ta5
 trails: []

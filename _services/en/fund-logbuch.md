@@ -6,7 +6,6 @@ title: 'Fund-Logbuch: Infrastructure for Recording Small Archaeological Findings
 short_title: 'Mobile application for <strong>find management and digital recording of find data.</strong> Reduces media breaks during excavation.'
 logo: /assets/images/services/fundlogbuch_logo_500px.png
 homepage: ''
-access_url: ''
 areas:
 - ta4
 - ta5

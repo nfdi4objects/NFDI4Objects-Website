@@ -6,7 +6,6 @@ title: FAIRifizierungsanwendung für Konservierungs- und Restaurierungsprozesse
 short_title: 'Werkzeug zur <strong>Aufbereitung von Konservierungs- und Restaurierungsprozessen </strong> nach den FAIR-Prinzipien.'
 logo: /assets/images/services/fairification_tool_500px.png
 homepage: ''
-access_url: ''
 areas:
 - ta4
 trails: []
