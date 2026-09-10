@@ -3,7 +3,7 @@ layout: event
 lang: en
 translation_key: n4o_activity_20260917-CC_digitale_provenienz
 title: 'Clustermeeting of the CC digitale provenance research'
-excerpt: Einladung zum Treffen um 13 Uhr
+excerpt: 'Einladung zum Treffen um 13 Uhr'
 date: 2026-08-26
 event_date: 2026-09-17
 location: online
