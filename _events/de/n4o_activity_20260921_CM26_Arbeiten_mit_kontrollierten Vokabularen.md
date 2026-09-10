@@ -24,6 +24,7 @@ Im Fokus steht die hands-on-Arbeit mit Tools aus dem NFDI4Objects-Diensteportfol
 
 **Voraussetzung:** Besuch des [vorausgegangenen Basiskurses](https://www.nfdi4objects.net/events/n4o_activity_20260907-CM26_basis_kontrollierte_vokabulare/) oder vergleichbare Grundkenntnisse zu kontrollierten Vokabularen.  
 
+**Hinweis zur Anmeldung:** Bei einer Anmeldung bis zum 15. September erhalten Sie einen Testaccount für DANTE und können selbst ein Vokabular anlegen. Anmeldungen sind aber auch nach dem 15. September weiterhin möglich.
 
 **Wann:** 21.09.2026, 13.00–16.00 Uhr  
 **Dauer:** ca. 2,5–3 Stunden  

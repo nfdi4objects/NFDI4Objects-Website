@@ -24,6 +24,8 @@ The focus is on hands-on work with tools from the NFDI4Objects service portfolio
 
 **Requirements:** Completion of the preceding [basic course](https://www.nfdi4objects.net/en/events/n4o_activity_20260907-CM26_basis_kontrollierte_vokabulare/) or comparable basic knowledge of controlled vocabularies.  
 
+**Registration Note:** If you register by September 15, you will receive a trial account for DANTE and will be able to create your own vocabulary list. However, you can still register after September 15.
+
 **When:** September 21, 2026, 1:00–4:00 p.m.    
 **Duration:** approx. 2.5–3 hours  
 **Chairs:** [Kristina Fischer (LEIZA),](https://www.nfdi4objects.net/persons/kristinafella/) [Anja Gerber (KSW)](https://www.nfdi4objects.net/persons/anjagerber/)  
