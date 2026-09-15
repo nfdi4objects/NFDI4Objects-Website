@@ -10,7 +10,8 @@ location: online
 areas: 
 trails: []
 ccs: 
-twgs: "Networking Event"
+twgs: 
+event_type: "Networking Event"
 permalink: en/events/n4o_activity_20261117-OA_Publizieren_Propylaeum/
 registration_url: 
 ---
