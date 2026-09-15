@@ -16,7 +16,7 @@ permalink: /events/n4o_activity_20260922-digital_minds_bonn/
 ---
 Wie verändern Künstliche Intelligenz, Forschungsdaten und digitale Infrastrukturen die archäologische Forschung?   
   
-Mit diesen Fragen beschäftigt sich die Session **„Digital Minds or Digital Mines? Digitale Archäologie als Kritische Archäologie des Digitalen“** am **22. September 2026** im Rahmen der Verbandstagung in Bonn.
+Mit diesen Fragen beschäftigt sich die Session <strong>„Digital Minds or Digital Mines? Digitale Archäologie als Kritische Archäologie des Digitalen“</strong> am <strong>22. September 2026</strong> im Rahmen der Verbandstagung in Bonn.
 
 In Vorträgen und Diskussionen beleuchten Expert\*innen aus Archäologie, Digital Humanities und KI-Forschung die Chancen, Herausforderungen und erkenntnistheoretischen Folgen digitaler Methoden. Im Mittelpunkt steht die Frage, wie digitale Werkzeuge nicht nur Forschung unterstützen, sondern auch unser Verständnis von Wissen, Interpretation und Vergangenheit prägen.
 

@@ -16,7 +16,7 @@ permalink: en/events/n4o_activity_20260922-digital_minds_bonn/
 ---
 How are artificial intelligence, research data and digital infrastructures transforming archaeological research?   
   
-These are the questions addressed by the session **‘Digital Minds or Digital Mines? Digital Archaeology as a Critical Archaeology of the Digital’**, taking place **on 22 September 2026** as part of the association’s conference in Bonn.
+These are the questions addressed by the session <strong>‘Digital Minds or Digital Mines? Digital Archaeology as a Critical Archaeology of the Digital’</strong>, taking place <strong>on 22 September 2026</strong> as part of the association’s conference in Bonn.
 
 Through presentations and discussions, experts from archaeology, the digital humanities and AI research will explore the opportunities, challenges and epistemological implications of digital methods. The focus will be on how digital tools not only support research but also shape our understanding of knowledge, interpretation and the past.
 
