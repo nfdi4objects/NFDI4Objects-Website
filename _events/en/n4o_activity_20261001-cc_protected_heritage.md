@@ -19,12 +19,10 @@ We invite you to the 17th meeting of the Protected Heritage Sites Community Clus
 
 Anyone interested is warmly invited! No registration is required.
 
----
 
-**Zoom room:** [https://zoom.us/j/91094521138?pwd=zJLwXZetdBcpMpssA9RpZPVCRFUWDP.1] (https://zoom.us/j/91094521138?pwd=zJLwXZetdBcpMpssA9RpZPVCRFUWDP.1)
+**Zoom room:** [https://zoom.us/j/91094521138?pwd=zJLwXZetdBcpMpssA9RpZPVCRFUWDP.1](https://zoom.us/j/91094521138?pwd=zJLwXZetdBcpMpssA9RpZPVCRFUWDP.1)
 Meeting ID: 910 9452 1138
 Passcode: 286763
 
----
 
-Further information on the work of the CC can be found on **OSF** [https://osf.io/pwzg4/wiki?wiki=8g9yq] (https://osf.io/pwzg4/) and on the **NFDI4Objects website** [https://www.nfdi4objects.net/ccs/cc-denkmalflächen-maßnahmenflächen-schutzflächen/](https://www.nfdi4objects.net/en/ccs/cc-denkmalflächen-maßnahmenflächen-schutzflächen/).
+Further information on the work of the CC can be found on OSF [https://osf.io/pwzg4/wiki?wiki=8g9yq](https://osf.io/pwzg4/) and on the NFDI4Objects website [https://www.nfdi4objects.net/ccs/cc-denkmalflächen-maßnahmenflächen-schutzflächen/](https://www.nfdi4objects.net/en/ccs/cc-denkmalflächen-maßnahmenflächen-schutzflächen/).

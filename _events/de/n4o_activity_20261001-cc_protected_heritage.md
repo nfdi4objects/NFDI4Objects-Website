@@ -19,12 +19,10 @@ Wir laden ein zur 17. Sitzung des Community Clusters Protected Heritage Sites <s
 
 Alle Interessierten sind herzlich eingeladen! Eine Anmeldung ist nicht notwendig.
 
----  
 
 **Zoom-Raum:** [https://zoom.us/j/91094521138?pwd=zJLwXZetdBcpMpssA9RpZPVCRFUWDP.1](https://zoom.us/j/91094521138?pwd=zJLwXZetdBcpMpssA9RpZPVCRFUWDP.1)  
 Meeting-ID: 910 9452 1138  
 Kenncode: 286763
+  
 
----
-
-Weitere Informationen zur Arbeit des CCs finden Sie auf **OSF** [https://osf.io/pwzg4/wiki?wiki=8g9yq](https://osf.io/pwzg4/) sowie auf der **NFDI4Objects Website** [https://www.nfdi4objects.net/ccs/cc-denkmalflächen-maßnahmenflächen-schutzflächen/](https://www.nfdi4objects.net/ccs/cc-denkmalflächen-maßnahmenflächen-schutzflächen/).
+Weitere Informationen zur Arbeit des CCs finden Sie auf OSF [https://osf.io/pwzg4/wiki?wiki=8g9yq](https://osf.io/pwzg4/) sowie auf der NFDI4Objects Website [https://www.nfdi4objects.net/ccs/cc-denkmalflächen-maßnahmenflächen-schutzflächen/](https://www.nfdi4objects.net/ccs/cc-denkmalflächen-maßnahmenflächen-schutzflächen/).
