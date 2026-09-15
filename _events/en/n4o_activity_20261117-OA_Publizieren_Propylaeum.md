@@ -1,7 +1,7 @@
 ---
 layout: event
 lang: en
-translation_key: n4o_activity_20261117_OA_Publizieren_Propylaeum
+translation_key: n4o_activity_20261117-OA_Publizieren_Propylaeum
 title: 'Open Access Publishing in Classical Studies – Questions and Answers'
 excerpt: 'Would you like to publish your work in classical studies as open access? Do you want your research findings to be freely accessible and available for long-term reuse? At the same time, are you wondering whether open access is suitable for your publication project, or would you like to gain a better understanding of the processes and options available?'
 date: 2026-07-15
@@ -10,7 +10,7 @@ location: online
 areas: 
 trails: []
 ccs: 
-twgs: "Netzwerktreffen"
+twgs: "Networking Event"
 permalink: en/events/n4o_activity_20261117-OA_Publizieren_Propylaeum/
 registration_url: 
 ---

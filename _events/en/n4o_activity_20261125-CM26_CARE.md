@@ -14,7 +14,7 @@ trails: []
 ccs: 
 twgs: 
 - twg_care_principles
-event-type: "TWG-Treffen"
+event-type: "TWG-Meeting"
 permalink: en/events/n4o_activity_20261125-CM26_CARE/
 registration_url: http://reg.nfdi4objects.net/N4O/ws-care/
 ---

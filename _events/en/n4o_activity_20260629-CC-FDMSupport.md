@@ -9,7 +9,7 @@ event_date: 2026-06-29
 location: online
 areas:
 ccs: cc-fdm-support
-event-type: "CC-Treffen"
+event-type: "CC-Meeting"
 permalink: /events/en/n40_activity_20260629-CC-FDMSupport/
 ---
 

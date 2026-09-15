@@ -1,7 +1,7 @@
 ---
 layout: event
 lang: de
-translation_key: n4o_activity_20261117_OA_Publizieren_Propylaeum
+translation_key: n4o_activity_20261117-OA_Publizieren_Propylaeum
 title: 'Altertumswissenschaftliches Publizieren im Open Access – Fragen und Antworten'
 excerpt: 'Sie möchten Ihre altertumswissenschaftliche Publikation im Open Access veröffentlichen? Ihre Forschungsergebnisse sollen frei zugänglich sein und dauerhaft nachnutzbar sein? Gleichzeitig fragen Sie sich, ob Open Access für Ihr Publikationsvorhaben geeignet ist, oder möchten die Abläufe und Möglichkeiten besser verstehen?'
 date: 2026-07-15
