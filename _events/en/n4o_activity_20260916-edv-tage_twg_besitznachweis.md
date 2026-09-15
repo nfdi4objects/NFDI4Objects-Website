@@ -17,7 +17,7 @@ twgs:
 event_type: "Conference"
 permalink: en/events/n4o_activity_20260917-CC_digitale_provenienz/
 ---
-Under the title **‘Museums and Archives in Times of Crisis: Preserving Cultural Heritage – Securing Data’**, this year’s EDV-Days will focus on how museums and archives can remain operational even under uncertain conditions and in times of cyber-attacks, as well as how they can safeguard their (digital) cultural heritage in sustainable ways.
+Under the title <strong>‘Museums and Archives in Times of Crisis: Preserving Cultural Heritage – Securing Data’</strong>, this year’s EDV-Days will focus on how museums and archives can remain operational even under uncertain conditions and in times of cyber-attacks, as well as how they can safeguard their (digital) cultural heritage in sustainable ways.
 
 NFDI4Objects is contributing a presentation from the [TWG Proof of Ownership](/_twgs/de/besitznachweis-im-verlustfall-use-case-für-den-minimaldatensatz.md) to the panel **“Digitisation as a Safeguarding Strategy”**.
 

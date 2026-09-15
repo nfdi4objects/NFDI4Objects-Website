@@ -3,7 +3,7 @@ layout: event
 lang: de
 translation_key: n4o_activity_20260917-caa_joint_chapter_muenster
 title: 'NFDI4Objects beim CAA Joint Chapter Meeting '
-excerpt: ''
+excerpt: 'Verschiedene Beiträge aus den Task Areas 1, 2, 3,4 und 6'
 date: 2026-09-15
 event_date: 2026-09-17
 event_end_date: 2026-09-18

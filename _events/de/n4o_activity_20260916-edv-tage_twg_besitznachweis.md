@@ -17,7 +17,7 @@ twgs:
 event_type: "Konferenz"
 permalink: /events/n4o_activity_20260917-CC_digitale_provenienz/
 ---
-Unter dem Titel **»Museen und Archive in Krisenzeiten. Kulturgut bewahren – Daten sichern«** widmen sich die EDV-Tage in diesem Jahr der Frage, wie Museen und Archive auch unter unsicheren Bedingungen und in Zeiten von Cyberangriffen handlungsfähig bleiben und ihr (digitales) Kulturerbe nachhaltig sichern können.
+Unter dem Titel <strong>»Museen und Archive in Krisenzeiten. Kulturgut bewahren – Daten sichern«</strong> widmen sich die EDV-Tage in diesem Jahr der Frage, wie Museen und Archive auch unter unsicheren Bedingungen und in Zeiten von Cyberangriffen handlungsfähig bleiben und ihr (digitales) Kulturerbe nachhaltig sichern können.
   
 NFDI4Objects steuert im Panel **“Digitalisierung als Sicherungsstrategie”** einen Beitrag der [TWG Besitznachweis](/_twgs/de/besitznachweis-im-verlustfall-use-case-für-den-minimaldatensatz.md) bei.
 
