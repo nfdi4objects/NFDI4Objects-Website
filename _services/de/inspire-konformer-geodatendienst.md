@@ -6,7 +6,6 @@ title: Geodatendienste zum Austausch denkmalbezogener Daten
 short_title: 'Bereitstellung von <strong>Geodaten nach europäischen INSPIRE-Standards.</strong> Interoperabilität über nationale Grenzen.'
 logo: /assets/images/services/logo_geodatendienst_500px.png
 homepage: ''
-access_url: ''
 areas:
 - ta4
 trails:

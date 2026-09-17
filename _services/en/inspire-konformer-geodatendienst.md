@@ -6,7 +6,6 @@ title: Geodata Services for the Exchange of Heritage-Related Data
 short_title: 'Provision of <strong>geodata according to European INSPIRE standards.</strong> Cross-border interoperability.'
 logo: /assets/images/services/logo_geodatendienst_500px.png
 homepage: ''
-access_url: ''
 areas:
 - ta4
 trails:
