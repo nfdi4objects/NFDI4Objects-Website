@@ -6,7 +6,6 @@ title: Research Software Engineering Toolkits for Knowledge Modelling
 short_title: 'Toolkits and guides for <strong>semantic knowledge modeling</strong> and ontology development.'
 logo: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
 homepage: ''
-access_url: ''
 areas:
 - ta2
 trails:

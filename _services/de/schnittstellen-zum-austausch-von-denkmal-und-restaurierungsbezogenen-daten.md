@@ -6,7 +6,6 @@ title: Schnittstellen zum Austausch von denkmalbezogenen Daten
 short_title: '<strong>APIs und standardisierte Formate</strong> für den Austausch von denkmal- und restaurierungsbezogenen Daten.'
 logo: /assets/images/services/logo_schnittstelle_500px.png
 homepage: ''
-access_url: ''
 areas:
 - ta4
 trails:

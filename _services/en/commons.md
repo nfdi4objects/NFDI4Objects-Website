@@ -6,7 +6,6 @@ title: NFDI4Objects Commons
 short_title: 'A platform providing an <strong>overview of available data, tools and knowledge.</strong> Supports research into existing resources.'
 logo: /assets/images/services/n4o_commons_logo_500px.png
 homepage: ''
-access_url: 'https://commons.nfdi4objects.net'
 areas:
 - ta7
 trails: []

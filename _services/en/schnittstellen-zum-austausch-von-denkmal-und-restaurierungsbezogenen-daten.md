@@ -6,7 +6,6 @@ title: Interfaces for the exchange of heritage-related data
 short_title: '<strong>APIs and standardized formats</strong> for exchanging heritage and restoration-related data.'
 logo: /assets/images/services/logo_schnittstelle_500px.png
 homepage: ''
-access_url: ''
 areas:
 - ta4
 trails:

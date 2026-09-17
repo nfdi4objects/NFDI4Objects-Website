@@ -9,7 +9,7 @@ cards:
     icon: "/assets/images/services/archaeologylink-logo.png"
     url: "/en/services/archaeology-link/"
     description: "Platform for <strong>publishing and linking</strong> archaeological data in Linked Open Data format."
-  - title: "INSPIRE Compliant Geodata Services"
+  - title: "Geodata Services for the Exchange of Heritage-Related Data"
     icon: "/assets/images/services/logo-geodatendienst.png"
     url: "/en/services/inspire-konformer-geodatendienst/"
     description: "Provision of <strong>geodata according to European INSPIRE standards</strong>. Cross-border interoperability."
