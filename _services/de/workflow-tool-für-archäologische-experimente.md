@@ -6,7 +6,6 @@ title: Workflow-Tool für archäologische Experimente und Analytik
 short_title: 'Unterstützt die <strong>strukturierte Dokumentation und Auswertung</strong> von experimentellen archäologischen Daten.'
 logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
 homepage: ''
-access_url: ''
 areas:
 - ta3
 trails:

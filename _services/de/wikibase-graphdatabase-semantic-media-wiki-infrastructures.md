@@ -6,7 +6,6 @@ title: Wikibase / Graphdatabase / Semantic Media Wiki Infrastructures
 short_title: 'Infrastrukturen zur Erstellung und Verwaltung von <strong>Wissensdatenbanken</strong> und semantischen Daten.'
 logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
 homepage: ''
-access_url: ''
 areas:
 - ta2
 - ta7

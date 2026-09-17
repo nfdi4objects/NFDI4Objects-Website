@@ -6,7 +6,7 @@ title: Konservierungs- und Restaurierungsfachthesaurus für archäologische Kult
 short_title: '<strong>Standardisiertes Vokabular</strong> für Konservierung und Restaurierung archäologischer Kulturgüter.'
 logo: /assets/images/services/thesaurus_logo_500px.png
 homepage: ''
-access_url: ''
+access_url: 'https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus.html'
 areas:
 - ta4
 trails:
