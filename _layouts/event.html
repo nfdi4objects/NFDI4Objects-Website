@@ -129,7 +129,7 @@ layout: n4o-base
   {% endif %}
 
  {% comment %} Navigation nur anzeigen wenn vorherige oder nächste Veranstaltung existiert {% endcomment %}
-  {% assign sorted = site.events | where: "lang", page.lang | sort: "event_date" | reverse %}
+  {% assign sorted = site.events | where: "lang", page.lang | sort: "event_date" %}
   {% assign current_index = -1 %}
 
   {% for item in sorted %}
@@ -159,12 +159,12 @@ layout: n4o-base
     <nav class="event-nav">
       <div class="event-nav-buttons">
         {% if prev %}
-          <a href="{{ next.url | relative_url }}" class="btn btn-outline prev">
+          <a href="{{ prev.url | relative_url }}" class="btn btn-outline prev">
             {% if page.lang == "en" %}← Previous Event{% else %}← Vorherige Veranstaltung{% endif %}
           </a>
         {% endif %}
         {% if next %}
-          <a href="{{ prev.url | relative_url }}" class="btn btn-outline next">
+          <a href="{{ next.url | relative_url }}" class="btn btn-outline next">
             {% if page.lang == "en" %}Next Event →{% else %}Nächste Veranstaltung →{% endif %}
           </a>
         {% endif %}
