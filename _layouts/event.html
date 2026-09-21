@@ -159,12 +159,12 @@ layout: n4o-base
     <nav class="event-nav">
       <div class="event-nav-buttons">
         {% if prev %}
-          <a href="{{ prev.url | relative_url }}" class="btn btn-outline prev">
+          <a href="{{ next.url | relative_url }}" class="btn btn-outline prev">
             {% if page.lang == "en" %}← Previous Event{% else %}← Vorherige Veranstaltung{% endif %}
           </a>
         {% endif %}
         {% if next %}
-          <a href="{{ next.url | relative_url }}" class="btn btn-outline next">
+          <a href="{{ prev.url | relative_url }}" class="btn btn-outline next">
             {% if page.lang == "en" %}Next Event →{% else %}Nächste Veranstaltung →{% endif %}
           </a>
         {% endif %}
