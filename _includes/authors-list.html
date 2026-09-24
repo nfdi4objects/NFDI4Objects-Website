@@ -1,0 +1,47 @@
+{%- comment -%}
+Authors List Component
+
+Zeigt Autoren mit optionalem Link zur Personen-Seite.
+
+Usage:
+{% include authors-list.html
+   authors=page.authors
+   title="Autoren"
+   title_en="Authors"
+%}
+
+Parameters:
+- authors: Array von Autoren-Objekten mit name, role, person_ref
+- title: Deutsche Überschrift (optional, default: "Autoren")
+- title_en: Englische Überschrift (optional, default: "Authors")
+{%- endcomment -%}
+
+{%- assign current_lang = page.lang | default: "de" -%}
+{%- assign auths = include.authors -%}
+{%- assign title_de = include.title | default: "Autoren" -%}
+{%- assign title_en = include.title_en | default: "Authors" -%}
+
+{%- if auths and auths.size > 0 -%}
+<section class="authors-list space-md">
+  <h3 class="arrow arrow-left">{% if current_lang == "en" %}{{ title_en }}{% else %}{{ title_de }}{% endif %}</h3>
+  <div class="authors-list">
+    {%- for author in auths -%}
+    <div class="coordinator-card">
+      {%- if author.person_ref -%}
+        {%- assign person = site.persons | where: "translation_key", author.person_ref | where: "lang", current_lang | first -%}
+        {%- if person -%}
+          <strong><a href="{{ person.url | relative_url }}">{{ author.name }}</a></strong>
+        {%- else -%}
+          <strong>{{ author.name }}</strong>
+        {%- endif -%}
+      {%- else -%}
+        <strong>{{ author.name }}</strong>
+      {%- endif -%}
+      {%- if author.role -%}
+      <span class="author-role"> ({{ author.role }})</span>
+      {%- endif -%}
+    </div>
+    {%- endfor -%}
+  </div>
+</section>
+{%- endif -%}
