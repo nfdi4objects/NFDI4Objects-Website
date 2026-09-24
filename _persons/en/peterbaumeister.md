@@ -3,7 +3,7 @@ layout: person
 title: Peter Baumeister
 lang: en
 translation_key: peterbaumeister
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Baumeister-Peter.jpg
 groups:
 - steering
 institution: deutsches-archäologisches-institut-dai

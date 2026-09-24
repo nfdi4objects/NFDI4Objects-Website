@@ -3,7 +3,7 @@ layout: person
 title: Angela Berthold
 lang: en
 translation_key: angelaberthold
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Berthold-Angela-1.jpg
 groups:
 - coordination
 - staff

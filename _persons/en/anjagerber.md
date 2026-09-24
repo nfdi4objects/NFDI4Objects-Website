@@ -3,7 +3,7 @@ layout: person
 title: Anja Gerber
 lang: en
 translation_key: anjagerber
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Gerber-Anja.jpg
 groups:
 - coordination
 - staff
