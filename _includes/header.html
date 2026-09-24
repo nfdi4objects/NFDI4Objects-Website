@@ -114,6 +114,15 @@
               {% endfor %}
             {% endif %}
 
+            {% comment %} Commons Collection {% endcomment %}
+            {% if page.collection == "commons" %}
+              {% if lang == "en" and item.url == "/en/commons/" %}
+                {% assign isActive = true %}
+              {% elsif lang != "en" and item.url == "/commons/" %}
+                {% assign isActive = true %}
+              {% endif %}
+            {% endif %}
+
             {% comment %} Services Collection {% endcomment %}
             {% if page.collection == "services" and page.lifecycle_phases %}
               {% for phase in page.lifecycle_phases %}
