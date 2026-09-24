@@ -30,11 +30,7 @@ Are you interested in presenting your own Open Educational Resources as part of 
 **Date: 5 October 2026**
 **Time: 4.00 pm to 5.00 pm**
 **Venue: online**
-**Zoom link:**  [
-https://hs-mainz-de.zoom-x.de/j/68800931561?pwd=DlcaeMUGyEDQU95dsmZyMzanNuH96h.1
-](
-https://hs-mainz-de.zoom-x.de/j/68800931561?pwd=DlcaeMUGyEDQU95dsmZyMzanNuH96h.1
-)
+**Zoom link:**  [https://hs-mainz-de.zoom-x.de/j/68800931561?pwd=DlcaeMUGyEDQU95dsmZyMzanNuH96h.1](https://hs-mainz-de.zoom-x.de/j/68800931561?pwd=DlcaeMUGyEDQU95dsmZyMzanNuH96h.1)
 
 #### You can find all the information about the cluster on our [Community Hub](https://community.nfdi4objects.net/de/assemblies/OER)
 
