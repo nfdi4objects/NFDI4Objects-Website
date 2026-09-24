@@ -3,7 +3,7 @@ layout: event
 lang: en
 translation_key: n4o_activity_20261005-CC_qualification_und_oer
 title: 'Clustermeeting of the CC Qualification & Open Educational Resources (OER)'
-excerpt: 'Invitation to the meeting from 4 to 5 p.m.”
+excerpt: 'Invitation to the meeting from 4 to 5 p.m.'
 date: 2026-09-24
 event_date: 2026-10-05
 location: online
