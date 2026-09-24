@@ -1,9 +1,9 @@
 
 # NFDI Service Categories (technisch, aus alter Website)
 commons_keywords:
-  - id: example1
-    name_de: "Beispiel 1"
-    name_en: "Example 1"
-  - id: example2
-    name_de: "Beispiel 2"
-    name_en: "Example 2"
+  - id: collections
+    name_de: "Museen & Sammlungen"
+    name_en: "Museums & Collections"
+  - id: rdm
+    name_de: "Forschungsdatenmanagment"
+    name_en: "Research Data Management"
