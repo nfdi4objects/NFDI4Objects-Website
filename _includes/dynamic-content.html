@@ -451,7 +451,7 @@ Unterstützte Collections:
   {%- if authors.size > 0 -%}
   <section class="commons-persons space-md">
     <h3 class="arrow arrow-left">{% if current_lang == "de" %}Autoren{% else %}Authors{% endif %}</h3>
-    <div class="coordinator-list">
+    <div class="authors-list">
       {%- for person in authors -%}
       <div class="coordinator-card">
         <strong><a href="{{ person.url | relative_url }}">{{ person.title }}</a></strong>
