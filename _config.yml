@@ -59,6 +59,9 @@ collections:
   services:
     output: true
     permalink: /services/:path/
+  commons:
+    output: true
+    permalink: /commons/:path/
 
 
 
