@@ -5,12 +5,7 @@ lang: de
 permalink: /commons/
 translation_key: commons-overview
 ---
-
-<main id="main-content" class="bg-sand commons-overview">
-  <div class="container">
-    {% include breadcrumb.html %}
-  </div>
-</main>
+# Commons: Empfehlungen und Standards aus der Community
 
 Die NFDI4Objects Commons repräsentieren **Vorschläge, Empfehlungen und Standards unserer Community** und dokumentieren beispielsweise **Best Practices, technische Beschreibungen und Empfehlungen für die Entwicklung von Diensten**. Damit bieten die Commons einen beständig aktualisierten Zugang zu qualitätsgesicherten Ressourcen aus unserer Community.
 
@@ -32,3 +27,5 @@ Erster Entwurf eines strukturierten Rahmens für die standardisierte Erfassung k
 Die Services des Portfolios bilden ein Schlüsselwerkzeug, um die Community bei der FAIRifizierung ihrer Daten im Forschungsalltag zu unterstützen. Ziel ist es, sicherzustellen, dass alle angebotenen Anwendungen und Tools Standards in Bezug auf Interoperabilität, Wiederverwendbarkeit, Nachhaltigkeit und Transparenz erfüllen und dabei die Prinzipien von Open Science fördern.
 
   {% include sections/commons-dynamic.html %}
+
+{% include sections/commons-dynamic.html bg_color="bg-sand" %}
