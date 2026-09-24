@@ -3,7 +3,7 @@ layout: person
 title: Fabian Fricke
 lang: en
 translation_key: fabianfricke
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Fricke-Fabian-2.jpg
 groups:
 - coordination
 - staff
