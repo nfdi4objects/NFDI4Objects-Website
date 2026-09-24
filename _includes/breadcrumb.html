@@ -139,7 +139,6 @@ Unterstützt:
         {% endif %}
       {% endfor %}
     {% endif %}
-  {% endif %}
   {% elsif page.collection == "commons" %}
     {% if lang == "en" %}
       {% assign collection_label = "Commons" %}
@@ -148,6 +147,7 @@ Unterstützt:
       {% assign collection_label = "Commons" %}
       {% assign collection_index = "/commons/" %}
     {% endif %}
+  {% endif %}  
 {% endif %}
 
 {%- comment -%} Navigation durchsuchen {%- endcomment -%}
