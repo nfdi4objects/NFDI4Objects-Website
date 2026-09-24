@@ -2,6 +2,7 @@
 layout: commons
 lang: de
 translation_key: test_commons
+date: 2026-09-24
 title: Test Commons-Beitrag
 excerpt: Das ist nur ein kurzer Test-Eintrag.
 commons_keywords: [example1, example2]

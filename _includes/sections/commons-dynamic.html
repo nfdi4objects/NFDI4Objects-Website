@@ -1,0 +1,74 @@
+{% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
+{% assign filtered = site.commons | where: "lang", page.lang | sort: "date" | reverse %}
+
+{% if filtered.size == 0 %}
+  <p class="no-commons">
+    {% if page.lang == "en" %}
+      No commons available.
+    {% else %}
+      Keine Commons Beiträge verfügbar.
+    {% endif %}
+  </p>
+{% else %}
+  <section class="{{ include.bg | default: 'bg-sand' }}  space-top-0">
+    <div class="container">
+      <header>
+        <h1>{{ page.title | default: "Commons" }}</h1>
+      </header>
+
+      <div class="col3-grid">
+        {% for item in filtered limit: include.limit %}
+          {% assign has_image = item.teaser_image %}
+          {% comment %} Process srcset to add relative_url to each path {% endcomment %}
+          {% if item.teaser_image_srcset %}
+            {% assign srcset_parts = item.teaser_image_srcset | split: ", " %}
+            {% assign processed_srcset = "" %}
+            {% for part in srcset_parts %}
+              {% assign path_and_descriptor = part | split: " " %}
+              {% if path_and_descriptor.size == 2 %}
+                {% assign path = path_and_descriptor[0] | relative_url %}
+                {% assign descriptor = path_and_descriptor[1] %}
+                {% if processed_srcset != "" %}
+                  {% assign processed_srcset = processed_srcset | append: ", " %}
+                {% endif %}
+                {% assign processed_srcset = processed_srcset | append: path | append: " " | append: descriptor %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+          <article class="card {% if has_image %}teaser-img{% endif %}">
+            {% if has_image %}
+              <img src="{{ item.teaser_image | relative_url }}"
+                   {% if item.teaser_image_srcset %}srcset="{{ processed_srcset }}"{% endif %}
+                   {% if item.teaser_image_srcset %}sizes="{{ item.teaser_image_sizes | default: '(min-width: 768px) 600px, 100vw' }}"{% endif %}
+                   alt="{{ item.teaser_image_alt | default: item.title }}">
+              <div class="card-content">
+            {% endif %}
+                <div class="card-date">
+                  <i class="fa fa-calendar-days" aria-hidden="true"></i>
+                    {% if page.lang == "en" %}
+                      {{ item.date | date: "%-m/%-d/%Y" }} 
+                    {% else %}
+                      {{ item.date | date: "%-d. %m. %Y" }}  
+                    {% endif %}
+                </div>
+                <h2><a href="{{ item.url | relative_url }}" class="read-more">{{ item.title }}</a></h2>
+                <p>                  
+                    {{ item.excerpt | default: item.content | strip_html | truncatewords: 30 }}                  
+                </p>
+            {% if has_image %}
+              </div>
+            {% endif %}
+          </article>
+        {% endfor %}
+      </div>
+
+      {% if include.all_url %}
+        <div class="text-center">
+          <a href="{{ include.all_url | relative_url }}" class="btn btn-primary">
+            {% if include.lang == "en" %}All Commons{% else %}Alle Commons Beiträge{% endif %}
+          </a>
+        </div>
+      {% endif %}
+    </div>
+  </section>
+{% endif %}
