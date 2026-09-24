@@ -1,6 +1,9 @@
 
 # NFDI Service Categories (technisch, aus alter Website)
 commons_keywords:
-  - id: example
-    name_de: "Beispiel"
-    name_en: "Example"
+  - id: example1
+    name_de: "Beispiel 1"
+    name_en: "Example 1"
+  - id: example2
+    name_de: "Beispiel 2"
+    name_en: "Example 2"

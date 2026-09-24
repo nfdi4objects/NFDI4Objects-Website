@@ -4,6 +4,7 @@ lang: de
 translation_key: test_commons
 title: Test Commons-Beitrag
 excerpt: Das ist nur ein kurzer Test-Eintrag.
+commons_keywords: [example1, example2]
 authors:
 - name: Anja Gerber
   person_ref: anjagerber
