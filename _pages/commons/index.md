@@ -10,5 +10,5 @@ translation_key: commons-overview
   <div class="container">
     {% include breadcrumb.html %}
   </div>
-  {% include sections/events-dynamic.html %}
+  {% include sections/commons-dynamic.html %}
 </main>
