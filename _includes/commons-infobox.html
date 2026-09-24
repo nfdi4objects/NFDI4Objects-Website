@@ -32,7 +32,7 @@ Front Matter Beispiele:
   <dl class="infobox-list bg-sand">
 
     {%- comment -%} Commons-Keywords (hierarchisch, wenn vorhanden) {%- endcomment -%}
-    {%- if page.nfdi_service_types and page.nfdi_service_types.size > 0 -%}
+    {%- if page.commons_keyword and page.commons_keyword.size > 0 -%}
       <dt>
         {% if current_lang == "en" %}
           {% if page.commons_keywords.size > 1 %}Keywords{% else %}Keywords{% endif %}
@@ -41,7 +41,7 @@ Front Matter Beispiele:
         {% endif %}
       </dt>
       <dd>
-        {%- for type_id in page.nfdi_service_types -%}
+        {%- for type_id in page.commons_keyword -%}
           {%- assign commons_keyword = site.data.commons_categories.commons_keywords | where: "id", type_id | first -%}
           {%- if commons_keyword -%}
             <span class="info-badge info-badge--nfdi-type">
