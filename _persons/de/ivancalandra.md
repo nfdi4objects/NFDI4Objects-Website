@@ -3,7 +3,7 @@ layout: person
 title: Ivan Calandra
 lang: de
 translation_key: ivancalandra
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Calandra-Ivan-2.jpg
 groups:
 - staff
 institution: leiza

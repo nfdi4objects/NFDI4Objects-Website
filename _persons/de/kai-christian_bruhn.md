@@ -3,7 +3,7 @@ layout: person
 title: Kai-Christian Bruhn
 lang: de
 translation_key: kai-christian_bruhn
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Bruhn-Kai-Christian.jpg
 groups:
 - steering
 - deputy_speaker

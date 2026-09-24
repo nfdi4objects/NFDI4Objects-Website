@@ -3,7 +3,7 @@ layout: person
 title: Gerda Grimm
 lang: de
 translation_key: gerdagrimm
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Grimm-Gerda-2.jpg
 groups:
 - staff
 - executive

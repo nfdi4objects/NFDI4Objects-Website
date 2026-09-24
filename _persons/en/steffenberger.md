@@ -3,7 +3,7 @@ layout: person
 title: Steffen Berger
 lang: en
 translation_key: steffenberger
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Berger-Steffen-2.jpg
 groups:
 - staff
 institution: landesamt-für-denkmalpflege-im-regierungspräsidium-stuttgart-baden-württemberg

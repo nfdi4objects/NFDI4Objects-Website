@@ -3,7 +3,7 @@ layout: person
 title: Frank Duehrkohp
 lang: de
 translation_key: frank_duehrkohp
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Dührkohp-Frank-1.jpg
 groups:
 - steering
 institution: verbundzentrale-des-gbv
