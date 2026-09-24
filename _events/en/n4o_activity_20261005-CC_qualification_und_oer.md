@@ -38,6 +38,3 @@ https://hs-mainz-de.zoom-x.de/j/68800931561?pwd=DlcaeMUGyEDQU95dsmZyMzanNuH96h.1
 
 #### You can find all the information about the cluster on our [Community Hub](https://community.nfdi4objects.net/de/assemblies/OER)
 
-
-
-Translated with DeepL.com (free version)
