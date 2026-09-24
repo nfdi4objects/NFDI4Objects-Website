@@ -243,7 +243,7 @@ Unterstützt:
 
 {%- comment -%} 4. URL-basierte Zwischenebenen (für tiefe Hierarchien wie /services/development/infrastruktur/) {%- endcomment -%}
 {%- comment -%} Nur für normale Seiten, nicht für spezielle Collections wie areas, news, persons, trails, twgs, ccs, events, commons {%- endcomment -%}
-{% assign special_collections = "areas,news,persons,trails,twgs,ccs,events, commens" | split: "," %}
+{% assign special_collections = "areas,news,persons,trails,twgs,ccs,events, commons" | split: "," %}
 {% assign is_special_collection = false %}
 {% for col in special_collections %}
   {% if page.collection == col %}
