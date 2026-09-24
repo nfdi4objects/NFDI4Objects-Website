@@ -140,14 +140,14 @@ Unterstützt:
       {% endfor %}
     {% endif %}
   {% endif %}
-    {% elsif page.collection == "commons" %}
-    {% if lang == "en" %}
-      {% assign collection_label = "Commons" %}
-      {% assign collection_index = "/en/commons/" %}
-    {% else %}
-      {% assign collection_label = "Commons" %}
-      {% assign collection_index = "/commons/" %}
-    {% endif %}
+  {% elsif page.collection == "commons" %}
+  {% if lang == "en" %}
+    {% assign collection_label = "Commons" %}
+    {% assign collection_index = "/en/commons/" %}
+  {% else %}
+    {% assign collection_label = "Commons" %}
+    {% assign collection_index = "/commons/" %}
+  {% endif %}
 {% endif %}
 
 {%- comment -%} Navigation durchsuchen {%- endcomment -%}
