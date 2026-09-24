@@ -2,7 +2,7 @@
 layout: n4o-base
 title: "Alle Commons Beiträge"
 lang: de
-permalink: /commons
+permalink: /commons/
 translation_key: commons-overview
 ---
 
