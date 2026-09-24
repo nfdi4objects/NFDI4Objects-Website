@@ -3,7 +3,7 @@ Breadcrumb-Navigation für Jekyll-Seiten.
 Unterstützt:
 - Mehrsprachigkeit (de / en)
 - Navigation aus _data/navigation-[lang].yml
-- Collections (areas, news, persons)
+- Collections (areas, news, persons, commons)
 - Dropdown-Elemente (#)
 {% endcomment %}
 
@@ -139,7 +139,15 @@ Unterstützt:
         {% endif %}
       {% endfor %}
     {% endif %}
-  {% endif %}
+  {% elsif page.collection == "commons" %}
+    {% if lang == "en" %}
+      {% assign collection_label = "Commons" %}
+      {% assign collection_index = "/en/commons/" %}
+    {% else %}
+      {% assign collection_label = "Commons" %}
+      {% assign collection_index = "/commons/" %}
+    {% endif %}
+  {% endif %}  
 {% endif %}
 
 {%- comment -%} Navigation durchsuchen {%- endcomment -%}
@@ -234,8 +242,8 @@ Unterstützt:
 {% endif %}
 
 {%- comment -%} 4. URL-basierte Zwischenebenen (für tiefe Hierarchien wie /services/development/infrastruktur/) {%- endcomment -%}
-{%- comment -%} Nur für normale Seiten, nicht für spezielle Collections wie areas, news, persons, trails, twgs, ccs, events {%- endcomment -%}
-{% assign special_collections = "areas,news,persons,trails,twgs,ccs,events" | split: "," %}
+{%- comment -%} Nur für normale Seiten, nicht für spezielle Collections wie areas, news, persons, trails, twgs, ccs, events, commons {%- endcomment -%}
+{% assign special_collections = "areas,news,persons,trails,twgs,ccs,events,commons" | split: "," %}
 {% assign is_special_collection = false %}
 {% for col in special_collections %}
   {% if page.collection == col %}

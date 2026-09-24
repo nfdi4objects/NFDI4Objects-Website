@@ -424,5 +424,99 @@ Unterstützte Collections:
 
 {%- endif -%}
 
+{%- comment -%} === Commons === {%- endcomment -%}
+{%- if page.collection == "commons" -%}
+
+  {%- comment -%} Zenodo-Button wenn URL im Front Matter {%- endcomment -%}
+  {%- if page.zenodo_url -%}
+    {%- assign zenodo_text = "Zenodo Link" -%}
+    {%- if page.zenodo_pages -%}
+      {%- assign zenodo_text = zenodo_text | append: " " | append: page.zenodo_pages -%}
+    {%- endif -%}
+    <h2 class="text-center size-sm">
+      {%- if current_lang == "de" -%}
+        Die {{ page.title }}-Publikation auf Zenodo
+      {%- else -%}
+        The {{ page.title }} publication on Zenodo
+      {%- endif -%}
+    </h2>
+    {%- include cta-button.html text=zenodo_text url=page.zenodo_url style="primary" new_window=true -%}
+  {%- endif -%}
+
+  {%- comment -%}
+    Hinweis: Commons Keywords werden
+    jetzt im commons-infobox.html oben auf der Seite angezeigt.
+  {%- endcomment -%}
+
+  {% include authors-list.html authors=page.authors %}
+
+  {%- comment -%} Task Areas (task_areas oder areas) {%- endcomment -%}
+  {%- if page.task_areas -%}
+    {% include related-areas.html areas=page.task_areas %}
+  {%- elsif page.areas -%}
+    {% include related-areas.html areas=page.areas %}
+  {%- endif -%}
+
+  {%- comment -%} Community Clusters {%- endcomment -%}
+  {%- if page.ccs and page.ccs.size > 0 -%}
+  <section class="taxonomy-section space-md">
+    <h3 class="arrow arrow-left">
+      {% if current_lang == "en" %}Related Community Clusters{% else %}Zugeordnete Community Cluster{% endif %}
+    </h3>
+    <div class="cc-badges">
+      {%- assign filtered_ccs = site.ccs | where: "lang", current_lang -%}
+      {%- for cc_id in page.ccs -%}
+        {%- for cc in filtered_ccs -%}
+          {%- if cc.translation_key == cc_id or cc.url contains cc_id -%}
+          <a href="{{ cc.url | relative_url }}" class="badge badge--cc">{{ cc.identifier }} - {{ cc.title }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
+  {%- comment -%} Trails {%- endcomment -%}
+  {%- if page.trails and page.trails.size > 0 -%}
+  <section class="taxonomy-section space-md">
+    <h3 class="arrow arrow-left">
+      {% if current_lang == "en" %}Related TRAILs {% else %}Zugeordnete TRAILs{% endif %}
+    </h3>
+    <div class="trail-badges">
+      {%- assign filtered_trails = site.trails | where: "lang", current_lang -%}
+      {%- for trail_id in page.trails -%}
+        {%- for trail in filtered_trails -%}
+          {%- if trail.translation_key == trail_id or trail.url contains trail_id -%}
+          <a href="{{ trail.url | relative_url }}" class="badge badge--trail">{{ trail.title }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
+  {%- comment -%} TWGs {%- endcomment -%}
+  {%- if page.twgs and page.twgs.size > 0 -%}
+  <section class="taxonomy-section space-md">
+    <h3 class="arrow arrow-left">
+      {% if current_lang == "en" %}Related Working Groups{% else %}Zugeordnete Arbeitsgruppen{% endif %}
+    </h3>
+    <div class="twg-badges">
+      {%- assign filtered_twgs = site.twgs | where: "lang", current_lang -%}
+      {%- for twg_id in page.twgs -%}
+        {%- for twg in filtered_twgs -%}
+          {%- if twg.translation_key == twg_id or twg.url contains twg_id -%}
+          <a href="{{ twg.url | relative_url }}" class="badge badge--twg">{{ twg.identifier }} - {{ twg.title }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
+  {% include ttl-download-button.html %}
+
+{%- endif -%}
+
 
 

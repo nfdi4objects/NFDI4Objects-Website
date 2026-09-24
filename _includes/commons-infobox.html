@@ -1,0 +1,59 @@
+{%- comment -%}
+Commons Infobox Component (Akkordeon)
+
+Zeigt Commons-Metadaten in einem aufklappbaren Kasten an:
+- Commons-Keywords
+
+
+Usage:
+{% include commons-infobox.html %}
+
+Die Component nutzt automatisch page.* Front Matter Daten.
+Standardmäßig eingeklappt, kann per Klick ausgeklappt werden.
+
+Front Matter Beispiele:
+  commons_keywords: [example1, example2] # Einfach oder mehrfach 
+{%- endcomment -%}
+
+{%- assign current_lang = page.lang | default: "de" -%}
+
+{%- comment -%} Prüfen ob überhaupt Metadaten vorhanden sind {%- endcomment -%}
+{%- assign has_metadata = false -%}
+{%- if page.commons_keywords -%}
+  {%- assign has_metadata = true -%}
+{%- endif -%}
+
+{%- if has_metadata -%}
+<aside class="commons-infobox">
+  <p class="infobox-toggle btn btn-primary chevron" onclick="this.classList.toggle('active'); this.nextElementSibling.classList.toggle('active');">
+    {% if current_lang == "en" %}Commons Information{% else %}Commons-Informationen{% endif %}
+  </p>
+ 
+  <dl class="infobox-list bg-sand">
+
+    {%- comment -%} Commons-Keywords (hierarchisch, wenn vorhanden) {%- endcomment -%}
+    {%- if page.commons_keywords and page.commons_keywords.size > 0 -%}
+      <dt>
+        {% if current_lang == "en" %}
+          {% if page.commons_keywords.size > 1 %}Keywords{% else %}Keywords{% endif %}
+        {% else %}
+          {% if page.commons_keywords.size > 1 %}Keywords{% else %}Keywords{% endif %}
+        {% endif %}
+      </dt>
+      <dd>
+        {%- for type_id in page.commons_keywords -%}
+          {%- assign commons_keyword = site.data.commons_categories.commons_keywords | where: "id", type_id | first -%}
+          {%- if commons_keyword -%}
+            <span class="info-badge info-badge--commons_keyword">
+              {% if current_lang == "en" %}{{ commons_keyword.name_en }}{% else %}{{ commons_keyword.name_de }}{% endif %}
+            </span>
+          {%- else -%}
+            <span class="info-badge info-badge--commons_keyword">{{ type_id }}</span>
+          {%- endif -%}
+        {%- endfor -%}
+      </dd>
+    {%- endif -%}
+
+  </dl>
+</aside>
+{%- endif -%}

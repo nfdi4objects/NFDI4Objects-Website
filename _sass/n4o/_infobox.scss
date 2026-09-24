@@ -1,5 +1,6 @@
 @use './variables' as *;
-.service-infobox {
+.service-infobox,
+.commons-infobox {
     text-align: center;
   .infobox-list{
    margin: 0 auto;
