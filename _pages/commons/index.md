@@ -1,5 +1,5 @@
 ---
-layout: n4o-base
+layout: page
 title: "Commons: Empfehlungen und Standards aus der Community"
 lang: de
 permalink: /commons/
@@ -26,6 +26,4 @@ Erster Entwurf eines strukturierten Rahmens für die standardisierte Erfassung k
 ### Zertifizierungskriterien für technische Dienste in NFDI4Objects
 Die Services des Portfolios bilden ein Schlüsselwerkzeug, um die Community bei der FAIRifizierung ihrer Daten im Forschungsalltag zu unterstützen. Ziel ist es, sicherzustellen, dass alle angebotenen Anwendungen und Tools Standards in Bezug auf Interoperabilität, Wiederverwendbarkeit, Nachhaltigkeit und Transparenz erfüllen und dabei die Prinzipien von Open Science fördern.
 
-  {% include sections/commons-dynamic.html %}
-
-{% include sections/commons-dynamic.html bg_color="bg-sand" %}
+{% include sections/commons-dynamic.html %}
