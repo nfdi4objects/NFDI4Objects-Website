@@ -22,6 +22,29 @@
   }
 }
 
+.commons-infobox {
+    text-align: center;
+  .infobox-list{
+   margin: 0 auto;
+   text-align: left;
+   padding: var(--spacing-md) var(--spacing-lg);
+   border-radius: var(--border-radius-md);
+   width: 100%;
+   @media (min-width: $device-md){
+   width: 33rem;
+   }
+  }
+  dt {
+   font-weight: 700;  
+  }
+  dd {
+      margin-bottom: var(--spacing-lg);
+      span {
+      display: block;
+      }
+  }
+}
+
 .chevron{
    position: relative; 
  
