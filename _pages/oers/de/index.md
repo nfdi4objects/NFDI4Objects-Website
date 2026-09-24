@@ -2,7 +2,7 @@
 layout: page
 title: "Alle OERs"
 lang: de
-permalink: /oerse/
+permalink: /oers/
 translation_key: oers-overview
 ---
 # Commons: Empfehlungen und Standards aus der Community

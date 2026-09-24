@@ -7,7 +7,7 @@ oers_keywords: collections
 oers_categories: rdm
 lang: de
 translation_key: oer_skript
-permalink: /community/oer_skript/
+permalink: /oers/oer_skript/
 ---
 
 Hallo Welt
