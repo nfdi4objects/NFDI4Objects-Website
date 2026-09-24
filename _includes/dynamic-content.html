@@ -448,19 +448,7 @@ Unterstützte Collections:
     jetzt im commons-infobox.html oben auf der Seite angezeigt.
   {%- endcomment -%}
 
-  {%- if authors.size > 0 -%}
-  <section class="commons-persons space-md">
-    <h3 class="arrow arrow-left">{% if current_lang == "de" %}Autoren{% else %}Authors{% endif %}</h3>
-    <div class="authors-list">
-      {%- for person in authors -%}
-      <div class="coordinator-card">
-        <strong><a href="{{ person.url | relative_url }}">{{ person.title }}</a></strong>
-        {%- if person.position -%}<span class="coordinator-role"> ({{ person.position }})</span>{%- endif -%}
-      </div>
-      {%- endfor -%}
-    </div>
-  </section>
-  {%- endif -%}
+  {% include authors-list.html coordinators=page.cochairs %}
 
   {%- comment -%} Task Areas (task_areas oder areas) {%- endcomment -%}
   {%- if page.task_areas -%}
