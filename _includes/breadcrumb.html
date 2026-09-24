@@ -3,7 +3,7 @@ Breadcrumb-Navigation für Jekyll-Seiten.
 Unterstützt:
 - Mehrsprachigkeit (de / en)
 - Navigation aus _data/navigation-[lang].yml
-- Collections (areas, news, persons, commons)
+- Collections (areas, news, persons, commons, oers)
 - Dropdown-Elemente (#)
 {% endcomment %}
 
@@ -146,6 +146,14 @@ Unterstützt:
     {% else %}
       {% assign collection_label = "Commons" %}
       {% assign collection_index = "/commons/" %}
+    {% endif %}
+  {% elsif page.collection == "oers" %}
+    {% if lang == "en" %}
+      {% assign collection_label = "OERs" %}
+      {% assign collection_index = "/en/oers/" %}
+    {% else %}
+      {% assign collection_label = "OERs" %}
+      {% assign collection_index = "/oers/" %}
     {% endif %}
   {% endif %}  
 {% endif %}

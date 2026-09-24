@@ -62,6 +62,9 @@ collections:
   commons:
     output: true
     permalink: /commons/:path/
+  oers:
+    output: true
+    permalink: /oers/:path/
 
 
 

@@ -1,0 +1,38 @@
+---
+layout: n4o-base
+---
+
+<main id="main-content" class="service">
+  <div class="container">
+    {% include breadcrumb.html %}
+
+    <article class="oers-content">
+      <header class="oers-header">
+        {% if page.logo %}
+        <div class="oers-logo">
+          <img src="{{ page.logo | relative_url }}" alt="{{ page.title }}" />
+        </div>
+        {% endif %}
+
+        <h1>{{ page.title }}</h1>
+
+        {% if page.short_title %}
+        <p class="oers-subtitle lead">{{ page.short_title }}</p>
+        {% endif %}
+
+      </header>
+
+      {% comment %} OERs Infobox - Metadaten direkt nach Header {% endcomment %}
+      {% include oers-infobox.html %}
+
+      {% comment %} Main Content {% endcomment %}
+      <div class="oers-body">
+        {{ content }}
+      </div>
+
+      {% comment %} Dynamische Inhalte (Querverbindungen: Areas, CCs, Trails, TWGs, etc.) {% endcomment %}
+      {% include dynamic-content.html %}
+
+    </article>
+  </div>
+</main>
