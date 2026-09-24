@@ -12,9 +12,6 @@
 {% else %}
   <section class="{{ include.bg | default: 'bg-sand' }}  space-top-0">
     <div class="container">
-      <header>
-        <h1>{{ page.title | default: "Commons" }}</h1>
-      </header>
 
       <div class="col3-grid">
         {% for item in filtered limit: include.limit %}
