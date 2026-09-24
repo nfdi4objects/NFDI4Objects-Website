@@ -14,7 +14,7 @@ ccs:
 - cc-qualifikation-and-open-educational-resources
 twgs: []
 event_type: "CC-Meeting"
-permalink: /en/events/n4o_activity_20261020-CC_1005-CC_qualification_und_oer/
+permalink: /en/events/n4o_activity_20261005-CC_qualification_und_oer/
 ---
 After a long summer break, the Qualification & Open Educational Resources (OER) Community Cluster is meeting again. The meeting is an open forum for the whole community: come and join the discussion, share your experiences and help us develop our ideas further.
 
