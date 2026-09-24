@@ -1,40 +1,52 @@
 {% comment %} Performance: Erst filtern, dann sortieren {% endcomment %}
-{% assign filtered = site.oers | where: "lang", page.lang | sort: "date" | reverse %}
+{% assign filtered = site.oers | where: "lang", page.lang %}
 
 {% if filtered.size == 0 %}
   <p class="no-oers">
-    {% if page.lang == "en" %}No OERs available.{% else %}Keine OERs verfügbar.{% endif %}
+    {% if page.lang == "en" %}
+      No OERs available.
+    {% else %}
+      Keine OERs verfügbar.
+    {% endif %}
   </p>
 {% else %}
   <section class="space-top-0">
     <div class="container">
+
       <div class="col3-grid">
         {% for item in filtered limit: include.limit %}
-          {% assign has_image = false %}
-          {% if item.teaser_image != blank %}{% assign has_image = true %}{% endif %}
-          {% assign processed_srcset = "" %}
-          {% if item.teaser_image_srcset != blank %}
-            {% for part in item.teaser_image_srcset | split: ", " %}
-              {% assign kv = part | split: " " %}
-              {% if kv.size == 2 %}
-                {% assign processed_srcset = processed_srcset | append: ", " | append: kv[0] | append: " " | append: kv[1] %}
+          {% assign has_image = item.teaser_image %}
+          {% comment %} Process srcset to add relative_url to each path {% endcomment %}
+          {% if item.teaser_image_srcset %}
+            {% assign srcset_parts = item.teaser_image_srcset | split: ", " %}
+            {% assign processed_srcset = "" %}
+            {% for part in srcset_parts %}
+              {% assign path_and_descriptor = part | split: " " %}
+              {% if path_and_descriptor.size == 2 %}
+                {% assign path = path_and_descriptor[0] | relative_url %}
+                {% assign descriptor = path_and_descriptor[1] %}
+                {% if processed_srcset != "" %}
+                  {% assign processed_srcset = processed_srcset | append: ", " %}
+                {% endif %}
+                {% assign processed_srcset = processed_srcset | append: path | append: " " | append: descriptor %}
               {% endif %}
             {% endfor %}
-            {% assign processed_srcset = processed_srcset | remove_first: ", " %}
           {% endif %}
-
           <article class="card {% if has_image %}teaser-img{% endif %}">
             {% if has_image %}
               <img src="{{ item.teaser_image | relative_url }}"
-                   {% if processed_srcset != "" %}srcset="{{ processed_srcset }}"{% endif %}
-                   sizes="{{ item.teaser_image_sizes | default: '(min-width: 768px) 600px, 100vw' }}"
-                   loading="lazy"
+                   {% if item.teaser_image_srcset %}srcset="{{ processed_srcset }}"{% endif %}
+                   {% if item.teaser_image_srcset %}sizes="{{ item.teaser_image_sizes | default: '(min-width: 768px) 600px, 100vw' }}"{% endif %}
                    alt="{{ item.teaser_image_alt | default: item.title }}">
+              <div class="card-content">
             {% endif %}
-            <div class="card-content">
-              <h2><a href="{{ item.url | relative_url }}" class="read-more">{{ item.title }}</a></h2>
-              <p>{{ item.excerpt | default: item.content | strip_html | truncatewords: 30 }}</p>
-            </div>
+                <h2><a href="{{ item.url | relative_url }}" class="read-more">{{ item.title }}</a></h2>
+                <p>                  
+                    {{ item.excerpt | default: item.content | strip_html | truncatewords: 30 }}                  
+                </p>
+            {% if has_image %}
+              </div>
+            {% endif %}
           </article>
         {% endfor %}
       </div>
@@ -42,7 +54,7 @@
       {% if include.all_url %}
         <div class="text-center">
           <a href="{{ include.all_url | relative_url }}" class="btn btn-primary">
-            {% if page.lang == "en" %}All OERs{% else %}Alle OERs{% endif %}
+            {% if include.lang == "en" %}All OERs{% else %}Alle OERs Beiträge{% endif %}
           </a>
         </div>
       {% endif %}
