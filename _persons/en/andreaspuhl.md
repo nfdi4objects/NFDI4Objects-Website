@@ -3,7 +3,7 @@ layout: person
 title: Andreas Puhl
 lang: en
 translation_key: andreaspuhl
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Puhl-Andreas.jpg
 groups:
 - staff
 institution: generaldirektion-kulturelles-erbe-rheinland-pfalz

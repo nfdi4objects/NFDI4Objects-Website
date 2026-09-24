@@ -3,7 +3,7 @@ layout: person
 title: Matthias Renz
 lang: de
 translation_key: matthias_renz
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Renz-Matthias-2.jpg
 groups:
 - steering
 institution: universität-kiel-cau

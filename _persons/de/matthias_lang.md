@@ -3,7 +3,7 @@ layout: person
 title: Matthias Lang
 lang: de
 translation_key: matthias_lang
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Lang-Matthias.jpg
 groups:
 - steering
 institution: universität-bonn

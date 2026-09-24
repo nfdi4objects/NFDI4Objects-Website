@@ -3,7 +3,7 @@ layout: person
 title: Christin Keller
 lang: en
 translation_key: christinkeller
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Keller-Christin-3.jpg
 groups:
 - coordination
 - executive

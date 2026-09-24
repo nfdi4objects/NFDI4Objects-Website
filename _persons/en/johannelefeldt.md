@@ -3,7 +3,7 @@ layout: person
 title: Johanne Lefeldt
 lang: en
 translation_key: johannelefeldt
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Lefeldt-Johanne.jpg
 groups:
 - coordination
 - staff

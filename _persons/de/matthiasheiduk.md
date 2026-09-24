@@ -3,7 +3,7 @@ layout: person
 title: Matthias Heiduk
 lang: de
 translation_key: matthiasheiduk
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Heiduk-Matthias-1.jpg
 groups:
 - staff
 institution: leiza

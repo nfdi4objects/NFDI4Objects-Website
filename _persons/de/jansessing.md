@@ -3,7 +3,7 @@ layout: person
 title: Jan Sessing
 lang: de
 translation_key: jansessing
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Sessing-Jan.jpg
 groups:
 - coordination
 - staff

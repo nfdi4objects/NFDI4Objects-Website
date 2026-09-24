@@ -3,7 +3,7 @@ layout: person
 title: Jakob Voss
 lang: de
 translation_key: jakobvoss
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Voß-Jakob.jpg
 groups:
 - staff
 institution: verbundzentrale-des-gbv

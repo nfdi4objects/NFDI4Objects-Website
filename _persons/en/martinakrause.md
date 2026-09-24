@@ -3,7 +3,7 @@ layout: person
 title: Martina Krause
 lang: en
 translation_key: martinakrause
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Krause-Martina-2.jpg
 groups:
 - staff
 - coordination

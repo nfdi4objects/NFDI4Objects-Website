@@ -3,7 +3,7 @@ layout: person
 title: Sandra Schröer-Spang
 lang: de
 translation_key: sandraschröer-spang
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Schroeer-Spang-Sandra.jpg
 groups:
 - coordination
 - staff

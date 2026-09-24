@@ -3,7 +3,7 @@ layout: person
 title: Johannes Rabiger-Völlmer
 lang: en
 translation_key: johannesrabiger-völlmer
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Rabiger-Völlmer-Johannes-2.jpg
 groups:
 - staff
 institution: helmholtz-zentrum-fuer-umweltforschung-department-monitoring-und-erkundungstechnologien

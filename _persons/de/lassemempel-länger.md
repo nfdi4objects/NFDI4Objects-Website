@@ -3,7 +3,7 @@ layout: person
 title: Lasse Mempel-Länger
 lang: de
 translation_key: lassemempel-länger
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Mempel-Laenger-Lasse-2.jpg
 groups:
 - staff
 institution: leiza

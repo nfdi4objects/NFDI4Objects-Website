@@ -3,7 +3,7 @@ layout: person
 title: Josef Heers
 lang: en
 translation_key: josefheers
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Heers-Josef-2.jpg
 groups:
 - staff
 institution: verbundzentrale-des-gbv
