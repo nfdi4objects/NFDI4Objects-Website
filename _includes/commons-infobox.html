@@ -12,7 +12,7 @@ Die Component nutzt automatisch page.* Front Matter Daten.
 Standardmäßig eingeklappt, kann per Klick ausgeklappt werden.
 
 Front Matter Beispiele:
-  commons_keywords: [example1, example2] # Einfach oder mehrfach 
+  keywords: [example1, example2] # Einfach oder mehrfach 
 {%- endcomment -%}
 
 {%- assign current_lang = page.lang | default: "de" -%}
@@ -32,20 +32,20 @@ Front Matter Beispiele:
   <dl class="infobox-list bg-sand">
 
     {%- comment -%} Commons-Keywords (hierarchisch, wenn vorhanden) {%- endcomment -%}
-    {%- if page.commons_keywords and page.commons_keywords.size > 0 -%}
+    {%- if page.keywords and page.keywords.size > 0 -%}
       <dt>
         {% if current_lang == "en" %}
-          {% if page.commons_keywords.size > 1 %}Keywords{% else %}Keyword{% endif %}
+          {% if page.keywords.size > 1 %}Keywords{% else %}Keyword{% endif %}
         {% else %}
-          {% if page.commons_keywords.size > 1 %}Keywords{% else %}Keyword{% endif %}
+          {% if page.keywords.size > 1 %}Keywords{% else %}Keyword{% endif %}
         {% endif %}
       </dt>
       <dd>
-        {%- for type_id in page.commons_keywords -%}
-          {%- assign commons_keyword = site.data.commons_categories.commons_keywords | where: "id", type_id | first -%}
-          {%- if commons_keyword -%}
+        {%- for type_id in page.keywords -%}
+          {%- assign keyword = site.data.commons_categories.keywords | where: "id", type_id | first -%}
+          {%- if keyword -%}
             <span class="info-badge info-badge--commons_keyword">
-              {% if current_lang == "en" %}{{ commons_keyword.name_en }}{% else %}{{ commons_keyword.name_de }}{% endif %}
+              {% if current_lang == "en" %}{{ keyword.name_en }}{% else %}{{ keyword.name_de }}{% endif %}
             </span>
           {%- else -%}
             <span class="info-badge info-badge--commons_keyword">{{ type_id }}</span>

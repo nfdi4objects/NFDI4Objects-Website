@@ -1,6 +1,6 @@
 
 # NFDI Service Categories (technisch, aus alter Website)
-commons_keywords:
+keywords:
   - id: collections
     name_de: "Museen & Sammlungen"
     name_en: "Museums & Collections"
