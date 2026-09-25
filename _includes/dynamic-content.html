@@ -615,7 +615,7 @@ Unterstützte Collections:
       {% if current_lang == "en" %}Related Services{% else %}Zugeordnete Dienste{% endif %}
     </h3>
     <div class="service-badges">
-      {%- assign filtered_twgs = site.services | where: "lang", current_lang -%}
+      {%- assign filtered_services = site.services | where: "lang", current_lang -%}
       {%- for service_id in page.services -%}
         {%- for service in filtered_services -%}
           {%- if service.translation_key == service_id or service.url contains service_id -%}
