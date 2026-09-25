@@ -619,7 +619,7 @@ Unterstützte Collections:
       {%- for service_id in page.services -%}
         {%- for service in filtered_services -%}
           {%- if service.translation_key == service_id or service.url contains service_id -%}
-          <a href="{{ service.url | relative_url }}" class="badge badge--service">{{ service.title }} - {{ service.short_title }}</a>
+          <a href="{{ service.url | relative_url }}" class="badge badge--service">{{ service.title }}</a>
           {%- endif -%}
         {%- endfor -%}
       {%- endfor -%}
