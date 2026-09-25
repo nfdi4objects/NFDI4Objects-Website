@@ -1,6 +1,6 @@
 
 # NFDI Service Categories (technisch, aus alter Website)
-oers_keywords:
+keywords:
   - id: collections
     name_de: "Museen & Sammlungen"
     name_en: "Museums & Collections"
@@ -8,7 +8,7 @@ oers_keywords:
     name_de: "Forschungsdatenmanagment"
     name_en: "Research Data Management"
 
-oers_categories:
+categories:
   - id: collections
     name_de: "Museen & Sammlungen"
     name_en: "Museums & Collections"
