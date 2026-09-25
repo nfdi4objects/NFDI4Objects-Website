@@ -44,7 +44,7 @@ Front Matter Beispiele:
       </dt>
       <dd>
         {%- for type_id in page.categories -%}
-          {%- assign ocategory = site.data.oer_categories.categories | where: "id", type_id | first -%}
+          {%- assign category = site.data.oer_categories.categories | where: "id", type_id | first -%}
           {%- if category -%}
             <span class="info-badge info-badge--oers_category">
               {% if current_lang == "en" %}{{ category.name_en }}{% else %}{{ category.name_de }}{% endif %}
