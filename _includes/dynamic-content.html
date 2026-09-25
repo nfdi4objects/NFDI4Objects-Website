@@ -608,6 +608,44 @@ Unterstützte Collections:
   </section>
   {%- endif -%}
 
+  {%- comment -%} Services {%- endcomment -%}
+  {%- if page.services and page.services.size > 0 -%}
+  <section class="taxonomy-section space-md">
+    <h3 class="arrow arrow-left">
+      {% if current_lang == "en" %}Related Services{% else %}Zugeordnete Dienste{% endif %}
+    </h3>
+    <div class="service-badges">
+      {%- assign filtered_twgs = site.services | where: "lang", current_lang -%}
+      {%- for service_id in page.services -%}
+        {%- for service in filtered_services -%}
+          {%- if service.translation_key == service_id or service.url contains service_id -%}
+          <a href="{{ service.url | relative_url }}" class="badge badge--service">{{ service.identifier }} - {{ service.title }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
+  {%- comment -%} Commons {%- endcomment -%}
+  {%- if page.commons and page.commons.size > 0 -%}
+  <section class="taxonomy-section space-md">
+    <h3 class="arrow arrow-left">
+      {% if current_lang == "en" %}Related Commons{% else %}Zugeordnete Commons Beiträge{% endif %}
+    </h3>
+    <div class="common-badges">
+      {%- assign filtered_commons = site.commons | where: "lang", current_lang -%}
+      {%- for common_id in page.commons -%}
+        {%- for common in filtered_commons -%}
+          {%- if common.translation_key == common_id or common.url contains common_id -%}
+          <a href="{{ common.url | relative_url }}" class="badge badge--common">{{ common.identifier }} - {{ common.title }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
   {% include ttl-download-button.html %}
 
 {%- endif -%}
