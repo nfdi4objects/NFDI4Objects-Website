@@ -15,3 +15,8 @@ categories:
   - id: rdm
     name_de: "Forschungsdatenmanagment"
     name_en: "Research Data Management"
+
+target_groups:
+  - id: eintracht
+    name_de: "Fans von Eintracht Frankfurt"
+    name_en: "Fans of Eintracht Frankfurt"

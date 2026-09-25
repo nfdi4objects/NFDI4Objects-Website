@@ -33,6 +33,29 @@ Front Matter Beispiele:
  
   <dl class="infobox-list bg-sand">
 
+    {%- comment -%} OER-Target Groups (hierarchisch, wenn vorhanden) {%- endcomment -%}
+    {%- if page.target_group and page.target_group.size > 0 -%}
+      <dt>
+        {% if current_lang == "en" %}
+          {% if page.target_group.size > 1 %}Target Groups{% else %}Target Group{% endif %}
+        {% else %}
+          {% if page.target_group.size > 1 %}Zielgruppen{% else %}Zielgruppe{% endif %}
+        {% endif %}
+      </dt>
+      <dd>
+        {%- for type_id in page.target_group -%}
+          {%- assign target_group = site.data.oer_categories.target_group | where: "id", type_id | first -%}
+          {%- if target_group -%}
+            <span class="info-badge info-badge--oers_target_group">
+              {% if current_lang == "en" %}{{ target_group.name_en }}{% else %}{{ target_group.name_de }}{% endif %}
+            </span>
+          {%- else -%}
+            <span class="info-badge info-badge--oers_target_group">{{ type_id }}</span>
+          {%- endif -%}
+        {%- endfor -%}
+      </dd>
+    {%- endif -%}    
+
     {%- comment -%} OER-Categories (hierarchisch, wenn vorhanden) {%- endcomment -%}
     {%- if page.categories and page.categories.size > 0 -%}
       <dt>

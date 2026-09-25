@@ -6,7 +6,10 @@ excerpt: Das tolleste OER überhaupt!
 link_url: https://nfdi4objects.github.io/oer-skript-metadaten/
 keywords: 
  - collections
-categories: rdm
+categories: 
+ - rdm
+target_group:
+ - eintracht
 lang: de
 areas: ta1
 services: archaeology-link
