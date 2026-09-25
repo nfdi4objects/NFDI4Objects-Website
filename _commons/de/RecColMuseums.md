@@ -8,7 +8,6 @@ excerpt: Entwurf der Empfehlungen der Temporary Working Group (TWG) 'Umfeldanaly
 zenodo_url: https://zenodo.org/records/17778128
 keywords: 
  - collections 
- - rdm
 authors:
 - name: Johannes Schäffer 
   person_ref: johannesschäffer
