@@ -21,7 +21,7 @@ permalink: /help/
   <label for="email">Email:</label><br>
   <input type="email" id="email" name="email" required><br><br>
 
-  <label for="subject">Titel:</label><br>
+  <label for="subject">Betreff:</label><br>
   <input type="text" id="subject" name="subject" required><br><br>
 
   <label for="qcat">Ihr Anliegen:</label><br>
