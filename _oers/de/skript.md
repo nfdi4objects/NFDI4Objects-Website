@@ -1,6 +1,6 @@
 ---
 layout: oers
-date: 2026-09-26
+date: 2025-09-21
 title: "Lernmaterialien: NFDI4Objects OER"
 excerpt: Das tolleste OER überhaupt!
 url: https://nfdi4objects.github.io/oer-skript-metadaten/
