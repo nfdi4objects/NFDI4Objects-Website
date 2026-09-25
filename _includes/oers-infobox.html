@@ -44,7 +44,7 @@ Front Matter Beispiele:
       </dt>
       <dd>
         {%- for type_id in page.target_group -%}
-          {%- assign target_group = site.data.oer_categories.target_group | where: "id", type_id | first -%}
+          {%- assign target_group = site.data.oer_categories.target_groups | where: "id", type_id | first -%}
           {%- if target_group -%}
             <span class="info-badge info-badge--oers_target_group">
               {% if current_lang == "en" %}{{ target_group.name_en }}{% else %}{{ target_group.name_de }}{% endif %}
