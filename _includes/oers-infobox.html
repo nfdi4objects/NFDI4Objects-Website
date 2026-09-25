@@ -43,7 +43,7 @@ Front Matter Beispiele:
       </dt>
       <dd>
         {%- for type_id in page.oers_categories -%}
-          {%- assign oers_category = site.data.oers_categories.oers_categories | where: "id", type_id | first -%}
+          {%- assign oers_category = site.data.oer_categories.oers_categories | where: "id", type_id | first -%}
           {%- if oers_category -%}
             <span class="info-badge info-badge--oers_category">
               {% if current_lang == "en" %}{{ oers_category.name_en }}{% else %}{{ oers_category.name_de }}{% endif %}
@@ -66,7 +66,7 @@ Front Matter Beispiele:
       </dt>
       <dd>
         {%- for type_id in page.oers_keywords -%}
-          {%- assign oers_keyword = site.data.oers_categories.oers_keywords | where: "id", type_id | first -%}
+          {%- assign oers_keyword = site.data.oer_categories.oers_keywords | where: "id", type_id | first -%}
           {%- if oers_keyword -%}
             <span class="info-badge info-badge--oers_keyword">
               {% if current_lang == "en" %}{{ oers_keyword.name_en }}{% else %}{{ oers_keyword.name_de }}{% endif %}
