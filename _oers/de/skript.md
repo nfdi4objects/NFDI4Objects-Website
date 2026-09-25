@@ -8,6 +8,7 @@ oers_keywords: collections
 oers_categories: rdm
 lang: de
 areas: ta1
+services: archaeology-link
 translation_key: skript
 permalink: /oers/skript/
 ---
