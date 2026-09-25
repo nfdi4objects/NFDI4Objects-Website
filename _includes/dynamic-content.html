@@ -638,7 +638,7 @@ Unterstützte Collections:
       {%- for common_id in page.commons -%}
         {%- for common in filtered_commons -%}
           {%- if common.translation_key == common_id or common.url contains common_id -%}
-          <a href="{{ common.url | relative_url }}" class="badge badge--common">{{ common.identifier }} - {{ common.title }}</a>
+          <a href="{{ common.url | relative_url }}" class="badge badge--common">{{ common.title }}</a>
           {%- endif -%}
         {%- endfor -%}
       {%- endfor -%}
