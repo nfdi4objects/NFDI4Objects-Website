@@ -1,0 +1,5 @@
+---
+layout: person-ttl
+permalink: /persons/ghausrabbani/index.ttl
+source: ghausrabbani
+---
