@@ -123,6 +123,15 @@
               {% endif %}
             {% endif %}
 
+            {% comment %} OERs Collection {% endcomment %}
+            {% if page.collection == "oers" %}
+              {% if lang == "en" and item.url == "/en/oers/" %}
+                {% assign isActive = true %}
+              {% elsif lang != "en" and item.url == "/oers/" %}
+                {% assign isActive = true %}
+              {% endif %}
+            {% endif %}
+
             {% comment %} Services Collection {% endcomment %}
             {% if page.collection == "services" and page.lifecycle_phases %}
               {% for phase in page.lifecycle_phases %}
@@ -222,7 +231,7 @@
   {% endif %}
 
   {% comment %}
-  Alle Seiten und Collections sammeln (pages + news + events + persons + areas + ccs + twgs + trails + services)
+  Alle Seiten und Collections sammeln (pages + news + events + persons + areas + ccs + twgs + trails + services + commons + oers)
   {% endcomment %}
   {% assign all_docs = site.pages %}
   {% assign all_docs = all_docs | concat: site.news %}
@@ -233,6 +242,9 @@
   {% assign all_docs = all_docs | concat: site.twgs %}
   {% assign all_docs = all_docs | concat: site.trails %}
   {% assign all_docs = all_docs | concat: site.services %}
+  {% assign all_docs = all_docs | concat: site.commons %}
+  {% assign all_docs = all_docs | concat: site.oers %}
+
 
   {% comment %}
   Passende Gegen-Seite finden (gleiche translation_key, andere Sprache)
