@@ -1,7 +1,8 @@
 @use './variables' as *;
 
 // Helpdesk Form Container
-#helpdeskform {
+#helpdeskform,
+#commentform {
     background-color: #ffffff;
     padding: 30px;
     border-radius: 8px;
@@ -13,10 +14,14 @@
 }
 
 // Inputs, Select, and Textarea
-#helpdeskform input[type="text"],
-#helpdeskform input[type="email"],
-#helpdeskform select,
-#helpdeskform textarea {
+#helpdeskform,
+#commentform input[type="text"],
+#helpdeskform,
+#commentform input[type="email"],
+#helpdeskform,
+#commentform select,
+#helpdeskform,
+#commentform textarea {
     width: 100%;
     padding: 10px;
     margin-top: 5px;
@@ -29,41 +34,51 @@
     transition: border-color 0.3s ease; // Smooth focus transition
 }
 
-#helpdeskform input[type="text"]:focus,
-#helpdeskform input[type="email"]:focus,
-#helpdeskform select:focus,
-#helpdeskform textarea:focus {
+#helpdeskform,
+#commentform input[type="text"]:focus,
+#helpdeskform,
+#commentform input[type="email"]:focus,
+#helpdeskform,
+#commentform select:focus,
+#helpdeskform,
+#commentform textarea:focus {
     border-color: var(--color-blue);
     outline: none;
 }
 
 // Textarea-specific styling
-#helpdeskform textarea {
+#helpdeskform,
+#commentform textarea {
     resize: vertical;
     min-height: 100px;
     line-height: 1.5;
 }
 
 // Checkbox and Label
-#helpdeskform label[for="readdataprotection"] {
+#helpdeskform,
+#commentform label[for="readdataprotection"] {
     display: inline-block;
     margin-left: 5px;
     font-size: 0.9em;
     cursor: pointer;
 }
 
-#helpdeskform a {
+#helpdeskform,
+#commentform a {
     color: var(--color-blue);
     text-decoration: none;
 }
 
-#helpdeskform a:hover {
+#helpdeskform,
+#commentform a:hover {
     text-decoration: underline;
 }
 
 // Buttons
-#helpdeskform input[type="submit"],
-#helpdeskform input[type="reset"] {
+#helpdeskform,
+#commentform input[type="submit"],
+#helpdeskform,
+#commentform input[type="reset"] {
     background-color: var(--color-blue);
     color: white;
     padding: 10px 15px;
@@ -75,20 +90,24 @@
     transition: background-color 0.3s ease;
 }
 
-#helpdeskform input[type="submit"]:hover {
+#helpdeskform,
+#commentform input[type="submit"]:hover {
     background-color: var(--color-blue-dark);
 }
 
-#helpdeskform input[type="reset"] {
+#helpdeskform,
+#commentform input[type="reset"] {
     background-color: var(--color-sand-dark);
 }
 
-#helpdeskform input[type="reset"]:hover {
+#helpdeskform,
+#commentform input[type="reset"]:hover {
     background-color: var(--color-beige-dark);
 }
 
 // Required Field Indicator
-#helpdeskform [required] {
+#helpdeskform,
+#commentform [required] {
     border-left: 3px solid var(--color-blue);
 }
 
