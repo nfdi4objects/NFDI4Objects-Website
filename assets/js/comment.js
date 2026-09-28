@@ -1,5 +1,4 @@
 // Comment  Form Submission Logic
-const token = window.ENV.MY_SECRET_TOKEN;
 const confirm = {
   "de": ["Support Ticket mit Nummer #", " wurde erfolgreich angelegt!"],
   "en": ["Support Ticket with number #", " has been created successfully!"]
