@@ -1,5 +1,13 @@
 // Comment  Form Submission Logic
 
+document.addEventCommentListener("DOMContentLoaded", function() {
+  const form = document.getElementById("helpdeskform");
+  form.addEventCommentListener("submit", function(event) {
+    event.preventDefault();
+    sendHelpdeskFormContents();
+  });
+});
+
 function sendCommentFormContents() {
   const email = document.getElementById("email").value;
   const name = document.getElementById("name").value;
@@ -50,7 +58,7 @@ function sendCommentFormContents() {
 }
 
 // Close modal when clicking the backdrop
-document.getElementById("sentdialog").addEventListener("click", function(e) {
+document.getElementById("sentdialog").addEventCommentListener("click", function(e) {
   if (e.target === this) {
     this.close();
   }
