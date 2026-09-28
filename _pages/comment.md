@@ -4,7 +4,7 @@ title: Hilfe & Kontakt
 description: Kontaktformular für Support-Anfragen
 keywords: support, kontakt, hilfe, ticket
 lang: de
-translation_key: help
+translation_key: comment
 permalink: /comment/
 ---
 
