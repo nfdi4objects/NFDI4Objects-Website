@@ -1,23 +1,4 @@
 // Comment  Form Submission Logic
-const confirm = {
-  "de": ["Support Ticket mit Nummer #", " wurde erfolgreich angelegt!"],
-  "en": ["Support Ticket with number #", " has been created successfully!"]
-};
-const error = {
-  "de": ["Support Ticket konnte nicht angelegt werden!"],
-  "en": ["Support Ticket could not be created!"]
-};
-
-// Get the current language from the HTML lang attribute
-const hlang = document.documentElement.lang || "de";
-
-document.addEventListener("DOMContentLoaded", function() {
-  const form = document.getElementById("commentform");
-  form.addEventListener("submit", function(event) {
-    event.preventDefault();
-    sendCommentFormContents();
-  });
-});
 
 function sendCommentFormContents() {
   const email = document.getElementById("email").value;
