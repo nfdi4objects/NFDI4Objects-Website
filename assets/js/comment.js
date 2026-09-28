@@ -1,8 +1,8 @@
 // Comment  Form Submission Logic
 
-document.addEventCommentListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function() {
   const form = document.getElementById("helpdeskform");
-  form.addEventCommentListener("submit", function(event) {
+  form.addEventListener("submit", function(event) {
     event.preventDefault();
     sendHelpdeskFormContents();
   });
@@ -58,7 +58,7 @@ function sendCommentFormContents() {
 }
 
 // Close modal when clicking the backdrop
-document.getElementById("sentdialog").addEventCommentListener("click", function(e) {
+document.getElementById("sentdialog").addEventListener("click", function(e) {
   if (e.target === this) {
     this.close();
   }
