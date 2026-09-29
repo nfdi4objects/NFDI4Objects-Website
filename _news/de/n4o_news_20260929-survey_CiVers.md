@@ -19,7 +19,7 @@ Die Umfrage erfasst aktuelle Praktiken, Erfahrungen und Erwartungen im Umgang mi
 
 die Veröffentlichung und Zitierung von Forschungsdaten,
 persistente Identifikatoren (PIDs) wie DOIs,
-die FAIR-Prinzipien,
+die FAIR-Prinzipien, 
 die Rolle digitaler Infrastrukturen und Webressourcen in der wissenschaftlichen Kommunikation.
 
 Die Ergebnisse helfen uns, die Bedürfnisse und Prioritäten der Forschenden besser zu verstehen. Auf dieser Grundlage sollen Forschungsdateninfrastrukturen verbessert und Lösungen entwickelt werden, die Veröffentlichung, Zitierung, Auffindbarkeit und langfristige Nachnutzung digitaler Forschungsressourcen unterstützen.

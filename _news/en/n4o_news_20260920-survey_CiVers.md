@@ -19,7 +19,7 @@ The survey aims to capture current practices, experiences and expectations regar
 
 the publication and citation of research data,
 persistent identifiers (PIDs) such as DOIs,
-the FAIR principles,
+the FAIR principles, 
 the role of digital infrastructures and web resources in scientific communication.
 
 The results will help us to better understand researchers’ needs and priorities. On this basis, we aim to improve research data infrastructures and develop solutions that support the publication, citation, discoverability and long-term reuse of digital research resources.
