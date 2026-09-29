@@ -7,3 +7,9 @@ keywords:
   - id: rdm
     name_de: "Forschungsdatenmanagment"
     name_en: "Research Data Management"
+  - id: mds
+    name_de: "Metadatenschema"
+    name_en: "Metadata Schema"
+  - id: conservation
+    name_de: "Konservierung & Restaurierung"
+    name_en: "Conservation & Restauration"
