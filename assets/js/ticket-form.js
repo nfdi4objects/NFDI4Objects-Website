@@ -83,7 +83,7 @@ function sendFormContents(formId) {
     },
     data: {
       title: subject,
-      group: "Users",
+      group: config.getTags(),
       customer_id: "guess:" + email,
       article: {
         from: from,
@@ -92,8 +92,7 @@ function sendFormContents(formId) {
         sender: "Customer",
         type: "email",
         internal: false
-      },
-      tags: config.getTags()
+      }
     },
     success: function(result) {
       document.getElementById(formId).reset();
