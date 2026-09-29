@@ -25,7 +25,4 @@ twgs: twg1
 permalink: /commons/RecColMuseums/
 ---
 
-Die zur Kommentierung stehenden Empfehlungen der Temporary Working Group (TWG) 'Umfeldanalyse zur FDM-Landschaft in Museen und Sammlungen' von NFDI4Objects auf Basis der Arbeitsergebnisse dieser TWG:
-
-* Überblick über das Forschungsdatenmanagement in Museen und Universitätssammlungen https://doi.org/10.5281/zenodo.13362432(Externer Link)
-* Bericht zum Forschungsdatenmanagement in Museen und Sammlungen (2024) https://doi.org/10.5281/zenodo.17776887(Externer Link)
+Die Empfehlungen der Temporary Working Group (TWG) Umfeldanalyse zur FDM-Landschaft in Museen und Sammlungen basieren auf zwei Datenerhebungen: dem Bericht zum Forschungsdatenmanagement in Museen und Sammlungen von 2024 und einem Überblick über das Forschungsdatenmanagement in Museen und Universitätssammlungen von 2025.

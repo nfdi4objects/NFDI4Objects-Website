@@ -25,8 +25,7 @@ authors:
 areas: 
 - ta4
 trails:
-ccs: 
-- cc_conservation_sciences
+ccs: cc_conservation_sciences
 twgs: 
 - community-standards-für-kontrollierte-vokabulare-und-austauschformate-im-bereich-der-erhaltung-und-pflege-des-kulturellen-erbes
 permalink: /commons/MDSConservation/
