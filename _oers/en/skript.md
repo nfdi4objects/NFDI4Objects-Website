@@ -9,7 +9,7 @@ keywords:
 categories: 
  - rdm
 target_group:
- - eintracht
+ - researchers
 lang: en
 areas: ta1
 services: archaeology-link
