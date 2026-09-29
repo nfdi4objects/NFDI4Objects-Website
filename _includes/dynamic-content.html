@@ -433,13 +433,6 @@ Unterstützte Collections:
     {%- if page.zenodo_pages -%}
       {%- assign zenodo_text = zenodo_text | append: " " | append: page.zenodo_pages -%}
     {%- endif -%}
-    <h2 class="text-center size-sm">
-      {%- if current_lang == "de" -%}
-        Die {{ page.title }}-Publikation auf Zenodo
-      {%- else -%}
-        The {{ page.title }} publication on Zenodo
-      {%- endif -%}
-    </h2>
     {%- include cta-button.html text=zenodo_text url=page.zenodo_url style="primary" new_window=true -%}
   {%- endif -%}
 
