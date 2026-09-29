@@ -82,3 +82,6 @@ defaults:
 
 include:
   - "en"
+
+# Zammad API token (injected via environment at build time)
+zammad_token: <%= ENV['ZAMMAD_TOKEN'] %>

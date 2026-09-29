@@ -11,6 +11,11 @@ layout: n4o-base
   </div>
 </main>
 
-<!-- Load jQuery and helpdesk.js at the end of the body -->
+<!-- Load jQuery and ticket-form.js at the end of the body -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+  window.ENV = {
+    MY_SECRET_TOKEN: "{{ site.zammad_token }}"
+  };
+</script>
 <script src="{{ '/assets/js/ticket-form.js' | relative_url }}"></script>
