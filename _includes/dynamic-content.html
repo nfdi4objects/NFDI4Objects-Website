@@ -461,7 +461,7 @@ Unterstützte Collections:
       {%- for cc_id in page.ccs -%}
         {%- for cc in filtered_ccs -%}
           {%- if cc.translation_key == cc_id or cc.url contains cc_id -%}
-          <a href="{{ cc.url | relative_url }}" class="badge badge--cc">{{ cc.identifier }} - {{ cc.title }}</a>
+          <a href="{{ cc.url | relative_url }}" class="badge badge--cc">{{ cc.title }}</a>
           {%- endif -%}
         {%- endfor -%}
       {%- endfor -%}
@@ -499,7 +499,7 @@ Unterstützte Collections:
       {%- for twg_id in page.twgs -%}
         {%- for twg in filtered_twgs -%}
           {%- if twg.translation_key == twg_id or twg.url contains twg_id -%}
-          <a href="{{ twg.url | relative_url }}" class="badge badge--twg">{{ twg.identifier }} - {{ twg.title }}</a>
+          <a href="{{ twg.url | relative_url }}" class="badge badge--twg">{{ twg.title }}</a>
           {%- endif -%}
         {%- endfor -%}
       {%- endfor -%}
@@ -555,7 +555,7 @@ Unterstützte Collections:
       {%- for cc_id in page.ccs -%}
         {%- for cc in filtered_ccs -%}
           {%- if cc.translation_key == cc_id or cc.url contains cc_id -%}
-          <a href="{{ cc.url | relative_url }}" class="badge badge--cc">{{ cc.identifier }} - {{ cc.title }}</a>
+          <a href="{{ cc.url | relative_url }}" class="badge badge--cc">{{ cc.title }}</a>
           {%- endif -%}
         {%- endfor -%}
       {%- endfor -%}
@@ -593,7 +593,7 @@ Unterstützte Collections:
       {%- for twg_id in page.twgs -%}
         {%- for twg in filtered_twgs -%}
           {%- if twg.translation_key == twg_id or twg.url contains twg_id -%}
-          <a href="{{ twg.url | relative_url }}" class="badge badge--twg">{{ twg.identifier }} - {{ twg.title }}</a>
+          <a href="{{ twg.url | relative_url }}" class="badge badge--twg">{{ twg.title }}</a>
           {%- endif -%}
         {%- endfor -%}
       {%- endfor -%}
