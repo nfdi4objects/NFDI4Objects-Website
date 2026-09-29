@@ -83,5 +83,6 @@ defaults:
 include:
   - "en"
 
-# Zammad API token (injected via environment at build time)
-zammad_token: <%= ENV['ZAMMAD_TOKEN'] %>
+# Zammad API token: NOT configured here.
+# It is injected at build time from ENV['ZAMMAD_TOKEN'] via _plugins/env.rb
+# (see systemd unit jekyll_builder.service, EnvironmentFile=/etc/nfdi4objects/zammad.env)
