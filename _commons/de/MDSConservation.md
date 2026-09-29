@@ -31,4 +31,4 @@ twgs:
 permalink: /commons/MDSConservation/
 ---
 
-Strukturierter Rahmen für die standardisierte Erfassung konservatorisch-restauratorischer Eingriffe an Kunst und Kulturgut, entwickelt durch die Temporary Working Group Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes
+Strukturierter Rahmen für die standardisierte Erfassung konservatorisch-restauratorischer Eingriffe an Kunst und Kulturgut, entwickelt durch die Temporary Working Group Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes.
