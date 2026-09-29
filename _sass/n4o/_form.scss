@@ -1,6 +1,6 @@
 @use './variables' as *;
 
-// Helpdesk Form Container
+// Form Container (Helpdesk + Comment forms)
 #helpdeskform,
 #commentform {
     background-color: #ffffff;
@@ -11,104 +11,83 @@
     max-width: 600px;
     margin: 0 auto;
     font-family: var(--font-family-base); // Ensure font consistency
-}
 
-// Inputs, Select, and Textarea
-#helpdeskform,
-#commentform input[type="text"],
-#helpdeskform,
-#commentform input[type="email"],
-#helpdeskform,
-#commentform select,
-#helpdeskform,
-#commentform textarea {
-    width: 100%;
-    padding: 10px;
-    margin-top: 5px;
-    margin-bottom: 15px;
-    display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-    font-size: 16px;
-    transition: border-color 0.3s ease; // Smooth focus transition
-}
+    // Inputs, Select, and Textarea
+    input[type="text"],
+    input[type="email"],
+    select,
+    textarea {
+        width: 100%;
+        padding: 10px;
+        margin-top: 5px;
+        margin-bottom: 15px;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        font-size: 16px;
+        transition: border-color 0.3s ease; // Smooth focus transition
 
-#helpdeskform,
-#commentform input[type="text"]:focus,
-#helpdeskform,
-#commentform input[type="email"]:focus,
-#helpdeskform,
-#commentform select:focus,
-#helpdeskform,
-#commentform textarea:focus {
-    border-color: var(--color-blue);
-    outline: none;
-}
+        &:focus {
+            border-color: var(--color-blue);
+            outline: none;
+        }
+    }
 
-// Textarea-specific styling
-#helpdeskform,
-#commentform textarea {
-    resize: vertical;
-    min-height: 100px;
-    line-height: 1.5;
-}
+    // Textarea-specific styling
+    textarea {
+        resize: vertical;
+        min-height: 100px;
+        line-height: 1.5;
+    }
 
-// Checkbox and Label
-#helpdeskform,
-#commentform label[for="readdataprotection"] {
-    display: inline-block;
-    margin-left: 5px;
-    font-size: 0.9em;
-    cursor: pointer;
-}
+    // Checkbox and Label
+    label[for="readdataprotection"] {
+        display: inline-block;
+        margin-left: 5px;
+        font-size: 0.9em;
+        cursor: pointer;
+    }
 
-#helpdeskform,
-#commentform a {
-    color: var(--color-blue);
-    text-decoration: none;
-}
+    a {
+        color: var(--color-blue);
+        text-decoration: none;
 
-#helpdeskform,
-#commentform a:hover {
-    text-decoration: underline;
-}
+        &:hover {
+            text-decoration: underline;
+        }
+    }
 
-// Buttons
-#helpdeskform,
-#commentform input[type="submit"],
-#helpdeskform,
-#commentform input[type="reset"] {
-    background-color: var(--color-blue);
-    color: white;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 16px;
-    margin-right: 10px;
-    transition: background-color 0.3s ease;
-}
+    // Buttons
+    input[type="submit"],
+    input[type="reset"] {
+        background-color: var(--color-blue);
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 16px;
+        margin-right: 10px;
+        transition: background-color 0.3s ease;
 
-#helpdeskform,
-#commentform input[type="submit"]:hover {
-    background-color: var(--color-blue-dark);
-}
+        &:hover {
+            background-color: var(--color-blue-dark);
+        }
+    }
 
-#helpdeskform,
-#commentform input[type="reset"] {
-    background-color: var(--color-sand-dark);
-}
+    input[type="reset"] {
+        background-color: var(--color-sand-dark);
 
-#helpdeskform,
-#commentform input[type="reset"]:hover {
-    background-color: var(--color-beige-dark);
-}
+        &:hover {
+            background-color: var(--color-beige-dark);
+        }
+    }
 
-// Required Field Indicator
-#helpdeskform,
-#commentform [required] {
-    border-left: 3px solid var(--color-blue);
+    // Required Field Indicator
+    [required] {
+        border-left: 3px solid var(--color-blue);
+    }
 }
 
 // Switch (if used elsewhere)
@@ -147,10 +126,10 @@ dialog#sentdialog {
         cursor: pointer;
         margin-top: 1em;
         transition: background-color 0.3s ease;
-    }
 
-    button:hover {
-        background: var(--color-blue-dark);
+        &:hover {
+            background-color: var(--color-blue-dark);
+        }
     }
 }
 
