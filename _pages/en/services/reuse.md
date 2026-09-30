@@ -13,6 +13,10 @@ cards:
     icon: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
     url: "/en/services/workflow-tool-für-archäologische-experimente/"
     description: "Supports <strong>structured documentation and analysis</strong> of experimental archaeological data."
+  - title: "NDP -  Münzkabinett Authority File Portal"
+    icon: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
+    url: "/services/ndp/"
+    description: "Numismatic standard data as <strong>Linked Open Data</strong>"
 ---
 
 {% include page-header.html

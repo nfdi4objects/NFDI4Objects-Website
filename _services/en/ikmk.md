@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: ikmk
 title: 'ikmk.net - Münzkabinett Berlin Online Catalogue'
-short_title: "kmk.net is a portal for >strong<the documentation and publication of coins.</strong>"
+short_title: "ikmk.net is a portal for <strong>the documentation and publication of coins.</strong>"
 logo: /assets/images/services//n4o_website_symbolgraphiken_portal_services.png
 homepage: 
 access_url: https://ikmk.net/home
