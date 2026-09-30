@@ -15,6 +15,10 @@ cards:
     icon: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
     url: "/services/workflow-tool-für-archäologische-experimente/"
     description: "Unterstützt die <strong>strukturierte Dokumentation und Auswertung</strong> von experimentellen archäologischen Daten."
+  - title: "ikmk.net - Interaktiver Katalog des Münzkabinetts Berlin"
+    icon: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
+    url: "/services/ikmk/"
+    description: "ikmk.net ist ein Portal zur >strong<Dokumentation und Publikation von Münzen.</strong>"
 ---
 
 {% include page-header.html
