@@ -28,7 +28,7 @@ permalink: /comment/
   <textarea id="message" name="message" required></textarea><br><br>
 
   <input id="readdataprotection" type="checkbox" required>
-  <label for="readdataprotection">Ich habe die <a href="https://www.dainst.org/datenschutz" target="_blank" rel="noopener noreferrer">Datenschutzerklärung</a> zur Kenntnis genommen und bin mit der Veröffentlichung meines Kommentars einverstanden</label><br><br>
+  <label for="readdataprotection">Ich habe die <a href="https://www.dainst.org/datenschutz" target="_blank" rel="noopener noreferrer">Datenschutzerklärung</a> zur Kenntnis genommen und bin mit der Veröffentlichung meines Kommentars auf dem Eintrag des Commons Beitrags auf dem <a href="https://www.dainst.org/datenschutz" target="_blank" rel="noopener noreferrer">NFDI4Objects Community Hub</a> einverstanden</label><br><br>
 
   <input type="submit" value="Senden">
   <input type="reset" value="Zurücksetzen">
