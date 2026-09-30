@@ -4,7 +4,7 @@ lang: de
 translation_key: ikmk
 title: 'ikmk.net - Interaktiver Katalog des Münzkabinetts Berlin'
 short_title: "ikmk.net ist ein Portal zur <strong>Dokumentation und Publikation von Münzen.</strong>"
-logo: /assets/images/services//n4o_website_symbolgraphiken_portal_services.png
+logo: /assets/images/services/ikmk.png
 homepage: 
 access_url: https://ikmk.net/home
 areas:
