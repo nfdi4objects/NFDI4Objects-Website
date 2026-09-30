@@ -4,9 +4,9 @@ lang: en
 translation_key: museumsvokabular
 title: 'museumsvokabular.de - Vocabularies for museums and collections'
 short_title: "An initiative for the <strong>provision, editing, harmonisation and networking</strong> of museum terminology for the inventorying and cataloguing of museum objects."
-logo: /assets/images/services/Bild1.png"
+logo: /assets/images/services/Bild1.png
 homepage: 
-access_url: museumsvokabular.de
+access_url: https://museumsvokabular.de/
 areas:
 - ta2
 - ta5

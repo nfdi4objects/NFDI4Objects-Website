@@ -4,9 +4,9 @@ lang: de
 translation_key: museumsvokabular
 title: 'museumsvokabular.de - Vokabulare für Museen und Sammlungen'
 short_title: "Initiative zur <strong>Bereitstellung, Bearbeitung, Angleichung und Vernetzung</strong> von Museumsvokabular für die Inventarisierung und Katalogisierung von Museumsobjekten."
-logo: /assets/images/services/Bild1.png"
+logo: /assets/images/services/Bild1.png
 homepage: 
-access_url: museumsvokabular.de
+access_url: https://museumsvokabular.de/
 areas:
 - ta2
 - ta5
