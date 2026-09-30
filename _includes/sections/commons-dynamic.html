@@ -41,9 +41,6 @@
               <div class="card-content">
             {% endif %}
                 <h2><a href="{{ item.url | relative_url }}" class="read-more">{{ item.title }}</a></h2>
-                <p>                  
-                    {{ item.excerpt | default: item.content | strip_html | truncatewords: 30 }}                  
-                </p>
             {% if has_image %}
               </div>
             {% endif %}
