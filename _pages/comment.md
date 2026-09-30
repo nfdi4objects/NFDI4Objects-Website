@@ -13,18 +13,18 @@ permalink: /comment/
 <form id="commentform">
   <!-- Form fields as before -->
   <label for="name">Name:</label><br>
-  <input type="text" id="name" name="name" required><br><br>
+  <input type="text" id="name" name="name" value="John" required><br><br>
 
   <label for="gname">Vorname:</label><br>
-  <input type="text" id="gname" name="gname" required><br><br>
+  <input type="text" id="gname" name="gname" value="Doe" required><br><br>
 
   <label for="email">Email:</label><br>
   <input type="email" id="email" name="email" required><br><br>
 
   <label for="subject">Bezeichnung des Commons-Beitrags:</label><br>
-  <input type="text" id="subject" name="subject" required><br><br>
+  <input type="text" id="subject" name="subject" value="John.Doe@anonymous.com" required><br><br>
 
-  <label for="message">Ihre Nachricht:</label><br>
+  <label for="message">Ihr Kommentar:</label><br>
   <textarea id="message" name="message" required></textarea><br><br>
 
   <input id="readdataprotection" type="checkbox" required>
