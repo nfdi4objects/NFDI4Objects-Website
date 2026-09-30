@@ -33,6 +33,10 @@ cards:
     icon: "/assets/images/services/fairification-tool.png"
     url: "/en/services/fairifizierungsanwendung-für-konservierungs-und-restaurierungsprozesse/"
     description: "Tool for <strong>preparing conservation and restoration processes</strong> according to FAIR principles."
+  - title: "ikmk.net - Münzkabinett Berlin Online Catalogue"
+    icon: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
+    url: "/services/ikmk/"
+    description: "ikmk.net is a portal for <strong>the documentation and publication of coins.</strong>"
 ---
 
 {% include page-header.html

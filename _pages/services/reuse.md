@@ -15,6 +15,10 @@ cards:
     icon: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
     url: "/services/workflow-tool-für-archäologische-experimente/"
     description: "Unterstützt die <strong>strukturierte Dokumentation und Auswertung</strong> von experimentellen archäologischen Daten."
+  - title: "NDP - Normdatenportal des Münzkabinetts Berlin"
+    icon: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
+    url: "/services/ndp/"
+    description: "Numismatische Normdaten als <strong>Linked Open Data</strong>"
 ---
 
 {% include page-header.html

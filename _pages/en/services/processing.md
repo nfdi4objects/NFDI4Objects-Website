@@ -25,6 +25,10 @@ cards:
     icon: "/assets/images/services/hector_logo.png"
     url: "/en/services/hector-editor/"
     description: "HECTOR-Editor is a desktop application developed using Python and CustomTkinter for managing semantic SKOS vocabularies."
+  - title: "museumsvokabular.de - Vocabularies for museums and collections"
+    icon: "/assets/images/services/Bild1.png"
+    url: "/services/museumsvokabular/"
+    description: "An initiative for the <strong>provision, editing, harmonisation and networking</strong> of museum terminology for the inventorying and cataloguing of museum objects."
 ---
 ---
 
