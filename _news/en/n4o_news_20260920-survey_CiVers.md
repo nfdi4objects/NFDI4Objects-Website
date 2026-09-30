@@ -2,8 +2,8 @@
 layout: news
 lang: en
 translation_key: n4o_news_20260929-survey_CiVers
-title: 'Publishing and Citing Digital Research:'
-excerpt: 'A Survey by the CiVers Project for NFDI4Objects'
+title: 'Publishing and Citing Digital Research: A Survey by the CiVers Project for NFDI4Objects'
+excerpt: ''
 date: 2026-09-29
 areas:
 trails:
