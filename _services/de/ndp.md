@@ -4,7 +4,7 @@ lang: de
 translation_key: ndp
 title: 'NDP - Normdatenportal des Münzkabinetts Berlin'
 short_title: "Numismatische Normdaten als <strong>Linked Open Data</strong>"
-logo: /assets/images/services//n4o_website_symbolgraphiken_portal_services.png
+logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
 homepage: 
 access_url: https://ikmk.smb.museum/ndp/home
 areas:

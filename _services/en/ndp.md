@@ -4,7 +4,7 @@ lang: en
 translation_key: ndp
 title: 'NDP -  Münzkabinett Authority File Portal'
 short_title: "Numismatic standard data as <strong>Linked Open Data</strong>"
-logo: /assets/images/services//n4o_website_symbolgraphiken_portal_services.png
+logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
 homepage: 
 access_url: https://ikmk.smb.museum/ndp/home?lang=en
 areas:
