@@ -26,26 +26,26 @@ permalink: /help/
 
   <label for="qcat">Ihr Anliegen:</label><br>
   <select id="qcat" name="qcat" required>
-    <option value="Users::Technical Support">Technische Unterstützung</option>
-    <option value="Users::Cross-Cutting-Topics">Querschnittsthemen</option>
-    <option value="Users::Cooporation">Kooperation</option>
-    <option value="Users::Revocation of Data Protection Agreement">Widerruf der Datenschutzvereinbarung</option>
-    <option value="Users::Public Relations">Öffentlichkeitsarbeit</option>
-    <option value="Users::Research Funding">Forschungsförderung</option>
-    <option value="Users::Field Data">Grabungsdaten</option>
-    <option value="Users::Remote Sensing">Fernerkundung</option>
-    <option value="Users::3D-Data">3D-Daten</option>
-    <option value="Users::Legacy Data">Altdaten</option>
-    <option value="Users::Collection Data">Sammlungsdaten</option>
-    <option value="Users::Natural Scientific Data">Naturwissenschaftliche Daten</option>
-    <option value="Users::Experimental Data">Daten aus Experimenten</option>
-    <option value="Users::Protecting/Conservation">Schutz- und Konservierungsdaten</option>
-    <option value="Users::Long Time Data Storage">Langzeitarchivierung</option>
-    <option value="Users::Metadata & Vocabularies">Metadaten & Vokabulare</option>
-    <option value="Users::IT-Services">IT-Dienste</option>
-    <option value="Users::Skills & Qualification">Aus- und Weiterbildung</option>
-    <option value="Users::Website">Website</option>
-    <option value="Users::Commons">Commons</option>
+    <option value="Technical Support">Technische Unterstützung</option>
+    <option value="Cross-Cutting-Topics">Querschnittsthemen</option>
+    <option value="Cooporation">Kooperation</option>
+    <option value="Revocation of Data Protection Agreement">Widerruf der Datenschutzvereinbarung</option>
+    <option value="Public Relations">Öffentlichkeitsarbeit</option>
+    <option value="Research Funding">Forschungsförderung</option>
+    <option value="Field Data">Grabungsdaten</option>
+    <option value="Remote Sensing">Fernerkundung</option>
+    <option value="3D-Data">3D-Daten</option>
+    <option value="Legacy Data">Altdaten</option>
+    <option value="Collection Data">Sammlungsdaten</option>
+    <option value="Natural Scientific Data">Naturwissenschaftliche Daten</option>
+    <option value="Experimental Data">Daten aus Experimenten</option>
+    <option value="Protecting/Conservation">Schutz- und Konservierungsdaten</option>
+    <option value="Long Time Data Storage">Langzeitarchivierung</option>
+    <option value="Metadata & Vocabularies">Metadaten & Vokabulare</option>
+    <option value="IT-Services">IT-Dienste</option>
+    <option value="Skills & Qualification">Aus- und Weiterbildung</option>
+    <option value="Website">Website</option>
+    <option value="Commons">Commons</option>
   </select><br><br>
 
   <label for="message">Ihre Nachricht:</label><br>

@@ -24,7 +24,7 @@ const FORMS = {
   },
   commentform: {
     // No category field on this form — always tag as "comment"
-    getTags: () => "comment"
+    getTags: () => "Comment"
   }
 };
 
