@@ -4,6 +4,7 @@ lang: de
 translation_key: MDSConservation
 date: 2026-09-11
 title: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (2026)
+excerpt:
 zenodo_url: https://doi.org/10.5281/zenodo.22871824
 keywords: 
  - conservation
