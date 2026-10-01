@@ -8,7 +8,7 @@ translation_key: comment
 permalink: /comment/
 ---
 
-# Commons Kommentierung ohne Anmeldung im Community Hub
+# Commons Kommentierung 
 
 <form id="commentform">
   <input type="checkbox" id="anonymous" name="anonymous">
