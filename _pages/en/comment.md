@@ -1,41 +1,41 @@
 ---
 layout: help
-title: Commons Kommentierung
-description: Kontaktformular für die Kommentierung von Commons-Beiträgen
+title: Commons Commentary
+description: Contact form to comment on Commons-entries
 keywords: commens, commentary
-lang: de
+lang: en
 translation_key: comment
-permalink: /comment/
+permalink: /en/comment/
 ---
 
-# Commons Kommentierung 
+# Commons Commentary
 
 <form id="commentform">
   <input type="checkbox" id="anonymous" name="anonymous">
-  <label for="anonymous">Ich möchte anonym kommentieren</label><br><br>
+  <label for="anonymous">I want to comment anonymously</label><br><br>
 
   <div id="personalfields">
-  <label for="name">Name:</label><br>
+  <label for="name">Last name:</label><br>
   <input type="text" id="name" name="name" required><br><br>
 
-  <label for="gname">Vorname:</label><br>
+  <label for="gname">First name:</label><br>
   <input type="text" id="gname" name="gname" required><br><br>
 
   <label for="email">Email:</label><br>
   <input type="email" id="email" name="email" required><br><br>
   </div>
 
-  <label for="subject">Bezeichnung des Commons-Beitrags:</label><br>
+  <label for="subject">Name of the Commons contribution:</label><br>
   <input type="text" id="subject" name="subject" required><br><br>
 
-  <label for="message">Ihre Nachricht:</label><br>
+  <label for="message">Your comment:</label><br>
   <textarea id="message" name="message" required></textarea><br><br>
 
   <input id="readdataprotection" type="checkbox" required>
-  <label for="readdataprotection">Ich habe die <a href="https://www.dainst.org/datenschutz" target="_blank" rel="noopener noreferrer">Datenschutzerklärung</a> zur Kenntnis genommen und bin mit der Veröffentlichung meines Kommentars einverstanden</label><br><br>
+  <label for="readdataprotection">I have taken note of the <a href="https://www.dainst.org/datenschutz" target="_blank" rel="noopener noreferrer">privacy policy</a> and consent to the publication of my comment.</label><br><br>
 
-  <input type="submit" value="Senden">
-  <input type="reset" value="Zurücksetzen">
+  <input type="submit" value="Submit">
+  <input type="reset" value="Reset">
 </form>
 
 <script>

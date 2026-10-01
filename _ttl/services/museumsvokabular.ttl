@@ -1,0 +1,5 @@
+---
+layout: service-ttl
+permalink: /services/museumsvokabular/index.ttl
+source: museumsvokabular
+---
