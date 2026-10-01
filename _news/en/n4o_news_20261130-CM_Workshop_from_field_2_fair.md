@@ -27,4 +27,4 @@ Kind regards,
 Ulrike Werban  
 Claudia Schütze  
 Till Sonnemann  
-Johannes Rabiger-Völlmer  
+Johannes Rabiger-Völlmer   

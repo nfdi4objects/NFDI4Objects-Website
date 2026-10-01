@@ -21,7 +21,7 @@ The workshop is divided into two parts. The first part provides an insight into 
 
 The metadata model presented here represents an initial development stage of FAIRagro use case 14, which is based on a joint initiative within the NFDI between FAIRagro, NFDI4Objects and NFDI4Earth, and is recommended for all users of geophysical prospecting methods.
 
-**Date:** 30.11.2026  
+**Date:** 30.11.2026   
 **Time:**  9 - 11 am  
 **Chairs:**  [Ulrike Werban](https://www.nfdi4objects.net/persons/ulrikewerban/), [Till Sonnemann](https://www.nfdi4objects.net/persons/tillsonnemann/) , [Johannes Rabiger-Völlmer](https://www.nfdi4objects.net/persons/johannesrabiger-v%C3%B6llmer/)      
 **Contact:** [johannes.rabiger-voellmer@ufz.de](mailto:johannes.rabiger-voellmer@ufz.de)  
