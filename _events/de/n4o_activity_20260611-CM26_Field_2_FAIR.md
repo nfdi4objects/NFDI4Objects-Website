@@ -2,10 +2,10 @@
 layout: event
 lang: de
 translation_key: n4o_activity_20261203-CM26_Field_2_FAIR
-title: 'From Field to FAIR: Approaches to Minimal Metadata for Interoperable Near-Surface Geophysical Data'
+title: 'From Field to FAIR: Ansätze für minimale Metadaten zur Interoperabilität oberflächennaher geophysikalischer Daten'
 excerpt: ''
 date: 2026-05-27
-event_date: ''
+event_date: '2026-11-30'
 location: online
 areas: 
 - ta1
@@ -21,7 +21,10 @@ Der Workshop ist zweigeteilt. Er bietet im ersten Teil einen Einblick in den Ent
 
 Das hier vorgestellte Metadatenmodell stellt eine erste Entwicklungsstufe des FAIRagro use cases 14 dar, der auf einer gemeinsamen Initiative innerhalb der NFDI zwischen FAIRagro, NFDI4Objects, NFDI4Earth basiert und ist für alle Anwender:innen von geophysikalischen Prospektionsmethoden zu empfehlen.
 
-**Datum:** noch bekanntzugeben (vorraussichtlich KW 49)    
+Der Link zum Workshop ist durch eine Mail an Johannes Rabiger-Völlmer erhältlich: 
+johannes.rabiger-voellmer@ufz.de   
+
+**Datum:** 30.11.2026  
+**Uhrzeit:** 9 - 11 Uhr   
 **Chairs:**  [Ulrike Werban](https://www.nfdi4objects.net/persons/ulrikewerban/), [Till Sonnemann](https://www.nfdi4objects.net/persons/tillsonnemann/), [Johannes Rabiger-Völlmer](https://www.nfdi4objects.net/persons/johannesrabiger-v%C3%B6llmer/)      
-**Kontakt:** ulrike.werban@ufz.de  
-**Zoom:** wird noch bekannt gegeben
+**Kontakt:** [johannes.rabiger-voellmer@ufz.de](mailto:johannes.rabiger-voellmer@ufz.de)  
