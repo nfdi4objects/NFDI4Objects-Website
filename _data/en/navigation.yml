@@ -80,7 +80,12 @@ main:
       - title: "Workshops"
         url: "/en/events/workshops/"
   - title: "Help & Contact"
-    url: "/en/help/"
+    url: "#"
+    children:
+      - title: "Helpdesk"
+        url: "/en/help/"
+      - title: "Commons Commentary"
+        url: "/en/comment/"
 
 # Back button texts for dynamic content
 back_buttons:
