@@ -10,8 +10,8 @@ start_date: 2023-11-01 22:55:00+00:00
 end_date: ''
 type: n4o:Organization
 cochairs:
-- name: Florian Thiery
-  person_ref: florian_thiery
+- name: 
+  person_ref: 
 - name: Timo Homburg
   person_ref: timohomburg
 areas:

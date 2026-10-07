@@ -9,8 +9,8 @@ status: planned
 start_date: 2023-11-01 
 end_date: ''
 cochairs:
-- name: Florian Thiery
-  person_ref: florian_thiery
+- name: 
+  person_ref: 
 - name: Timo Homburg
   person_ref: timohomburg
 areas:
