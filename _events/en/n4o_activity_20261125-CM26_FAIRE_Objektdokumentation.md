@@ -21,6 +21,138 @@ Today, museum collection objects exist not only as physical artefacts, but incre
 The workshop offers a practical introduction to current approaches to digital object recording and collection data management. Using examples from institutions on Museum Island, different strategies for documentation and cataloguing will be presented and compared. The spectrum ranges from minimal data sets to comprehensive, networked object documentation.  
 The focus is on issues of data quality, standardisation and sustainable reuse, as well as current developments in digital documentation methods, including AI-supported approaches to object recording.
 
+### Programme
+
+<h3>Thursday, 8 October 2026</h3>
+<table cellpadding="8" cellspacing="2">
+  <thead>
+    <tr>
+       <th width="20%" align="left">Time</th>
+       <th width="50%" align="left">Content</th>
+       <th width="30%" align="left">Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+       <td><em>09:30</em></td>
+       <td><em>Welcome coffee</em></td>
+       <td><a href="https://maps.google.com/?q=52.521534,13.391697">Archaeological Centre</a><br>Brugsch Pasha Hall</td>
+    </tr>
+    <tr>
+       <td><strong>10:00 - 10:30</strong></td>
+       <td><strong>Welcome, introduction and overview</strong><br>Angela Berthold &amp; Christoph Klose (Coin Cabinet, SMB, NFDI4Objects)</td>
+       <td><a href="https://maps.google.com/?q=52.521534,13.391697">Archaeological Centre</a><br>Brugsch Pasha Hall</td>
+    </tr>
+    <tr>
+       <td colspan="3"></td>
+    </tr>
+    <tr>
+       <td><strong>10:30 - 12:00</strong></td>
+       <td><strong>Panel I</strong></td>
+       <td><a href="https://maps.google.com/?q=52.521534,13.391697">Archaeological Centre</a><br>Brugsch Pasha Hall</td>
+    </tr>
+    <tr>
+       <td></td>
+       <td><strong>NFDI4Objects and the digital publication of museum holdings</strong><br>Angela Berthold &amp; Christoph Klose</td>
+       <td></td>
+    </tr>
+    <tr>
+       <td></td>
+       <td><strong>Object documentation and knowledge management in museums</strong><br>Frank von Hagel (Institute for Museum Research)</td>
+       <td></td>
+    </tr>
+    <tr>
+       <td></td>
+       <td><strong>Introduction to strategic image capture for FAIR digital representations of collection objects</strong><br>Katja Sternitzke (Berlin State Library, NFDI4Culture)</td>
+       <td></td>
+    </tr>
+    <tr>
+       <td><em>12:00 - 13:00</em></td>
+       <td><em>Lunch break</em></td>
+       <td></td>
+    </tr>
+    <tr>
+       <td colspan="3"></td>
+    </tr>
+    <tr>
+       <td><strong>13:00 - 15:00</strong></td>
+       <td><strong>Panel II</strong><br>Standardised recording and publication of numismatic data<br>Christoph Klose &amp; Paul Seyfried (Coin Cabinet, SMB, BBAW)</td>
+       <td><a href="https://maps.google.com/?q=52.521534,13.391697">Archaeological Centre</a><br>Brugsch Pasha Hall</td>
+    </tr>
+    <tr>
+       <td><strong>15:00 - 17:00</strong></td>
+       <td><strong>Panel III</strong><br>Object documentation at the Museum of Byzantine Art<br>Elisabeth Ehler (Sculpture Collection and Museum of Byzantine Art, SMB)</td>
+       <td><a href="https://maps.google.com/?q=52.521534,13.391697">Archaeological Centre</a><br>Brugsch Pasha Hall</td>
+    </tr>
+    <tr>
+       <td colspan="3"></td>
+    </tr>
+    <tr>
+       <td>Afterwards</td>
+       <td>Optional visit to the Bode Museum</td>
+       <td>Bode Museum</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Friday, 9 October 2026</h3>
+<table cellpadding="8" cellspacing="2">
+  <thead>
+    <tr>
+       <th width="20%" align="left">Time</th>
+       <th width="50%" align="left">Content</th>
+       <th width="30%" align="left">Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+       <td><strong>09:00 - 10:30</strong></td>
+       <td><strong>Panel IV</strong><br>PergamonAltar Digital: 3D scanning, digital reconstruction and fields of application<br>Mahran Meißner (Siemens Art Program), Frederik Grosser and Moritz Taschner (Collection of Classical Antiquities, SMB)</td>
+       <td>Pergamon Museum<br>Altar Hall</td>
+    </tr>
+    <tr>
+       <td><em>10:30 - 11:00</em></td>
+       <td><em>Transfer to the Archaeological Centre &amp; coffee break</em></td>
+       <td><a href="https://maps.google.com/?q=52.521534,13.391697">Archaeological Centre</a></td>
+    </tr>
+    <tr>
+       <td colspan="3"></td>
+    </tr>
+    <tr>
+       <td><strong>11:00 - 12:30</strong></td>
+       <td><strong>Panel V</strong><br>Digital in the museum: insights from object documentation practice<br>Thomas Tunsch (Museum of Islamic Art, SMB)<br><a href="https://doi.org/10.5281/zenodo.21888604">https://doi.org/10.5281/zenodo.21888604</a></td>
+       <td><a href="https://maps.google.com/?q=52.521534,13.391697">Archaeological Centre</a><br>Brugsch Pasha Hall</td>
+    </tr>
+    <tr>
+       <td><em>12:30 - 13:30</em></td>
+       <td><em>Lunch break</em></td>
+       <td></td>
+    </tr>
+    <tr>
+       <td colspan="3"></td>
+    </tr>
+    <tr>
+       <td><strong>13:30 - 15:00</strong></td>
+       <td><strong>Panel VI</strong><br>Integrating Museum Collections and Legacy Data: An AI-Assisted Approach<br>Maxime Brami &amp; Kevin Klein (Johannes Gutenberg University Mainz)</td>
+       <td><a href="https://maps.google.com/?q=52.521534,13.391697">Archaeological Centre</a><br>Brugsch Pasha Hall</td>
+    </tr>
+    <tr>
+       <td><strong>From 15:00</strong></td>
+       <td><strong>Bringing it together: research needs and current practice</strong><br>Closing discussion and reflection</td>
+       <td><a href="https://maps.google.com/?q=52.521534,13.391697">Archaeological Centre</a><br>Brugsch Pasha Hall</td>
+    </tr>
+    <tr>
+       <td colspan="3"></td>
+    </tr>
+    <tr>
+       <td>Afterwards</td>
+       <td>Optional visit to the Pergamon Panorama</td>
+       <td>Pergamon Museum<br>The Panorama</td>
+    </tr>
+  </tbody>
+</table>
+
+
 **Topics include, amongst others:**
 
 - Fundamentals of museum object documentation
