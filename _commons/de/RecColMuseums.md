@@ -6,6 +6,7 @@ date: 2025-12-01
 title: Empfehlungen für das Forschungsdatenmanagement in Museen und Universitätssammlungen (2025)
 excerpt: Entwurf der Empfehlungen der Temporary Working Group (TWG) 'Umfeldanalyse zur FDM-Landschaft in Museen und Sammlungen' von NFDI4Objects
 zenodo_url: https://zenodo.org/records/17778128
+comment_url: https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/45
 keywords: 
  - collections 
 authors:
