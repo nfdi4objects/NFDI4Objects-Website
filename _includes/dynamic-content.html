@@ -427,16 +427,31 @@ Unterstützte Collections:
 {%- comment -%} === Commons === {%- endcomment -%}
 {%- if page.collection == "commons" -%}
 
-{%- if page.zenodo_url -%}
-  {%- if current_lang == "en" -%}
-    {%- assign zenodo_text = "To the contribution" -%}
-  {%- else -%}
-    {%- assign zenodo_text = "Zum Beitrag" -%}
-  {%- endif -%}
-  {%- if page.zenodo_pages -%}
-    {%- assign zenodo_text = zenodo_text | append: " " | append: page.zenodo_pages -%}
-  {%- endif -%}
-  {%- include cta-button.html text=zenodo_text url=page.zenodo_url style="primary" new_window=true -%}
+{%- if page.zenodo_url or page.comment_url -%}
+  <div class="commons-buttons">
+
+    {%- if page.zenodo_url -%}
+      {%- if current_lang == "en" -%}
+        {%- assign zenodo_text = "To the contribution" -%}
+      {%- else -%}
+        {%- assign zenodo_text = "Zum Beitrag" -%}
+      {%- endif -%}
+      {%- if page.zenodo_pages -%}
+        {%- assign zenodo_text = zenodo_text | append: " " | append: page.zenodo_pages -%}
+      {%- endif -%}
+      {%- include cta-button.html text=zenodo_text url=page.zenodo_url style="primary" new_window=true -%}
+    {%- endif -%}
+
+    {%- if page.comment_url -%}
+      {%- if current_lang == "en" -%}
+        {%- assign comment_text = "Comment" -%}
+      {%- else -%}
+        {%- assign comment_text = "Kommentieren" -%}
+      {%- endif -%}
+      {%- include cta-button.html text=comment_text url=page.comment_url style="primary" new_window=true -%}
+    {%- endif -%}
+
+  </div>
 {%- endif -%}
 
   {%- comment -%}
