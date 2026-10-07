@@ -152,6 +152,18 @@ The focus is on issues of data quality, standardisation and sustainable reuse, a
   </tbody>
 </table>
 
+<div style="text-align: center; margin: 20px 0;">
+<a href="/assets/images/activities/Programm_Workshop_Museumsinsel-1.pdf" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+">
+You can also find the full programme here as a PDF and download it.
+</a> 
+</div> 
 
 **Topics include, amongst others:**
 
