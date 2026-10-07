@@ -444,9 +444,9 @@ Unterstützte Collections:
 
     {%- if page.comment_url -%}
       {%- if current_lang == "en" -%}
-        {%- assign comment_text = "Comment" -%}
+        {%- assign comment_text = "To the Discussion" -%}
       {%- else -%}
-        {%- assign comment_text = "Kommentieren" -%}
+        {%- assign comment_text = "Zur Diskussion" -%}
       {%- endif -%}
       {%- include cta-button.html text=comment_text url=page.comment_url style="primary" new_window=true -%}
     {%- endif -%}
