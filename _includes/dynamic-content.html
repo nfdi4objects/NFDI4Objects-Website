@@ -427,18 +427,21 @@ Unterstützte Collections:
 {%- comment -%} === Commons === {%- endcomment -%}
 {%- if page.collection == "commons" -%}
 
-  {%- comment -%} Zenodo-Button wenn URL im Front Matter {%- endcomment -%}
-  {%- if page.zenodo_url -%}
-    {%- assign zenodo_text = "Zenodo Link" -%}
-    {%- if page.zenodo_pages -%}
-      {%- assign zenodo_text = zenodo_text | append: " " | append: page.zenodo_pages -%}
-    {%- endif -%}
-    {%- include cta-button.html text=zenodo_text url=page.zenodo_url style="primary" new_window=true -%}
+{%- if page.zenodo_url -%}
+  {%- if current_lang == "en" -%}
+    {%- assign zenodo_text = "To the contribution" -%}
+  {%- else -%}
+    {%- assign zenodo_text = "Zum Beitrag" -%}
   {%- endif -%}
+  {%- if page.zenodo_pages -%}
+    {%- assign zenodo_text = zenodo_text | append: " " | append: page.zenodo_pages -%}
+  {%- endif -%}
+  {%- include cta-button.html text=zenodo_text url=page.zenodo_url style="primary" new_window=true -%}
+{%- endif -%}
 
   {%- comment -%}
     Hinweis: Commons Keywords werden
-    jetzt im commons-infobox.html oben auf der Seite angezeigt.
+    jetzt im commons-infobox.html unten auf der Seite angezeigt.
   {%- endcomment -%}
 
   {% include authors-list.html authors=page.authors %}
