@@ -24,6 +24,19 @@ Im Mittelpunkt stehen Fragen der Datenqualität, Standardisierung und nachhaltig
 
 ### Programm
 
+  <div style="text-align: center; margin: 20px 0;">
+<a href="/assets/images/activities/Programm_Workshop_Museumsinsel-1.pdf" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+">
+Programm herunterladen.
+</a> 
+</div> 
+
 <h3>Donnerstag, 8. Oktober 2026</h3>
 <table cellpadding="8" cellspacing="2">
   <thead>
@@ -153,10 +166,9 @@ Im Mittelpunkt stehen Fragen der Datenqualität, Standardisierung und nachhaltig
   </tbody>
 </table>
 
-
-Die Veranstaltung findet zum größten Teil im Brugsch-Pascha-Saal im Archäologischen
-Zentrum der SMB, Geschwister-Scholl-Straße 6, 10117 Berlin, Museumshöfe, Haus 20B
-statt.
+  
+    
+#### Die Veranstaltung findet zum größten Teil im Brugsch-Pascha-Saal im Archäologischen Zentrum der SMB, Geschwister-Scholl-Straße 6, 10117 Berlin, Museumshöfe, Haus 20B statt.
 
 **Zugang:** Man kommt entweder über die Wache des Archäologischen Zentrums durch das Gebäude und
 den Innenhof zum Haus 20B oder man geht direkt in den Innenhof des Archäologischen Zentrums an der
@@ -164,20 +176,9 @@ Schranke vorbei zum Haus 20B. Der Saal ist ausgeschildert und befindet sich im 5
 dem Fahrstuhl kommt man bis in das 4. OG. Das 5.OG ist nur über eine Treppe zugänglich.
 Teilnehmende, denen das Treppensteigen schwerfällt, setzen sich bitte im Vorfeld mit uns in Verbindung.
 
-
-<div style="text-align: center; margin: 20px 0;">
-<a href="/assets/images/activities/Programm_Workshop_Museumsinsel-1.pdf" style="
-  background: #13294b;
-  color: white;
-  padding:10px 16px;
-  text-decoration: none;
-  border-radius:6px;
-  font-weight: bold;
-">
-Das ganze Programm finden Sie hier auch als pdf und zum Download.
-</a> 
-</div> 
-
+  
+  
+    
 **Zu den Themen gehören unter anderem:**
 
 - Grundlagen der musealen Objektdokumentation
