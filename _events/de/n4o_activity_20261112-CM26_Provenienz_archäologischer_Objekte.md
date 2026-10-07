@@ -20,7 +20,6 @@ Provenienzdaten zu archäologischen Objekten sind eine wichtige Informationskomp
 
 Der Workshop zielt darauf ab, interdisziplinäre Perspektiven auf Provenienzdaten archäologischer Objekte zusammenzuführen und aktuelle Forschungen, methodische Ansätze sowie digitale und institutionelle Praktiken zu diskutieren. Besonderes Augenmerk gilt der Erfassung, Auswertung und Nachnutzung von Provenienzdaten in Museen, Sammlungen, Archiven und Forschungsprojekten.
 
-
 ### Call for Paper: 
 
 Beiträge können sich unter anderem mit folgenden Aspekten befassen:

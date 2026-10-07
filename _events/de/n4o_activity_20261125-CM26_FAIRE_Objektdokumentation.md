@@ -177,7 +177,6 @@ Interessierte werden gebeten, ein kurzes Motivationsschreiben (ca. 250 Wörter) 
 **Max. Teilnehmendenzahl:** 10 - 15  
 **Kontakt:**  [c.klose@smb.spk-berlin.de](mailto:c.klose@smb.spk-berlin.de)
 
-### Weitere Informationen werden demnächst veröffentlicht!
 
 --- 
 
