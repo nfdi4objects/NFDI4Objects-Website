@@ -1,7 +1,7 @@
 ---
 layout: event
 lang: en
-translation_key: n4o_activity_20260726-DANTE_Schulung_3
+translation_key: n4o_activity_20260728-DANTE_Schulung_3
 title: 'Hands on DANTE'
 excerpt: 'Clustermeeting of the CC Authority Files and Community-driven Vocabularies'
 date: 2026-07-07
