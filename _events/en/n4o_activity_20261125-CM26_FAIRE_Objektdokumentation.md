@@ -23,6 +23,19 @@ The focus is on issues of data quality, standardisation and sustainable reuse, a
 
 ### Programme
 
+<div style="text-align: center; margin: 20px 0;">
+<a href="/assets/images/activities/Programm_Workshop_Museumsinsel-1.pdf" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+">
+Programme download.
+</a> 
+</div> 
+
 <h3>Thursday, 8 October 2026</h3>
 <table cellpadding="8" cellspacing="2">
   <thead>
@@ -152,18 +165,13 @@ The focus is on issues of data quality, standardisation and sustainable reuse, a
   </tbody>
 </table>
 
-<div style="text-align: center; margin: 20px 0;">
-<a href="/assets/images/activities/Programm_Workshop_Museumsinsel-1.pdf" style="
-  background: #13294b;
-  color: white;
-  padding:10px 16px;
-  text-decoration: none;
-  border-radius:6px;
-  font-weight: bold;
-">
-You can also find the full programme here as a PDF and download it.
-</a> 
-</div> 
+#### Most of the event will take place in the Brugsch-Pascha Hall at the Archaeological Centre of the SMB, Geschwister-Scholl-Straße 6, 10117 Berlin, Museumshöfe, Building 20B.
+
+**Access:** You can either enter via the Archaeological Centre’s security post, walk through the building and
+across the inner courtyard to Building 20B, or walk directly into the inner courtyard of the Archaeological Centre, past the
+barrier, to Building 20B. The hall is signposted and is located on the 5th floor of Building 20B. The
+lift goes up to the 4th floor. The 5th floor is only accessible via the stairs.
+Participants who find it difficult to climb stairs should please contact us in advance.
 
 **Topics include, amongst others:**
 
