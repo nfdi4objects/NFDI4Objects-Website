@@ -3,10 +3,10 @@ layout: commons
 lang: de
 translation_key: RecColMetadata
 date: 2025-11-21
-title: Empfehlung für offene und sichere Daten: Zugriffsberechtigungen für vorhandene Metadaten in Sammlungen und deren Datenweitergabe
+title: "Empfehlung für offene und sichere Daten: Zugriffsberechtigungen für vorhandene Metadaten in Sammlungen und deren Datenweitergabe (2025)"
 excerpt: 
 zenodo_url: https://zenodo.org/records/17672644
-comment_url: https://community.nfdi4objects.net/en/assemblies/commons/f/1/proposals/43
+comment_url: https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/43
 keywords: 
  - collections 
 authors:

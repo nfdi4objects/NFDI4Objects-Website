@@ -3,7 +3,7 @@ layout: commons
 lang: en
 translation_key: RecColMetadata
 date: 2025-11-21
-title: Recommendation on open and safe data: Access permissions for existing metadata in collections and the sharing of such data
+title: "Recommendation on open and safe data: Access permissions for existing metadata in collections and the sharing of such data (2025)"
 excerpt: 
 zenodo_url: https://zenodo.org/records/17672644
 comment_url: https://community.nfdi4objects.net/en/assemblies/commons/f/1/proposals/43
