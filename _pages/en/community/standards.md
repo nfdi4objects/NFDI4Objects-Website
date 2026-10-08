@@ -33,6 +33,6 @@ The NFDI4Objects Commons represent proposals, recommendations, and standards fro
 
 The NFDI4Objects Commons undergo a transparent, participatory quality assurance process on our Community Hub. Interested parties can publicly discuss and comment on the submitted contributions here before consolidated versions are adopted as recommendations by the NFDI4Objects General Assembly. In this way, the community’s expertise is directly incorporated into the creation of these deliverables.
 
-All Commons contributions are published under a CC-BY 4.0 license in the NFDI4Objects community on Zenodo and are freely accessible. They are also indexed via a [catalog](https://www.nfdi4objects.net/commons/) on this website.
+All Commons contributions are published under a CC-BY 4.0 license in the NFDI4Objects community on Zenodo and are freely accessible. They are also indexed via a [catalog](https://www.nfdi4objects.net/en/commons/) on this website.
 
 The NFDI4Objects newsletter keeps you informed about new publications and ongoing comment periods.
