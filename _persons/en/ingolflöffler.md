@@ -3,7 +3,7 @@ layout: person
 title: Ingolf Löffler
 lang: en
 translation_key: ingolflöffler
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Loeffler-Ingolf-1.jpg
 groups:
 - staff
 institution: deutsches-bergbau-museum-bochum
