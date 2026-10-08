@@ -30,4 +30,4 @@ teaser_image_alt:
 ---
 Dieser Beitrag bildet das erste Arbeitsergebnis der N4O TWG Umfeldanalyse zur FDM-Landschaft im Bereich der Erhaltung und Pflege kulturellen Erbes und umfasst das im Proposal der TWG angekündigte Whitepaper #2.
 
-Bei dem Whitepaper handelt es sich um die schriftliche Auswertung einer im Frühjahr 2025 durchgeführten Community-Umfrage zum Forschungsdatenmanagement in der Konservierung-Restaurierung.
+Bei dem Whitepaper handelt es sich um die schriftliche Auswertung einer im Frühjahr 2025 durchgeführten Community-Umfrage zum Forschungsdatenmanagement in der Konservierung-Restaurierung. 

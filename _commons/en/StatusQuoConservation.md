@@ -28,6 +28,6 @@ permalink: en/commons/StatusQuoConservation/
 teaser_image: 
 teaser_image_alt: 
 ---
-his article represents the first output of the N4O TWG’s environmental analysis of the FDM landscape in the field of cultural heritage conservation and maintenance, and comprises White Paper No. 2, as announced in the TWG’s proposal.
+This article represents the first output of the N4O TWG’s environmental analysis of the FDM landscape in the field of cultural heritage conservation and maintenance, and comprises White Paper No. 2, as announced in the TWG’s proposal.
 
-The white paper is a written analysis of a community survey on research data management in conservation and restoration, which was carried out in spring 2025.
+The white paper is a written analysis of a community survey on research data management in conservation and restoration, which was carried out in spring 2025. 
