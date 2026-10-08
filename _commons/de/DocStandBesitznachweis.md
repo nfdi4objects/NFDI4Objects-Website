@@ -6,7 +6,7 @@ date: 2025-08-19
 title: Dokumentationsstandards und der Besitznachweis in Sammlungen - ein vergleichender Überblick (2025)
 excerpt:  
 zenodo_url: https://zenodo.org/records/16902837
-comment_url: https://community.nfdi4objects.net/en/assemblies/commons/f/1/proposals/13
+comment_url: https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/13
 keywords: 
  - collections
 authors:

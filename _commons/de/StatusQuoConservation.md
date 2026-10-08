@@ -6,7 +6,7 @@ date: 2025-09-04
 title: Zusammenfassung des Status Quo im Forschungsdatenmanagement für den Bereich der Konservierung-Restaurierung (2025)
 excerpt:
 zenodo_url: https://zenodo.org/records/17475354
-comment_url: https://community.nfdi4objects.net/en/assemblies/commons/f/1/proposals/14
+comment_url: https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/14
 keywords: 
  - conservation
 authors:
