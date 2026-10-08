@@ -31,7 +31,7 @@ The goal is to provide open and shareable solutions for the sustainable manageme
 
 The NFDI4Objects Commons represent proposals, recommendations, and standards from our community and document, for example, best practices, technical specifications, and recommendations for service development. They are developed both within the community clusters, temporary working groups, projects such as the TRAILs, and the NFDI4Objects Task Areas, as well as in working groups outside of NFDI4Objects.
 
-The NFDI4Objects Commons undergo a transparent, participatory quality assurance process on our Community Hub. Interested parties can publicly discuss and comment on the submitted contributions here before consolidated versions are adopted as recommendations by the NFDI4Objects General Assembly. In this way, the community’s expertise is directly incorporated into the creation of these deliverables.
+The NFDI4Objects Commons undergo a transparent, participatory quality assurance process on our [Community Hub](https://community.nfdi4objects.net/en). Interested parties can publicly discuss and comment on the submitted contributions here before consolidated versions are adopted as recommendations by the NFDI4Objects General Assembly. In this way, the community’s expertise is directly incorporated into the creation of these deliverables.
 
 All Commons contributions are published under a CC-BY 4.0 license in the NFDI4Objects community on Zenodo and are freely accessible. They are also indexed via a [catalog](https://www.nfdi4objects.net/en/commons/) on this website.
 
