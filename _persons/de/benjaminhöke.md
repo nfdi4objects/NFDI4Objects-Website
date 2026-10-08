@@ -3,7 +3,7 @@ layout: person
 title: Benjamin Höke
 lang: de
 translation_key: benjaminhöke
-image: /assets/images/persons/NFDI4Objects-Website\assets\images\persons\N4O-Portraits-VanessaLiebler-Hoeke-Benjamin-1.jpg
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Hoeke-Benjamin-1.jpg
 groups:
 - coapplicant
 - steering

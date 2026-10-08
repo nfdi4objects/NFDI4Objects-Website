@@ -3,7 +3,7 @@ layout: person
 title: Ulrich Himmelmann
 lang: en
 translation_key: ulrich_himmelmann
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Himmelmann-Ulrich-2.jpg
 groups:
 - steering
 institution: generaldirektion-kulturelles-erbe-rheinland-pfalz

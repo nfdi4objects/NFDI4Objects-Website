@@ -3,7 +3,7 @@ layout: person
 title: Stephanie Metz
 lang: de
 translation_key: stephaniemetz
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Metz-Stephanie-2.jpg
 groups:
 - staff
 institution: generaldirektion-kulturelles-erbe-rheinland-pfalz

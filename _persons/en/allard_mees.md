@@ -3,7 +3,7 @@ layout: person
 title: Allard Mees
 lang: en
 translation_key: allard_mees
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Mees-Allard-1.jpg
 groups:
 - staff
 institution: leiza

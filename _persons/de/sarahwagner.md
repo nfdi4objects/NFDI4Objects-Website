@@ -3,7 +3,7 @@ layout: person
 title: Sarah Wagner
 lang: de
 translation_key: sarahwagner
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Wagner-Sarah-2.jpg
 groups:
 - participant
 institution: fau-competence-center-for-research-data-and-information-cdi

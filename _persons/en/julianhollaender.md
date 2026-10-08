@@ -3,7 +3,7 @@ layout: person
 title: Julian Hollaender
 lang: en
 translation_key: julianhollaender
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Hollaender-Julian-2.jpg
 groups:
 - coordination
 - staff
