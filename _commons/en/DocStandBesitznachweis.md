@@ -3,7 +3,7 @@ layout: commons
 lang: en
 translation_key: DocStandBesitznachweis
 date: 2025-08-19
-title: Documentation standards and proof of ownership in collections – a comparative overview
+title: Documentation standards and proof of ownership in collections – a comparative overview (2025)
 excerpt:  
 zenodo_url: https://zenodo.org/records/16902837
 comment_url: https://community.nfdi4objects.net/en/assemblies/commons/f/1/proposals/13
