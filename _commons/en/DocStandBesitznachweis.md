@@ -28,7 +28,7 @@ trails:
 ccs: 
 twgs: 
 - besitznachweis-im-verlustfall-use-case-für-den-minimaldatensatz
-permalink: en/commons/MDSConservation/
+permalink: en/commons/DocStandBesitznachweis/
 teaser_image: 
 teaser_image_alt: 
 ---
