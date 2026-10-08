@@ -3,7 +3,7 @@ layout: commons
 lang: en  
 translation_key: CertServices  
 date: 2026-06-12  
-title: 'Certification criteria for technical services in NFDI4Objects'  
+title: Certification criteria for technical services in NFDI4Objects  
 excerpt:  
 zenodo_url:  
 comment_url: https://community.nfdi4objects.net/en/assemblies/commons/f/1/proposals/96
