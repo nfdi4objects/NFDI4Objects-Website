@@ -19,7 +19,7 @@ permalink: de/events/n4o_activity_20270927-forge2027/
 ---
 
 
-Die 6. FORGE-Konferenz findet vom **27. bis 29. September 2027 an der Akademie der Wissenschaften und der Literatur | Mainz** statt. Anders als in den letzten Jahren wird die FORGE 27 von einem Team aus mehreren Institutionen gemeinsam mit den vier geistes- und kulturwissenschaftlichen NFDI-Konsortien (Humanities@NFDI) organisiert.
+Die 6. FORGE-Konferenz findet vom **27. bis 29. September 2027 an der Akademie der Wissenschaften und der Literatur Mainz** statt. Anders als in den letzten Jahren wird die FORGE 27 von einem Team aus mehreren Institutionen gemeinsam mit den vier geistes- und kulturwissenschaftlichen NFDI-Konsortien (Humanities@NFDI) organisiert.
 
 Die Konferenz der [DHd AG „Geisteswissenschaftliches Forschungsdatenmangement“ (gwFDM)](https://digitalhumanities.de/ag-geisteswissenschaftliches-forschungsdatenmanagement-gwfdm/) bringt Akteur:innen aus Wissenschaft, Dateninfrastrukturen und Forschungsdatenmanagement zusammen, die sich mit der Erzeugung, Nutzung, Aufbereitung, Vernetzung und langfristigen Sicherung geisteswissenschaftlicher Forschungsdaten beschäftigen.    
 
