@@ -15,8 +15,8 @@ event_type: 'Workshop'
 permalink: /events/n4o_activity_20261028-DANTE_Schulung_Oktober/
 ---
 Am 28. Oktober, 9:00 bis 12:00 Uhr, findet die nächste Schulung zum Webservice DANTE zur Pflege und Publikation aller Arten von kontrollierten Vokabularen durch die VZG statt.
-  
-Wir bitten um Anmeldung mit Angabe der Institution an [michael.markert@gbv.de](mailto:michaelmarkert@gbv.de). 
+
+Wir bitten um Anmeldung mit Angabe der Institution an [michael.markert@gbv.de](mailto:michael.markert@gbv.de).
 
 DANTE ist ein Webservice zur Pflege und Veröffentlichung von Vokabularen, der von der Verbundzentrale des GBV auch für NFDI4Objects-Institutionen bereitgestellt wird.
 
