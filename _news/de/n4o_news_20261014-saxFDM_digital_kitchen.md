@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_202611014-saxFDM_digital_kitchen
+permalink: /news/n4o_news_202611014-saxFDM_digital_kitchen/
 ---
 Aus unserem Netzwerk: Die SaxFDM Digital Kitchen im Monat <strong>Oktober</strong> findet <strong>am Donnerstag, den 22.10.2026 von 13:00 – 14:00 Uhr</strong> mit Jan Rohden von der DFG statt. 
 
