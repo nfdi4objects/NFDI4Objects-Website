@@ -3,7 +3,7 @@ layout: news
 lang: en
 translation_key: n4o_news_20261014-saxFDM_digital_kitchen
 title: 'SaxFDM Digital Kitchen on 22 October 2026, 1.00 pm to 2.00 pm'
-excerpt: 'From our network: '
+excerpt: 'From our network '
 date: 2026-10-14
 areas:
 trails:
@@ -19,7 +19,7 @@ Research funding organisations are increasingly requiring applicants to provide 
 
 Whilst the results point to a general increase in awareness of FDM, they also indicate significant differences between the various academic disciplines in terms of how the handling of research data is described. Furthermore, discernible changes in the information provided on research data since the introduction of the relevant DFG checklist in 2021 suggest that guideline-based approaches adopted by funding organisations are having an impact on the information provided on FDM in grant applications. This provides new insights for the monitoring and design of open science strategies.
 
-**The event will take place online via Zoom.**
+**The event will take place online via Zoom.**  
 **Zoom link:** [https://uni-leipzig.zoom-x.de/j/69982699666? pwd=afjBkjJGEKbkGaKndVysVGcAVwEsXa.1](https://uni-leipzig.zoom-x.de/j/69982699666?pwd=afjBkjJGEKbkGaKndVysVGcAVwEsXa.1)
 
 Registration is not required.

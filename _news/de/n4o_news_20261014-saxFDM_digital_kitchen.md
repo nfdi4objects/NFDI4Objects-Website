@@ -3,7 +3,7 @@ layout: news
 lang: de
 translation_key: n4o_news_20261014-saxFDM_digital_kitchen
 title: 'SaxFDM Digital Kitchen am 22. Oktober 2026, 13:00 bis 14:00 Uhr'
-excerpt: 'Aus unserem Netzwerk:'
+excerpt: 'Aus unserem Netzwerk'
 date: 2026-10-14
 areas:
 trails:
@@ -19,7 +19,7 @@ Forschungsförderorganisationen fordern von Antragstellenden in Förderanträgen
 
 Die Ergebnisse deuten zwar auf ein allgemein wachsendes Bewusstsein für FDM, mit Blick auf die Art und Weise der Beschreibung des Umgangs mit Forschungsdaten allerdings auch auf erhebliche Unterschiede zwischen den verschiedenen Fachdisziplinen hin. Darüber hinaus lassen erkennbare Veränderungen in den Ausführungen zu Forschungsdaten seit Einführung der einschlägigen DFG-Checkliste im Jahr 2021 die Schlussfolgerung zu, dass leitlinienbasierte Ansätze von Förderorganisationen Auswirkungen auf die Angaben zu FDM in Anträgen haben. Daraus lassen sich neue Erkenntnisse für das Monitoring und die Gestaltung von Open-Science-Strategien gewinnen.
 
-**Die Veranstaltung findet online via Zoom statt.**
+**Die Veranstaltung findet online via Zoom statt.**  
 **Zoom-Link:** [https://uni-leipzig.zoom-x.de/j/69982699666?pwd=afjBkjJGEKbkGaKndVysVGcAVwEsXa.1](https://uni-leipzig.zoom-x.de/j/69982699666?pwd=afjBkjJGEKbkGaKndVysVGcAVwEsXa.1)
 
 Eine Anmeldung ist nicht nötig.
