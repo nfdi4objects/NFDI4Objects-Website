@@ -46,7 +46,7 @@ Programm herunterladen.
 <table cellpadding="8" cellspacing="2">
   <thead>
     <tr>
-      <th width="20%" align="left">Uhrzeit</th>
+      <th width="50%" align="left">Uhrzeit</th>
       <th width="50%" align="left">Inhalt</th>
     </tr>
   </thead>
@@ -111,7 +111,7 @@ Programm herunterladen.
   <thead>
     <tr>
       <th width="20%" align="left">Uhrzeit</th>
-      <th width="50%" align="left">Inhalt</th>
+      <th width="80%" align="left">Inhalt</th>
     </tr>
   </thead>
   <tbody>

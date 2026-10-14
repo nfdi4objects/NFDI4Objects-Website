@@ -49,7 +49,7 @@ Download programme
   <thead>
     <tr>
       <th width="20%" align="left">Time</th>
-      <th width="50%" align="left">Programme</th>
+      <th width="80%" align="left">Programme</th>
     </tr>
   </thead>
   <tbody>
@@ -113,7 +113,7 @@ Download programme
   <thead>
     <tr>
       <th width="20%" align="left">Time</th>
-      <th width="50%" align="left">Programme</th>
+      <th width="80%" align="left">Programme</th>
     </tr>
   </thead>
   <tbody>
