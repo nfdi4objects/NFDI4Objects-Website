@@ -3,7 +3,7 @@ layout: event
 lang: de
 translation_key: n4o_activity_20261028-DANTE_Schulung_Oktober
 title: 'DANTE-Schulung für NFDI4Objects'
-excerpt: 
+excerpt: ''
 date: 2026-10-10
 event_date: 2026-10-28
 location: 'online'
