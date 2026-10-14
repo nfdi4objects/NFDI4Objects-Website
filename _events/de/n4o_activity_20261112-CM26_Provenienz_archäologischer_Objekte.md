@@ -22,8 +22,17 @@ Der Workshop zielt darauf ab, interdisziplinäre Perspektiven auf Provenienzdate
 
 **Wo?** Berlin, Brugsch-Pascha-Saal im Archäologischen Zentrum der SMB and online   
 **Link:** [https://spk-berlin.webex.com/meet/a.berthold](https://spk-berlin.webex.com/meet/a.berthold) 
+**Wann:** 12.-13- November 2026    
+  
+**Kontakt & Chair**
+
+[Angela Berthold](https://www.nfdi4objects.net/persons/angelaberthold/)   
+[TA2 Collecting in NFDI4Objects](https://www.nfdi4objects.net/areas/ta2/)   
+[a.berthold@smb.spk-berlin.de](mailto:a.berthold@smb.spk-berlin.de)  
 
 Anmeldung zur Teilnahme (online oder in Präsenz) bei Angela Berthold [a.berthold@smb.spk-berlin.de](mailto:a.berthold@smb.spk-berlin.de).
+
+#### Die Platzzahl vor Ort ist sehr begrenzt, wir empfehlen die Teilnahme online.
 
 ### Programm
 
@@ -40,14 +49,12 @@ Programm herunterladen.
 </a> 
 </div> 
 
-#### Die Platzzahl vor Ort ist sehr begrenzt, wir empfehlen die Teilnahme online.
-
 <h3>Donnerstag, 12. November 2026</h3>
 <table cellpadding="8" cellspacing="2">
   <thead>
     <tr>
-      <th width="50%" align="left">Uhrzeit</th>
-      <th width="50%" align="left">Inhalt</th>
+      <th width="20%" align="left">Uhrzeit</th>
+      <th width="80%" align="left">Inhalt</th>
     </tr>
   </thead>
   <tbody>
@@ -155,14 +162,6 @@ Programm herunterladen.
 </table>
   
 --- 
-**Wann:** 12.-13- November 2026  
-**Kontakt & Chair**
-
-[Angela Berthold](https://www.nfdi4objects.net/persons/angelaberthold/)   
-[TA2 Collecting in NFDI4Objects](https://www.nfdi4objects.net/areas/ta2/)   
-[a.berthold@smb.spk-berlin.de](mailto:a.berthold@smb.spk-berlin.de)  
-  
----  
 ### Reisekostenerstattung
 
 **Sie haben als Studierende, Promovierende oder Early Career Researcher nur limitierte finanzielle Ressourcen, möchten aber dennoch gern an einem unserer Präsenz-Workshops teilnehmen?**  

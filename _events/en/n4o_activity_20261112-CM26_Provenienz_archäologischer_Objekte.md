@@ -21,7 +21,7 @@ Provenance data relating to archaeological objects is a key component of informa
 The workshop aims to bring together interdisciplinary perspectives on provenance data for archaeological objects and to discuss current research, methodological approaches, and digital and institutional practices. Particular attention will be paid to the recording, analysis and reuse of provenance data in museums, collections, archives and research projects.
 
 **Where?** Berlin, Brugsch-Pascha-Saal im Archäologischen Zentrum der SMB and online   
-**Link:** [https://spk-berlin.webex.com/meet/a.berthold](https://spk-berlin.webex.com/meet/a.berthold)
+**Link:** [https://spk-berlin.webex.com/meet/a.berthold](https://spk-berlin.webex.com/meet/a.berthold)  
 **When:** November 12 - 13, 2026   
   
 **Contact & Chair**  
