@@ -11,7 +11,7 @@ areas:
 trails: 
 ccs: 
 twgs: 
-event_type: Workshops
+event_type: 'Workshop'
 permalink: /events/n4o_activity_20261028-DANTE_Schulung_Oktober/
 ---
 Am 28. Oktober, 9:00 bis 12:00 Uhr, findet die nächste Schulung zum Webservice DANTE zur Pflege und Publikation aller Arten von kontrollierten Vokabularen durch die VZG statt.
