@@ -3,7 +3,7 @@ layout: news
 lang: en
 translation_key: n4o_news_20261014-Bluepaper_Metadaten_Kulturerbe
 title: 'Bluepaper Unser Community-Standard für den Austausch von Metadaten zu Kulturerbeobjekten jetzt kommentierbar'
-excerpt: ''
+excerpt: 'Another post is available on our Community Hub for anyone interested to comment on.'
 date: 2026-10-14
 areas:
 trails:
@@ -11,8 +11,6 @@ ccs:
 twgs:
 permalink: en/news/n4o_news_20261014-Bluepaper_Metadaten_Kulturerbe/
 ---
-Another post is available on our Community Hub for anyone interested to comment on.
-
 Link: [https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/99](https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/99)
 
 The consultation period runs until **13 November 2026**. We look forward to receiving your feedback!

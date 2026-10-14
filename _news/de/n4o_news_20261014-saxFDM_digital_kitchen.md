@@ -3,7 +3,7 @@ layout: news
 lang: de
 translation_key: n4o_news_20261014-saxFDM_digital_kitchen
 title: 'SaxFDM Digital Kitchen am 22. Oktober 2026, 13:00 bis 14:00 Uhr'
-excerpt: ''
+excerpt: 'Aus unserem Netzwerk:'
 date: 2026-10-14
 areas:
 trails:
@@ -11,7 +11,7 @@ ccs:
 twgs:
 permalink: /news/n4o_news_202611014-saxFDM_digital_kitchen/
 ---
-Aus unserem Netzwerk: Die SaxFDM Digital Kitchen im Monat <strong>Oktober</strong> findet <strong>am Donnerstag, den 22.10.2026 von 13:00 – 14:00 Uhr</strong> mit Jan Rohden von der DFG statt. 
+Die SaxFDM Digital Kitchen im Monat <strong>Oktober</strong> findet <strong>am Donnerstag, den 22.10.2026 von 13:00 – 14:00 Uhr</strong> mit Jan Rohden von der DFG statt. 
 
 **Thema:** [Forschungsdatenmanagement im Wandel der Zeit – Wie sich die Angaben zum FDM in DFG-Anträgen entwickelt haben](https://saxfdm.de/veranstaltungen/fdm-dfg/)
 
