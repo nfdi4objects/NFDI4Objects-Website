@@ -21,7 +21,7 @@ Provenienzdaten zu archäologischen Objekten sind eine wichtige Informationskomp
 Der Workshop zielt darauf ab, interdisziplinäre Perspektiven auf Provenienzdaten archäologischer Objekte zusammenzuführen und aktuelle Forschungen, methodische Ansätze sowie digitale und institutionelle Praktiken zu diskutieren. Besonderes Augenmerk gilt der Erfassung, Auswertung und Nachnutzung von Provenienzdaten in Museen, Sammlungen, Archiven und Forschungsprojekten.
 
 **Wo?** Berlin, Brugsch-Pascha-Saal im Archäologischen Zentrum der SMB and online   
-**Link:** [https://spk-berlin.webex.com/meet/a.berthold](https://spk-berlin.webex.com/meet/a.berthold) 
+**Link:** [https://spk-berlin.webex.com/meet/a.berthold](https://spk-berlin.webex.com/meet/a.berthold)   
 **Wann:** 12.-13- November 2026    
   
 **Kontakt & Chair**
