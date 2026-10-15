@@ -7,6 +7,15 @@ keywords:
   - id: rdm
     name_de: "Forschungsdatenmanagment"
     name_en: "Research Data Management"
+  - id: db
+    name_de: "Datenbanken"
+    name_en: "Databases"
+  - id: archiv
+    name_de: "Archive"
+    name_en: "Archives"
+  - id: reuse 
+    name_de: "Nachnutzung"
+    name_en: "Reuse"
 
 categories:
   - id: collections
@@ -16,7 +25,25 @@ categories:
     name_de: "Forschungsdatenmanagment"
     name_en: "Research Data Management"
 
+
 target_groups:
   - id: researchers
     name_de: "Forschende"
     name_en: "Researchers"
+
+lizenz:
+  - id: cc0
+    name_de: "CC0"
+    name_en: "CC0"
+  - id: cc-by
+    name_de: "CC BY"
+    name_en: "CC BY"
+  - id: cc-by-sa
+    name_de: "CC BY-SA"
+    name_en: "CC BY-SA"
+  - id: cc-by-nc
+    name_de: "CC BY-NC"
+    name_en: "CC BY-NC"
+  - id: cc-by-nc-sa
+    name_de: "CC BY-NC-SA"
+    name_en: "CC BY-NC-SA"
