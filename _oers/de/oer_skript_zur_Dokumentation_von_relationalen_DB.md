@@ -6,7 +6,7 @@ excerpt:
  In vielen Forschungsprojekten werden die Forschungsdaten in relationalen Datenbanken erfasst. Sowohl für den Import von Daten in die Datenbank als auch für die Dokumentation zur Nachnutzung müssen Sie diese mit Metadaten beschreiben. In diesem Skript lernen Sie die wichtigsten Begriffe zur Dokumentation von (relationalen) Datenbanken. Dieses Wissen hilft Ihnen bei der Planung einer eigenen Datenbank, der Nachnutzung von Datenbanken Dritter, sowie der Archivierung von Datenbanken.
 link_url: https://nfdi4objects.github.io/oer-skript-dokumentation-rdb/
 license: 
-- cc-by
+- CC BY
 keywords: 
 - Datenbanken
 - Archivierung
