@@ -3,7 +3,7 @@ layout: person
 title: Yiu- Kang Hsu
 lang: de
 translation_key: yiu-kanghsu
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Hsu-Gary-2.jpg
 groups:
 - staff
 institution: deutsches-bergbau-museum-bochum
