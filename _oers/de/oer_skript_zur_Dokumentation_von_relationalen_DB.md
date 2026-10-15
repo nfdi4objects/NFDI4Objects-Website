@@ -7,11 +7,11 @@ excerpt:
 link_url: https://nfdi4objects.github.io/oer-skript-dokumentation-rdb/
 license: CC-BY
 keywords: 
- - collections
-categories: 
  - datenbanken
  - archivierung
  - nachnutzung
+categories: 
+- skript
 target_group:
  - researchers
 lang: de
