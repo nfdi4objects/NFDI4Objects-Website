@@ -3,7 +3,7 @@ layout: person
 title: Dirk Wintergrün
 lang: en
 translation_key: dirkwintergruen
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Wintergruen-Dirk-2.jpg
 groups:
 - steering
 institution: klassik-stiftung-weimar

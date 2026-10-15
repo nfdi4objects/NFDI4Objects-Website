@@ -6,6 +6,7 @@ date: 2025-12-01
 title: Recommendations for Research Data Management in Museums and University Collections (2025)
 excerpt: Draft Recommendations of the Temporary Working Group (TWG) “Environmental Analysis of the FDM Landscape in Museums and Collections” by NFDI4Objects
 zenodo_url: https://zenodo.org/records/17778128
+comment_url: https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/45
 keywords: 
  - collections 
 authors:

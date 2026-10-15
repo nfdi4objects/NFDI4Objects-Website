@@ -3,7 +3,7 @@ layout: person
 title: Thomas Stöllner
 lang: de
 translation_key: thomas_stoellner
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Stöllner-Thomas-3.jpg
 groups:
 - steering
 institution: deutsches-bergbau-museum-bochum

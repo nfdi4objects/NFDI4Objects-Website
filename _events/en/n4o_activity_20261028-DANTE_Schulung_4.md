@@ -1,20 +1,20 @@
 ---
 layout: event
 lang: en
-translation_key: n4o_activity_20261028-DANTE_Schulung_4
+translation_key: n4o_activity_20261028-DANTE_Schulung_Oktober
 title: 'DANTE-Training for NFDI4Objects'
-excerpt: ''
-date: 2026-10-28
-event_date: '2026-10-28'
+excerpt: 
+date: 2026-10-10
+event_date: 2026-10-28
 location: 'online'
 areas: 
 trails: []
 ccs: 
 twgs: 
-event_type: "Workshop"
-permalink: en/events/n4o_activity_20261028-DANTE_Schulung_4/
+event_type: 'Workshop'
+permalink: en/events/n4o_activity_20261028-DANTE_Schulung_Oktober/
 ---
-On **28 October, from 9.00 am to 12.00 pm,** the VZG will be holding the next training session on the **DANTE** web service for the maintenance and publication of all types of controlled vocabularies.
+On 28 October, from 9.00 am to 12.00 pm, the VZG will be holding the next training session on the DANTE web service for the maintenance and publication of all types of controlled vocabularies.
 
 Please register by emailing [michael.markert@gbv.de](mailto:michaelmarkert@gbv.de), stating your institution.
 

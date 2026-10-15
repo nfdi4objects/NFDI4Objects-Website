@@ -6,7 +6,6 @@ title: GeoHist
 short_title: 'Werkzeug und Repositorium zur <strong>geografischen Datenerfassung</strong> und Analyse historischer Geodaten.'
 logo: "/assets/images/services/n4o_website_symbolgraphiken_portal_services.png"
 homepage: ''
-access_url: ''
 areas:
 - ta3
 trails: []

@@ -6,12 +6,12 @@ title: Integration von community-driven vocabularies in das Wikiversum am Beispi
   von Numismatik und Keramologie sowie Petroglyphen und Monolithen
 identifier: TWG 2023.4
 status: planned
-start_date: 2023-07-21 10:55:00+00:00
-end_date: 2024-09-23 20:01:12.873000+00:00
+start_date: 2023-07-21 
+end_date: 2024-09-23 
 type: n4o:Organization
 cochairs:
-- name: Florian Thiery
-  person_ref: florian_thiery
+- name: 
+  person_ref: 
 - name: Allard Mees
   person_ref: allard_mees
 areas:

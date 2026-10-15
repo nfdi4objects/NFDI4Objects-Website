@@ -5,7 +5,7 @@ keywords:
     name_de: "Museen & Sammlungen"
     name_en: "Museums & Collections"
   - id: rdm
-    name_de: "Forschungsdatenmanagment"
+    name_de: "Forschungsdatenmanagement"
     name_en: "Research Data Management"
   - id: mds
     name_de: "Metadatenschema"

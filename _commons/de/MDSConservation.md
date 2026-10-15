@@ -4,7 +4,9 @@ lang: de
 translation_key: MDSConservation
 date: 2026-09-11
 title: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (2026)
+excerpt: 'Entwurf der Temporary Working Group Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes'
 zenodo_url: https://doi.org/10.5281/zenodo.22871824
+comment_url: https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/98
 keywords: 
  - conservation
  - mds
@@ -28,8 +30,8 @@ ccs: cc_conservation_sciences
 twgs: 
 - community-standards-für-kontrollierte-vokabulare-und-austauschformate-im-bereich-der-erhaltung-und-pflege-des-kulturellen-erbes
 permalink: /commons/MDSConservation/
-teaser_image: "/assets/images/2021-03-09-09-30-11-552x©manfred_pollert.jpg"
-teaser_image_alt: "Alternativtext für Barrierefreiheit"
+teaser_image: 
+teaser_image_alt: 
 ---
 
 Strukturierter Rahmen für die standardisierte Erfassung konservatorisch-restauratorischer Eingriffe an Kunst und Kulturgut, entwickelt durch die Temporary Working Group Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes.

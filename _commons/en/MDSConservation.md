@@ -1,0 +1,36 @@
+---
+layout: commons
+lang: en
+translation_key: MDSConservation
+date: 2026-09-11
+title: Metadata framework for the documentation of conservation and restoration measures (2026)
+excerpt: Draft Community Standards by the Temporary Working Group on Controlled Vocabularies and Exchange Formats in the Field of Cultural Heritage Preservation and Maintenance
+zenodo_url: https://doi.org/10.5281/zenodo.22871824
+comment_url: https://community.nfdi4objects.net/en/assemblies/commons/f/1/proposals/98
+keywords: 
+ - conservation
+ - mds
+authors:
+- name: Kristina Fischer 
+  person_ref: kristinafella
+- name: Nathaly Witt
+  person_ref: nathalywitt
+- name: Lasse Mempel-Länger
+  person_ref: lassemempel-länger
+- name: Gisela Gulbins
+- name: Gudrun Schwenk
+- name: Eva Schoel
+- name: Hannah Zettner
+- name: Elena Gómez Sánchez
+- name: Sarah Thompson
+areas: 
+- ta4
+trails:
+ccs: cc_conservation_sciences
+twgs: 
+- community-standards-für-kontrollierte-vokabulare-und-austauschformate-im-bereich-der-erhaltung-und-pflege-des-kulturellen-erbes
+permalink: en/commons/MDSConservation/
+teaser_image: 
+teaser_image_alt: 
+---
+A structured framework for the standardised recording of conservation and restoration interventions on works of art and cultural heritage, developed by the Temporary Working Group on Community Standards for Controlled Vocabularies and Exchange Formats in the Field of Cultural Heritage Conservation and Care.

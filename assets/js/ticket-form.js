@@ -79,9 +79,11 @@ function sendFormContents(formId) {
     dataType: "json",
     url: "https://ticket.nfdi4objects.net/api/v1/tickets",
     beforeSend: function(xhr) {
-      xhr.setRequestHeader("Authorization", "Bearer " + token);
+      xhr.setRequestHeader("Authorization", "Token " + token);
     },
-    data: {
+    contentType: "application/json; charset=utf-8",
+    processData: false,
+    data: JSON.stringify({
       title: subject,
       group: config.getTags(),
       customer_id: "guess:" + email,
@@ -90,10 +92,10 @@ function sendFormContents(formId) {
         subject: subject,
         body: message,
         sender: "Customer",
-        type: "email",
+        type: "web",
         internal: false
       }
-    },
+    }),
     success: function(result) {
       document.getElementById(formId).reset();
       dialogMessage.innerHTML =

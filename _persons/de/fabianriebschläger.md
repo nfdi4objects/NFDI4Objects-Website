@@ -3,7 +3,7 @@ layout: person
 title: Fabian Riebschläger
 lang: de
 translation_key: fabianriebschläger
-image: /assets/images/persons/n4o_website_person_grey.png
+image: /assets/images/persons/N4O-Portraits-VanessaLiebler-Riebschläger-Fabian-2.jpg
 groups:
 - staff
 institution: deutsches-archäologisches-institut-dai

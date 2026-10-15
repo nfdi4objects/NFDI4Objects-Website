@@ -11,7 +11,7 @@ ccs:
 twgs:
 permalink: /news/n4o_news_20260929-survey_CiVers/
 ---
-### Das CiVers-Projekt des DAI lädt Forschende der NFDI4Objects-Community zur Teilnahme an einer Umfrage zu Praktiken und Erwartungen rund um die Veröffentlichung und Zitierung digitaler Forschungsdaten ein.
+Das CiVers-Projekt des DAI lädt Forschende der NFDI4Objects-Community zur Teilnahme an einer Umfrage zu Praktiken und Erwartungen rund um die Veröffentlichung und Zitierung digitaler Forschungsdaten ein.
 
 Das Projekt [CiVers (Citation of Versioned Web Pages by PID)](https://www.dainst.org/forschung/projekte/citation-of-versioned-web-pages-by-pid-civers/5926) des Deutschen Archäologischen Instituts (DAI) führt im Rahmen der NFDI4Objects-Community die Umfrage „Veröffentlichung und Zitierung digitaler Forschungsergebnisse“ durch. Wir laden alle interessierten Forschenden herzlich zur Teilnahme ein.
 
