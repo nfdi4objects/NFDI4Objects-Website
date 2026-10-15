@@ -16,6 +16,10 @@ keywords:
   - id: reuse 
     name_de: "Nachnutzung"
     name_en: "Reuse"
+  - id: metadata
+    name_de: "Metadaten"
+    name_en: "Metadata"
+  - id:
 
 categories:
   - id: collections

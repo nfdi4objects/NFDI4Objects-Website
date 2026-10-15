@@ -5,13 +5,12 @@ title: "Einführung in Metadaten"
 excerpt:
  In diesem Skript wird erklärt, was Metadaten sind, welche Arten von Metadaten es gibt und warum es für jede Forschungsarbeit relevant ist, Dateien, Datensätze und die Forschungsarbeit an sich mit Metadaten zu versehen. Die Zielgruppe dieser Einheit sind Studierende (BA und MA) und Promovierende in Fächern, die sich mit dem materiellen Erbe der Menschheitsgeschichte beschäftigen. Die fachspezifischen Beispieldaten sind an dieser Zielgruppe orientiert.
 link_url: https://nfdi4objects.github.io/oer-skript-metadaten/
-license: CC-BY
+license: CC BY
 keywords: 
- - collections
+- Metadaten
+- Forschungsdatenmanagement 
 categories: 
- - datenbanken
- - archivierung
- - nachnutzung
+- Skript
 target_group:
  - researchers
 lang: de
@@ -21,8 +20,8 @@ commons:
 translation_key: skript
 permalink: /oers/skript/
 authors:
-- name: Henrike Backhaus 
-  person_ref: henrikebackhaus
+- name: Sandra Schröer-Spang 
+  person_ref: sandraschröer-spang
 - name: Kai-Christian Bruhn
   person_ref: kai-christian_bruhn
 
