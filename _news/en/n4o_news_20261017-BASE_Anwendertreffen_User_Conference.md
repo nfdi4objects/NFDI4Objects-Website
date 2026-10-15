@@ -4,7 +4,7 @@ lang: en
 translation_key: n4o_news_20261017-BASE_Anmeldung_User_Conference
 title: '3rd BASE4NFDI User Conference on 24 and 25 November 2026 in Berlin '
 excerpt: 'From out network'
-date: 2026-10-17
+date: 2026-10-15
 areas:
 trails:
 ccs:
