@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_20261130-CM_Workshop_from_field_2_fair/
+permalink: /news/n4o_news_20261017-BASE_Anmeldung_User_Conference/
 ---
 ## 3rd BASE4NFDI User Conference am 24. und 25. November 2026 in Berlin
 
