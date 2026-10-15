@@ -7,10 +7,10 @@ excerpt:
 link_url: https://nfdi4objects.github.io/oer-skript-metadaten/
 license: CC BY
 keywords: 
-- Metadaten
-- Forschungsdatenmanagement 
+ - Metadaten
+ - Forschungsdatenmanagement 
 categories: 
-- Skript
+ - Skript
 target_group:
  - researchers
 lang: de
