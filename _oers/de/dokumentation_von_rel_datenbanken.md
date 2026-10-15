@@ -20,7 +20,7 @@ areas: ta6
 services: nfdi4objects-qualification
 commons: 
 translation_key: skript
-permalink: /oers/skript/
+permalink: /oers/skript/dokumentation_von_rel_datenbanken.md
 authors:
 - name: Henrike Backhaus 
   person_ref: henrikebackhaus
