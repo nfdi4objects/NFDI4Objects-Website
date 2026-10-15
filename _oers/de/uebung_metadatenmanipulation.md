@@ -4,7 +4,7 @@ date: 2025-09-21
 title: "NFDI4Objects OER-Übung Metadatenmanipulation in Tabellenprogrammen"
 excerpt:
  Sie lernen hier, wie sie aus einer .ods-Datei ein ZIP-Archiv machen und sie damit in ihre Einzelteile zerlegen. Hier können Sie in der xml-Datei Metadaten zu Ihren Tabellendaten anlegen.
-link_url: https://nfdi4objects.github.io/oer-skript-dokumentation-rdb/
+link_url: https://nfdi4objects.github.io/oer-uebung-metadaten_tabellen_manipulieren/
 license: 
  - CC BY
 keywords: 
