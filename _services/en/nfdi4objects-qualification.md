@@ -74,12 +74,7 @@ The service is aimed in particular at:
 ### 🧩 Teaching materials (OER)
 *Lecture notes, presentations and practical exercises on various FDM topics.*
 
-Here you will find an ever-growing collection of freely available OER resources from NFDI4Objects.
-
-- Introduction to **metadata** – 🔗 [Go to OER-Script](https://nfdi4objects.github.io/oer-skript-metadaten/)
-- Exercise on different **types of metadata** – 🔗 [Go to OER-Exercise](https://nfdi4objects.github.io/oer-uebung-metadatentypen/)
-- Script for **documenting relational databases** – 🔗 [Go to OER-Script](https://nfdi4objects.github.io/oer-skript-dokumentation-rdb/)
-- Exercise on **metadata manipulation in spreadsheet applications** – 🔗 [Go to OER-Exercise](https://nfdi4objects.github.io/oer-uebung-metadaten_tabellen_manipulieren/)
+NFDI4Objects provides FAIR OER for self-study and integration into teaching. You can find all NFDI4Objects FAIR OER in our [OER Catalogue](https://www.nfdi4objects.net/en/oers/).
 
 All materials are made openly available and are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 

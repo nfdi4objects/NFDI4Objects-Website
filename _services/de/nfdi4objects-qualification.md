@@ -74,14 +74,9 @@ Der Dienst richtet sich insbesondere an:
 ### 🧩 Lehrmaterialien (OER)
 *Skripte, Präsentationen und praxisorientierte Übungen zu verschiedenen FDM-Themen.*
 
-Hier finden Sie eine stetig wachsende Sammlung frei verfügbarer OER-Bausteine aus NFDI4Objects.
+NFDI4Objects stellt FAIRe OER als Selbstlernmaterialien und zur Integration in die Lehre frei zur Verfügung. Alle NFDI4Objects FAIR OER finden Sie in unserem [OER-Katalog](https://www.nfdi4objects.net/oers/)
 
-- Einführung in das Thema **Metadaten** – 🔗 [Gehe zum OER-Baustein](https://nfdi4objects.github.io/oer-skript-metadaten/)
-- Übung zu verschiedenen **Typen von Metdaten** – 🔗 [Gehe zum OER-Baustein](https://nfdi4objects.github.io/oer-uebung-metadatentypen/)
-- Skript zur **Dokumentation von relationalen Datenbanken** – 🔗 [Gehe zum OER-Baustein](https://nfdi4objects.github.io/oer-skript-dokumentation-rdb/)
-- Übung zur **Metadatenmanipulation in Tabellenprogrammen** – 🔗 [Gehe zum OER-Baustein](https://nfdi4objects.github.io/oer-uebung-metadaten_tabellen_manipulieren/)
-
-Alle Materialien werden offen bereitgestellt und stehen unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Die Materialien werden offen bereitgestellt und stehen unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ### 🎓 Qualifikationsrahmen
 *Kompetenzmodell für FDM im Bereich des materiellen Kulturerbes.*
