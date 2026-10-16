@@ -19,7 +19,7 @@ areas: ta6
 services: nfdi4objects-qualification
 commons: 
 translation_key: dokumentation_von_rel_datenbanken
-permalink: /oers/dokumentation_von_rel_datenbanken
+permalink: /oers/dokumentation_von_rel_datenbanken/
 authors:
 - name: Henrike Backhaus 
   person_ref: henrikebackhaus

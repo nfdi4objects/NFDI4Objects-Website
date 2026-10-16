@@ -18,7 +18,7 @@ areas: ta6
 services: nfdi4objects-qualification
 commons: 
 translation_key: uebung_metadatentypen
-permalink: /oers/uebung_metadatentypen
+permalink: /oers/uebung_metadatentypen/
 authors:
 - name: Sandra Schröer-Spang 
   person_ref: sandraschröer-spang

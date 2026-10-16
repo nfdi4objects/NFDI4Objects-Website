@@ -17,7 +17,7 @@ areas: ta6
 services: nfdi4objects-qualification
 commons: 
 translation_key: einfuehrung_metadaten
-permalink: /oers/einfuehrung_metadaten
+permalink: /oers/einfuehrung_metadaten/
 authors:
 - name: Sandra Schröer-Spang 
   person_ref: sandraschröer-spang
