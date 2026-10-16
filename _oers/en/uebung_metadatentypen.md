@@ -13,7 +13,7 @@ categories:
  - Übung
 target_group:
  - researchers
-lang: de
+lang: en
 areas: ta6
 services: nfdi4objects-qualification
 commons: 
