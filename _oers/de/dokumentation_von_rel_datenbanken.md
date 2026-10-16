@@ -20,7 +20,7 @@ areas: ta6
 services: nfdi4objects-qualification
 commons: 
 translation_key: skript
-permalink: /oers/skript/dokumentation_von_rel_datenbanken.md
+permalink: /oers/dokumentation_von_rel_datenbanken
 authors:
 - name: Henrike Backhaus 
   person_ref: henrikebackhaus
@@ -28,4 +28,5 @@ authors:
   person_ref: kai-christian_bruhn
 
 ---
+
  In vielen Forschungsprojekten werden die Forschungsdaten in relationalen Datenbanken erfasst. Sowohl für den Import von Daten in die Datenbank als auch für die Dokumentation zur Nachnutzung müssen Sie diese mit Metadaten beschreiben. In diesem Skript lernen Sie die wichtigsten Begriffe zur Dokumentation von (relationalen) Datenbanken. Dieses Wissen hilft Ihnen bei der Planung einer eigenen Datenbank, der Nachnutzung von Datenbanken Dritter, sowie der Archivierung von Datenbanken.

@@ -19,7 +19,7 @@ areas: ta6
 services: nfdi4objects-qualification
 commons: 
 translation_key: skript
-permalink: /oers/skript/uebung_metadatentypen.md
+permalink: /oers/uebung_metadatentypen
 authors:
 - name: Sandra Schröer-Spang 
   person_ref: sandraschröer-spang

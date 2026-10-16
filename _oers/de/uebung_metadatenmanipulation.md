@@ -20,7 +20,7 @@ areas: ta6
 services: nfdi4objects-qualification
 commons: 
 translation_key: skript
-permalink: /oers/skript/uebung_metadatenmanipulation.md
+permalink: /oers/uebung_metadatenmanipulation
 authors:
 - name: Henrike Backhaus 
   person_ref: henrikebackhaus
