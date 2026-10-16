@@ -22,6 +22,9 @@ layout: n4o-base
 
       </header>
 
+      {% comment %} Commons Infobox - Metadaten direkt nach Header {% endcomment %}
+      {% include commons-infobox.html %}
+
       {% comment %} Main Content {% endcomment %}
       <div class="commons-body">
         {{ content }}
@@ -29,9 +32,7 @@ layout: n4o-base
 
       {% comment %} Dynamische Inhalte (Querverbindungen: Areas, CCs, Trails, TWGs, etc.) {% endcomment %}
       {% include dynamic-content.html %}  
-      
-      {% comment %} Commons Infobox - Metadaten direkt nach Header {% endcomment %}
-      {% include commons-infobox.html %}
+    
 
     </article>
   </div>
