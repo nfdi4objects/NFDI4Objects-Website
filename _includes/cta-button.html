@@ -23,6 +23,10 @@ Parameters:
   {%- assign target_attr = ' target="_blank" rel="noopener noreferrer"' -%}
 {%- endif -%}
 
-<p class="text-center space">
+{%- if include.wrapper == false -%}
   <a href="{{ include.url | relative_url }}" class="btn btn-{{ btn_style }}"{{ target_attr }}>{{ include.text }}</a>
-</p>
+{%- else -%}
+  <p class="text-center space">
+    <a href="{{ include.url | relative_url }}" class="btn btn-{{ btn_style }}"{{ target_attr }}>{{ include.text }}</a>
+  </p>
+{%- endif -%}
