@@ -28,4 +28,4 @@ Dieses CC soll als Diskussionsplattform für Fragen des Datenaustauschs gemäß 
 
 [E-Mail-Verteilerliste](https://www.listserv.dfn.de/sympa/info/n4o_cc_protected_heritage_sites)[](https://osf.io/pwzg4/?view_only=)
 
-[Sitzungsprotokolle und Dokumente](https://osf.io/pwzg4/?view_only=)
+[Sitzungsprotokolle und Dokumente](https://community.nfdi4objects.net/de/assemblies/HeritageSites)
