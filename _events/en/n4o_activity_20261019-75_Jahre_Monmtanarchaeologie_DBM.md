@@ -6,7 +6,7 @@ title: '‘From Digital Excavation to Digital Data Service’'
 excerpt: 'Session at the conference 75 years mining archaeology'
 date: 2026-10-19
 event_date: 2026-12-04
-location: Deustches Bergbaumuseum Bochum
+location: Deutsches Bergbaumuseum Bochum
 areas: 
 - ta3
 trails: []

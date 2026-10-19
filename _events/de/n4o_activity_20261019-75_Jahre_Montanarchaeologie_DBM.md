@@ -6,7 +6,7 @@ title: '"Von der digitalen Grabung zum digitalen Datendienst“'
 excerpt: 'Session während der Tagung: 75 Jahre Montanarchäologie '
 date: 2026-10-19
 event_date: 2026-12-04
-location: Deustches Bergbaumuseum Bochum
+location: Deutsches Bergbaumuseum Bochum
 areas: 
 - ta3
 trails: []
