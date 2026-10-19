@@ -25,4 +25,4 @@ The community cluster "Protected Heritage Sites" aims to improve the systematic 
 
 [Email distribution list](https://www.listserv.dfn.de/sympa/info/n4o_cc_protected_heritage_sites)[](https://osf.io/pwzg4/?view_only=)
 
-[Meeting minutes and documents](https://osf.io/pwzg4/?view_only=)
+[Meeting minutes and documents](https://community.nfdi4objects.net/de/assemblies/HeritageSites)
