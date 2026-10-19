@@ -2,8 +2,8 @@
 layout: event
 lang: en
 translation_key: n4o_activity_20261019-75_Jahre_Montanarchaeologie_DBM
-title: '‘From Digital Excavation to Digital Data Service’ on 4 December 2026 at the German Mining Museum in Bochum:'
-excerpt: ''
+title: '‘From Digital Excavation to Digital Data Service’'
+excerpt: 'Session at the conference 75 years mining archaeology'
 date: 2026-10-19
 event_date: 2026-12-04
 location: Deustches Bergbaumuseum Bochum
@@ -17,11 +17,12 @@ permalink: en/events/n4o_activity_20261019-75_Jahre_Montanarchaeologie_DBM/
 ---
 As part of the conference “75 Years of Mining Archaeology” at the German Mining Museum, a session entitled “From Digital Excavation to Digital Data Service” will take place on 4 December 2026, from approximately 10.30 am to approximately 12.30 pm.
 
-#### 30-minute keynote
+**30-minute keynote**
 
-#### 30-minute presentation on GeoHist & TerraLID
+**30-minute presentation on GeoHist & TerraLID**
 
-#### 60-minute discussion and introductory workshop on ‘Metadata in Mining Archaeology’ (hybrid) with the mining archaeology community.
+**60-minute discussion and introductory workshop on ‘Metadata in Mining Archaeology’ (hybrid) with the mining archaeology community.** 
+  
 
 Registration for the full conference remains open until 31 October 2026.
 
