@@ -29,5 +29,3 @@ Registration for the full conference remains open until 31 October 2026.
 Zoom link: [https://thga-de.zoom.us/j/63061146670?pwd=0b6uw06egan7oP7lPCGadXQCvKEQE3.1# success](https://thga-de.zoom.us/j/63061146670?pwd=0b6uw06egan7oP7lPCGadXQCvKEQE3.1#success)
 
 More information on registration and the programme: [https://www.bergbaumuseum.de/forschung/montanarchaeologie/75-jahre-montanarchaeologische-forschung-im-deutschen-bergbau-museum-bochum](https://www.bergbaumuseum.de/forschung/montanarchaeologie/75-jahre-montanarchaeologische-forschung-im-deutschen-bergbau-museum-bochum)
-
-Translated with DeepL.com (free version)
