@@ -9,6 +9,7 @@ permalink: /help/
 ---
 
 # Hilfe & Kontakt
+Der Helpdesk bietet individuelle Unterstützung und Beratung zu Fragen des Forschungsdatenmanagements. Eingehende Anfragen werden je nach Thema an Expertinnen und Experten der spezifischen Fach- und Themenbereiche weitergeleitet. Auf diese Weise werden Fragen gezielt und fachkundig bearbeitet. Dieses Angebot steht allen Interessierten offen.
 
 <form id="helpdeskform">
   <!-- Form fields as before -->
