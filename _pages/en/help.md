@@ -1,6 +1,6 @@
 ---
 layout: help
-title: Help & Contact
+title: Helpdesk
 description: Contact form for support requests
 keywords: support, contact, help, ticket
 lang: en
@@ -8,7 +8,9 @@ translation_key: help
 permalink: /en/help/
 ---
 
-# Help & Contact
+# Helpdesk
+The Helpdesk offers personalized support and advice on research data management issues. Incoming inquiries are forwarded to experts in the relevant fields and subject areas, depending on the topic. This ensures that questions are addressed in a targeted and knowledgeable manner. This service is open to anyone interested.
+
 
 <form id="helpdeskform">
   <label for="name">Last Name:</label><br>
