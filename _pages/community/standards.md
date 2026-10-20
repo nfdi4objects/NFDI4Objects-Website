@@ -35,4 +35,4 @@ Die NFDI4Objects Commons durchlaufen einen transparenten, partizipativen Qualit�
 
 Alle Commons-Beiträge werden unter einer CC-BY-4.0-Lizenz in der NFDI4Objects-Community auf Zenodo veröffentlicht und sind frei zugänglich. Sie sind außerdem über einen [Katalog](https://www.nfdi4objects.net/commons/) auf dieser Webseite erschlossen.
 
-Über neue Veröffentlichungen und laufende Kommentierungsphasen informiert Sie der Newsletter von NFDI4Objects. 
+Über neue Veröffentlichungen und laufende Kommentierungsphasen informiert Sie der [Newsletter](https://www.listserv.dfn.de/sympa/subscribe/n4o-newsletter) von NFDI4Objects. 
