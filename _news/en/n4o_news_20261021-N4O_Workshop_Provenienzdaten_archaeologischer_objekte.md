@@ -1,7 +1,7 @@
 ---
 layout: news
 lang: en
-translation_key: n4o_news_20261021_N4O_Workshop_provenienzdaten_archaeologischer_objekte
+translation_key: n4o_news_20261021-N4O_Workshop_Provenienzdaten_archaeologischer_objekte
 title: 'Provenance data for archaeological objects: specific features, sources, methods, challenges on 12 and 13 November'
 excerpt: 'NFDI4Objects-Workshop'
 date: 2026-10-01
@@ -10,7 +10,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: en/news/n4o_news_20261021_N4O_Workshop_provenienzdaten_archaeologischer_objekte/
+permalink: en/news/n4o_news_20261021-N4O_Workshop_Provenienzdaten_archaeologischer_objekte/
 ---
 Provenance data relating to archaeological objects are a key source of information for their scholarly interpretation, legal assessment and ethically responsible handling. They form the basis for investigating questions of origin, ownership history, collection contexts, routes of transfer, and the handling of illicit trade, looting and colonial acquisition contexts.
 

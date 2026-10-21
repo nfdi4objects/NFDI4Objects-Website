@@ -1,7 +1,7 @@
 ---
 layout: news
 lang: de
-translation_key: n4o_news_20261021_N4O_Workshop_provenienzdaten_archaeologischer_objekte
+translation_key: n4o_news_20261021-N4O_Workshop_Provenienzdaten_archaeologischer_objekte
 title: 'Provenienzdaten archäologischer Objekte: Spezifika, Quellen, Methoden, Herausforderungen am 12. und 13. November'
 excerpt: 'NFDI4Objects-Workshop'
 date: 2026-10-01
@@ -10,7 +10,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_20261021_N4O_Workshop_provenienzdaten_archaeologischer_objekte/
+permalink: /news/n4o_news_20261021-N4O_Workshop_Provenienzdaten_archaeologischer_objekte/
 ---
 Provenienzdaten zu archäologischen Objekten sind eine wichtige Informationskomponente für deren wissenschaftliche Interpretation, rechtliche Bewertung sowie den ethisch verantwortungsvollen Umgang mit  ihnen. Sie bilden die Grundlage für Fragen nach Herkunft,  Besitzgeschichte, Sammlungskontexten, Transferwegen und dem Umgang mit illegalem Handel, Raubgrabungen und kolonialen Erwerbungskontexten.
 
