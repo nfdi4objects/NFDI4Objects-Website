@@ -2,16 +2,16 @@
 layout: trail
 lang: en
 translation_key: 4.7_second_TRAILs
-title: Data Standards for Interdisciplinary Exchange in Conservation-Restoration
+title: Data Standards for Interdisciplinary Exchange in Conservation
 start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/26
 type: n4o:Project
 round: second
 cochairs:
-- name: Johanne Lefeldt
-  person_ref: johannelefeldt
-- name: 'Lasse Mempel-Länger'
+- name: Kristina Fischer
+  person_ref: kristinafella
+- name: Lasse Mempel-Länger
   person_ref: lassemempel-länger
 areas:
 - ta4

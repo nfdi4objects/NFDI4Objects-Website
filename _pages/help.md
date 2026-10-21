@@ -1,6 +1,6 @@
 ---
 layout: help
-title: Hilfe & Kontakt
+title: Helpdesk
 description: Kontaktformular für Support-Anfragen
 keywords: support, kontakt, hilfe, ticket
 lang: de
@@ -8,7 +8,9 @@ translation_key: help
 permalink: /help/
 ---
 
-# Hilfe & Kontakt
+# Helpdesk
+Der Helpdesk bietet individuelle Unterstützung und Beratung zu Fragen des Forschungsdatenmanagements. Eingehende Anfragen werden je nach Thema an Expertinnen und Experten der spezifischen Fach- und Themenbereiche weitergeleitet. Auf diese Weise werden Fragen gezielt und fachkundig bearbeitet. Dieses Angebot steht allen Interessierten offen.
+
 
 <form id="helpdeskform">
   <!-- Form fields as before -->

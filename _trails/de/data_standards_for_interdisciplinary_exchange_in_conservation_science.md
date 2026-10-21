@@ -9,8 +9,8 @@ proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/26
 type: n4o:Project
 round: second
 cochairs:
-- name: Johanne Lefeldt
-  person_ref: johannelefeldt
+- name: Kristina Fischer
+  person_ref: kristinafella
 - name: Lasse Mempel-Länger
   person_ref: lassemempel-länger
 areas:

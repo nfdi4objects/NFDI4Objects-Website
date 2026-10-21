@@ -9,10 +9,10 @@ proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/24
 type: n4o:Project
 round: second
 cochairs:
-- name: Johanne Lefeldt
-  person_ref: johannelefeldt
-- name: ''
-  person_ref: ''
+- name: Kristina Fischer
+  person_ref: kristinafella
+- name: Nathaly Witt
+  person_ref: nathalywitt
 areas:
 - ta4
 - ta6

@@ -8,11 +8,11 @@ end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/23
 type: n4o:Project
 round: second
-co-chairs:
-- name: Johanne Lefeldt
-  person_ref: johannelefeldt
-- name: ''
-  person_ref: ''
+cochairs:
+- name: Kristina Fischer
+  person_ref: kristinafella
+- name: Andreas Puhl
+  person_ref: andreaspuhl
 areas:
 - ta4
 - ta5
