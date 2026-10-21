@@ -4,7 +4,7 @@ lang: en
 translation_key: n4o_news_20261021-N4O_Workshop_Provenienzdaten_archaeologischer_objekte
 title: 'Provenance data for archaeological objects: specific features, sources, methods, challenges on 12 and 13 November'
 excerpt: 'NFDI4Objects-Workshop'
-date: 2026-10-01
+date: 2026-10-21
 areas:
 - ta2
 trails:
