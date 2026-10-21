@@ -2,11 +2,11 @@
 layout: commons
 lang: de
 translation_key: OverviewRDMMuseums
-date: 2025-11-30
+date: 2025-12-02
 title: 'Überblick über das Forschungsdatenmanagement in Museen und Universitätssammlungen (2024)'
-excerpt: 
+excerpt: ''
 zenodo_url: https://zenodo.org/records/14926511
-comment_url: 
+comment_url: ''
 keywords: 
  - collections 
 authors:
@@ -17,10 +17,11 @@ authors:
   person_ref: frankvon-hagel
 - name: Felix Schäfer
   person_ref: felix-fschäfer
-areas:
-trails: 
-ccs: 
-twgs: twg1
+areas: []
+trails: []
+ccs: []
+twgs: 
+- twg1
 permalink: /commons/OverviewRDMMuseums/
 ---
 In der vorliegenden Analyse wird ein Blick auf die aktuelle Situation der Museums- und Universitätssammlungen hinsichtlich Forschungsdaten und -infrastrukturen geworfen. Sie zeigt den derzeitigen Stand und die aktuellen Praktiken zur Erforschung, Erschließung und Digitalisierung der Sammlungen zu ermitteln. Zudem werden verbreitete Standards, Vokabulare und Tools wie auch die Herausforderungen für die Arbeit mit sammlungsbezogenen Forschungsdaten benannt.
