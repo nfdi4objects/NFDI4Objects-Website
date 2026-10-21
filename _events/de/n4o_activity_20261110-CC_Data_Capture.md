@@ -3,7 +3,7 @@ layout: event
 lang: de
 translation_key: n4o_activity_20261110-CC_Data_Capture
 title: '<bold>Normdaten für Bauwerke: Die GND-Agentur Bauwerke</bold> Clustertreffen des CC “Data Capture and Creation” '
-excerpt:  <i>Vortrag von Christian Bracht, Hanna-Lena Meiners und Julia Rössel</i>'
+excerpt:  <i>Vortrag von Christian Bracht, Hanna-Lena Meiners und Julia Rössel</i>
 date: 2026-10-14
 event_date: 2026-11-10
 location: 'online'
