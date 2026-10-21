@@ -10,7 +10,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_20261021_N4O_Workshop_provenienzdaten_archaeologischer_objekte/
+permalink: en/news/n4o_news_20261021_N4O_Workshop_provenienzdaten_archaeologischer_objekte/
 ---
 Provenance data relating to archaeological objects are a key source of information for their scholarly interpretation, legal assessment and ethically responsible handling. They form the basis for investigating questions of origin, ownership history, collection contexts, routes of transfer, and the handling of illicit trade, looting and colonial acquisition contexts.
 
