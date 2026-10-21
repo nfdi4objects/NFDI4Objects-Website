@@ -22,7 +22,8 @@ authors:
 areas:
 trails: 
 ccs: 
-twgs: twg1
+twgs:
+- twg1
 permalink: /en/commons/RecColMuseums/
 ---
 
