@@ -2,7 +2,7 @@
 layout: commons
 lang: en
 translation_key: OverviewRDMMuseums
-date: 2025-12-01
+date: 2025-11-30
 title: 'An overview of research data management in museums and university collections (2024)'
 excerpt: 
 zenodo_url: https://zenodo.org/records/14926511

@@ -2,7 +2,7 @@
 layout: commons
 lang: de
 translation_key: OverviewRDMMuseums
-date: 2025-12-01
+date: 2025-11-30
 title: 'Überblick über das Forschungsdatenmanagement in Museen und Universitätssammlungen (2024)'
 excerpt: 
 zenodo_url: https://zenodo.org/records/14926511
