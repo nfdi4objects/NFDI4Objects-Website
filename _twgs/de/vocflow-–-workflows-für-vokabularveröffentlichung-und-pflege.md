@@ -57,6 +57,31 @@ Die Ergebnisse der Arbeitsgruppe sollen offen unter einer *Creative Commons Name
 
 Bei Fragen und Interesse an einer Mitarbeit wenden Sie sich bitte an die Chairs der TWG, [Dr. Michael Markert](https://www.nfdi4objects.net/persons/michaelmarkert/) (Verbundzentrale des GBV) und [Anja Gerber](https://www.nfdi4objects.net/persons/anjagerber/) [Klassik Stiftung Weimar](https://www.klassik-stiftung.de/).
 
-Mailingliste: [https://www.listserv.dfn.de/sympa/info/n4o_twg_vocflow](https://n4o-chat.nfdi.de/channel/TWG-VocFlow)
-
-Rocket Chat: [https://n4o-chat.nfdi.de/channel/TWG-VocFlow](https://n4o-chat.nfdi.de/channel/TWG-VocFlow)
+Weitere Informationen verfügbar über: 
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:20px 0;">
+<a href="https://www.listserv.dfn.de/sympa/info/n4o_twg_vocflow" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+"> Mailingliste
+<a href="" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+"> Rocketchat
+<a href="https://community.nfdi4objects.net/de/assemblies/vocflow" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+"> Community Hub
+</a> 
+</div> 

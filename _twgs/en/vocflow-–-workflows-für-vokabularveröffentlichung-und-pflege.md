@@ -58,6 +58,31 @@ The results of the working group will be made openly available under a *Creative
 
 If you have any questions or are interested in working with us, please contact the two chairs of the TWG, [](<>)[Dr. Michael Markert](/_persons/en/michaelmarkert.md) (Verbundzentrale des GBV) and [Anja Gerber](/_persons/en/anjagerber.md)  (Klassik Stiftung Weimar).
 
-Mailing list: [https://www.listserv.dfn.de/sympa/info/n4o_twg_vocflow](https://www.listserv.dfn.de/sympa/info/n4o_twg_vocflow)
-
-Rocket Chat: [https://n4o-chat.nfdi.de/channel/TWG-VocFlow](https://n4o-chat.nfdi.de/channel/TWG-VocFlow)
+Further Information can be found at: 
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:20px 0;">
+<a href="https://www.listserv.dfn.de/sympa/info/n4o_twg_vocflow" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+"> Mailinglist
+<a href="" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+"> Rocketchat
+<a href="https://community.nfdi4objects.net/de/assemblies/vocflow" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+"> Community Hub
+</a> 
+</div> 

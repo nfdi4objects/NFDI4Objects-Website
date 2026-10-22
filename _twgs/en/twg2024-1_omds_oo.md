@@ -49,8 +49,45 @@ Development of an Object Core Metadata Profile (OCMDP) and linking to MaCHeCO an
     * Common linking entities (classes) between OMJO and MaCHeO for federated querying of the two knowledge graphs  
 
 ---  
-OSF: [https://osf.io/v6ncy/](https://osf.io/v6ncy/)  
-
-Mailingliste: [https://www.listserv.dfn.de/sympa/info/n4o_twg_ocmdp_macheco](https://www.listserv.dfn.de/sympa/info/n4o_twg_ocmdp_macheco)
-
-Rocket-Chat: [https://n4o-chat.nfdi.de/channel/TWG_N4O_OCMDP_MaCHeCO](https://n4o-chat.nfdi.de/channel/TWG_N4O_OMDS_OO)
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:20px 0;">
+<a href="https://osf.io/v6ncy/" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+">
+OSF
+</a> 
+<a href="https://www.listserv.dfn.de/sympa/info/n4o_twg_ocmdp_macheco" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+">
+Mailinglist
+</a> 
+<a href="https://n4o-chat.nfdi.de/channel/TWG_N4O_OMDS_OO" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+">
+Rocketchat
+</a>  
+<a href="https://community.nfdi4objects.net/de/assemblies/OMDS-OO" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+">
+Community Hub
+</a> 
+</div> 

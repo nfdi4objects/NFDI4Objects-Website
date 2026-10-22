@@ -18,7 +18,7 @@ Der internationale Workshop zielt darauf ab, interdisziplinäre Perspektiven auf
 
 Das vollständige Programm finden Sie hier: 
 <div style="text-align: center; margin: 20px 0;">
-<a href="/_events/de/n4o_activity_20261112-CM26_Provenienz_archäologischer_Objekte.md" style="
+<a href="https://www.nfdi4objects.net/events/n4o_activity_20261112-CM26_Provenienz_arch%C3%A4ologischer_Objekte/" style="
   background: #13294b;
   color: white;
   padding:10px 16px;

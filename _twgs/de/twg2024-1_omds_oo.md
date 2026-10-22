@@ -27,7 +27,7 @@ permalink: /twgs/twg2024-1_omds_oo/
 
 ## Beschreibung
 
-Chairs: Fabian Fricke, Anja Gerber und Florian Thiery
+**Chairs:** Fabian Fricke, Anja Gerber und Florian Thiery
 
 Primäres Ziel ist der Aufbau eines von der NFDI4Objects-Community getragenes Object Core Metadata Profile (OCMDP). Dieses Kerndatenschema stellt die Kompatibilität mit dem sich in Aufbau befindlichen NFDI Core Meta Data Profile (NFDI Sektionen) und dem NFDI Core (FIZ Karlsruhe) sicher, so dass Metadaten in NFDI4Objects innerhalb der NFDI-Konsortien interoperabel zur Verfügung stehen. Dazu müssen abgestimmte N4O eigene Elemente/Terms (properties) und Entitäten (classes) erzeugt und durch einen Cross-Walk mit anderen Schemata (u. a. schema.org, DCAT, DataCite, DublinCore) verknüpft werden. Der OCMDP ist die Basis für ein RDF-basiertes Austauschformat (Objects Metadata Junction Ontology - OMJO), welche Daten in einen N4O Metadata Knowledge Graph (N4O MKG) einspielt und diese FAIR zur Verfügung stellt. Zur FAIRifizierung von Forschungsdaten und Herstellung der Kompatibilität mit internationalen Cultural Heritage Daten auf Basis des CIDOC CRM und seiner Extensions wird eine Material Cultural Heritage Crosswalk Ontology (MaCHeCO) entwickelt, um hier gemeinsam mit der N4O Community Basis-Entitäten (classes)  in individuellen Ontologien durch einen hierarchischen CrossWalk zu CIDOC CRM als Crosswalk-Ontology im N4O Knowledge Graph (N4O KG) festzulegen. Zur Interaktion zwischen MaCHeCO und OMJO werden Anknüpfungsklassen zur föderierten Abfrage der beiden Knowledge Graphen (KG und MKG) definiert.
 
@@ -48,9 +48,46 @@ Entwicklung eines Object Core Metadata Profile (OCMDP) und Verknüpfung zu MaCHe
     - Gemeinsame Anknüpfungsentitäten (classes) zwischen OMJO und MaCHeO zur föderierten Abfrage der beiden Knowledge Graphen
       
 ---
-
-OSF: [https://osf.io/v6ncy/](https://osf.io/v6ncy/)  
-
-Mailingliste: [https://www.listserv.dfn.de/sympa/info/n4o_twg_ocmdp_macheco](https://www.listserv.dfn.de/sympa/info/n4o_twg_ocmdp_macheco)
-
-Rocket-Chat: [https://n4o-chat.nfdi.de/channel/TWG_N4O_OCMDP_MaCHeCO](https://n4o-chat.nfdi.de/channel/TWG_N4O_OMDS_OO)
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:20px 0;">
+<a href="https://osf.io/v6ncy/" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+">
+OSF
+</a> 
+<a href="https://www.listserv.dfn.de/sympa/info/n4o_twg_ocmdp_macheco" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+">
+Mailingliste
+</a> 
+<a href="https://n4o-chat.nfdi.de/channel/TWG_N4O_OMDS_OO" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+">
+Rocketchat
+</a>  
+<a href="https://community.nfdi4objects.net/de/assemblies/OMDS-OO" style="
+  background: #13294b;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+">
+Community Hub
+</a> 
+</div> 
+---
