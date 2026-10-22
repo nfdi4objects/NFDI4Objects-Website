@@ -25,9 +25,10 @@ Standardized exchange formats (e.g. minimal metadata set) and defined technical 
 
 For this reason, this TWG will develop uniform content and technical standards for the exchange of data in cooperation with the specialist community. This will be based on the findings of the TWG to analyze the current status quo of research data management in the field of monument preservation and conservation/restoration. The existing standards identified there (e.g. INSPIRE, SKOS, LIDO, etc.) are to be compared and analyzed, discussed and, if necessary, supplemented by missing, demand-oriented new standards within the framework of this TWG on the basis of the subject-specific needs of the community. This way, a solid basis for data exchange between heterogeneous systems is to be created. The interdisciplinary exchange of knowledge on practical experience and new research findings relating to conservation and restoration measures or historical/prehistorical production techniques is also to be improved by formulating uniform technical standards or by expanding suitable existing standards.
 
+**Further Information:**
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:20px 0;">
 <a href="https://community.nfdi4objects.net/de/assemblies/HeritageStandards" style="
-  background: #13294b;
+  background: #0084ff;
   color: white;
   padding:10px 16px;
   text-decoration: none;

@@ -48,9 +48,10 @@ Entwicklung eines Object Core Metadata Profile (OCMDP) und Verknüpfung zu MaCHe
     - Gemeinsame Anknüpfungsentitäten (classes) zwischen OMJO und MaCHeO zur föderierten Abfrage der beiden Knowledge Graphen
       
 ---
+**Kontaktmöglichkeiten:** 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:20px 0;">
 <a href="https://osf.io/v6ncy/" style="
-  background: #13294b;
+  background: #0084ff;
   color: white;
   padding:10px 16px;
   text-decoration: none;
@@ -60,7 +61,7 @@ Entwicklung eines Object Core Metadata Profile (OCMDP) und Verknüpfung zu MaCHe
 OSF
 </a> 
 <a href="https://www.listserv.dfn.de/sympa/info/n4o_twg_ocmdp_macheco" style="
-  background: #13294b;
+  background: #0084ff;
   color: white;
   padding:10px 16px;
   text-decoration: none;
@@ -70,7 +71,7 @@ OSF
 Mailingliste
 </a> 
 <a href="https://n4o-chat.nfdi.de/channel/TWG_N4O_OMDS_OO" style="
-  background: #13294b;
+  background: #0084ff;
   color: white;
   padding:10px 16px;
   text-decoration: none;
@@ -80,7 +81,7 @@ Mailingliste
 Rocketchat
 </a>  
 <a href="https://community.nfdi4objects.net/de/assemblies/OMDS-OO" style="
-  background: #13294b;
+  background: #0084ff;
   color: white;
   padding:10px 16px;
   text-decoration: none;
@@ -90,4 +91,4 @@ Rocketchat
 Community Hub
 </a> 
 </div> 
----
+--- 

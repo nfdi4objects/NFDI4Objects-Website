@@ -60,7 +60,7 @@ Bei Fragen und Interesse an einer Mitarbeit wenden Sie sich bitte an die Chairs 
 Weitere Informationen verfügbar über: 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:20px 0;">
 <a href="https://www.listserv.dfn.de/sympa/info/n4o_twg_vocflow" style="
-  background: #13294b;
+  background: #0084ff;
   color: white;
   padding:10px 16px;
   text-decoration: none;
@@ -68,7 +68,7 @@ Weitere Informationen verfügbar über:
   font-weight: bold;
 "> Mailingliste
 <a href="" style="
-  background: #13294b;
+  background: #0084ff;
   color: white;
   padding:10px 16px;
   text-decoration: none;
@@ -76,7 +76,7 @@ Weitere Informationen verfügbar über:
   font-weight: bold;
 "> Rocketchat
 <a href="https://community.nfdi4objects.net/de/assemblies/vocflow" style="
-  background: #13294b;
+  background: #0084ff;
   color: white;
   padding:10px 16px;
   text-decoration: none;
@@ -84,4 +84,4 @@ Weitere Informationen verfügbar über:
   font-weight: bold;
 "> Community Hub
 </a> 
-</div> 
+---

@@ -26,9 +26,10 @@ Um die umfangreichen Datensätze, die in den verschiedenen Denkmalfachämtern,  
 
 In dieser TWG sollen daher in Zusammenarbeit mit der Fachcommunity einheitliche inhaltliche und technische Standards für den Austausch von Daten entwickelt werden. Grundlage hierfür sind die Erkenntnisse der TWG zur Analyse des aktuellen Status Quo des Forschungsdatenmanagements im Bereich Denkmalpflege und Konservierung/Restaurierung. Die dort ermittelten bestehenden Standards (z.B. INSPIRE, SKOS, LIDO, etc.) sollen im Rahmen dieser TWG anhand der fachspezifischen Bedarfe der Community verglichen und analysiert, diskutiert und durch ggfs. fehlende, bedarfsorientierte neue Standards ergänzt werden. Auf diese Weise soll eine solide Grundlage für den Datenaustausch zwischen heterogenen Systemen geschaffen werden. Auch der interdisziplinäre Wissensaustausch zu praktischen Erfahrungen sowie neuen Forschungserkenntnissen im Bezug auf Konservierungs- und Restaurierungsmaßnahmen oder historischer/prähistorische Herstellungstechniken soll durch die Formulierung einheitlicher technischer Standards bzw. durch die Erweiterung geeigneter, bestehender Standards verbessert werden.
 
+**Weitere Informationen:**
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:20px 0;">
 <a href="https://community.nfdi4objects.net/de/assemblies/HeritageStandards" style="
-  background: #13294b;
+  background: #0084ff;
   color: white;
   padding:10px 16px;
   text-decoration: none;
