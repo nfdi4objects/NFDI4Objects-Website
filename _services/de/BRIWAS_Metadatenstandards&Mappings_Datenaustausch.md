@@ -14,7 +14,7 @@ trails:
 - 4.1_second_TRAILs
 - 4.2_second_TRAILs
 - 4.3_second_TRAILs
-- 4.5_second_TRAILs
+- fund-logbuch-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds
 nfdi_categories:
 - data-curation
 - databases
