@@ -1,19 +1,36 @@
 ---
 layout: service
 lang: en
-translation_key: schnittstellen-zum-austausch-von-denkmal-und-restaurierungsbezogenen-daten
-title: Interfaces for the exchange of heritage-related data
-short_title: '<strong>APIs and standardized formats</strong> for exchanging heritage and restoration-related data.'
-logo: /assets/images/services/logo_schnittstelle_500px.png
-homepage: ''
+translation_key: briwas
+title: BRIWĀS
+short_title: '<strong>Metadata Standards and Mappings</strong> for Data Exchange in Archaeology, Historic Preservation, and Paleontology.'
+logo: "/assets/images/services/Briwas_Icon.png"
+organization: "Generaldirektion Kulturelles Erbe Rheinland-Pfalz"
+contact_email: "johanne.lefeldt@gdke.rlp.de"
+homepage: https://gdke.rlp.de/
 areas:
 - ta4
 trails:
-- 4.7_second_TRAILs
-nfdi_category: libraries
-nfdi_service_types:
-- ints
-permalink: /en/services/schnittstellen-zum-austausch-von-denkmal-und-restaurierungsbezogenen-daten/
+- 4.1_second_TRAILs
+- 4.2_second_TRAILs
+- 4.3_second_TRAILs
+- fund-logbuch-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds
+nfdi_categories:
+- data-curation
+- databases
+lifecycle-phases:
+- planung
+- verarbeitung
+- datenzugang
+- nachnutzung
+contacts:
+- name: Ulrich Himmelmann
+  person_ref: ulrich_himmelmann
+- name: Johanne Lefeldt
+  person_ref: johannelefeldt
+- name: Andreas Puhl
+  person_ref: andreaspuhl
+permalink: /en/services/briwas/
 ---
 
 ## Description
