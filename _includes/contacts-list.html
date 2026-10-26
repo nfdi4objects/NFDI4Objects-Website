@@ -19,10 +19,10 @@ Parameters:
 {%- assign current_lang = page.lang | default: "de" -%}
 {%- assign auths = include.contacts -%}
 {%- if auths.size == 1 -%}
-  {%- assign default_title_de = "Verantwortliche(r)" -%}
+  {%- assign default_title_de = "Verantwortliche Person" -%}
   {%- assign default_title_en = "Reponsible Person" -%}
 {%- else -%}
-  {%- assign default_title_de = "Verantwortliche" -%}
+  {%- assign default_title_de = "Verantwortliche Personen" -%}
   {%- assign default_title_en = "Reponsible Persons" -%}
 {%- endif -%}
 {%- assign title_de = include.title | default: default_title_de -%}
