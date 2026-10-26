@@ -40,15 +40,15 @@ style="width:75%; display:block; margin:auto;">
 ## Kulturerbedaten über Ländergrenzen hinweg nutzen
 Für das kulturelle und erdgeschichtliche Erbe sind in Deutschland die Bundesländer zuständig. Informationen zu Archäologie, Denkmalpflege und Paläontologie liegen deshalb in vielen getrennten Archiven der Landesbehörden. Jedes Archiv arbeitet mit eigenen Abläufen, Datenfeldern und Fachbegriffen. Ohne gemeinsame Standards lassen sich diese Daten kaum zusammenführen oder vergleichen.
 
-BRIWĀS (proto-keltisch für „Brücken“) fasst Metadatenstandards und Mappings zusammen, mit denen Informationen über diese Grenzen hinweg geteilt werden können. Forschung, Behörden und archäologische Fachfirmen können Datensätze so leichter finden, verstehen und weiterverwenden.
+BRIWĀS (*proto-keltisch für „Brücken“*) fasst Metadatenstandards und Mappings zusammen, mit denen Informationen über diese Grenzen hinweg geteilt werden können. Forschung, Behörden und archäologische Fachfirmen können Datensätze so leichter finden, verstehen und weiterverwenden.
 
 ## Metadatenstandards
 Metadaten beschreiben, was ein Datensatz enthält. Das sind zum Beispiel Informationen darüber, was etwas ist, wo es sich befindet und aus welcher Zeit es stammt. BRIWĀS erstellt Standards, mit denen vier Kategorien von Sachverhalten mit Ortsbezug strukturiert, verstanden und geteilt werden können:
 
-- **Kulturerbeobjekte** wie archäologische Fundstellen oder Baudenkmäler. Der Standard ist [hier] (https://doi.org/10.5281/zenodo.23214283) abrufbar.
+- **Kulturerbeobjekte** wie archäologische Fundstellen oder Baudenkmäler. Der Standard ist [hier](https://doi.org/10.5281/zenodo.23214283) abrufbar.
 - **Maßnahmen** wie Ausgrabungen oder andere Untersuchungen.
 - **Schutzflächen**, also Zonen, für die besondere gesetzliche Vorgaben gelten.
-- **Citizen-Science**, etwa Fundmeldungen von Ehrenamtlichen. Der Standard liegt der [Fund-Logbuch-App] (https://www.nfdi4objects.net/services/fund-logbuch/) zugrunde.
+- **Citizen-Science**, etwa Fundmeldungen von Ehrenamtlichen. Der Standard liegt der [Fund-Logbuch-App](https://www.nfdi4objects.net/services/fund-logbuch/) zugrunde.
 
 <img src="/assets/images/services/Briwas_Schaubild.png"
 alt="Alt-Text"
@@ -63,4 +63,4 @@ Die verwendeten Begriffe bei der Beschreibung sind häufig fallspezifisch begren
 - **Rechtsfolgen** strukturiert Begriffe der gesetzlichen Vorgaben im Metadatenstandard für Schutzflächen.
 
 ## Gemeinsam mit der Community entwickelt
-BRIWĀS wird im Community Cluster [Protected Heritage Sites] (https://community.nfdi4objects.net/en/assemblies/HeritageSites) in enger Abstimmung mit den Fachbehörden der Länder erarbeitet und weiterentwickelt. Die Standards bauen auf bestehenden Vereinbarungen wie dem ADeX Austauschstandard des Verbands der Landesarchäologien auf. Entwürfe entstehen in Schreibgruppen und werden der breiten Fachcommunity zur Kommentierung vorgelegt. Abgestimmte Standards fließen in die [NFDI4Objects Commons] (https://www.nfdi4objects.net/commons/) ein. So ist von Anfang an sichergestellt, dass BRIWĀS echte Probleme löst und von der Community akzeptiert wird.
+BRIWĀS wird im Community Cluster [Protected Heritage Sites](https://community.nfdi4objects.net/en/assemblies/HeritageSites) in enger Abstimmung mit den Fachbehörden der Länder erarbeitet und weiterentwickelt. Die Standards bauen auf bestehenden Vereinbarungen wie dem ADeX Austauschstandard des Verbands der Landesarchäologien auf. Entwürfe entstehen in Schreibgruppen und werden der breiten Fachcommunity zur Kommentierung vorgelegt. Abgestimmte Standards fließen in die [NFDI4Objects Commons](https://www.nfdi4objects.net/commons/) ein. So ist von Anfang an sichergestellt, dass BRIWĀS echte Probleme löst und von der Community akzeptiert wird.
