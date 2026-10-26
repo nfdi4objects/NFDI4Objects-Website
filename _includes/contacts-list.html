@@ -1,0 +1,54 @@
+{%- comment -%}
+Contacts List Component
+
+Zeigt Autoren mit optionalem Link zur Personen-Seite.
+
+Usage:
+{% include contacts-list.html
+   contacts=page.contacts
+   title="Kontakte"
+   title_en="Contacts"
+%}
+
+Parameters:
+- contacts: Array von Kontakt-Objekten mit name, role, person_ref
+- title: Deutsche Überschrift (optional, default: "Verantwortliche", bei einem Kontakt: "Verantwortliche(r)")
+- title_en: Englische Überschrift (optional, default: "Reponsible Persons", bei einem Kontakt: "Reponsible Person")
+{%- endcomment -%}
+
+{%- assign current_lang = page.lang | default: "de" -%}
+{%- assign auths = include.contacts -%}
+{%- if auths.size == 1 -%}
+  {%- assign default_title_de = "Verantwortliche Person" -%}
+  {%- assign default_title_en = "Reponsible Person" -%}
+{%- else -%}
+  {%- assign default_title_de = "Verantwortliche Personen" -%}
+  {%- assign default_title_en = "Reponsible Persons" -%}
+{%- endif -%}
+{%- assign title_de = include.title | default: default_title_de -%}
+{%- assign title_en = include.title_en | default: default_title_en -%}
+
+{%- if auths and auths.size > 0 -%}
+<section class="contacts-list space-md">
+  <h3 class="arrow arrow-left">{% if current_lang == "en" %}{{ title_en }}{% else %}{{ title_de }}{% endif %}</h3>
+  <div class="contacts-list">
+    {%- for contact in auths -%}
+    <div class="coordinator-card">
+      {%- if contact.person_ref -%}
+        {%- assign person = site.persons | where: "translation_key", contact.person_ref | where: "lang", current_lang | first -%}
+        {%- if person -%}
+          <strong><a href="{{ person.url | relative_url }}">{{ contact.name }}</a></strong>
+        {%- else -%}
+          <strong>{{ contact.name }}</strong>
+        {%- endif -%}
+      {%- else -%}
+        <strong>{{ contact.name }}</strong>
+      {%- endif -%}
+      {%- if contact.role -%}
+      <span class="contact-role"> ({{ contact.role }})</span>
+      {%- endif -%}
+    </div>
+    {%- endfor -%}
+  </div>
+</section>
+{%- endif -%}

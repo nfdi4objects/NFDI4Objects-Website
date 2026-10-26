@@ -32,13 +32,14 @@ contacts:
   person_ref: andreaspuhl
 permalink: /services/briwas/
 ---
-<img src="/assets/images/services/Briwas_Slogan_lang.png"
-alt="Alt-Text"
-style="width:75%; display:block; margin:auto;">
-<br>
 
 ## Kulturerbedaten über Ländergrenzen hinweg nutzen
 Für das kulturelle und erdgeschichtliche Erbe sind in Deutschland die Bundesländer zuständig. Informationen zu Archäologie, Denkmalpflege und Paläontologie liegen deshalb in vielen getrennten Archiven der Landesbehörden. Jedes Archiv arbeitet mit eigenen Abläufen, Datenfeldern und Fachbegriffen. Ohne gemeinsame Standards lassen sich diese Daten kaum zusammenführen oder vergleichen.
+
+<img src="/assets/images/services/Briwas_Slogan_lang.png"
+alt="Alt-Text"
+style="width:50%; display:block; margin:auto;">
+<br>
 
 BRIWĀS (*proto-keltisch für „Brücken“*) fasst Metadatenstandards und Mappings zusammen, mit denen Informationen über diese Grenzen hinweg geteilt werden können. Forschung, Behörden und archäologische Fachfirmen können Datensätze so leichter finden, verstehen und weiterverwenden.
 
