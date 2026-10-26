@@ -149,6 +149,8 @@ Unterstützte Collections:
     Coordinators werden im Kontakt-Bereich des service.html Layouts angezeigt.
   {%- endcomment -%}
 
+  {% include contacts-list.html contacts=page.contacts %}
+
   {%- comment -%} Task Areas (task_areas oder areas) {%- endcomment -%}
   {%- if page.task_areas -%}
     {% include related-areas.html areas=page.task_areas %}
