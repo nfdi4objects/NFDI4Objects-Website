@@ -38,7 +38,7 @@ Für das kulturelle und erdgeschichtliche Erbe sind in Deutschland die Bundeslä
 
 <img src="/assets/images/services/Briwas_Slogan_lang.png"
 alt="Alt-Text"
-style="width:50%; display:block; margin:auto;">
+style="width:25%; display:block; margin:auto;">
 <br>
 
 BRIWĀS (*proto-keltisch für „Brücken“*) fasst Metadatenstandards und Mappings zusammen, mit denen Informationen über diese Grenzen hinweg geteilt werden können. Forschung, Behörden und archäologische Fachfirmen können Datensätze so leichter finden, verstehen und weiterverwenden.
