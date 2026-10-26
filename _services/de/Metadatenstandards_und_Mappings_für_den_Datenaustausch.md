@@ -4,7 +4,7 @@ lang: de
 translation_key: briwas
 title: BRIWĀS
 short_title: '<strong>Metadatenstandards und Mappings</strong> für den Datenaustausch zu Archäologie, Denkmalpflege und Paläontologie.'
-logo: "/assets/images/services/Briwas_Slogan_kurz.png"
+logo: "/assets/images/services/Briwas_Icon.png"
 organization: "Generaldirektion Kulturelles Erbe Rheinland-Pfalz"
 contact_email: "johanne.lefeldt@gdke.rlp.de"
 homepage: https://gdke.rlp.de/
