@@ -32,6 +32,10 @@ contacts:
   person_ref: andreaspuhl
 permalink: /services/briwas/
 ---
+<img src="/assets/images/services/Briwas_Slogan_lang.png"
+alt="Alt-Text"
+style="width:75%; display:block; margin:auto;">
+<br>
 
 ## Kulturerbedaten über Ländergrenzen hinweg nutzen
 Für das kulturelle und erdgeschichtliche Erbe sind in Deutschland die Bundesländer zuständig. Informationen zu Archäologie, Denkmalpflege und Paläontologie liegen deshalb in vielen getrennten Archiven der Landesbehörden. Jedes Archiv arbeitet mit eigenen Abläufen, Datenfeldern und Fachbegriffen. Ohne gemeinsame Standards lassen sich diese Daten kaum zusammenführen oder vergleichen.
@@ -45,6 +49,11 @@ Metadaten beschreiben, was ein Datensatz enthält. Das sind zum Beispiel Informa
 - **Maßnahmen** wie Ausgrabungen oder andere Untersuchungen.
 - **Schutzflächen**, also Zonen, für die besondere gesetzliche Vorgaben gelten.
 - **Citizen-Science**, etwa Fundmeldungen von Ehrenamtlichen. Der Standard liegt der [Fund-Logbuch-App] (https://www.nfdi4objects.net/services/fund-logbuch/) zugrunde.
+
+<img src="/assets/images/services/Briwas_Schaubild.png"
+alt="Alt-Text"
+style="width:75%; display:block; margin:auto;">
+<br>
 
 ## Fachbegriffsmappings
 Die verwendeten Begriffe bei der Beschreibung sind häufig fallspezifisch begrenzt. BRIWĀS unterstützt bei der Erschließung dieser Sprachgebrauche. BRIWĀS-Leitfäden sollen dabei helfen, die eigenen Wortlisten maschinenlesbar zu machen und über Mappings mit anderen Wortlisten zu verknüpfen. Dazu erstellt BRIWĀS Basisvokabulare, die als zentrale Mappingziele in einem deutschlandweiten Netzwerk funktionieren:
