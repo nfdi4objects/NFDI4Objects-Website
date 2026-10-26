@@ -12,14 +12,14 @@ Usage:
 
 Parameters:
 - contacts: Array von Kontakt-Objekten mit name, role, person_ref
-- title: Deutsche Überschrift (optional, default: "Kontakte")
-- title_en: Englische Überschrift (optional, default: "Contacts")
+- title: Deutsche Überschrift (optional, default: "Verantwortliche")
+- title_en: Englische Überschrift (optional, default: "Reponsible Persons")
 {%- endcomment -%}
 
 {%- assign current_lang = page.lang | default: "de" -%}
 {%- assign auths = include.contacts -%}
-{%- assign title_de = include.title | default: "Kontakte" -%}
-{%- assign title_en = include.title_en | default: "Contacts" -%}
+{%- assign title_de = include.title | default: "Verantwortliche" -%}
+{%- assign title_en = include.title_en | default: "Reponsible Persons" -%}
 
 {%- if auths and auths.size > 0 -%}
 <section class="contacts-list space-md">
