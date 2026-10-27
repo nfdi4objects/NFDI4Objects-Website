@@ -38,7 +38,7 @@ Für das kulturelle und erdgeschichtliche Erbe sind in Deutschland die Bundeslä
 
 <img src="/assets/images/services/Briwas_Slogan_lang.png"
 alt="Alt-Text"
-style="width:25%; display:block; margin:auto;">
+style="width:40%; display:block; margin:auto;">
 <br>
 
 BRIWĀS (*proto-keltisch für „Brücken“*) fasst Metadatenstandards und Mappings zusammen, mit denen Informationen über diese Grenzen hinweg geteilt werden können. Forschung, Behörden und archäologische Fachfirmen können Datensätze so leichter finden, verstehen und weiterverwenden.
@@ -59,7 +59,7 @@ style="width:75%; display:block; margin:auto;">
 ## Fachbegriffsmappings
 Die verwendeten Begriffe bei der Beschreibung sind häufig fallspezifisch begrenzt. BRIWĀS unterstützt bei der Erschließung dieser Sprachgebrauche. BRIWĀS-Leitfäden sollen dabei helfen, die eigenen Wortlisten maschinenlesbar zu machen und über Mappings mit anderen Wortlisten zu verknüpfen. Dazu erstellt BRIWĀS Basisvokabulare, die als zentrale Mappingziele in einem deutschlandweiten Netzwerk funktionieren:
 
-- **Epochen** strukturiert Begriffe relativer Datierungsansprachen.
+- **Epochen** strukturiert Begriffe relativer Datierungsansprachen. Das Vokabular ist [hier](https://bartoc.org/en/node/21167) abrufbar.
 - **Typen** strukturiert Begriffe der Typenansprachen innerhalb der Kategorien der Metadatenstandards.
 - **Rechtsfolgen** strukturiert Begriffe der gesetzlichen Vorgaben im Metadatenstandard für Schutzflächen.
 
