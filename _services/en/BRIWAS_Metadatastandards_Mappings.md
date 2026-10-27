@@ -33,35 +33,34 @@ contacts:
 permalink: /en/services/briwas/
 ---
 
-## Kulturerbedaten über Ländergrenzen hinweg nutzen
-Für das kulturelle und erdgeschichtliche Erbe sind in Deutschland die Bundesländer zuständig. Informationen zu Archäologie, Denkmalpflege und Paläontologie liegen deshalb in vielen getrennten Archiven der Landesbehörden. Jedes Archiv arbeitet mit eigenen Abläufen, Datenfeldern und Fachbegriffen. Ohne gemeinsame Standards lassen sich diese Daten kaum zusammenführen oder vergleichen.
+## Using Cultural Heritage Data Across State Borders
+In Germany, the federal states are responsible for cultural and geological heritage. As a result, information on archaeology, historic preservation, and paleontology is stored in many separate archives maintained by state authorities. Each archive uses its own workflows, data fields, and technical terminology. Without common standards, it is nearly impossible to merge or compare this data.
 
-<img src="/assets/images/services/Briwas_Slogan_lang.png"
-alt="Alt-Text"
-style="width:25%; display:block; margin:auto;">
-<br>
+<img src="/assets/images/services/Briwas_Slogan_lang.png"  
+alt="Alt-Text"  
+style="width:40%; display:block; margin:auto;">
 
-BRIWĀS (*proto-keltisch für „Brücken“*) fasst Metadatenstandards und Mappings zusammen, mit denen Informationen über diese Grenzen hinweg geteilt werden können. Forschung, Behörden und archäologische Fachfirmen können Datensätze so leichter finden, verstehen und weiterverwenden.
+BRIWĀS (*Proto-Celtic for “bridges”*) brings together metadata standards and mappings that enable information to be shared across these boundaries. This makes it easier for researchers, government agencies, and specialized archaeological firms to find, understand, and reuse datasets.
 
-## Metadatenstandards
-Metadaten beschreiben, was ein Datensatz enthält. Das sind zum Beispiel Informationen darüber, was etwas ist, wo es sich befindet und aus welcher Zeit es stammt. BRIWĀS erstellt Standards, mit denen vier Kategorien von Sachverhalten mit Ortsbezug strukturiert, verstanden und geteilt werden können:
+## Metadata Standards
+Metadata describes what a dataset contains. This includes information about what something is, where it is located, and when it was created. BRIWĀS develops standards that enable four categories of location-related information to be structured, understood, and shared:
 
-- **Kulturerbeobjekte** wie archäologische Fundstellen oder Baudenkmäler. Der Standard ist [hier](https://doi.org/10.5281/zenodo.23214283) abrufbar.
-- **Maßnahmen** wie Ausgrabungen oder andere Untersuchungen.
-- **Schutzflächen**, also Zonen, für die besondere gesetzliche Vorgaben gelten.
-- **Citizen-Science**, etwa Fundmeldungen von Ehrenamtlichen. Der Standard liegt der [Fund-Logbuch-App](https://www.nfdi4objects.net/services/fund-logbuch/) zugrunde.
+- **Cultural heritage items**, such as archaeological sites or historic monuments. The standard is available [here](https://doi.org/10.5281/zenodo.23214283).
+- **Measures** such as excavations or other investigations.
+- **Protected sites**, i.e., zones subject to specific legal requirements.
+- **Citizen-Science**, such as small finds recordings submitted by volunteers. The standard forms the basis of the [Fund-Logbuch-App](https://www.nfdi4objects.net/services/fund-logbuch/).
 
 <img src="/assets/images/services/Briwas_Schaubild.png"
 alt="Alt-Text"
 style="width:75%; display:block; margin:auto;">
 <br>
 
-## Fachbegriffsmappings
-Die verwendeten Begriffe bei der Beschreibung sind häufig fallspezifisch begrenzt. BRIWĀS unterstützt bei der Erschließung dieser Sprachgebrauche. BRIWĀS-Leitfäden sollen dabei helfen, die eigenen Wortlisten maschinenlesbar zu machen und über Mappings mit anderen Wortlisten zu verknüpfen. Dazu erstellt BRIWĀS Basisvokabulare, die als zentrale Mappingziele in einem deutschlandweiten Netzwerk funktionieren:
+## Vocabulary Mappings
+The terms used in descriptions are often case-specific. BRIWĀS helps make these terminologies accessible. BRIWĀS guidelines are intended to help users make their own controlled vocabularies machine-readable and link them to other vocabularies via mappings. To this end, BRIWĀS creates core vocabularies that serve as central mapping targets within a Germany-wide network:
 
-- **Epochen** strukturiert Begriffe relativer Datierungsansprachen.
-- **Typen** strukturiert Begriffe der Typenansprachen innerhalb der Kategorien der Metadatenstandards.
-- **Rechtsfolgen** strukturiert Begriffe der gesetzlichen Vorgaben im Metadatenstandard für Schutzflächen.
-
-## Gemeinsam mit der Community entwickelt
-BRIWĀS wird im Community Cluster [Protected Heritage Sites](https://community.nfdi4objects.net/en/assemblies/HeritageSites) in enger Abstimmung mit den Fachbehörden der Länder erarbeitet und weiterentwickelt. Die Standards bauen auf bestehenden Vereinbarungen wie dem ADeX Austauschstandard des Verbands der Landesarchäologien auf. Entwürfe entstehen in Schreibgruppen und werden der breiten Fachcommunity zur Kommentierung vorgelegt. Abgestimmte Standards fließen in die [NFDI4Objects Commons](https://www.nfdi4objects.net/commons/) ein. So ist von Anfang an sichergestellt, dass BRIWĀS echte Probleme löst und von der Community akzeptiert wird.
+- **Periods** organizes terms related to relative dating. The vocabulary is available [here](https://bartoc.org/en/node/21167).
+- **Types** organizes terms related to typology within the categories of metadata standards.
+- **Legal implications** organizes terms related to legal implications used in the metadata standard for protected sites.
+  
+## Developed in Collaboration with the Community
+BRIWĀS is being developed and refined within the [Protected Heritage Sites](https://community.nfdi4objects.net/en/assemblies/HeritageSites) Community Cluster in close coordination with the relevant state authorities. The standards build upon existing agreements such as the ADeX exchange standard of the Association of State Archaeological Offices in Germany. Drafts are developed in writing groups and submitted to the broader professional community for comment. Agreed-upon standards are incorporated into the [NFDI4Objects Commons](https://www.nfdi4objects.net/commons/). This ensures from the very beginning that BRIWĀS solves real problems and is accepted by the community.
