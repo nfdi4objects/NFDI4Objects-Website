@@ -3,7 +3,7 @@ layout: news
 lang: de
 translation_key: n4o_news_20261028-Umfrage_Commons_Umfeldanalyse
 title: 'Die Auswertung der Umfrage zu Fundstellen- und Denkmaldaten-Standards in Deutschland'
-excerpt: 'Neuer Commons Beitrag'
+excerpt: 'In unserem Community Hub steht ein weiterer Beitrag zur Kommentierung durch alle Interessierten bereit. '
 date: 2026-10-28
 areas:
 - ta4
