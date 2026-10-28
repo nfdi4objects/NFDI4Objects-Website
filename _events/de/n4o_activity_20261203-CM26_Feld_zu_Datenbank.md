@@ -14,7 +14,8 @@ trails:
 - 1.4_second_TRAILs
 ccs: 
 twgs: []
-event_type: "Workshop"
+event_type: 
+- Workshops
 permalink: de/events/n4o_activity_20261203-CM26_Feld_zu_Datenbank/
 ---
 Der Workshop richtet sich an Kolleg\*innen, die im Arbeitsalltag mit der digitalen Dokumentation archäologischer Feldforschung befasst sind - von Grabungsdokumentation, Vermessung und GIS-Bearbeitung über Datenaufbereitung und Qualitätssicherung bis zur Vorbereitung von Daten für Auswertung und Nachnutzung. Angesprochen sind Kolleg\*innen aus universitären Forschungsprojekten, Denkmalpflege, archäologische Fachfirmen und weiteren Bereichen der archäologischen Praxis.
