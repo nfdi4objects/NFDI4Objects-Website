@@ -12,7 +12,8 @@ areas:
 trails: []
 ccs: 
 twgs: []
-event_type: "Workshop"
+event_type: 
+- Workshop
 permalink: /events/n4o_activity_20260717-CM26_Fuzzy_Koeln/
 ---
 Die Darstellung von Vagheit und Unsicherheiten in digitalen Daten kann sehr herausfordernd sein. Aber unscharfe Informationen sind in der Archäologie und benachbarten Wissenschaften alltäglich. Während vage Daten häufig ihre Präzision implizieren, verhindern unscharfe Angaben oft eine effektive Analyse. Kann Unschärfe auf eine Weise modelliert werden, dass sich derartige Daten dennoch für eine Nachnutzung eignen? Wie kann mit Daten umgegangen werden, die sowohl vage als auch unscharf sind?  

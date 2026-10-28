@@ -13,7 +13,8 @@ trails: []
 ccs: 
 - cc-qualifikation-and-open-educational-resources
 twgs: []
-event_type: "CC-Treffen"
+event_type: 
+- CC-TWG-Treffen
 permalink: /events/n4o_activity_20261005-CC_qualification_und_oer/
 ---
 Nach längerer Sommerpause trifft sich das Community Cluster Qualifikation & Open Educational Resources (OER) wieder. Das Treffen ist ein offener Raum für die ganze Community: Kommt ins Gespräch, tauscht Erfahrungen aus und denkt mit uns gemeinsam weiter.

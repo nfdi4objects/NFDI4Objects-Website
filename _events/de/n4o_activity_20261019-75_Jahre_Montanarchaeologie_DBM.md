@@ -12,7 +12,8 @@ areas:
 trails: []
 ccs: 
 twgs: []
-event_type: "Workshop"
+event_type: 
+- Workshop
 permalink: /events/n4o_activity_20261019-75_Jahre_Montanarchaeologie_DBM/
 ---
 Im Rahmen der Tagung “75 Jahre Montanarchäologie” am Deutschen Bergbau-Museum findet  am 4. Dezember 2026, von ca. 10:30 bis ca. 12:30 Uhr, eine Session „Von der digitalen Grabung zum digitalen Datendienst“ statt. 

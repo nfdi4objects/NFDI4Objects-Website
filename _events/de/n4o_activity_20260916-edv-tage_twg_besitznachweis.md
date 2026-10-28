@@ -14,7 +14,8 @@ trails: []
 ccs: 
 twgs:
 - besitznachweis-im-verlustfall-use-case-für-den-minimaldatensatz
-event_type: "Konferenz"
+event_type: 
+- Konferenz
 permalink: /events/n4o_activity_20260917-CC_digitale_provenienz/
 ---
 Unter dem Titel <strong>»Museen und Archive in Krisenzeiten. Kulturgut bewahren – Daten sichern«</strong> widmen sich die EDV-Tage in diesem Jahr der Frage, wie Museen und Archive auch unter unsicheren Bedingungen und in Zeiten von Cyberangriffen handlungsfähig bleiben und ihr (digitales) Kulturerbe nachhaltig sichern können.

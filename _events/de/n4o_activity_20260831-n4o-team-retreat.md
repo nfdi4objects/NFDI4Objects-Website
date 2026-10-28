@@ -13,7 +13,8 @@ areas:
 trails: []
 ccs: 
 twgs: []
-event_type: "Netzwerktreffen"
+event_type: 
+- Netzwerktreffen
 permalink: /events/n4o_activity_20260831-n4o-team-retreat/
 ---
 

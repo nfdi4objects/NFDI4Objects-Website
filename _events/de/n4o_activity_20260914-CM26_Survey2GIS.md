@@ -13,7 +13,8 @@ areas:
 trails: []
 ccs: 
 twgs: 
-event_type: "Workshop"
+event_type: 
+- Workshop
 permalink: /events/n4o_activity_20260914-CM26_Survey2GIS/
 registration_url: http://reg.nfdi4objects.net/N4O/survey2gis/
 ---

@@ -14,7 +14,8 @@ ccs:
 - cc-semantic-modelling-linked-open-data
 - cc_research_software_engineering
 twgs: []
-event_type: "Workshop"
+event_type: 
+- Workshop
 permalink: /events/n4o_activity_20260818-CM26-RS_Wikidata/ 
 registration_url: 'https://terminplaner6.dfn.de/b/1439bb751afd1e9fc42ebc30069eb685-1762199'
 ---

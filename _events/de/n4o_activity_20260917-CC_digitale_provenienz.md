@@ -13,7 +13,8 @@ trails: []
 ccs: 
 - cc_provenance_research
 twgs: []
-event_type: "CC-Treffen"
+event_type: 
+- CC-TWG-Treffen
 permalink: /events/n4o_activity_20260917-CC_digitale_provenienz/
 ---
 

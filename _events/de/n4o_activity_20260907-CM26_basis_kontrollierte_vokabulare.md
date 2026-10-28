@@ -14,7 +14,8 @@ areas:
 trails: []
 ccs: 
 twgs: []
-event_type: "Workshop"
+event_type: 
+- Workshop
 permalink: /events/n4o_activity_20260907-CM26_basis_kontrollierte_vokabulare/
 registration_url: 'http://reg.nfdi4objects.net/N4O/basis-k-v/'
 ---

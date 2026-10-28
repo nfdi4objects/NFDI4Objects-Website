@@ -12,7 +12,8 @@ trails: []
 ccs: 
 - cc_authority_and_norm_data
 twgs: 
-event_type: "CC-Treffen"
+event_type: 
+- CC-TWG-Treffen
 permalink: /events/n4o_activity_20260812-CC_Treffen_AF/
 ---
 ## Liebe Kolleg:innen, liebe Community,

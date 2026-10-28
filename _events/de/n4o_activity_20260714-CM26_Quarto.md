@@ -12,7 +12,8 @@ areas:
 trails: []
 ccs: 
 twgs: []
-event_type: "Workshop"
+event_type: 
+- Workshop
 permalink: /events/n4o_activity_20260714-CM26_Quarto/
 ---
 In diesem praxisnahen Einsteiger-Workshop – eine Zusammenarbeit von NFDI4Objects mit dem Datenkompetenzzentrum [HERMES](https://hermes-hub.de/) – lernen Teilnehmende Markdown als vielseitige Auszeichnungssprache kennen und wie sie daraus im Handumdrehen PDFs, Websites und mehr erzeugen können. Schritt für Schritt wird ein effizienter Workflow vermittelt – von der Erstellung über flexible Ausgabeformate bis hin zu wiederverwendbaren Templates für FAIRe OER. Ideal für alle, die (wissenschaftliche) Texte unkompliziert und nachhaltig schreiben und publizieren möchten.

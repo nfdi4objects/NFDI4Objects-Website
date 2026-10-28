@@ -12,7 +12,8 @@ trails: []
 ccs:
 -
 twgs:
-event_type: CC-TWG-Treffen
+event_type: 
+- CC-TWG-Treffen
 permalink: /events/n4o_activity_20261109-CC_AF/
 --- 
 Hiermit laden wir sehr herzlich zum Clustertreffen des NFDI4Objects CC Authority Files and Community-driven Vocabularies **am 9. November 2026, 13:00 bis 14:00 Uhr,** ein.

@@ -4,7 +4,7 @@ event_types:
     name_de: "CC- & TWG-Treffen"
     name_en: "CC- & TWG-Meetings"
 
-  - id: Workshops
+  - id: Workshop
     name_de: "Workshops"
     name_en: "Workshops"
 

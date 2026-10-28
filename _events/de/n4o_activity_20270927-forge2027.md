@@ -14,7 +14,8 @@ areas:
 trails: 
 ccs: 
 twgs: []
-event_type: "Konferenz"
+event_type: 
+- Konferenz
 permalink: de/events/n4o_activity_20270927-forge2027/
 ---
 

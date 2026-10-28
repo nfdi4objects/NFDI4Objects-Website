@@ -12,7 +12,8 @@ trails: []
 ccs:
 - cc_data_capture_and_creation
 twgs:
-event_type: CC-TWG-Treffen
+event_type: 
+- CC-TWG-Treffen
 permalink: /events/n4o_activity_20261110-CC_Data_Capture/
 --- 
 Wie lassen sich Bauwerksdaten in Denkmalpflege sowie Kunst- und Architekturgeschichte besser auffindbar und vernetzbar machen? [Die GND-Agentur Bauwerke](https://www.uni-marburg.de/de/fotomarburg/forschung/forschungsdaten/gnd-agentur-bauwerke) setzt dafür auf die Gemeinsame Normdatei (GND) und vergibt für jedes Bauwerk einen eindeutigen Identifier.

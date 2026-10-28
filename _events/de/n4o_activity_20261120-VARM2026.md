@@ -11,6 +11,8 @@ areas:
 trails: 
 ccs: 
 twgs: []
+event_type: 
+- Konferenz
 permalink: de/events/n4o_activity_20261120-varm2026/
 ---
 ## KI in der Archäologie, Forschungsdatenmanagement und digitale Kompetenzen: NFDI4Objects beim VARM-Tag

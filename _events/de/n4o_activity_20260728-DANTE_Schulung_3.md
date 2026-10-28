@@ -12,7 +12,8 @@ trails: []
 ccs: 
 - cc_authority_and_norm_data
 twgs: 
-event_type: "CC-Treffen"
+event_type: 
+- CC-TWG-Treffen
 permalink: /events/n4o_activity_20260728-DANTE_Schulung_3/
 ---
 **Am 28. Juli 2026 von 13:00 bis 14:00 Uhr** laden wir Euch zu einem praxisorientierten Community-Cluster-Treffen rund um den Webservice DANTE für Nutzer:innen mit DANTE-Erfahrung oder komplexen Vokabularen ein – mit dem CC Chair [Michael Markert](https://www.nfdi4objects.net/persons/michaelmarkert/) (VZG).

@@ -15,7 +15,7 @@ trails: []
 ccs: 
 twgs: []
 event_type: 
-- Workshops
+- Workshop
 permalink: /events/n4o_activity_20260921-CM26_Arbeiten_mit_kontrollierten_Vokabularen/
 registration_url: http://reg.nfdi4objects.net/N4O/k-v/
 ---

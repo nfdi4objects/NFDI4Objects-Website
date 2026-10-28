@@ -13,7 +13,8 @@ areas:
 trails: []
 ccs: 
 twgs: 
-event_type: "Workshop"
+event_type: 
+- Workshop
 permalink: /events/n4o_activity_20261125-CM26_FAIRE_Objektdokumentation/
 ---
 Museale Sammlungsobjekte existieren heute nicht nur als materielle Artefakte, sondern zunehmend auch in Form ihrer digitalen Repräsentationen. Erfassung, Dokumentation und Vernetzung von Objektdaten bilden die Grundlage für Forschung, Sammlungspflege, Vermittlung und digitale Zugänglichkeit. Doch welche Informationen werden überhaupt erfasst? Welche Rolle spielen Fotografien, 3D-Modelle und Metadaten? Wie verändern neue Technologien, insbesondere KI-gestützte Verfahren, die Dokumentationspraxis? Und wie müssen Objektdaten strukturiert werden, um im Sinne der FAIR-Prinzipien langfristig auffindbar, zugänglich, interoperabel und nachnutzbar zu sein? 

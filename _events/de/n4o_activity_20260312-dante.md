@@ -18,7 +18,8 @@ trails: []
 ccs: 
 - cc_authority_and_norm_data
 twgs: []
-event_type: "Workshop"
+event_type: 
+- Workshop
 permalink: /events/n4o_activity_20260312-dante/
 ---
 
