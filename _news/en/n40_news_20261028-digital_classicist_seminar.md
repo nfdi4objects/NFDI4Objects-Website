@@ -19,4 +19,4 @@ Our Task Area 2 is represented by contributions from Mattia Celisi and Karsten T
 
 Click here for the programme: [https://digital-classicist.bbaw.de/programme/programm-2026/27#c104](https://digital-classicist.bbaw.de/programme/programm-2026/27#c104)
 
-The seminar will also be streamed online via Zoom: [https://hu-berlin.zoom-x.de/j/62272165290?pwd=DmvBO97b3JAJIutndWU2bBILGaJ3AX.1] (https://hu-berlin.zoom-x.de/j/62272165290?pwd=DmvBO97b3JAJIutndWU2bBILGaJ3AX.1)
+The seminar will also be streamed online via Zoom: [https://hu-berlin.zoom-x.de/j/62272165290?pwd=DmvBO97b3JAJIutndWU2bBILGaJ3AX.1](https://hu-berlin.zoom-x.de/j/62272165290?pwd=DmvBO97b3JAJIutndWU2bBILGaJ3AX.1)
