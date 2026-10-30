@@ -46,6 +46,7 @@ The Helpdesk offers personalized support and advice on research data management 
     <option value="Skills & Qualification">Skills & Qualification</option>
     <option value="Website">Website</option>
     <option value="Commons">Commons</option>
+    <option value="Service-Certification">Service Certification</option>
   </select><br><br>
 
   <label for="message">Your Message:</label><br>
