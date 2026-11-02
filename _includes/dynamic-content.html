@@ -158,17 +158,18 @@ Unterstützte Collections:
     {% include related-areas.html areas=page.areas %}
   {%- endif -%}
 
-  {%- comment -%} Organization/Institution (ohne Label, nur Link/Name) {%- endcomment -%}
-  {%- if page.organization -%}
+  {%- comment -%} Organization/Institution {%- endcomment -%}
+  {%- assign org_ids = page.organization | default: page.institution -%}
+  {%- if org_ids and org_ids.size > 0 -%}
   <section class="taxonomy-section space-md">
     <h3 class="arrow arrow-left">
       {% if current_lang == "en" %}Responsible Organization{% else %}Verantwortliche Organisation{% endif %}
     </h3>
     <div class="org-badges">
-      {%- assign org_id = page.organization | default: page.institution -%}
-      {%- if org_id -%}
-        {%- assign org_data = site.data[current_lang].institutions | where: "id", org_id | first -%}
-        <dd class="institution-only">
+      {%- assign institutions = site.data[current_lang].institutions -%}
+      {%- for org_id in org_ids -%}
+        {%- assign org_data = institutions | where: "id", org_id | first -%}
+        <div class="institution-only">
           {%- if org_data -%}
             <a href="{{ org_data.url }}" target="_blank" rel="noopener noreferrer" class="institution-link">
               {{ org_data.name }}
@@ -176,8 +177,9 @@ Unterstützte Collections:
           {%- else -%}
             <span class="institution-name">{{ org_id }}</span>
           {%- endif -%}
-        </dd>
-    {%- endif -%}
+        </div>
+      {%- endfor -%}
+    </div>
   </section>
   {%- endif -%}
 
