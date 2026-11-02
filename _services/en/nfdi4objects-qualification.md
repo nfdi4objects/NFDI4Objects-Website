@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: nfdi4objects-qualification
 title: NFDI4Objects Qualification
-short_title: '<strong>Open teaching and learning resources, templates and community initiatives</strong> for research, teaching and FDM consultancy.'
+short_title: 'Open teaching and learning resources, templates and community initiatives for research, teaching and FDM consultancy.'
 logo: /assets/images/services/n4o_qualification_logo_de.png
 organization: "hochschule-mainz-university-of-applied-sciences"
 contact_email: "kai-christian.bruhn@hs-mainz.de"
@@ -12,9 +12,7 @@ areas:
 - ta6
 trails:
 - 4.6_second_TRAILs
-nfdi_category: support_consulting
-nfdi_service_types:
-- quas
+nfdi_category: training
 Lifecycle-Phases: 
 - lernen-beraten
 coordinators:
@@ -42,8 +40,6 @@ cards:
     button_text: "View Repository"
     button_url: "https://github.com/nfdi4objects/oer-template-uebung"
 ---
-
-Open teaching and learning resources, templates and community initiatives for research, teaching and FDM consultancy.
 
 <div class="button-group" style="display:flex; justify-content:center; gap:1rem;">
   <a class="btn btn-primary" href="#the-offer-includes">🧩 Discover Materials</a>
