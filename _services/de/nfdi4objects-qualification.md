@@ -16,12 +16,19 @@ nfdi_category: training
 Lifecycle-Phases: 
 - lernen-beraten
 contacts:
-  - person_ref: kai-christian_bruhn
-  - person_ref: henrikebackhaus
-  - person_ref: sandraschröer-spang
-  - person_ref: donatagerhards
-  - person_ref: juliatolksdorf
-  - person_ref: lennart_linde
+contacts:
+  - name: Kai-Christian Bruhn
+    person_ref: kai-christian_bruhn
+  - name: Henrike Backhaus
+    person_ref: henrikebackhaus
+  - name: Sandra Schröer-Spang
+    person_ref: sandraschröer-spang
+  - name: Donata Gerhards
+    person_ref: donatagerhards
+  - name: Julia Tolksdorf
+    person_ref: juliatolksdorf
+  - name: Lennart Linde
+    person_ref: lennart_linde
 permalink: /services/nfdi4objects-qualification/
 
 cards:
@@ -94,11 +101,3 @@ Dann freuen wir uns über Ihre Mitwirkung im Netzwerk von NFDI4Objects.
 
 - [FDM-Qualifizierung und OER](https://community.nfdi4objects.net/assemblies/OER)
 - [FDM-Beratung](https://community.nfdi4objects.net/assemblies/FDM-Beratung)
-
-## Ansprechpartner:innen
-[Kai-Christian Bruhn](/_persons/de/kai-christian_bruhn.md)  
-[Henrike Backhaus](/_persons/de/henrikebackhaus.md)  
-[Sandra Schröer-Sprang](/_persons/de/sandraschröer-spang.md)    
-[Donata Gerhards](/_persons/de/donatagerhards.md)  
-[Lennart Linde](/_persons/de/lennart_linde.md)  
-[Julia Tolksdorf](/_persons/de/juliatolksdorf.md)   
