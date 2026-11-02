@@ -240,6 +240,70 @@ Unterstützte Collections:
   </section>
   {%- endif -%}
 
+  {%- comment -%} NFDI Service-Kategorie {%- endcomment -%}
+  {%- if page.nfdi_category -%}
+  <section class="taxonomy-section space-md">
+    <h3 class="arrow arrow-left">
+      {% if current_lang == "en" %}NFDI Service Category{% else %}NFDI Service-Kategorie{% endif %}
+    </h3>
+    <div class="category-badges">
+      {%- assign nfdi_cat = site.data.service_categories.nfdi_categories | where: "id", page.nfdi_category | first -%}
+      {%- if nfdi_cat -%}
+        <span class="info-badge info-badge--category">
+          <i class="fas {{ nfdi_cat.icon }}"></i>
+          {% if current_lang == "en" %}{{ nfdi_cat.name_en }}{% else %}{{ nfdi_cat.name_de }}{% endif %}
+        </span>
+      {%- else -%}
+        <span class="info-badge info-badge--category">{{ page.nfdi_category }}</span>
+      {%- endif -%}
+    </div>
+  </section>
+  {%- endif -%}
+
+  {%- comment -%} NFDI Service-Typen (hierarchisch, wenn vorhanden) {%- endcomment -%}
+  {%- if page.nfdi_service_types and page.nfdi_service_types.size > 0 -%}
+  <section class="taxonomy-section space-md">
+    <h3 class="arrow arrow-left">
+      {% if current_lang == "en" %}
+        {% if page.nfdi_service_types.size > 1 %}NFDI4Objects Service Types{% else %}NFDI4Objects Service Type{% endif %}
+      {% else %}
+        {% if page.nfdi_service_types.size > 1 %}NFDI4Objects Service-Typen{% else %}NFDI4Objects Service-Typ{% endif %}
+      {% endif %}
+    </h3>
+    <div class="nfdi-type-badges">
+      {%- for type_id in page.nfdi_service_types -%}
+        {%- assign nfdi_type = site.data.service_categories.nfdi_service_types | where: "id", type_id | first -%}
+        {%- if nfdi_type -%}
+          <span class="info-badge info-badge--nfdi-type">
+            {% if current_lang == "en" %}{{ nfdi_type.name_en }}{% else %}{{ nfdi_type.name_de }}{% endif %}
+          </span>
+        {%- else -%}
+          <span class="info-badge info-badge--nfdi-type">{{ type_id }}</span>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
+  {%- comment -%} Service-Typ (einfach, fallback wenn keine NFDI-Typen) {%- endcomment -%}
+  {%- if page.service_type and page.nfdi_service_types == nil -%}
+  <section class="taxonomy-section space-md">
+    <h3 class="arrow arrow-left">
+      {% if current_lang == "en" %}Service Type{% else %}Service-Typ{% endif %}
+    </h3>
+    <div class="type-badges">
+      {%- assign service_type_data = site.data.service_categories.service_types | where: "id", page.service_type | first -%}
+      {%- if service_type_data -%}
+        <span class="info-badge info-badge--type">
+          {% if current_lang == "en" %}{{ service_type_data.name_en }}{% else %}{{ service_type_data.name_de }}{% endif %}
+        </span>
+      {%- else -%}
+        <span class="info-badge info-badge--type">{{ page.service_type }}</span>
+      {%- endif -%}
+    </div>
+  </section>
+  {%- endif -%}
+
   {% include ttl-download-button.html %}
 
 {%- endif -%}
