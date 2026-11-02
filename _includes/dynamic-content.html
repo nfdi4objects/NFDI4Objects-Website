@@ -151,13 +151,6 @@ Unterstützte Collections:
 
   {% include contacts-list.html contacts=page.contacts %}
 
-  {%- comment -%} Task Areas (task_areas oder areas) {%- endcomment -%}
-  {%- if page.task_areas -%}
-    {% include related-areas.html areas=page.task_areas %}
-  {%- elsif page.areas -%}
-    {% include related-areas.html areas=page.areas %}
-  {%- endif -%}
-
   {%- comment -%} Organization/Institution {%- endcomment -%}
   {%- assign org_ids = page.organization | default: page.institution -%}
   {%- if org_ids and org_ids.size > 0 -%}
@@ -181,6 +174,13 @@ Unterstützte Collections:
       {%- endfor -%}
     </div>
   </section>
+  {%- endif -%}
+
+  {%- comment -%} Task Areas (task_areas oder areas) {%- endcomment -%}
+  {%- if page.task_areas -%}
+    {% include related-areas.html areas=page.task_areas %}
+  {%- elsif page.areas -%}
+    {% include related-areas.html areas=page.areas %}
   {%- endif -%}
 
   {%- comment -%} Community Clusters {%- endcomment -%}
