@@ -100,11 +100,3 @@ If so, we would be delighted to have you join the NFDI4Objects network.
 
 - [FDM Training and OER](https://community.nfdi4objects.net/assemblies/OER)
 - [FDM consultancy](https://community.nfdi4objects.net/assemblies/FDM-Beratung)
-
-## Contact persons
-[Kai-Christian Bruhn](/_persons/en/kai-christian_bruhn.md)  
-[Henrike Backhaus](/_persons/en/henrikebackhaus.md)  
-[Sandra Schröer-Sprang](/_persons/en/sandraschröer-spang.md)  
-[Donata Gerhards](/_persons/en/donatagerhards.md)  
-[Lennart Linde](/_persons/en/lennart_linde.md)  
-[Julia Tolksdorf](/_persons/en/juliatolksdorf.md)  

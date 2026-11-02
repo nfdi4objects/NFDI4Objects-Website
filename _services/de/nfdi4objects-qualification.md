@@ -101,11 +101,3 @@ Dann freuen wir uns über Ihre Mitwirkung im Netzwerk von NFDI4Objects.
 
 - [FDM-Qualifizierung und OER](https://community.nfdi4objects.net/assemblies/OER)
 - [FDM-Beratung](https://community.nfdi4objects.net/assemblies/FDM-Beratung)
-
-## Ansprechpartner:innen
-[Kai-Christian Bruhn](/_persons/de/kai-christian_bruhn.md)  
-[Henrike Backhaus](/_persons/de/henrikebackhaus.md)  
-[Sandra Schröer-Sprang](/_persons/de/sandraschröer-spang.md)    
-[Donata Gerhards](/_persons/de/donatagerhards.md)  
-[Lennart Linde](/_persons/de/lennart_linde.md)  
-[Julia Tolksdorf](/_persons/de/juliatolksdorf.md)   
