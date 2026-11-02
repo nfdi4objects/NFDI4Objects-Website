@@ -15,7 +15,7 @@ trails:
 nfdi_categories: training
 Lifecycle-Phases: 
 - lernen-beraten
-coordinators:
+contacts:
   - person_ref: kai-christian_bruhn
   - person_ref: henrikebackhaus
   - person_ref: sandraschröer-spang
