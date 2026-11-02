@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_20261102-service_zertifizierung
+permalink: /news/n4o_news_20261102-service_zertifizierung/
 ---
 **Das Service Monitoring Team, freut sich ihnen mitzuteilen: Ab sofort können Sie unter [https://community.nfdi4objects.net/de/assemblies/SMT/f/54/surveys/3](https://community.nfdi4objects.net/de/assemblies/SMT/f/54/surveys/3) Anträge auf die Zertifizierung technischer Dienste für das NFDI4Objects Service-Portfolio stellen.**
 Bitte beachten Sie, dass nur Anträge für Dienste bearbeitet werden können, die sich im Full Relaease bzw. Produktivbetrieb befinden.

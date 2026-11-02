@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: en/news/n4o_news_20261102-service_zertifizierung
+permalink: en/news/n4o_news_20261102-service_zertifizierung/
 ---
 **The Service Monitoring Team is pleased to announce: You can now submit applications for the certification of technical services for the NFDI4Objects service portfolio at [https://community.nfdi4objects.net/de/assemblies/SMT/f/54/surveys/3](https://community.nfdi4objects.net/de/assemblies/SMT/f/54/surveys/3).**
 Please note that only applications for services that are in full release or live operation can be processed.
