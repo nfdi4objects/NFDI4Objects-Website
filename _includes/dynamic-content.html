@@ -240,68 +240,92 @@ Unterstützte Collections:
   </section>
   {%- endif -%}
 
-  {%- comment -%} NFDI Service-Kategorie {%- endcomment -%}
+  {%- comment -%} NFDI Service-Kategorie(n) {%- endcomment -%}
   {%- if page.nfdi_category -%}
-  <section class="taxonomy-section space-md">
-    <h3 class="arrow arrow-left">
-      {% if current_lang == "en" %}NFDI Service Category{% else %}NFDI Service-Kategorie{% endif %}
-    </h3>
-    <div class="category-badges">
-      {%- assign nfdi_cat = site.data.service_categories.nfdi_categories | where: "id", page.nfdi_category | first -%}
-      {%- if nfdi_cat -%}
-        <span class="info-badge info-badge--category">
-          <i class="fas {{ nfdi_cat.icon }}"></i>
-          {% if current_lang == "en" %}{{ nfdi_cat.name_en }}{% else %}{{ nfdi_cat.name_de }}{% endif %}
-        </span>
-      {%- else -%}
-        <span class="info-badge info-badge--category">{{ page.nfdi_category }}</span>
-      {%- endif -%}
-    </div>
-  </section>
+    {%- assign cat_count = 0 -%}
+    {%- for c in page.nfdi_category -%}{%- assign cat_count = cat_count | plus: 1 -%}{%- endfor -%}
+    {%- if cat_count > 0 -%}
+    <section class="taxonomy-section space-md">
+      <h3 class="arrow arrow-left">
+        {% if current_lang == "en" %}
+          {% if cat_count > 1 %}NFDI Service Categories{% else %}NFDI Service Category{% endif %}
+        {% else %}
+          {% if cat_count > 1 %}NFDI Service-Kategorien{% else %}NFDI Service-Kategorie{% endif %}
+        {% endif %}
+      </h3>
+      <div class="category-badges">
+        {%- for cat_id in page.nfdi_category -%}
+          {%- assign nfdi_cat = site.data.service_categories.nfdi_categories | where: "id", cat_id | first -%}
+          {%- if nfdi_cat -%}
+            <span class="info-badge info-badge--category">
+              <i class="fas {{ nfdi_cat.icon }}"></i>
+              {% if current_lang == "en" %}{{ nfdi_cat.name_en }}{% else %}{{ nfdi_cat.name_de }}{% endif %}
+            </span>
+          {%- else -%}
+            <span class="info-badge info-badge--category">{{ cat_id }}</span>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    </section>
+    {%- endif -%}
   {%- endif -%}
 
   {%- comment -%} NFDI Service-Typen (hierarchisch, wenn vorhanden) {%- endcomment -%}
-  {%- if page.nfdi_service_types and page.nfdi_service_types.size > 0 -%}
-  <section class="taxonomy-section space-md">
-    <h3 class="arrow arrow-left">
-      {% if current_lang == "en" %}
-        {% if page.nfdi_service_types.size > 1 %}NFDI4Objects Service Types{% else %}NFDI4Objects Service Type{% endif %}
-      {% else %}
-        {% if page.nfdi_service_types.size > 1 %}NFDI4Objects Service-Typen{% else %}NFDI4Objects Service-Typ{% endif %}
-      {% endif %}
-    </h3>
-    <div class="nfdi-type-badges">
-      {%- for type_id in page.nfdi_service_types -%}
-        {%- assign nfdi_type = site.data.service_categories.nfdi_service_types | where: "id", type_id | first -%}
-        {%- if nfdi_type -%}
-          <span class="info-badge info-badge--nfdi-type">
-            {% if current_lang == "en" %}{{ nfdi_type.name_en }}{% else %}{{ nfdi_type.name_de }}{% endif %}
-          </span>
-        {%- else -%}
-          <span class="info-badge info-badge--nfdi-type">{{ type_id }}</span>
-        {%- endif -%}
-      {%- endfor -%}
-    </div>
-  </section>
+  {%- if page.nfdi_service_types -%}
+    {%- assign nfdi_type_count = 0 -%}
+    {%- for t in page.nfdi_service_types -%}{%- assign nfdi_type_count = nfdi_type_count | plus: 1 -%}{%- endfor -%}
+    {%- if nfdi_type_count > 0 -%}
+    <section class="taxonomy-section space-md">
+      <h3 class="arrow arrow-left">
+        {% if current_lang == "en" %}
+          {% if nfdi_type_count > 1 %}NFDI4Objects Service Types{% else %}NFDI4Objects Service Type{% endif %}
+        {% else %}
+          {% if nfdi_type_count > 1 %}NFDI4Objects Service-Typen{% else %}NFDI4Objects Service-Typ{% endif %}
+        {% endif %}
+      </h3>
+      <div class="nfdi-type-badges">
+        {%- for type_id in page.nfdi_service_types -%}
+          {%- assign nfdi_type = site.data.service_categories.nfdi_service_types | where: "id", type_id | first -%}
+          {%- if nfdi_type -%}
+            <span class="info-badge info-badge--nfdi-type">
+              {% if current_lang == "en" %}{{ nfdi_type.name_en }}{% else %}{{ nfdi_type.name_de }}{% endif %}
+            </span>
+          {%- else -%}
+            <span class="info-badge info-badge--nfdi-type">{{ type_id }}</span>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    </section>
+    {%- endif -%}
   {%- endif -%}
 
   {%- comment -%} Service-Typ (einfach, fallback wenn keine NFDI-Typen) {%- endcomment -%}
   {%- if page.service_type and page.nfdi_service_types == nil -%}
-  <section class="taxonomy-section space-md">
-    <h3 class="arrow arrow-left">
-      {% if current_lang == "en" %}Service Type{% else %}Service-Typ{% endif %}
-    </h3>
-    <div class="type-badges">
-      {%- assign service_type_data = site.data.service_categories.service_types | where: "id", page.service_type | first -%}
-      {%- if service_type_data -%}
-        <span class="info-badge info-badge--type">
-          {% if current_lang == "en" %}{{ service_type_data.name_en }}{% else %}{{ service_type_data.name_de }}{% endif %}
-        </span>
-      {%- else -%}
-        <span class="info-badge info-badge--type">{{ page.service_type }}</span>
-      {%- endif -%}
-    </div>
-  </section>
+    {%- assign type_count = 0 -%}
+    {%- for t in page.service_type -%}{%- assign type_count = type_count | plus: 1 -%}{%- endfor -%}
+    {%- if type_count > 0 -%}
+    <section class="taxonomy-section space-md">
+      <h3 class="arrow arrow-left">
+        {% if current_lang == "en" %}
+          {% if type_count > 1 %}Service Types{% else %}Service Type{% endif %}
+        {% else %}
+          {% if type_count > 1 %}Service-Typen{% else %}Service-Typ{% endif %}
+        {% endif %}
+      </h3>
+      <div class="type-badges">
+        {%- for st_id in page.service_type -%}
+          {%- assign service_type_data = site.data.service_categories.service_types | where: "id", st_id | first -%}
+          {%- if service_type_data -%}
+            <span class="info-badge info-badge--type">
+              {% if current_lang == "en" %}{{ service_type_data.name_en }}{% else %}{{ service_type_data.name_de }}{% endif %}
+            </span>
+          {%- else -%}
+            <span class="info-badge info-badge--type">{{ st_id }}</span>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    </section>
+    {%- endif -%}
   {%- endif -%}
 
   {% include ttl-download-button.html %}
