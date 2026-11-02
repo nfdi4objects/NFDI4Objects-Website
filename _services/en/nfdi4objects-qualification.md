@@ -16,12 +16,18 @@ nfdi_categories: training
 Lifecycle-Phases: 
 - lernen-beraten
 contacts:
-  - person_ref: kai-christian_bruhn
-  - person_ref: henrikebackhaus
-  - person_ref: sandraschröer-spang
-  - person_ref: donatagerhards
-  - person_ref: juliatolksdorf
-  - person_ref: lennart_linde
+  - name: Kai-Christian Bruhn
+    person_ref: kai-christian_bruhn
+  - name: Henrike Backhaus
+    person_ref: henrikebackhaus
+  - name: Sandra Schröer-Spang
+    person_ref: sandraschröer-spang
+  - name: Donata Gerhards
+    person_ref: donatagerhards
+  - name: Julia Tolksdorf
+    person_ref: juliatolksdorf
+  - name: Lennart Linde
+    person_ref: lennart_linde
 permalink: en/services/nfdi4objects-qualification/
 
 cards:
