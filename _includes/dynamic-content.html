@@ -158,6 +158,21 @@ Unterstützte Collections:
     {% include related-areas.html areas=page.areas %}
   {%- endif -%}
 
+  {%- comment -%} Organization/Institution (ohne Label, nur Link/Name) {%- endcomment -%}
+  {%- assign org_id = page.organization | default: page.institution -%}
+  {%- if org_id -%}
+    {%- assign org_data = site.data[current_lang].institutions | where: "id", org_id | first -%}
+    <dd class="institution-only">
+      {%- if org_data -%}
+        <a href="{{ org_data.url }}" target="_blank" rel="noopener noreferrer" class="institution-link">
+          {{ org_data.name }}
+        </a>
+      {%- else -%}
+        <span class="institution-name">{{ org_id }}</span>
+      {%- endif -%}
+    </dd>
+  {%- endif -%}
+
   {%- comment -%} Community Clusters {%- endcomment -%}
   {%- if page.ccs and page.ccs.size > 0 -%}
   <section class="taxonomy-section space-md">
