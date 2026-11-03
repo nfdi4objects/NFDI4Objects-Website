@@ -1,6 +1,6 @@
 ---
 layout: service
-lang: de
+lang: en
 translation_key: conservation-data-framework
 title: Conservation Data Framework
 short_title: '<strong>Offenes Referenzrahmenwerk</strong> für die standardisierte Datenerfassung und -kuratierung konservatorisch-restauratorischer Daten.'

@@ -1,6 +1,6 @@
 ---
 layout: service
-lang: de
+lang: en
 translation_key: fund-logbuch
 title: 'Fund-Logbuch: Infrastruktur zur Erfassung archäologischer Kleinfunde'
 short_title: '<strong>App und Infrastruktur für Fundmeldungen</strong> von Ehrenamtlichen, durchgehend digital bis in die Fachsysteme der Denkmalbehörden.'

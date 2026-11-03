@@ -1,6 +1,6 @@
 ---
 layout: service
-lang: de
+lang: en
 translation_key: leiza-konservierungs-und-restaurierungsfachthesaurus-für-archäologische-kulturgüter
 title: LEIZA Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter
 short_title: '<strong>Standardisiertes Vokabular</strong> für Konservierung und Restaurierung archäologischer Kulturgüter.'

@@ -1,6 +1,6 @@
 ---
 layout: service
-lang: de
+lang: en
 translation_key: fairifizierungsanwendung-für-konservierungs-und-restaurierungsprozesse
 title: FAIRifizierungsanwendung für Konservierungs- und Restaurierungsprozesse
 short_title: 'Werkzeug zur <strong>Aufbereitung von Konservierungs- und Restaurierungsprozessen </strong> nach den FAIR-Prinzipien.'
