@@ -35,29 +35,29 @@ target_groups:
     name_de: "Forschende"
     name_en: "Researchers"
 
-licences:
+licenses:
   - id: cc0
     name_de: "CC0"
     name_en: "CC0"
-    url_en:
-    url_de:
+    url_en: "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    url_de: "https://creativecommons.org/publicdomain/zero/1.0/deed.de"
   - id: cc-by
     name_de: "CC BY"
     name_en: "CC BY"
-    url_en:
-    url_de:
+    url_en: "https://creativecommons.org/licenses/by/4.0/deed.en"
+    url_de: "https://creativecommons.org/licenses/by/4.0/deed.de"
   - id: cc-by-sa
     name_de: "CC BY-SA"
     name_en: "CC BY-SA"
-    url_en:
-    url_de:
+    url_en: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+    url_de: "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
   - id: cc-by-nc
     name_de: "CC BY-NC"
     name_en: "CC BY-NC"
-    url_en:
-    url_de:
+    url_en: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+    url_de: "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
   - id: cc-by-nc-sa
     name_de: "CC BY-NC-SA"
     name_en: "CC BY-NC-SA"
-    url_en:
-    url_de:
+    url_en: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    url_de: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de"
