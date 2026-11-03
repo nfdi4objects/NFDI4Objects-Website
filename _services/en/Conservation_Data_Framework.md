@@ -19,7 +19,7 @@ lifecycle_phases: planung, erhebung, verarbeitung, datenzugang, nachnutzung
 contacts:
 - name: Kristina Fischer
 - person_ref: kristinafella
-permalink: /services/conservation-data-framework/
+permalink: /en/services/conservation-data-framework/
 ---
 
 ### Description

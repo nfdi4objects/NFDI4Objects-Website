@@ -22,7 +22,7 @@ organization: 'leibniz-zentrum-für-archäologie'
 contact: 
 - name: Lasse Mempel-Länger
 - person_ref:lassemempel-länger
-permalink: /services/fairifizierungsanwendung-für-konservierungs-und-restaurierungsprozesse/
+permalink: /en/services/fairifizierungsanwendung-für-konservierungs-und-restaurierungsprozesse/
 ---
 
 ## Description

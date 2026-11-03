@@ -29,7 +29,7 @@ contacts:
   person_ref: johannelefeldt
 - name: Andreas Puhl
   person_ref: andreaspuhl
-permalink: /services/fund-logbuch/
+permalink: /en/services/fund-logbuch/
 ---
 
 ## Citizen Science
