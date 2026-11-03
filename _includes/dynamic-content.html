@@ -827,13 +827,14 @@ Unterstützte Collections:
         {%- for keyword_id in keyword_ids -%}
           {%- assign keyword_data = site.data.oer_categories.keywords | where: "id", keyword_id | first -%}
           {%- if keyword_data -%}
+          <strong>
             <span class="info-badge info-badge--keyword">
               {% if current_lang == "en" %}{{ keyword_data.name_en }}{% else %}{{ keyword_data.name_de }}{% endif %}
             </span>
           {%- else -%}
             <span class="info-badge info-badge--keyword">{{ keyword_id }}</span>
           {%- endif -%}
-          {% unless forloop.last %}, {% endunless %}
+          </strong>{% unless forloop.last %}, {% endunless %}
         {%- endfor -%}
       </div>
     </section>
@@ -858,13 +859,14 @@ Unterstützte Collections:
         {%- for category_id in category_ids -%}
           {%- assign category_data = site.data.oer_categories.categories | where: "id", category_id | first -%}
           {%- if category_data -%}
+          <strong>
             <span class="info-badge info-badge--category">
               {% if current_lang == "en" %}{{ category_data.name_en }}{% else %}{{ category_data.name_de }}{% endif %}
             </span>
           {%- else -%}
             <span class="info-badge info-badge--category">{{ category_id }}</span>
           {%- endif -%}
-          {% unless forloop.last %}, {% endunless %}
+          </strong>{% unless forloop.last %}, {% endunless %}
         {%- endfor -%}
       </div>
     </section>
@@ -889,13 +891,14 @@ Unterstützte Collections:
         {%- for tg_id in target_group_ids -%}
           {%- assign tg_data = site.data.oer_categories.target_groups | where: "id", tg_id | first -%}
           {%- if tg_data -%}
+          <strong>
             <span class="info-badge info-badge--target-group">
               {% if current_lang == "en" %}{{ tg_data.name_en }}{% else %}{{ tg_data.name_de }}{% endif %}
             </span>
           {%- else -%}
             <span class="info-badge info-badge--target-group">{{ tg_id }}</span>
           {%- endif -%}
-          {% unless forloop.last %}, {% endunless %}
+          </strong>{% unless forloop.last %}, {% endunless %}
         {%- endfor -%}
       </div>
     </section>
