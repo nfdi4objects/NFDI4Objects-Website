@@ -40,7 +40,10 @@ Many archaeological small finds are reported by metal detectorists, chance finde
 
 The Fund-Logbuch is a new process chain that structures data based on common standards from the outset and processes it digitally without any gaps. Sources of error that existed previously are mitigated through automation in data capture and the elimination of media breaks.
 
-!\[Three Screenshots of the Fund-Logbuch-App\](Screenshots.png){: width="500px" style="display: block; margin: 0 auto"}
+<img src="/assets/images/services/Screenshots_Fund-Logbuch-App.png"
+alt="Alt-Text"
+style="width="500px" style="display: block; margin: 0 auto;">
+<br>
 
 ### App
 
