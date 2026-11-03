@@ -265,6 +265,7 @@ Unterstützte Collections:
           {%- else -%}
             <span class="info-badge info-badge--category">{{ cat_id }}</span>
           {%- endif -%}
+          {% unless forloop.last %}, {% endunless %}
         {%- endfor -%}
       </div>
     </section>
@@ -295,6 +296,7 @@ Unterstützte Collections:
           {%- else -%}
             <span class="info-badge info-badge--nfdi-type">{{ type_id }}</span>
           {%- endif -%}
+          {% unless forloop.last %}, {% endunless %}
         {%- endfor -%}
       </div>
     </section>
@@ -325,6 +327,7 @@ Unterstützte Collections:
           {%- else -%}
             <span class="info-badge info-badge--type">{{ st_id }}</span>
           {%- endif -%}
+          {% unless forloop.last %}, {% endunless %}
         {%- endfor -%}
       </div>
     </section>
