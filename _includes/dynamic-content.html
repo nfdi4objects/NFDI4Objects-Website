@@ -641,6 +641,35 @@ Unterstützte Collections:
   </section>
   {%- endif -%}
 
+  {%- comment -%} Keywords (einfach, fallback wenn keine Keywords) {%- endcomment -%}
+  {%- if page.keyword and page.keywords == nil -%}
+    {%- assign keyword_count = 0 -%}
+    {%- for t in page.keyword -%}{%- assign keyword_count = keyword_count | plus: 1 -%}{%- endfor -%}
+    {%- if keyword_count > 0 -%}
+    <section class="taxonomy-section space-md">
+      <h3 class="arrow arrow-left">
+        {% if current_lang == "en" %}
+          {% if keyword_count > 1 %}Keywords{% else %}Keyword{% endif %}
+        {% else %}
+          {% if keyword_count > 1 %}Keywords{% else %}Keyword{% endif %}
+        {% endif %}
+      </h3>
+      <div class="keyword-badges">
+        {%- for keyword_id in page.keyword -%}
+          {%- assign keyword_data = site.data.commons_categories.keywords | where: "id", keyword_id | first -%}
+          {%- if keyword_data -%}
+            <span class="info-badge info-badge--keyword">
+              {% if current_lang == "en" %}{{ keyword_data.name_en }}{% else %}{{ keyword_data.name_de }}{% endif %}
+            </span>
+          {%- else -%}
+            <span class="info-badge info-badge--keyword">{{ keyword_id }}</span>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    </section>
+    {%- endif -%}
+  {%- endif -%}
+
   {% include ttl-download-button.html %}
 
 {%- endif -%}
