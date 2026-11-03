@@ -4,8 +4,7 @@ date: 2025-09-21
 title: "Übung Metadatentypen"
 excerpt: Der Baustein enthält Übungen zu verschiedenen Typen von Metadaten. Anhand von Datensätzen aus dem Archaeology Data Service werden die Metadaten zu verschiedenen Dateien besprochen. Dabei werden sowohl die unterschiedlichen Arten von Metadaten für einen Datensatz erläutert als auch Metadaten verschiedener Datensätze miteinander verglichen.
 link_url: https://nfdi4objects.github.io/oer-uebung-metadatentypen/
-license: 
- - cc-by
+license: cc-by
 keywords: 
  - Metadaten
  - Metadatentypen
