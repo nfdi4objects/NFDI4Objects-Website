@@ -5,16 +5,20 @@ translation_key: conservation-data-framework
 title: Conservation Data Framework
 short_title: '<strong>Offenes Referenzrahmenwerk</strong> für die standardisierte Datenerfassung und -kuratierung konservatorisch-restauratorischer Daten.'
 logo: /assets/images/services/CDF_logo.png 
-homepage: 
+organization: 'leibniz-zentrum-für-archäologie'
+contact_email: "kristina.fischer@leiza.de"
+homepage: https://nfdi4objects.github.io/n4o_conservation_data_framework/
 access_url: https://nfdi4objects.github.io/n4o_conservation_data_framework/
 areas:
 - ta4
 trails: 
 - 4.7_second_TRAILs
-nfdi_category: libraries
+nfdi_category: web-apps
 nfdi_service_types:
-- ints
-- avs
+lifecycle_phases: planung, erhebung, verarbeitung, datenzugang, nachnutzung
+contacts:
+- name: Kristina Fischer
+- person_ref: kristinafella
 permalink: /services/conservation-data-framework/
 ---
 
