@@ -19,8 +19,8 @@ nfdi_service_types:
 - avs
 - ints
 contacts:
-	name: Kristina Fischer
-	person_ref: kristinafella
+- name: Kristina Fischer
+- person_ref: kristinafella
 permalink: /services/leiza-konservierungs-und-restaurierungsfachthesaurus-für-archäologische-kulturgüter/
 ---
 
