@@ -42,7 +42,7 @@ The Fund-Logbuch is a new process chain that structures data based on common sta
 
 <img src="/assets/images/services/Screenshots_Fund-Logbuch-App.png"
 alt="Alt-Text"
-style="width="500px" style="display: block; margin: 0 auto;">
+style="width:70%; display:block; margin:auto;">
 <br>
 
 ### App
