@@ -40,7 +40,10 @@ Viele archäologische Kleinfunde werden von Sondengänger:innen, Zufallsfinder:i
 
 Das Fund-Logbuch ist eine neue Prozesskette, die Daten von Anfang an basierend auf gemeinsamen Standards strukturiert und lückenlos digital verarbeitet. Bisher bestehende Fehlerquellen werden durch Automatisierungen in der Erfassung und das fehlen von Medienbrüchen konsequent vermieden.
 
-![Drei Screenshots der Fund-Logbuch-App](Screenshots.png){: width="500px" style="display: block; margin: 0 auto"}
+<img src="/assets/images/services/Screenshots_Fund-Logbuch-App.png"
+alt="Alt-Text"
+style="width="500px" style="display: block; margin: 0 auto;">
+<br>
 
 ### App
 
