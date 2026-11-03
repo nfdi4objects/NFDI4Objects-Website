@@ -59,7 +59,7 @@ Die zuständigen Fachbehörden übernehmen die Meldungen über genormte Schnitts
 
 ## Ein gemeinsamer Standard
 
-Eine Grundlage für das Fund-Logbuch ist die Entwicklung des [BRIWĀS](/services/briwas/) Community-Standard für Citizen-Science-Daten im NFDI4Objects Community Cluster [„Protected Heritage Sites“](https://community.nfdi4objects.net/en/assemblies/HeritageSites). Durch diesen werden die entstehenden Daten interoperabel und nachhaltig nutzbar.
+Eine Grundlage für das Fund-Logbuch ist die Entwicklung des [BRIWĀS](/services/briwas/) Community-Standard für Citizen-Science-Daten im NFDI4Objects Community Cluster [„Protected Heritage Sites“](https://community.nfdi4objects.net/de/assemblies/HeritageSites). Durch diesen werden die entstehenden Daten interoperabel und nachhaltig nutzbar.
 
 ## Entwicklung und Einsatz
 
