@@ -42,7 +42,7 @@ Das Fund-Logbuch ist eine neue Prozesskette, die Daten von Anfang an basierend a
 
 <img src="/assets/images/services/Screenshots_Fund-Logbuch-App.png"
 alt="Alt-Text"
-style="width="500px" style="display: block; margin: 0 auto;">
+style="width:70%; display:block; margin:auto;">
 <br>
 
 ### App
