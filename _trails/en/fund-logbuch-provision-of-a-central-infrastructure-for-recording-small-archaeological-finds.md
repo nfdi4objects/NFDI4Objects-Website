@@ -2,7 +2,7 @@
 layout: trail
 lang: en
 translation_key: fund-logbuch-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds
-title: 'Fund-Logbuch: Providing a Centralized Infrastructure for Recording Small rchaeological finds'
+title: 'Fund-Logbuch: Providing a Centralized Infrastructure for Recording Small Archaeological finds'
 start_date: 2026-01-01
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/SC/f/16/proposals/38
