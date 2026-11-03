@@ -3,23 +3,61 @@ layout: service
 lang: de
 translation_key: fund-logbuch
 title: 'Fund-Logbuch: Infrastruktur zur Erfassung archäologischer Kleinfunde'
-short_title: 'Mobile Anwendung zur <strong>Fundverwaltung und digitalen Erfassung von Funddaten.</strong> Reduziert Medienbrüche während der Grabung.'
+short_title: '<strong>App und Infrastruktur für Fundmeldungen</strong> von Ehrenamtlichen, durchgehend digital bis in die Fachsysteme der Denkmalbehörden.'
 logo: /assets/images/services/fundlogbuch_logo_500px.png
-homepage: ''
+organization: "Generaldirektion Kulturelles Erbe Rheinland-Pfalz"
+contact_email: "johanne.lefeldt@gdke.rlp.de"
+homepage: https://gdke.rlp.de/
 areas:
 - ta4
 - ta5
-trails: 
+trails:
 - fund-logbuch-provision-of-a-central-infrastructure-for-recording-small-archaeological-finds
-nfdi_category: tools_applications
-nfdi_service_types:
-- ints
-- dis
+nfdi_categories:
+- tools_applications
+- web-apps
+- workflows
+lifecycle-phases:
+- erhebung
+- datenzugang
+contacts:
+- name: Ulrich Himmelmann
+  person_ref: ulrich_himmelmann
+- name: Frank Duehrkohp
+  person_ref: frank_duehrkohp
+- name: Johanne Lefeldt
+  person_ref: johannelefeldt
+- name: Andreas Puhl
+  person_ref: andreaspuhl
 permalink: /services/fund-logbuch/
 ---
 
-## Beschreibung
+## Citizen Science
 
-Mit dem Fund-Logbuch wird eine zentrale Infrastruktur entwickelt, welche die Zusammenarbeit von Denkmalbehörden mit ehrenamtlich Tätigen unterstützt.
+Viele archäologische Kleinfunde werden von Sondengänger:innen, Zufallsfinder:innen und Ehrenamtlichen gemeldet. Für die Bodendenkmalpflege sind diese Meldungen wichtig, und für die Forschung sind sie eine bedeutende Quelle, die oft zu wenig beachtet wird. Analoge Meldewege sind jedoch zeitintensiv und fehleranfällig. Auswertung und konservatorische Maßnahmen verzögern sich, und viele Daten erreichen die Forschung spät oder gar nicht. Das Fund-Logbuch verarbeitet Fundmeldungen von der Erfassung bis in die Fachsysteme der Denkmalbehörden durchgehend digital. So fließen neue Funde schneller in Denkmalschutz und Forschung ein, und die Zusammenarbeit zwischen Behörden und Ehrenamtlichen wird gestärkt.
 
-Eine Vielzahl archäologischer Kleinfunde wird von Sondengänger:innen und Ehrenamtlichen gemeldet. Sie stellen wichtige Informationen für die gesetzlich verankerte Bodendenkmalpflege dar. Gleichzeitig handelt es sich dabei um eine bedeutsame, aber bislang zu wenig beachtete wissenschaftliche Quelle für die archäologische Forschung. Bisher gelangen solche Meldungen nur mit hohem Arbeitsaufwand in die wissenschaftlichen Fachsysteme. Analoge Erfassungsprozesse sind zeitintensiv und fehleranfällig. Sie führen zu Verzögerungen bei der wissenschaftlichen Auswertung sowie konservatorischen Maßnahmen, und die Daten gelangen spät oder gar nicht in die Forschungscommunity. Diesen Herausforderungen soll durch die Entwicklung einer durchgehend digitalen Infrastruktur begegnet werden: Mit einer mobilen App, einer zentralen Datenbank sowie Webportalen für Finder:innen und Behörden werden Fundmeldungen künftig standardisiert, fehlerarm und direkt maschinenlesbar erfasst. Über normierte Schnittstellen und den Einsatz von Standards gelangen die erfassten Daten nahtlos in die Fachinformationssysteme der Landesdenkmalämter, werden interoperabel und nachhaltig aufbereitet und können so der Forschung verfügbar gemacht werden. Ziel ist es, die Sichtbarkeit und wissenschaftliche Nutzbarkeit von Citizen-Science-Daten in der Archäologie zu steigern, die Einbindung ehrenamtlicher Akteur:innen zu stärken und sicherzustellen, dass archäologische Neufunde schnell in Forschung und Denkmalschutz einfließen.
+## Das Fund-Logbuch
+
+Das Fund-Logbuch ist eine neue Prozesskette, die Daten von Anfang an basierend auf gemeinsamen Standards strukturiert und lückenlos digital verarbeitet. Bisher bestehende Fehlerquellen werden durch Automatisierungen in der Erfassung und das fehlen von Medienbrüchen konsequent vermieden.
+
+![Drei Screenshots der Fund-Logbuch-App](Screenshots.png){: width="500px" style="display: block; margin: 0 auto"}
+
+### App
+
+Funde, Fundstellen und Fundumstände lassen sich direkt vor Ort mit dem Smartphone erfassen und hochladen. Eingabehilfen und die Standortbestimmung des Smartphones erleichtern die Dokumentation.
+
+### Webportal
+
+Finder:innen sehen ihre eigenen Meldungen in einer zentralen Datenbank ein und können sie prüfen.
+
+### Verteilmechanismus
+
+Die zuständigen Fachbehörden übernehmen die Meldungen über genormte Schnittstellen direkt in ihre Fachsysteme. Von dort werden sie weiterverarbeitet und der Forschung bereitgestellt.
+
+## Ein gemeinsamer Standard
+
+Eine Grundlage für das Fund-Logbuch ist die Entwicklung des [BRIWĀS](/services/briwas/) Community-Standard für Citizen-Science-Daten im NFDI4Objects Community Cluster [„Protected Heritage Sites“](https://community.nfdi4objects.net/en/assemblies/HeritageSites). Durch diesen werden die entstehenden Daten interoperabel und nachhaltig nutzbar.
+
+## Entwicklung und Einsatz
+
+Erstmals eingesetzt und erprobt wurde die App in Sachsen-Anhalt. Weiterentwickelt wird das Fund-Logbuch im NFDI4Objects Community Cluster [„Public Archaeology“](https://www.nfdi4objects.net/ccs/cc_citizen_science_and_community_hubs/). Die hier entstehende Infrastruktur soll künftig allen interessierten Fachbehörden offenstehen.
