@@ -661,13 +661,13 @@ Unterstützte Collections:
       <div class="keyword-badges">
         {%- for keyword_id in keyword_ids -%}
           {%- assign keyword_data = site.data.commons_categories.keywords | where: "id", keyword_id | first -%}
-          {%- if keyword_data -%}
-            <span class="info-badge info-badge--keyword">
+          <strong>
+            {%- if keyword_data -%}
               {% if current_lang == "en" %}{{ keyword_data.name_en }}{% else %}{{ keyword_data.name_de }}{% endif %}
-            </span>
-          {%- else -%}
-            <span class="info-badge info-badge--keyword">{{ keyword_id }}</span>
-          {%- endif -%}
+            {%- else -%}
+              {{ keyword_id }}
+            {%- endif -%}
+          </strong>{% unless forloop.last %}, {% endunless %}
         {%- endfor -%}
       </div>
     </section>
