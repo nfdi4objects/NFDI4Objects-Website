@@ -809,6 +809,99 @@ Unterstützte Collections:
   </section>
   {%- endif -%}
 
+    {%- comment -%} Keywords {%- endcomment -%}
+  {%- assign keyword_ids = page.keywords | default: page.keyword -%}
+  {%- if keyword_ids -%}
+    {%- assign keyword_count = 0 -%}
+    {%- for k in keyword_ids -%}{%- assign keyword_count = keyword_count | plus: 1 -%}{%- endfor -%}
+    {%- if keyword_count > 0 -%}
+    <section class="taxonomy-section space-md">
+      <h3 class="arrow arrow-left">
+        {% if current_lang == "en" %}
+          {% if keyword_count > 1 %}Keywords{% else %}Keyword{% endif %}
+        {% else %}
+          {% if keyword_count > 1 %}Keywords{% else %}Keyword{% endif %}
+        {% endif %}
+      </h3>
+      <div class="keyword-badges">
+        {%- for keyword_id in keyword_ids -%}
+          {%- assign keyword_data = site.data.oer_categories.keywords | where: "id", keyword_id | first -%}
+          {%- if keyword_data -%}
+            <span class="info-badge info-badge--keyword">
+              {% if current_lang == "en" %}{{ keyword_data.name_en }}{% else %}{{ keyword_data.name_de }}{% endif %}
+            </span>
+          {%- else -%}
+            <span class="info-badge info-badge--keyword">{{ keyword_id }}</span>
+          {%- endif -%}
+          {% unless forloop.last %}, {% endunless %}
+        {%- endfor -%}
+      </div>
+    </section>
+    {%- endif -%}
+  {%- endif -%}
+
+  {%- comment -%} Kategorien {%- endcomment -%}
+  {%- assign category_ids = page.categories | default: page.category -%}
+  {%- if category_ids -%}
+    {%- assign category_count = 0 -%}
+    {%- for c in category_ids -%}{%- assign category_count = category_count | plus: 1 -%}{%- endfor -%}
+    {%- if category_count > 0 -%}
+    <section class="taxonomy-section space-md">
+      <h3 class="arrow arrow-left">
+        {% if current_lang == "en" %}
+          {% if category_count > 1 %}Categories{% else %}Category{% endif %}
+        {% else %}
+          {% if category_count > 1 %}Kategorien{% else %}Kategorie{% endif %}
+        {% endif %}
+      </h3>
+      <div class="category-badges">
+        {%- for category_id in category_ids -%}
+          {%- assign category_data = site.data.oer_categories.categories | where: "id", category_id | first -%}
+          {%- if category_data -%}
+            <span class="info-badge info-badge--category">
+              {% if current_lang == "en" %}{{ category_data.name_en }}{% else %}{{ category_data.name_de }}{% endif %}
+            </span>
+          {%- else -%}
+            <span class="info-badge info-badge--category">{{ category_id }}</span>
+          {%- endif -%}
+          {% unless forloop.last %}, {% endunless %}
+        {%- endfor -%}
+      </div>
+    </section>
+    {%- endif -%}
+  {%- endif -%}
+
+  {%- comment -%} Zielgruppen {%- endcomment -%}
+  {%- assign target_group_ids = page.target_groups | default: page.target_group -%}
+  {%- if target_group_ids -%}
+    {%- assign target_group_count = 0 -%}
+    {%- for tg in target_group_ids -%}{%- assign target_group_count = target_group_count | plus: 1 -%}{%- endfor -%}
+    {%- if target_group_count > 0 -%}
+    <section class="taxonomy-section space-md">
+      <h3 class="arrow arrow-left">
+        {% if current_lang == "en" %}
+          {% if target_group_count > 1 %}Target Groups{% else %}Target Group{% endif %}
+        {% else %}
+          {% if target_group_count > 1 %}Zielgruppen{% else %}Zielgruppe{% endif %}
+        {% endif %}
+      </h3>
+      <div class="target-group-badges">
+        {%- for tg_id in target_group_ids -%}
+          {%- assign tg_data = site.data.oer_categories.target_groups | where: "id", tg_id | first -%}
+          {%- if tg_data -%}
+            <span class="info-badge info-badge--target-group">
+              {% if current_lang == "en" %}{{ tg_data.name_en }}{% else %}{{ tg_data.name_de }}{% endif %}
+            </span>
+          {%- else -%}
+            <span class="info-badge info-badge--target-group">{{ tg_id }}</span>
+          {%- endif -%}
+          {% unless forloop.last %}, {% endunless %}
+        {%- endfor -%}
+      </div>
+    </section>
+    {%- endif -%}
+  {%- endif -%}
+
   {% include ttl-download-button.html %}
 
 {%- endif -%}
