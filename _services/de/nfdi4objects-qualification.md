@@ -12,7 +12,7 @@ areas:
 - ta6
 trails:
 - 4.6_second_TRAILs
-nfdi_category: training
+nfdi_categories: training
 Lifecycle-Phases: 
 - lernen-beraten
 contacts:
