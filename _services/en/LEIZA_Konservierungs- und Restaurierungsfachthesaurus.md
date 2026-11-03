@@ -1,21 +1,27 @@
 ---
 layout: service
-lang: en
+lang: de
 translation_key: leiza-konservierungs-und-restaurierungsfachthesaurus-für-archäologische-kulturgüter
-title: Conservation and restoration expert thesaurus for archaeological cultural assets
-short_title: '<strong>Standardized vocabulary</strong> for conservation and restoration of archaeological cultural heritage.'
+title: LEIZA Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter
+short_title: '<strong>Standardisiertes Vokabular</strong> für Konservierung und Restaurierung archäologischer Kulturgüter.'
 logo: /assets/images/services/thesaurus_logo_500px.png
-homepage: ''
-access_url: 'https://lassemempel.github.io/LEIZA-Terminologien/conservationthesaurus.html'
+organization: 'leibniz-zentrum-für-archäologie'
+contact_email: "kristina.fischer@leiza.de"
+homepage: https://www.w3id.org/archlink/terms/conservationthesaurus
+access_url: https://www.w3id.org/archlink/terms/conservationthesaurus
 areas:
 - ta4
 trails:
-- - 4.7_second_TRAILs
-nfdi_category: databases
+- 4.2_second_TRAILs
+nfdi_category: web-apps
+lifecycle_phases: planung, erhebung, verarbeitung, datenzugang, nachnutzung
 nfdi_service_types:
 - avs
 - ints
-permalink: /en/services/leiza-konservierungs-und-restaurierungsfachthesaurus-für-archäologische-kulturgüter/
+contacts:
+- name: Kristina Fischer
+- person_ref: kristinafella
+permalink: /services/leiza-konservierungs-und-restaurierungsfachthesaurus-für-archäologische-kulturgüter/
 ---
 
 ## Description
