@@ -35,19 +35,29 @@ target_groups:
     name_de: "Forschende"
     name_en: "Researchers"
 
-lizenz:
+licences:
   - id: cc0
     name_de: "CC0"
     name_en: "CC0"
+    url_en:
+    url_de:
   - id: cc-by
     name_de: "CC BY"
     name_en: "CC BY"
+    url_en:
+    url_de:
   - id: cc-by-sa
     name_de: "CC BY-SA"
     name_en: "CC BY-SA"
+    url_en:
+    url_de:
   - id: cc-by-nc
     name_de: "CC BY-NC"
     name_en: "CC BY-NC"
+    url_en:
+    url_de:
   - id: cc-by-nc-sa
     name_de: "CC BY-NC-SA"
     name_en: "CC BY-NC-SA"
+    url_en:
+    url_de:
