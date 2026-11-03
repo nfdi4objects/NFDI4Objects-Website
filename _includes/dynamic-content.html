@@ -241,9 +241,10 @@ Unterstützte Collections:
   {%- endif -%}
 
   {%- comment -%} NFDI Service-Kategorie(n) {%- endcomment -%}
-  {%- if page.nfdi_category -%}
+  {%- assign cat_ids = page.nfdi_categories | default: page.nfdi_category -%}
+  {%- if cat_ids -%}
     {%- assign cat_count = 0 -%}
-    {%- for c in page.nfdi_category -%}{%- assign cat_count = cat_count | plus: 1 -%}{%- endfor -%}
+    {%- for c in cat_ids -%}{%- assign cat_count = cat_count | plus: 1 -%}{%- endfor -%}
     {%- if cat_count > 0 -%}
     <section class="taxonomy-section space-md">
       <h3 class="arrow arrow-left">
@@ -254,7 +255,7 @@ Unterstützte Collections:
         {% endif %}
       </h3>
       <div class="category-badges">
-        {%- for cat_id in page.nfdi_category -%}
+        {%- for cat_id in cat_ids -%}
           {%- assign nfdi_cat = site.data.service_categories.nfdi_categories | where: "id", cat_id | first -%}
           {%- if nfdi_cat -%}
             <span class="info-badge info-badge--category">
@@ -270,10 +271,11 @@ Unterstützte Collections:
     {%- endif -%}
   {%- endif -%}
 
-  {%- comment -%} NFDI Service-Typen (hierarchisch, wenn vorhanden) {%- endcomment -%}
-  {%- if page.nfdi_service_types -%}
+  {%- comment -%} NFDI Service-Typen {%- endcomment -%}
+  {%- assign nfdi_type_ids = page.nfdi_service_types | default: page.nfdi_service_type -%}
+  {%- if nfdi_type_ids -%}
     {%- assign nfdi_type_count = 0 -%}
-    {%- for t in page.nfdi_service_types -%}{%- assign nfdi_type_count = nfdi_type_count | plus: 1 -%}{%- endfor -%}
+    {%- for t in nfdi_type_ids -%}{%- assign nfdi_type_count = nfdi_type_count | plus: 1 -%}{%- endfor -%}
     {%- if nfdi_type_count > 0 -%}
     <section class="taxonomy-section space-md">
       <h3 class="arrow arrow-left">
@@ -284,7 +286,7 @@ Unterstützte Collections:
         {% endif %}
       </h3>
       <div class="nfdi-type-badges">
-        {%- for type_id in page.nfdi_service_types -%}
+        {%- for type_id in nfdi_type_ids -%}
           {%- assign nfdi_type = site.data.service_categories.nfdi_service_types | where: "id", type_id | first -%}
           {%- if nfdi_type -%}
             <span class="info-badge info-badge--nfdi-type">
@@ -299,10 +301,11 @@ Unterstützte Collections:
     {%- endif -%}
   {%- endif -%}
 
-  {%- comment -%} Service-Typ (einfach, fallback wenn keine NFDI-Typen) {%- endcomment -%}
-  {%- if page.service_type and page.nfdi_service_types == nil -%}
+  {%- comment -%} Service-Typ (Fallback, nur wenn keine NFDI-Typen gesetzt) {%- endcomment -%}
+  {%- assign st_ids = page.service_types | default: page.service_type -%}
+  {%- if st_ids and page.nfdi_service_types == nil and page.nfdi_service_type == nil -%}
     {%- assign type_count = 0 -%}
-    {%- for t in page.service_type -%}{%- assign type_count = type_count | plus: 1 -%}{%- endfor -%}
+    {%- for t in st_ids -%}{%- assign type_count = type_count | plus: 1 -%}{%- endfor -%}
     {%- if type_count > 0 -%}
     <section class="taxonomy-section space-md">
       <h3 class="arrow arrow-left">
@@ -313,7 +316,7 @@ Unterstützte Collections:
         {% endif %}
       </h3>
       <div class="type-badges">
-        {%- for st_id in page.service_type -%}
+        {%- for st_id in st_ids -%}
           {%- assign service_type_data = site.data.service_categories.service_types | where: "id", st_id | first -%}
           {%- if service_type_data -%}
             <span class="info-badge info-badge--type">
