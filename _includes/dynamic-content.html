@@ -896,6 +896,25 @@ Unterstützte Collections:
     {%- endif -%}
   {%- endif -%}
 
+  {%- comment -%} Lizenz {%- endcomment -%}
+  {%- if page.license -%}
+    {%- assign license_data = site.data.oer_categories.licenses | where: "id", page.license | first -%}
+    <section class="taxonomy-section space-md">
+      <h3 class="arrow arrow-left">
+        {% if current_lang == "en" %}License{% else %}Lizenz{% endif %}
+      </h3>
+      <div class="license-badges">
+        {%- if license_data -%}
+          <a href="{% if current_lang == "en" %}{{ license_data.url_en }}{% else %}{{ license_data.url_de }}{% endif %}" target="_blank" rel="noopener noreferrer" class="license-link">
+            <strong>{% if current_lang == "en" %}{{ license_data.name_en }}{% else %}{{ license_data.name_de }}{% endif %}</strong>
+          </a>
+        {%- else -%}
+          <strong>{{ page.license }}</strong>
+        {%- endif -%}
+      </div>
+    </section>
+  {%- endif -%}
+
   {% include ttl-download-button.html %}
 
 {%- endif -%}
