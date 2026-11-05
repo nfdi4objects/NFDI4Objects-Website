@@ -48,7 +48,7 @@ Metadata describes what a dataset contains. This includes information about what
 - **Cultural heritage items**, such as archaeological sites or historic monuments. The standard is available [here](https://doi.org/10.5281/zenodo.23214283).
 - **Measures** such as excavations or other investigations.
 - **Protected sites**, i.e., zones subject to specific legal requirements.
-- **Citizen-Science**, such as small finds recordings submitted by volunteers. The standard forms the basis of the [Fund-Logbuch-App](https://www.nfdi4objects.net/services/fund-logbuch/).
+- **Citizen-Science**, such as small finds recordings submitted by volunteers. The standard forms the basis of the [Fund-Logbuch-App](https://www.nfdi4objects.net/en/services/fund-logbuch/).
 
 <img src="/assets/images/services/Briwas_Schaubild.png"
 alt="Alt-Text"
@@ -63,4 +63,4 @@ The terms used in descriptions are often case-specific. BRIWĀS helps make these
 - **Legal implications** organizes terms related to legal implications used in the metadata standard for protected sites.
   
 ## Developed in Collaboration with the Community
-BRIWĀS is being developed and refined within the [Protected Heritage Sites](https://community.nfdi4objects.net/en/assemblies/HeritageSites) Community Cluster in close coordination with the relevant state authorities. The standards build upon existing agreements such as the ADeX exchange standard of the Association of State Archaeological Offices in Germany. Drafts are developed in writing groups and submitted to the broader professional community for comment. Agreed-upon standards are incorporated into the [NFDI4Objects Commons](https://www.nfdi4objects.net/commons/). This ensures from the very beginning that BRIWĀS solves real problems and is accepted by the community.
+BRIWĀS is being developed and refined within the [Protected Heritage Sites](https://community.nfdi4objects.net/en/assemblies/HeritageSites) Community Cluster in close coordination with the relevant state authorities. The standards build upon existing agreements such as the ADeX exchange standard of the Association of State Archaeological Offices in Germany. Drafts are developed in writing groups and submitted to the broader professional community for comment. Agreed-upon standards are incorporated into the [NFDI4Objects Commons](https://www.nfdi4objects.net/en/commons/). This ensures from the very beginning that BRIWĀS solves real problems and is accepted by the community.
