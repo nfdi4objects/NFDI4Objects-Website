@@ -1,3 +1,4 @@
+---
 layout: service
 lang: de
 translation_key: SENTUS
@@ -37,6 +38,11 @@ permalink: /services/inspire-konformer-geodatendienst/
 
 Räumliche, denkmalbezogene Daten, die unter anderem bei Landesdenkmalämtern und Universitäten entstehen, stellen eine der wichtigsten Quellen beim Verständnis vergangener Epochen dar. Um diese heterogenen Daten erschließen und auswerten zu können, müssen sie vielfach mühsam zusammengetragen und umgewandelt werden.
 
+<img src="/assets/images/services/Sentus_Slogan_lang.png"
+alt="Alt-Text"
+style="width:40%; display:block; margin:auto;">
+<br>
+
 SENTUS (*proto-keltisch für „Pfad”*) beschreibt Geodatendienste für räumliche Metadaten zu Kulturerbeobjekten, Schutzflächen und Maßnahmen, die OGC- und BRIWĀS-konform angelegt sind, um die Erschließung dramatisch zu vereinfachen.
 
 ## Standardisierte Dienste
@@ -50,6 +56,11 @@ Das ermöglicht gemeinsame Abfragen zum Erschließen separater Datenquellen und 
 - "Zeige mir alle eisenzeitlichen Höhensiedlungen, bei denen bereits eine Ausgrabung stattgefunden hat."
 
 ## Site Explorer WebGIS
+
+<img src="/assets/images/services/Sentus_Beispielanwendung.png"
+alt="Alt-Text"
+style="width:70%; display:block; margin:auto;">
+<br>
 
 Zusätzlich soll eine plattformunabhängige WebGIS-Anwendung entstehen, die verfügbar gemachte SENTUS Geodatendienste in einer einfachen Benutzeroberfläche erkundbar macht.
 Dadurch werden Metadaten zu Kulturerbeobjekten, Schutzflächen und Maßnahmen ohne lokale Installation an einer Stelle einsehbar. Such- und Filterfunktionen werden es darüber hinaus erlauben deutschlandweit genau die Daten zu finden, die man für die eigene Forschungsfrage benötigt.
