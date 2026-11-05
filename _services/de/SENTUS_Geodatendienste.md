@@ -4,7 +4,7 @@ lang: de
 translation_key: SENTUS
 title: 'SENTUS'
 short_title: 'Standardisierte <strong>OGC-Geodatendienste</strong> und eine <strong>WebGIS-Anwendung</strong> für die länderübergreifende Suche denkmalbezogener Daten.'
-logo: /assets/images/services/logo_geodatendienst_500px.png
+logo: /assets/images/services/Sentus_Icon.png
 organization: "Generaldirektion Kulturelles Erbe Rheinland-Pfalz"
 contact_email: "dennis.jan@gdke.rlp.de"
 homepage: https://gdke.rlp.de/
@@ -31,7 +31,7 @@ contacts:
   person_ref: andreaspuhl
 - name: Tobias Krenscher
   person_ref: tobiaskrenscher
-permalink: /services/inspire-konformer-geodatendienst/
+permalink: /services/sentus/
 ---
 
 ## Geodaten strukturiert und standardisiert
