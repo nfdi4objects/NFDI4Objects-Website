@@ -3,7 +3,7 @@ layout: service
 lang: en
 translation_key: SENTUS
 title: 'SENTUS'
-short_title: 'Standardized <strong>OGC geodata services</strong> and a <strong>WebGIS application</strong> for cross-state searches of heritage-related data.'
+short_title: 'Standardized <strong> OGC geospatial services </strong> and a <strong> web GIS application </strong> for searching heritage data across state borders.'
 logo: /assets/images/services/Sentus_Icon.png
 organization: "Generaldirektion Kulturelles Erbe Rheinland-Pfalz"
 contact_email: "dennis.jan@gdke.rlp.de"
