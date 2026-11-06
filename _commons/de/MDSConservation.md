@@ -8,8 +8,6 @@ excerpt: 'Entwurf der Temporary Working Group Community-Standards für kontrolli
 zenodo_url: https://doi.org/10.5281/zenodo.22871824
 comment_url: https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/98
 keywords: 
- - conservation
- - mds
 authors:
 - name: Kristina Fischer 
   person_ref: kristinafella

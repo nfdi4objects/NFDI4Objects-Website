@@ -8,7 +8,6 @@ excerpt:
 zenodo_url: https://zenodo.org/records/17776888
 comment_url: https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/44
 keywords: 
- - collection
 authors:
 - name: Johannes Schäffer
   person_ref: johannesschäffer

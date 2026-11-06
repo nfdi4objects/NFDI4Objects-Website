@@ -8,7 +8,6 @@ excerpt:
 zenodo_url: https://zenodo.org/records/17672644
 comment_url: https://community.nfdi4objects.net/en/assemblies/commons/f/1/proposals/43
 keywords: 
- - collections 
 authors:
 - name: Stefanie Baars
 - name: Anja Gerber

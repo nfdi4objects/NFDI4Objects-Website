@@ -8,7 +8,6 @@ excerpt:
 zenodo_url: https://zenodo.org/records/23667975
 comment_url: https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/101
 keywords: 
- - 
 authors: 
 - name: Andreas Puhl
   person_ref: andreaspuhl

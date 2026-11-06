@@ -8,8 +8,6 @@ excerpt: Draft Community Standards by the Temporary Working Group on Controlled 
 zenodo_url: https://doi.org/10.5281/zenodo.22871824
 comment_url: https://community.nfdi4objects.net/en/assemblies/commons/f/1/proposals/98
 keywords: 
- - conservation
- - mds
 authors:
 - name: Kristina Fischer 
   person_ref: kristinafella

@@ -8,7 +8,6 @@ excerpt: Draft Recommendations of the Temporary Working Group (TWG) “Environme
 zenodo_url: https://zenodo.org/records/17778128
 comment_url: https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/45
 keywords: 
- - collections 
 authors:
 - name: Johannes Schäffer 
   person_ref: johannesschäffer

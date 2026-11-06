@@ -8,7 +8,6 @@ excerpt:
 zenodo_url: https://zenodo.org/records/17475354
 comment_url: https://community.nfdi4objects.net/en/assemblies/commons/f/1/proposals/14
 keywords: 
- - conservation
 authors:
 - name: Kristina Fischer 
   person_ref: kristinafella

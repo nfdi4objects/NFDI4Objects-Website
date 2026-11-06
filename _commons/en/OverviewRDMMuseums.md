@@ -8,7 +8,6 @@ excerpt: ''
 zenodo_url: https://zenodo.org/records/14926511
 comment_url: []
 keywords: 
- - collections 
 authors:
 - name: Johannes Schäffer 
   person_ref: johannesschäffer

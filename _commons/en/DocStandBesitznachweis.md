@@ -8,7 +8,6 @@ excerpt:
 zenodo_url: https://zenodo.org/records/16902837
 comment_url: https://community.nfdi4objects.net/en/assemblies/commons/f/1/proposals/13
 keywords: 
- - collections
 authors:
 - name: Christoph Klose
   person_ref: christophklose

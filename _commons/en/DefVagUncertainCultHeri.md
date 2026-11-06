@@ -8,7 +8,6 @@ excerpt:
 zenodo_url: https://zenodo.org/records/19877825
 comment_url: https://community.nfdi4objects.net/de/assemblies/commons/f/1/proposals/90
 keywords:
-- rdm 
 authors:
 - name: Øyvind Eide
   person_ref: øyvindeide
