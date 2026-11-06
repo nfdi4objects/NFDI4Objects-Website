@@ -3,7 +3,7 @@ layout: page
 title: "All offers from A to Z"
 lang: en
 translation_key: services_all
-permalink: /en/services/all/
+permalink: /en/services/
 section_icon: "/assets/icons/portal/Dienste.svg"
 ---
 

@@ -25,5 +25,5 @@ items:
     bg: "bg-sand-light-img"
 section_button:
   label: "Explore all services"
-  url: "/en/services/all/"
+  url: "/en/services/"
   style: "btn-primary"

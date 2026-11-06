@@ -21,7 +21,7 @@ navigation:
   - title: "Get Involved"
     url: "/en/community/groups-networks/"
   - title: "Services"
-    url: "/en/services/all/"
+    url: "/en/services/"
   - title: "News"
     url: "/en/news/"
   - title: "Events"

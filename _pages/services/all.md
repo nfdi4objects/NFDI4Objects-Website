@@ -5,7 +5,7 @@ description: ""
 keywords: ""
 lang: de
 translation_key: services_all
-permalink: /services/all/
+permalink: /services/
 section_icon: "/assets/icons/portal/Dienste.svg"
 ---
 

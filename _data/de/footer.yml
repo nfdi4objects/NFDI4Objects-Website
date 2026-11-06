@@ -21,7 +21,7 @@ navigation:
   - title: "Mitmachen"
     url: "/community/groups-networks/"
   - title: "Services"
-    url: "/services/all/"
+    url: "/services/"
   - title: "News"
     url: "/news/"
   - title: "Events"
