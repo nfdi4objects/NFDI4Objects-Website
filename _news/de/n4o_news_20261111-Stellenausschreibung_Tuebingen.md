@@ -4,7 +4,7 @@ lang: de
 translation_key: n4o_news_20261111-Stellenausschreibung_Tuebingen
 title: 'Stellenausschreibung: Data Scientist im FDM-Team des Exzellenzclusters HUMAN ORIGINS an der Uni Tübingen'
 excerpt: 'Aus unserem Netzwerk'
-date: 2026-10-01
+date: 2026-1-11
 areas:
 trails:
 ccs:
