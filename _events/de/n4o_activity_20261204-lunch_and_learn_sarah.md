@@ -12,7 +12,7 @@ trails:
 ccs: 
 twgs: []
 event_type: 
-- workshop
+- Workshop
 permalink: de/events/n4o_activity_20261204-lunch_and_learn_sarah/
 ---
 Objekte haben Geschichten: Sie werden hergestellt und genutzt, wechseln ihre Besitzer und Standorte, werden verändert, erforscht, gesammelt, restauriert oder mit neuen Bedeutungen versehen. Das Konzept der Objektbiografie nimmt diese Veränderungen und die vielfältigen Beziehungen zwischen Objekten, Menschen, Orten und Ereignissen in den Blick. Doch wie lassen sich solche komplexen Objektgeschichten digital abbilden und miteinander verknüpfen?

@@ -12,7 +12,7 @@ trails:
 ccs: 
 twgs: []
 event_type: 
-- workshop
+- Workshop
 permalink: en/events/n4o_activity_20261204-lunch_and_learn_sarah/
 ---
 Objects have stories: they are created and used, change owners and locations, undergo alterations, are researched, collected, restored, or imbued with new meanings. The concept of an "object biography" focuses on these transformations and the multifaceted relationships between objects, people, places, and events. But how can such complex object histories be represented and interconnected in a digital format?
