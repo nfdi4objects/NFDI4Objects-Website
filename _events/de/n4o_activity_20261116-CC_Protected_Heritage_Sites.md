@@ -16,7 +16,7 @@ event_type:
 - CC-TWG-Treffen
 permalink: /events/n4o_activity_20261116-CC_Protected_Heritage_Sites/
 ---
-Das nächste Treffen des CC Denkmal-, Maßnahmen- und Schutzflächen / Protected Heritage Sites findet **am 16.11.2026 von 14 - 16 Uhr** statt.
+Das nächste Treffen des CC Denkmal-, Maßnahmen- und Schutzflächen / Protected Heritage Sites findet am 16.11.2026 von 14 - 16 Uhr statt.
 
 In dieser Sitzung werden erste Testimplementierungen des Community  Standards für Kulturerebeobjekte präsentiert und das Thema der Verunklarung diskutiert.
 

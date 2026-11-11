@@ -16,7 +16,7 @@ event_type:
 - CC-TWG-Treffen
 permalink: /events/n4o_activity_20261116-CC_Protected_Heritage_Sites/
 ---
-The next meeting of the CC Monuments, Measures and Protected Areas / Protected Heritage Sites group will take place **on 16 November 2026 from 2 pm to 4 pm**.
+The next meeting of the CC Monuments, Measures and Protected Areas / Protected Heritage Sites group will take place on 16 November 2026 from 2 pm to 4 pm.
 
 During this meeting, initial test implementations of the Community Standard for Cultural Heritage Objects will be presented and the issue of obscurity will be discussed.
 

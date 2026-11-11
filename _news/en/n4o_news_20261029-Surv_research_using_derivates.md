@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_20261029-Surv_research_derivates/
+permalink: en/news/n4o_news_20261029-Surv_research_derivates/
 ---
 The DFG-funded project “Researching with Derivatives” at TU Darmstadt is currently conducting a survey amongst researchers.
 
