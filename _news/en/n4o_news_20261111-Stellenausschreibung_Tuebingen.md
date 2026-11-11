@@ -2,8 +2,8 @@
 layout: news
 lang: en
 translation_key: n4o_news_20261111-Stellenausschreibung_Tuebingen
-title: 'Stellenausschreibung: Data Scientist im FDM-Team des Exzellenzclusters HUMAN ORIGINS an der Uni Tübingen'
-excerpt: 'Aus unserem Netzwerk'
+title: 'Job offer: Data Scientist in the FDM team of the HUMAN ORIGINS Cluster of Excellence at the University of Tübingen'
+excerpt: 'From our network'
 date: 2026-11-11
 areas:
 trails:
@@ -18,5 +18,3 @@ The ideal candidate will have in-depth knowledge of data science and (research) 
 Full details of the duties involved and the required profile can be found in the job advertisement at: [https://uni-tuebingen.de/universitaet/karriere/newsfullview-stellenangebote/article/data-scientist-m-f-d-e13-tv-l-100/](https://uni-tuebingen.de/universitaet/karriere/newsfullview-stellenangebote/article/data-scientist-m-f-d-e13-tv-l-100/)
 
 **The deadline for applications is 15 November!**
-
-Translated with DeepL.com (free version)
