@@ -14,7 +14,7 @@ ccs:
 twgs: []
 event_type: 
 - CC-TWG-Treffen
-permalink: /events/n4o_activity_20261116-CC_Protected_Heritage_Sites/
+permalink: en/events/n4o_activity_20261116-CC_Protected_Heritage_Sites/
 ---
 The next meeting of the CC Monuments, Measures and Protected Areas / Protected Heritage Sites group will take place on 16 November 2026 from 2 pm to 4 pm.
 
@@ -27,6 +27,3 @@ Passcode: 286763
 We look forward to seeing you there!
 
 **Further information on the Community Cluster can be found here:** [https://community.nfdi4objects.net/de/assemblies/HeritageSites](https://community.nfdi4objects.net/de/assemblies/HeritageSites)
-
-
-Translated with DeepL.com (free version)
