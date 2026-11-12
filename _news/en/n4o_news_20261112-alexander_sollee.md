@@ -23,5 +23,7 @@ We are delighted to have Alexander Sollee on board and wish him every success in
 
 <img src="/assets/images/news/alexander-e-sollee.jpg"
 alt="Portrait-photo of Alexander E. Sollee"
-style="width:65%; display:block; margin:auto;">
+style="width:55%; display:block; margin:auto;">
 <br>
+
+Foto: D. Schön

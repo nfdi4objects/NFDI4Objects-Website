@@ -20,5 +20,7 @@ Grundlage waren digitalisierte Archivunterlagen des Berliner Münzkabinetts wie 
 
 <img src="/assets/images/news/AB_Foto_Tagung_Provenienz.jpg"
 alt="Foto vom Vortrag von Angela Berthold während der Tagung"
-style="width:65%; display:block; margin:auto;">
+style="width:55%; display:block; margin:auto;">
 <br>
+
+Foto: D. Schön
