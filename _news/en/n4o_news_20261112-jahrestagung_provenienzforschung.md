@@ -20,5 +20,5 @@ Her work was based on digitized archival records from the Berlin Coin Cabinet (M
   
 <img src="/assets/images/news/AB_Foto_Tagung_Provenienz.jpg"
 alt="Photo of the lecture from Angela Berthold during the conference"
-style="width:75%; display:block; margin:auto;">
+style="width:65%; display:block; margin:auto;">
 <br>

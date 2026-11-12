@@ -21,5 +21,5 @@ Wir freuen uns darüber, Alexander Sollee an Bord zu haben und wünschen ihm vie
 
 <img src="/assets/images/news/alexander-e-sollee.jpg"
 alt="Portrait-Foto von Alexander E. Sollee"
-style="width:75%; display:block; margin:auto;">
+style="width:65%; display:block; margin:auto;">
 <br>

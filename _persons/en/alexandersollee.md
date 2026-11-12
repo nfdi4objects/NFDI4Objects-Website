@@ -3,7 +3,7 @@ layout: person
 title: Alexander Sollee
 lang: en
 translation_key: alexandersollee
-image: /assets/images/persons/news/alexander-e-sollee.jpg
+image: /assets/images/news/alexander-e-sollee.jpg
 groups:
 - steering
 institution: deutsches-archäologisches-institut-dai
