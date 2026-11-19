@@ -25,7 +25,7 @@ In addition to expert input and discussion, there will also be time set aside fo
 ### Date: 26 and 27 January 2027 (lunch to lunch)  
 ### Venue: [Klassik Stiftung Weimar, event room in the palace, Burgplatz 4, 99423 Weimar](https://www.klassik-stiftung.de/en/)
 
-Please make a note of the date for now; further information will follow soon in the [event listing](https://www.nfdi4objects.net/de/events/n4o_activity_20270126-cross_nfdi_bauwerksnormdaten/).
+Please make a note of the date for now; further information will follow soon in the [event listing](https://www.nfdi4objects.net/en/events/n4o_activity_20270126-cross_nfdi_bauwerksnormdaten/).
 
 **Organising team:** Andreas Noback, Anja Gerber, Birte Rubach, Christian Bracht, Ina Blümel, Roger Winkler
 

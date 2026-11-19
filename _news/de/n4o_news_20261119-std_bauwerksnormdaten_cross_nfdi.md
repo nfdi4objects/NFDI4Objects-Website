@@ -26,7 +26,7 @@ Neben fachlichen Impulsen und dem gemeinsamen Austausch ist auch Raum für eine 
   
 ### Ort: [Klassik Stiftung Weimar, Veranstaltungsraum im Schloss, Burgplatz 4, 99423 Weimar](https://www.klassik-stiftung.de/)
 
-Bitte merkt den Termin bereits vor, weitere Informationen folgen demnächst im [Event-Eintrag der Veranstaltung](https://www.nfdi4objects.net/de/events/n4o_activity_20270126-cross_nfdi_bauwerksnormdaten/).
+Bitte merkt den Termin bereits vor, weitere Informationen folgen demnächst im [Event-Eintrag der Veranstaltung](https://www.nfdi4objects.net/events/n4o_activity_20270126-cross_nfdi_bauwerksnormdaten/).
 
 **Organisationsteam:** Andreas Noback, Anja Gerber, Birte Rubach, Christian Bracht, Ina Blümel, Roger Winkler
 
