@@ -11,8 +11,6 @@ areas:
 - ta1
 trails: 
 nfdi_category: tools_applications
-nfdi_service_types:
-- avs
 organization: 'universität-bonn' 
 lifecycle_phases: 
 - 'verarbeitung' 

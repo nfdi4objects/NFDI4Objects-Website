@@ -11,8 +11,9 @@ areas:
 - ta1
 trails: []
 nfdi_category: tools_applications
-nfdi_service_types:
-- sas
+lifecycle-phases:
+- erhebung
+- verarbeitung
 permalink: /services/survey2gis/
 ---
 

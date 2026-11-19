@@ -5,16 +5,29 @@ translation_key: ndp
 title: 'NDP - Normdatenportal des Münzkabinetts Berlin'
 short_title: "Numismatische Normdaten als <strong>Linked Open Data</strong>"
 logo: /assets/images/services/n4o_website_symbolgraphiken_portal_services.png
-homepage: 
-access_url: https://ikmk.smb.museum/ndp/home
+homepage: https://ikmk.smb.museum/ndp/home
+access_url: https://ikmk.smb.museum/ndp/category
 areas:
 - ta2
 - ta5
 trails:
-nfdi_category: databases
-nfdi_service_types:
-- dis
-- das
+nfdi_category: 
+- databases
+- data-curation
+- libraries
+lifecycle_phases: 
+- erhebung
+- verarbeitung
+- datenzugang
+- nachnutzung
+contacts:
+- name: Bernhard Weisser
+  person_ref: bernhard_weisser
+- name: Karsten Dahmen
+- name: Angela Berthold
+  person_ref: angela_berthold
+- name: Christoph Klose
+  person_ref: christoph_klose
 permalink: /services/ndp/
 ---
 ## Beschreibung:

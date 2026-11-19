@@ -10,13 +10,25 @@ access_url: https://ikmk.net/home
 areas:
 - ta2
 trails:
-nfdi_category: databases
-nfdi_service_types:
-- dis
-- das
+nfdi_category:
+- databases
+- data-curation
+- support
 lifecycle_phases: 
 - 'verarbeitung'
-
+- 'erhebung'
+- 'datenzugang'
+contacts:
+- name: Bernhard Weisser
+  person_ref: bernhard_weisser
+- name: Karsten Dahmen
+  person_ref: karsten_dahmen
+- name: Johannes Wienand
+  person_ref: johannes_wienand
+- name: Angela Berthold
+  person_ref: angela_berthold
+- name: Christoph Klose
+  person_ref: christoph_klose
 permalink: en/services/ikmk/
 ---
 ## Description:

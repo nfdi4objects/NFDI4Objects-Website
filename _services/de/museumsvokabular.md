@@ -11,10 +11,8 @@ areas:
 - ta2
 - ta5
 trails:
-nfdi_category: databases
-nfdi_service_types:
-- dis
-- das
+nfdi_category:
+- databases
 lifecycle_phases: 
 - erhebung
 permalink: /services/museumsvokabular/

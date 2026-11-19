@@ -11,10 +11,23 @@ areas:
 - ta2
 - ta5
 trails:
-nfdi_category: databases
-nfdi_service_types:
-- dis
-- das
+nfdi_category:
+- databases
+- data-curation
+- libraries
+lifecycle_phases: 
+- erhebung
+- verarbeitung
+- datenzugang
+- nachnutzung
+contacts:
+- name: Bernhard Weisser
+  person_ref: bernhard_weisser
+- name: Karsten Dahmen
+- name: Angela Berthold
+  person_ref: angela_berthold
+- name: Christoph Klose
+  person_ref: christoph_klose
 permalink: en/services/ndp/
 ---
 ## Description:
