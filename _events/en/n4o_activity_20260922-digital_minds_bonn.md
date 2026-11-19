@@ -11,7 +11,8 @@ areas:
 trails: []
 ccs: 
 twgs: 
-event_type: "Conference"
+event_type:
+- Konferenz
 permalink: en/events/n4o_activity_20260922-digital_minds_bonn/
 ---
 How are artificial intelligence, research data and digital infrastructures transforming archaeological research?   

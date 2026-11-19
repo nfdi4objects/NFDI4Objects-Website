@@ -13,7 +13,8 @@ areas:
 trails: []
 ccs: []
 twgs: []
-event_type: "Workshop"
+event_type:
+- Workshop
 permalink: en/events/n4o_activity_20261112-CM26_Provenienz_archäologischer_Objekte/
 ---
 Provenance data relating to archaeological objects is a key component of information for their scholarly interpretation, legal assessment and ethically responsible handling. It forms the basis for addressing questions of origin, ownership history, collection contexts, routes of transfer, and the handling of illicit trade, looting and colonial acquisition contexts.

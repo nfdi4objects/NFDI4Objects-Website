@@ -14,7 +14,8 @@ areas:
 trails: 
 ccs: 
 twgs: []
-event_type: "Konferenz"
+event_type:
+- Konferenz
 permalink: en/events/n4o_activity_20270927-forge2027/
 ---
 The 6th FORGE Conference will take place from **27 to 29 September 2027 at the Academy of Sciences and Literature Mainz**. Unlike in previous years, FORGE 27 will be jointly organised by a team representing several institutions, together with the four humanities and cultural studies NFDI consortia (Humanities@NFDI).

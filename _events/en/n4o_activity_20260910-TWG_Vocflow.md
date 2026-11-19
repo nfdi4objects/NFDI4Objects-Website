@@ -12,7 +12,8 @@ trails: []
 ccs: []
 twgs: 
 - vocflow-–-workflows-für-vokabularveröffentlichung-und-pflege
-event_type: "TWG-Meeting"
+event_type:
+- CC-TWG-Treffen
 permalink: en/events/n4o_activity_20260910-TWG_Vocflow/
 ---
 The next TWG meeting of the VocFlow working group will take place

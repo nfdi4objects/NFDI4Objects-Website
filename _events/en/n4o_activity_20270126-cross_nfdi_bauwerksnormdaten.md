@@ -3,7 +3,7 @@ layout: event
 lang: en
 translation_key: n4o_activity_20270126-cross_nfdi_bauwerksnormdaten
 title: '2. Cross-NFDI-Event authority data on building structures'
-excerpt: 'relating to "vocabularies'
+excerpt: 'relating to "vocabularies"'
 date: 2026-11-19
 event_date: 2027-01-26
 event_end_date: 2027-01-27

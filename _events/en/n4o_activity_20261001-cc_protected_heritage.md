@@ -12,7 +12,8 @@ trails: []
 ccs: 
 - cc-denkmalflächen-maßnahmenflächen-schutzflächen
 twgs: []
-event_type: "CC-Meeting"
+event_type:
+- CC-TWG-Treffen
 permalink: en/events/n4o_activity_20261001-cc_protected_heritage/
 ---
 We invite you to the 17th meeting of the Protected Heritage Sites Community Cluster <strong> on Thursday, 1 October 2026, from 1 pm to 3 pm. </strong> The meeting will serve to present the first fully drafted standard for the exchange of cultural heritage objects, before it enters the consultation phase of NFDI4Objects.

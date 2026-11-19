@@ -16,7 +16,8 @@ areas:
 trails: []
 ccs: 
 twgs: []
-event_type: "Conference"
+event_type:
+- Konferenz
 permalink: en/events/n4o_activity_20260917-caa_joint_chapter_muenster/
 ---
 <strong>On 17 and 18 September</strong>, the joint conference of the [CAA Netherlands/Flanders](https://nlfl.caa-international.org/) and the [CAA Germany](https://ag-caa.de/) will take place at the University of Münster.

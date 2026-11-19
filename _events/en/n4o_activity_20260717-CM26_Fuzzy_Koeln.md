@@ -12,7 +12,8 @@ areas:
 trails: []
 ccs: 
 twgs: []
-event_type: "Workshop"
+event_type:
+- Workshop
 permalink: en/events/n4o_activity_20260717-CM26_Fuzzy_Koeln/
 ---
 Representing vagueness and uncertainty in digital data can be very challenging. Yet ambiguous information is commonplace in archaeology and related disciplines. Whilst vague data often implies a degree of precision, ambiguous information frequently prevents effective analysis. Can ambiguity be modelled in such a way that such data is nevertheless suitable for re-use? How can data that is both vague and imprecise be handled?  

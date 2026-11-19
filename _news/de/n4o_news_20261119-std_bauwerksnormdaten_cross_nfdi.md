@@ -32,8 +32,8 @@ Bitte merkt den Termin bereits vor, weitere Informationen folgen demnächst im [
 
 <br> 
 <div style="text-align:center; margin-top:20px;"> 
-<a href="https://www.nfdi4objects.net/news/n4o_news_20260930-report_bauwerke_und_normdaten/" style="display:inline-block;background:#13294b;
-  color:white; padding:10px 16px;
+<a href="https://www.nfdi4objects.net/news/n4o_news_20260930-report_bauwerke_und_normdaten/" style="display:inline-block;background:#0084ff;
+  color: #ffffff; padding:10px 16px;
   text-decoration:none; border-radius:6px;">
     Zum Bericht des 1. Events
 </a>  
