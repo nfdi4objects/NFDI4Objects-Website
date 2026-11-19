@@ -28,3 +28,13 @@ In addition to expert input and discussion, there will also be time set aside fo
 Please make a note of the date for now; further information will follow soon in the [event listing](https://www.nfdi4objects.net/de/events/n4o_activity_20270126-cross_nfdi_bauwerksnormdaten/).
 
 **Organising team:** Andreas Noback, Anja Gerber, Birte Rubach, Christian Bracht, Ina Blümel, Roger Winkler
+
+
+<br> 
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://www.nfdi4objects.net/en/news/n4o_news_20260930-report_bauwerke_und_normdaten/"
+     style="display:inline-block; background:#0084ff; color:#ffffff; padding:10px 16px; text-decoration:none; border-radius:6px;">
+    To the report on the first event
+  </a>
+</div> 
+</div>

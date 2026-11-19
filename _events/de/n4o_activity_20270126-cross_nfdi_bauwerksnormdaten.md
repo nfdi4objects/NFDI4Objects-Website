@@ -31,3 +31,12 @@ Neben fachlichen Impulsen und dem gemeinsamen Austausch ist Raum für eine kolla
 ### Programm und Anmeldung werden demnächst ergänzt.
 
 #### Organisation: Andreas Noback, Anja Gerber, Birte Rubach, Christian Bracht, Ina Blümel, Roger Winkler
+
+<br> 
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://www.nfdi4objects.net/news/n4o_news_20260930-report_bauwerke_und_normdaten/"
+     style="display:inline-block; background:#0084ff; color:#ffffff; padding:10px 16px; text-decoration:none; border-radius:6px;">
+    Zum Bericht des 1. Events
+  </a>
+</div> 
+</div>
