@@ -11,7 +11,7 @@ ccs:
 twgs:
 permalink: /news/n4o_news_20261119-std_bauwerksnormdaten_cross_nfdi/
 ---
-Wie lassen sich Vokabulare, Normdaten und Metadatenstandards für Bauwerke besser miteinander verknüpfen und für die Bedarfe der Community nutzbar machen?
+## Wie lassen sich Vokabulare, Normdaten und Metadatenstandards für Bauwerke besser miteinander verknüpfen und für die Bedarfe der Community nutzbar machen?
 
 Beim Folgetreffen mit dem Schwerpunkt „Vokabulare“ diskutieren wir gemeinsam mit Vertreter:innen verschiedener Institutionen und Fachcommunities die Anforderungen an die Beschreibung und Erschließung von Bauwerken. Im Mittelpunkt stehen:
 
@@ -22,10 +22,10 @@ Beim Folgetreffen mit dem Schwerpunkt „Vokabulare“ diskutieren wir gemeinsam
   
 Neben fachlichen Impulsen und dem gemeinsamen Austausch ist auch Raum für eine kollaborative Arbeitssession vorgesehen.
 
-**Termin:** 26. und 27. Januar 2027 (Lunch to Lunch)
+### Termin: 26. und 27. Januar 2027 (Lunch to Lunch)
   
-**Ort:** [Klassik Stiftung Weimar, Veranstaltungsraum im Schloss, Burgplatz 4, 99423 Weimar](https://www.klassik-stiftung.de/)
+### Ort: [Klassik Stiftung Weimar, Veranstaltungsraum im Schloss, Burgplatz 4, 99423 Weimar](https://www.klassik-stiftung.de/)
 
 Bitte merkt den Termin bereits vor, weitere Informationen folgen demnächst im [Event-Eintrag der Veranstaltung](https://www.nfdi4objects.net/de/events/n4o_activity_20270126-cross_nfdi_bauwerksnormdaten/).
 
-Organisationsteam: Andreas Noback, Anja Gerber, Birte Rubach, Christian Bracht, Ina Blümel, Roger Winkler
+**Organisationsteam:** Andreas Noback, Anja Gerber, Birte Rubach, Christian Bracht, Ina Blümel, Roger Winkler
