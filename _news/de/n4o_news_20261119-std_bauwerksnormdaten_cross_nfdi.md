@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_20261119-std_bauwerksnormdaten_cross_nfdi
+permalink: /news/n4o_news_20261119-std_bauwerksnormdaten_cross_nfdi/
 ---
 Wie lassen sich Vokabulare, Normdaten und Metadatenstandards für Bauwerke besser miteinander verknüpfen und für die Bedarfe der Community nutzbar machen?
 

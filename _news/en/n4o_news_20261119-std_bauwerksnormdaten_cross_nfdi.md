@@ -1,6 +1,6 @@
 ---
 layout: news
-lang: de
+lang: en
 translation_key: n4o_news_20261119-std_bauwerksnormdaten_cross_nfdi
 title: 'Save the Date | 2. Cross-NFDI-Event authority data on building structures relating to "vocabularies"'
 excerpt: '26–27 Januar 2027, Lunch to Lunch'
@@ -9,7 +9,7 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_20261119-std_bauwerksnormdaten_cross_nfdi
+permalink: en/news/n4o_news_20261119-std_bauwerksnormdaten_cross_nfdi/
 ---
 How can vocabularies, authority data and metadata standards for buildings be better linked and made usable for the community’s needs?  
 At the follow-up meeting, which will focus on ‘vocabularies’, we will discuss the requirements for the description and indexing of buildings together with representatives from various institutions and specialist communities. The focus will be on:
