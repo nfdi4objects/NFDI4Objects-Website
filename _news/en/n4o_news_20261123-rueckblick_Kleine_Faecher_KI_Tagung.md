@@ -45,15 +45,15 @@ Many thanks to Angela Berthold for the photographs!
 
 <div class="galerie" role="region" aria-label="Bildergalerie" tabindex="0">
   <figure>
-    <img src="bild1.jpg" alt="Alt-Text 1">
-    <figcaption>Beschriftung 1</figcaption>
+    <img src="/assets/images/news/IMG_3783.jpg" alt="Roll up der Veranstaltung">
+    <figcaption>Photo: Angela Berthold</figcaption>
   </figure>
   <figure>
-    <img src="bild2.jpg" alt="Alt-Text 2">
-    <figcaption>Beschriftung 2</figcaption>
+    <img src="/assets/images/news/dbaaf756-cb90-44d3-8c2c-8a225a7afdcc.jpg" alt="Diskussion zweier Personen vor einem Poster">
+    <figcaption>Photo: Angela Berthold</figcaption>
   </figure>
   <figure>
-    <img src="bild3.jpg" alt="Alt-Text 3">
-    <figcaption>Beschriftung 3</figcaption>
+    <img src="/assets/images/news/IMG_3788.jpg" alt="Nahaufnahme Poster">
+    <figcaption>Photo: Angela Berthold</figcaption>
   </figure>
 </div>
