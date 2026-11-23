@@ -26,6 +26,8 @@ permalink: /twgs/community-empfehlungen-zur-langzeitarchivierung/
 Der N4O-Community soll ein Dienst zur Verfügung gestellt werden, der langfristig relevante technische und inhaltliche Informationen zur Langzeitarchivierung sammelt und bereitstellt. Basis hierfür sind die IANUS IT-Empfehlungen. Sowohl die Einreichung von Inhalten und Aktualisierungen als auch die Qualitätssicherung und Entscheidung über eine Annahme wird durch die Community im Rahmen der in N4O üblichen Commons-Prozesse erfolgen. Hierfür sollen im Rahmen einer TWG zum einen zunächst die bestehenden IT/FDM-Empfehlungen evaluiert werden. Es sollen konkrete Bedarfe und Desiderate identifiziert und erste Aktualisierungen vorgenommen werden. Die vorhandenen Empfehlungen sollen entsprechend spezifiziert und durch die Community um fehlende Bereiche ergänzt werden. Bereiche, die in ihrer Natur eher Tutorials, How-Tos oder Lernmaterialien sind, werden in enger Abstimmung mit TA6 systematisch abgetrennt und in den Inhalten der OERs von TA6 aufgehen. Hierbei wird auch auf eine sinnvolle Abgrenzung zu anderen Informationsressourcen und -angeboten, insbesondere anderer Konsortien bzw. Basis-Diensten, geachtet werden.
 
 ---
+<br>
+
 **Weitere Informationen:** 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:20px 0;">
 <a href="https://www.listserv.dfn.de/sympa/info/lza-empfehlungen" style="
@@ -38,4 +40,3 @@ Der N4O-Community soll ein Dienst zur Verfügung gestellt werden, der langfristi
 "> Mailingliste
 </a>
 </div>
----

@@ -27,6 +27,8 @@ N4O. For this purpose, the existing IT/FDM recommendations are to be evaluated a
 accordingly and supplemented with missing areas by the community. Those sections that are more in the nature of tutorials, how-tos or learning materials will be systematically separated in close coordination with TA6 and incorporated into the content of TA6's OERs. Attention will also be paid to a sensible differentiation from other information resources and offers, in particular from other consortia or base services.
 
 ---
+<br>
+
 **Further information:** 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:20px 0;">
 <a href="https://www.listserv.dfn.de/sympa/info/lza-empfehlungen" style="
@@ -39,4 +41,3 @@ accordingly and supplemented with missing areas by the community. Those sections
 "> mailing list
 </a>
 </div>
----
