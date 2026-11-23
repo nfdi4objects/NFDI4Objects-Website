@@ -6,7 +6,7 @@ title: Community Empfehlungen zur Langzeitarchivierung
 identifier: TWG 2025.2
 status: active
 start_date: 2025-04-30 
-end_date: 2025-04-30 
+end_date: '' 
 type: n4o:Organization
 cochairs:
 - name: Juliane Watson
@@ -24,3 +24,18 @@ permalink: /twgs/community-empfehlungen-zur-langzeitarchivierung/
 ## Beschreibung
 
 Der N4O-Community soll ein Dienst zur Verfügung gestellt werden, der langfristig relevante technische und inhaltliche Informationen zur Langzeitarchivierung sammelt und bereitstellt. Basis hierfür sind die IANUS IT-Empfehlungen. Sowohl die Einreichung von Inhalten und Aktualisierungen als auch die Qualitätssicherung und Entscheidung über eine Annahme wird durch die Community im Rahmen der in N4O üblichen Commons-Prozesse erfolgen. Hierfür sollen im Rahmen einer TWG zum einen zunächst die bestehenden IT/FDM-Empfehlungen evaluiert werden. Es sollen konkrete Bedarfe und Desiderate identifiziert und erste Aktualisierungen vorgenommen werden. Die vorhandenen Empfehlungen sollen entsprechend spezifiziert und durch die Community um fehlende Bereiche ergänzt werden. Bereiche, die in ihrer Natur eher Tutorials, How-Tos oder Lernmaterialien sind, werden in enger Abstimmung mit TA6 systematisch abgetrennt und in den Inhalten der OERs von TA6 aufgehen. Hierbei wird auch auf eine sinnvolle Abgrenzung zu anderen Informationsressourcen und -angeboten, insbesondere anderer Konsortien bzw. Basis-Diensten, geachtet werden.
+
+---
+**Weitere Informationen:** 
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:20px 0;">
+<a href="https://www.listserv.dfn.de/sympa/info/lza-empfehlungen" style="
+  background: #0084ff;
+  color: white;
+  padding:10px 16px;
+  text-decoration: none;
+  border-radius:6px;
+  font-weight: bold;
+"> Mailingliste
+</a>
+</div>
+---
