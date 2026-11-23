@@ -9,9 +9,9 @@ areas:
 trails:
 ccs:
 twgs:
-permalink: /news/n4o_news_20261123-rueckblick_Kleine_Faecher_KI_Tagung/
+permalink: en/news/n4o_news_20261123-rueckblick_Kleine_Faecher_KI_Tagung/
 ---
-At the conference "Artificial Intelligence and the Future of Small Disciplines," hosted by the Academy of Sciences and Literature | Mainz, Wolfgang Bitter, Kristina Fischer, Lasse Mempel-Länger, Fokko Mittelstaedt, Florian Thiery, and Karsten Tolle presented their poster: "From Good Data to Trustworthy AI – How NFDI4Objects and 'AI in Museums' (KIM) Are Collaboratively Building a Foundation for Reliable AI in Archaeology."
+At the conference "Artificial Intelligence and the Future of Small Disciplines," hosted by the Academy of Sciences and Literature (Mainz), Wolfgang Bitter, Kristina Fischer, Lasse Mempel-Länger, Fokko Mittelstaedt, Florian Thiery, and Karsten Tolle presented their poster: "From Good Data to Trustworthy AI – How NFDI4Objects and 'AI in Museums' (KIM) Are Collaboratively Building a Foundation for Reliable AI in Archaeology."
 
 The conference highlighted the dynamic evolution of the field surrounding AI and its application within small disciplines such as archaeology. We look forward to future developments and continued exchange.
 
