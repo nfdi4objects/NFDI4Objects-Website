@@ -15,7 +15,7 @@ Bei der Tagung „Künstliche Intelligenz und die Zukunft kleiner Fächer“, ve
 
 Die Tagung zeigte, wie dynamisch sich das Feld rund um KI und ihren Einsatz in kleinen Fächern wie der Archäologie entwickelt. Wir freuen uns auf die weiteren Entwicklungen und den fortgesetzten Austausch.
 
-Vielen Dank an Angela Berthold für die Bilder!
+Vielen Dank an Angela Berthold für die Bilder! 
 
 <style>
 .galerie {

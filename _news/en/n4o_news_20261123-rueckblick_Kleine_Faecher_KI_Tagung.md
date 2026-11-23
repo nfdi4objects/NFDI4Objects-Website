@@ -15,7 +15,7 @@ At the conference "Artificial Intelligence and the Future of Small Disciplines,"
 
 The conference highlighted the dynamic evolution of the field surrounding AI and its application within small disciplines such as archaeology. We look forward to future developments and continued exchange.
 
-Many thanks to Angela Berthold for the photographs!
+Many thanks to Angela Berthold for the photographs! 
 
 <style>
 .galerie {
