@@ -35,6 +35,7 @@ Der Helpdesk bietet individuelle Unterstützung und Beratung zu Fragen des Forsc
     <option value="Research Funding">Forschungsförderung</option>
     <option value="Field Data">Grabungsdaten</option>
     <option value="Remote Sensing">Fernerkundung</option>
+    <option value="GIS">GIS</option>
     <option value="3D-Data">3D-Daten</option>
     <option value="Legacy Data">Altdaten</option>
     <option value="Collection Data">Sammlungsdaten</option>
