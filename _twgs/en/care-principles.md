@@ -9,10 +9,10 @@ start_date: 2026-01-16
 end_date: ''
 proposal_url: https://community.nfdi4objects.net/assemblies/TWG/f/4/proposals/47
 cochairs:
-- name: Tolin Jojo
-  person_ref: tolinjojo
-- name: Romy Köhler
-  person_ref: romyköhler
+- name: Angela Berthold
+  person_ref: angelaberthold
+- name: Anja Gerber
+  person_ref: ranjagerber
 areas:
 - ta7
 permalink: /en/twgs/care-principles/
