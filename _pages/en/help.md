@@ -34,6 +34,7 @@ The Helpdesk offers personalized support and advice on research data management 
     <option value="Research Funding">Research Funding</option>
     <option value="Field Data">Field Data</option>
     <option value="Remote Sensing">Remote Sensing</option>
+    <option value="GIS">GIS</option>
     <option value="3D-Data">3D-Data</option>
     <option value="Legacy Data">Legacy Data</option>
     <option value="Collection Data">Collection Data"</option>
